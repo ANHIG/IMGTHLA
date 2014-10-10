@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.example.org/ambig-aw" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.example.org/ambig-aw">
+  <xs:import namespace="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="xsi.xsd"/>
+  <xs:element name="ambiguityData">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="tns:releaseVersion"/>
+        <xs:element ref="tns:geneList"/>
+      </xs:sequence>
+      <xs:attribute ref="xsi:schemaLocation" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="releaseVersion">
+    <xs:complexType>
+      <xs:attribute name="currentRelease" use="required" type="xs:NMTOKEN"/>
+      <xs:attribute name="date" use="required" type="xs:NMTOKEN"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="geneList">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="tns:gene"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gene">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="tns:gGroupsList"/>
+        <xs:element ref="tns:removedAllelesList"/>
+        <xs:element ref="tns:incompleteAllelesList"/>
+        <xs:element ref="tns:ambigCombosList"/>
+      </xs:sequence>
+      <xs:attribute name="geneSystem" use="required" type="xs:NCName"/>
+      <xs:attribute name="name" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gGroupsList">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="tns:gGroup"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gGroup">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="tns:gGroupAllele"/>
+      </xs:sequence>
+      <xs:attribute name="gid" use="required" type="xs:NCName"/>
+      <xs:attribute name="name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gGroupAllele">
+    <xs:complexType>
+      <xs:attribute name="alleleid" use="required" type="xs:NCName"/>
+      <xs:attribute name="name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="removedAllelesList">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="tns:removedAllele"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="removedAllele">
+    <xs:complexType>
+      <xs:attribute name="alleleid" use="required" type="xs:NCName"/>
+      <xs:attribute name="name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="incompleteAllelesList">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="tns:incompleteAllele"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="incompleteAllele">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="tns:partialAllele"/>
+        <xs:element ref="tns:extensionAllele"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="partialAllele">
+    <xs:complexType>
+      <xs:attribute name="alleleid" use="required" type="xs:NCName"/>
+      <xs:attribute name="name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="extensionAllele">
+    <xs:complexType>
+      <xs:attribute name="alleleid" use="required" type="xs:NCName"/>
+      <xs:attribute name="name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ambigCombosList">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="tns:ambiguousComboGroup"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ambiguousComboGroup">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="tns:ambiguousComboElement"/>
+        <xs:element ref="tns:diploidsequence"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ambiguousComboElement">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="tns:ambigAllele1"/>
+        <xs:element ref="tns:ambigAllele2"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ambigAllele1">
+    <xs:complexType>
+      <xs:attribute name="alleleid" use="required" type="xs:NCName"/>
+      <xs:attribute name="name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ambigAllele2">
+    <xs:complexType>
+      <xs:attribute name="alleleid" use="required" type="xs:NCName"/>
+      <xs:attribute name="name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="diploidsequence">
+    <xs:complexType>
+      <xs:attribute name="ambigsequence" use="required"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
