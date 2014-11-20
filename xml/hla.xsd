@@ -33,6 +33,7 @@
     <xs:complexType>
       <xs:attribute name="class" use="required" type="xs:NCName"/>
       <xs:attribute name="genesystem" use="required" type="xs:NCName"/>
+    <xs:attribute name="hugogenename" use="required" type="xs:NCName"/>
       <xs:attribute name="locusname" use="required" type="xs:NCName"/>
     </xs:complexType>
   </xs:element>
