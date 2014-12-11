@@ -33,11 +33,17 @@
     <xs:complexType>
       <xs:attribute name="class" use="required" type="xs:NCName"/>
       <xs:attribute name="genesystem" use="required" type="xs:NCName"/>
-    <xs:attribute name="hugogenename" use="required" type="xs:NCName"/>
+      <xs:attribute name="hugogenename" use="required" type="xs:NCName"/>
       <xs:attribute name="locusname" use="required" type="xs:NCName"/>
     </xs:complexType>
   </xs:element>
-  <xs:element name="citations">
+  <xs:element name="cwd_catalogue">
+    <xs:complexType>
+      <xs:attribute name="cwd_status" use="required" type="xs:NCName"/>
+      <xs:attribute name="cwd_version" use="required" type="xs:NCName"/>
+      <xs:attribute name="cwd_reference" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>  <xs:element name="citations">
     <xs:complexType>
       <xs:sequence>
         <xs:element maxOccurs="unbounded" ref="citation"/>
