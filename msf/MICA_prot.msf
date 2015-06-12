@@ -1,9 +1,9 @@
 !!AA_MULTIPLE_ALIGNMENT
 
-   MSF: 389  Type: P  Jul 10, 2012  10:52  Check: 0 ..
+   MSF: 389  Type: P  Oct 11, 2012  16:44  Check: 0 ..
 
  Name: MICA*001         Len:   389  Check: 1197  Weight:  1.00
- Name: MICA*002:01      Len:   389  Check: 4637  Weight:  1.00
+ Name: MICA*002:01      Len:   388  Check: 9285  Weight:  1.00
  Name: MICA*002:02      Len:   389  Check: 7220  Weight:  1.00
  Name: MICA*002:03      Len:   389  Check: 1125  Weight:  1.00
  Name: MICA*002:04      Len:   389  Check: 1125  Weight:  1.00
@@ -24,7 +24,7 @@
  Name: MICA*010:01      Len:   389  Check: 1111  Weight:  1.00
  Name: MICA*010:02      Len:   389  Check: 3475  Weight:  1.00
  Name: MICA*011         Len:   389  Check: 1473  Weight:  1.00
- Name: MICA*012:01      Len:   389  Check: 3389  Weight:  1.00
+ Name: MICA*012:01      Len:   383  Check: 5350  Weight:  1.00
  Name: MICA*012:02      Len:   389  Check: 8737  Weight:  1.00
  Name: MICA*012:03      Len:   389  Check: 9289  Weight:  1.00
  Name: MICA*013         Len:   389  Check: 7458  Weight:  1.00
@@ -34,14 +34,14 @@
  Name: MICA*017         Len:   349  Check: 7518  Weight:  1.00
  Name: MICA*018:01      Len:   389  Check: 1886  Weight:  1.00
  Name: MICA*018:02      Len:   389  Check:  397  Weight:  1.00
- Name: MICA*019         Len:   389  Check: 3533  Weight:  1.00
+ Name: MICA*019         Len:   384  Check: 8054  Weight:  1.00
  Name: MICA*020         Len:   389  Check: 1885  Weight:  1.00
  Name: MICA*022         Len:   389  Check: 7691  Weight:  1.00
  Name: MICA*023         Len:   333  Check: 7557  Weight:  1.00
  Name: MICA*024         Len:   389  Check: 8045  Weight:  1.00
  Name: MICA*025         Len:   389  Check: 7798  Weight:  1.00
  Name: MICA*026         Len:   389  Check:  301  Weight:  1.00
- Name: MICA*027         Len:   389  Check: 9808  Weight:  1.00
+ Name: MICA*027         Len:   384  Check: 7730  Weight:  1.00
  Name: MICA*028         Len:   333  Check: 8385  Weight:  1.00
  Name: MICA*029         Len:   389  Check: 8289  Weight:  1.00
  Name: MICA*030         Len:   389  Check: 8824  Weight:  1.00
@@ -59,7 +59,7 @@
  Name: MICA*042         Len:   389  Check: 7811  Weight:  1.00
  Name: MICA*043         Len:   389  Check: 8333  Weight:  1.00
  Name: MICA*044         Len:   389  Check: 8021  Weight:  1.00
- Name: MICA*045         Len:   389  Check: 8400  Weight:  1.00
+ Name: MICA*045         Len:   383  Check: 3873  Weight:  1.00
  Name: MICA*046         Len:   389  Check: 1059  Weight:  1.00
  Name: MICA*047         Len:   389  Check: 8089  Weight:  1.00
  Name: MICA*048         Len:   389  Check: 3206  Weight:  1.00
@@ -89,7 +89,7 @@
 //
 
        MICA*001  MGLGPVFLLL AGIFPFAPPG AAAEPHSLRY NLTVLSWDGS VQSGFLTEVH
-    MICA*002:01  .......... .......... ....PHSLRY NLTVLSGDGS VQSGFLAEVH
+    MICA*002:01  MGLGPVFLLL AGIFPFAPPG AAAEPHSLRY NLTVLSGDGS VQSGFLAEVH
     MICA*002:02  .......... .......... ....PHSLRY NLTVLSGDGS VQSGFLAEVH
     MICA*002:03  .......... .......... ....PHSLRY NLTVLSGDGS VQSGFLAEVH
     MICA*002:04  .......... .......... ....PHSLRY NLTVLSGDGS VQSGFLAEVH
@@ -110,7 +110,7 @@
     MICA*010:01  MGLGPVFLLL AGIFPFAPPG AAAEPHSLPY NLTVLSWDGS VQSGFLAEVH
     MICA*010:02  .......... .......... ....PHSLPY NLTVLSWDGS VQSGFLAEVH
        MICA*011  .......... .......... ....PHSLRY NLTVLSGDGS VQSGFLAEVH
-    MICA*012:01  .......... .......... ....PHSLRY NLTVLSWDGS VQSGFLTEVH
+    MICA*012:01  MGLGPVFLLL AGIFPFAPPG AAAEPHSLRY NLTVLSWDGS VQSGFLTEVH
     MICA*012:02  .......... .......... ....PHSLRY NLTVLSWDGS VQSGFLTEVH
     MICA*012:03  .......... .......... ...EPHSLRY NLTVLSWDGS VQSGFLTEVH
        MICA*013  .......... .......... ....PHSLRY NLTVLSGDGS VQSGFLAEVH
@@ -120,14 +120,14 @@
        MICA*017  .......... .......... ....PHSLRY NLTVLSGDGS VQSGFLAEVH
     MICA*018:01  MGLGPVFLLL AGIFPFAPPG AAAEPHSLRY NLTVLSWDGS VQSGFLTEVH
     MICA*018:02  .......... .......... ...EPHSLRY NLTVLSWDGS VQSGFLTEVH
-       MICA*019  .......... .......... ....PHSLRY NLTVLSWDGS VQSGFLAEVH
+       MICA*019  MGLGPVFLLL AGIFPFAPPG AAAEPHSLRY NLTVLSWDGS VQSGFLAEVH
        MICA*020  .......... .......... ....PHSLRY NLTVLSGDGS VQSGFLAEVH
        MICA*022  .......... .......... ....PHSLRY NLTVLSGDGS VQSGFLAEVH
        MICA*023  .......... .......... ....PHSLRY NLTVLSGDGS VQSGFLAEVH
        MICA*024  .......... .......... ....PHSLRY NLTVLSWDGS VQSGFLAEVH
        MICA*025  .......... .......... ....PHSLPY NLTVLSWDGS VQSGFLAEVH
        MICA*026  .......... .......... ....PHSLRY NLTVLSWDGS VQSGFLAEVH
-       MICA*027  .......... .......... ....PHSLRY NLTVLSWDGS VQSGFLAEVH
+       MICA*027  MGLGPVFLLL AGIFPFAPPG AAAEPHSLRY NLTVLSWDGS VQSGFLAEVH
        MICA*028  .......... .......... ....PHSLRY NLTVLSWDGS VQSGFLAEVH
        MICA*029  .......... .......... ....PHSLRY NLTVLSWDGS VQSGFLAEVH
        MICA*030  .......... .......... ....PHSLRY NLTVLSGDGS VQSGFLAEVH
@@ -145,7 +145,7 @@
        MICA*042  .......... .......... ....PHSLRY NLTVLSWDGS VQSGFLAEVH
        MICA*043  .......... .......... ....PHSLRY NLTVLSWDGS VQSGFLAEVH
        MICA*044  .......... .......... ....PHSLRY NLTVLSGDGS VQSGFLAEVH
-       MICA*045  .......... .......... ....PHSLRY NLTVLSWDGS VQSGFLAEVH
+       MICA*045  MGLGPVFLLL AGIFPFAPPG AAAEPHSLRY NLTVLSWDGS VQSGFLAEVH
        MICA*046  .......... .......... ....PHSLRY NLTVLSGDGS VQSGFLAEVH
        MICA*047  .......... .......... ....PHSLRY NLTVLSGDGS VQSGFLAEGH
        MICA*048  .......... .......... ....PHSLRY NLTVLSWDGS VQSGFLAEVH
@@ -599,7 +599,7 @@
        MICA*071  QQWGDVLPDG NGTYQTWVAT RICQGEEQRF TCYMEHSGNH STHPVPSGKV
 
        MICA*001  LVLQSHWQTF HVSAVAAAA. .....IFVII IFYVRCCKKK TSAAEGPELV
-    MICA*002:01  LVLQSHWQTF HVSAVAAAAA AAAA.IFVII IFYVCCCKKK TSAAEGPELV
+    MICA*002:01  LVLQSHWQTF HVSAVAAAAA AAAAIFVIII FYVCCCKKKT SAAEGPELVS
     MICA*002:02  .......... .......... .......... .......... ..........
     MICA*002:03  LVLQSHWQTF HVSAVAAAAA AAAA.IFVII IFYVCCCKKK TSAAEGP...
     MICA*002:04  LVLQSHWQTF HVSAVAAAAA AAAA.IFVII IFYVCCCKKK TSAAEGP...
@@ -620,7 +620,7 @@
     MICA*010:01  LVLQSHWQTF HVSAVAAAAA .....IFVII IFYVRCCKKK TSAAEGPELV
     MICA*010:02  LVLQSHWQTF HVSAVAAAAA .....IFVII IFYVRCCKKK TSAAEGPELV
        MICA*011  LVLQSHWQTF HVSAVAAAAA A....IFVII IFYVCCCKKK TSAAEGPELV
-    MICA*012:01  LVLQSHWQTF HVSAVAAAA. .....IFVII IFYVRCCKKK TSAAEGPELV
+    MICA*012:01  LVLQSHWQTF HVSAVAAAAI FVIIIFYVRC CKKKTSAAEG PELVSLQVLD
     MICA*012:02  .......... .......... .......... .......... ..........
     MICA*012:03  .......... .......... .......... .......... ..........
        MICA*013  .......... .......... .......... .......... ..........
@@ -630,14 +630,14 @@
        MICA*017  WCFRVIGRHS MFLLLLLLLL LLLLFLLLLF STSVVVRRKH QLQRVQGSX
     MICA*018:01  LVLQSHWQTF HVSAVAAAA. .....IFVII IFYVRCCKKK TSAAEGPELV
     MICA*018:02  LVLQSHWQTF HVSAVAAAA. .....IFVII IFYVRCCKKK TSAAEGP...
-       MICA*019  LVLQSHWQTF HVSAVAAAAA .....IFVII IFYVRCCKKK TSAAEGPELV
+       MICA*019  LVLQSHWQTF HVSAVAAAAA IFVIIIFYVR CCKKKTSAAE GPELVSLQVL
        MICA*020  LVLQSHWQTF HVSAVAAAAA AAAAAIFVII IFYVCCCKKK TSAAEGP...
        MICA*022  .......... .......... .......... .......... ..........
        MICA*023  LVLQSHWQTF HVSAVAAGCC YFCYYYFLCP LLX
        MICA*024  .......... .......... .......... .......... ..........
        MICA*025  .......... .......... .......... .......... ..........
        MICA*026  LVLQSHWQTF HVSAVAAAAA A....IFVII IFYVRCCKKK TSAAEGP...
-       MICA*027  LVLQSHWQTF HVSAVAAAAA .....IFVII IFYVRCCKKK TSAAEGP...
+       MICA*027  LVLQSHWQTF HVSAVAAAAA IFVIIIFYVR CCKKKTSAAE GPELVSLQVL
        MICA*028  LVLQSHWQTF HVSAVAAGCC YFCYYYFLCP LLX
        MICA*029  LVLQSHWQTF HVSAVAAAA. .....IFVII IFYVRCCKKK TSAAEGP...
        MICA*030  LVLQSHWQTF HVSAVAAAAA A....IFVII IFYVCCCKKK TSAAEGP...
@@ -655,7 +655,7 @@
        MICA*042  .......... .......... .......... .......... ..........
        MICA*043  LVLQSHWQTF HVSAVAAAA. .....IFVII IFYVCCCKKK TSAAEGP...
        MICA*044  .......... .......... .......... .......... ..........
-       MICA*045  LVLQSHWQTF HVSAVAAAA. .....IFVII IFYVRCCKKK TSAAEGP...
+       MICA*045  LVLQSHWQTF HVSAVAAAAI FVIIIFYVRC CKKKTSAAEG PELVSLQVLD
        MICA*046  LVLQSHWQTF HVSAVAAAAA AAAA.IFVII IFYVCCCKKK TSAAEGP...
        MICA*047  LVLQSHWQTF HVSAVAAAAA A....IFVII IFYVCCCKKK TSAAEGP...
        MICA*048  LVLQSHWQTF HVSAVAAAAA .....IFVII IFYVRCCKKK TSAADGPELV
@@ -684,7 +684,7 @@
        MICA*071  LVLQSHWQTF HVSAVAAAAA AAAA.IFVII IFYVCCCKKK TSAAEGPELV
 
        MICA*001  SLQVLDQHPV GTSDHRDATQ LGFQPLMSDL GSTGSTEGA
-    MICA*002:01  SLQVLDQHPV GTSDHRDATQ LGFQPLMSDL GSTGSTEGA
+    MICA*002:01  LQVLDQHPVG TSDHRDATQL GFQPLMSDLG STGSTEGA
     MICA*002:02  .......... .......... .......... .........
     MICA*002:03  .......... .......... .......... .........
     MICA*002:04  .......... .......... .......... .........
@@ -705,7 +705,7 @@
     MICA*010:01  SLQVLDQHPV GTSDHRDATQ LGFQPLMSAL GSTGSTEGA
     MICA*010:02  SLQVLDQHPV GTSDHRDATQ LGFQPLMSAL GSTGSTEGA
        MICA*011  SLQVLDQHPV GTSDHRDATQ LGFQPLMSAL GSAGSTEGA
-    MICA*012:01  SLQVLDQHPV GTSDHRDATQ LGFQPLMSDL GSTGSTEGA
+    MICA*012:01  QHPVGTSDHR DATQLGFQPL MSDLGSTGST EGA
     MICA*012:02  .......... .......... .......... .........
     MICA*012:03  .......... .......... .......... .........
        MICA*013  .......... .......... .......... .........
@@ -715,14 +715,14 @@
 
     MICA*018:01  SLQVLDQHPV GTSDHRDATQ LGFQPLMSDL GSTGSTEGT
     MICA*018:02  .......... .......... .......... .........
-       MICA*019  SLQVLDQHPV GTSDHRDATQ LGFQPLMSAL GSTGSTEGA
+       MICA*019  DQHPVGTSDH RDATQLGFQP LMSALGSTGS TEGA
        MICA*020  .......... .......... .......... .........
        MICA*022  .......... .......... .......... .........
 
        MICA*024  .......... .......... .......... .........
        MICA*025  .......... .......... .......... .........
        MICA*026  .......... .......... .......... .........
-       MICA*027  .......... .......... .......... .........
+       MICA*027  DQHPVGTSDH RDATQLGFQP LMSALGSTGS TEGA
 
        MICA*029  .......... .......... .......... .........
        MICA*030  .......... .......... .......... .........
@@ -740,7 +740,7 @@
        MICA*042  .......... .......... .......... .........
        MICA*043  .......... .......... .......... .........
        MICA*044  .......... .......... .......... .........
-       MICA*045  .......... .......... .......... .........
+       MICA*045  QHPVGTSDHR DATQLGFQPL MSDLGSTGST EGA
        MICA*046  .......... .......... .......... .........
        MICA*047  .......... .......... .......... .........
        MICA*048  SLQVLDQHPV GTSDHRDATQ LGFQPLMSAL GSTGSTEGA
