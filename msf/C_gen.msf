@@ -1,6 +1,6 @@
 !!NA_MULTIPLE_ALIGNMENT
 
-   MSF: 3394  Type: N  Jan 10, 2011  11:57  Check: 0 ..
+   MSF: 3394  Type: N  Apr 06, 2011  13:28  Check: 0 ..
 
  Name: C*01:02:01       Len:  3394  Check: 6638  Weight:  1.00
  Name: C*01:02:11       Len:  3394  Check: 4938  Weight:  1.00
@@ -27,7 +27,7 @@
  Name: C*03:13          Len:  3394  Check: 6415  Weight:  1.00
  Name: C*03:20N         Len:  3394  Check: 9603  Weight:  1.00
  Name: C*03:40          Len:  3394  Check: 4194  Weight:  1.00
- Name: C*03:46          Len:  3394  Check: 6410  Weight:  1.00
+ Name: C*03:46          Len:  3394  Check: 2741  Weight:  1.00
  Name: C*03:61          Len:  3394  Check: 3404  Weight:  1.00
  Name: C*04:01:01:01    Len:  3394  Check: 6746  Weight:  1.00
  Name: C*04:01:01:02    Len:  3394  Check: 6838  Weight:  1.00
@@ -408,7 +408,7 @@
         C*03:13  .......... .......... .......... .......... ..........
        C*03:20N  TCCTGAATAC TCATGACGCG TCCCCAATTC CCACTCCCAT TGGGTGTCGG
         C*03:40  .......... .......... .......... .......... ..........
-        C*03:46  .......... .......... .......... .......... ..........
+        C*03:46  .......... .......... .......... ...CTCCCAT TGGGTGTCGG
         C*03:61  .......... .......... .......... .......... ..........
   C*04:01:01:01  TCCTGAATAC TCATGACGCG TCCCCAATTC CCACTCCCAT TGGGTGTCGG
   C*04:01:01:02  TCCTGAATAC TCATGACGCG TCCCCAATTC CCACTCCCAT TGGGTGTCGG
@@ -503,7 +503,7 @@
         C*03:13  .......... .......... .......... .......... ..........
        C*03:20N  ATTCTAGAGA AGCCAATCAG CGTCTCCGCA GTCCCGGTTC TGAAGTCCCC
         C*03:40  .......... .......... .......... .......... ..........
-        C*03:46  .......... .......... .......... .......... ..........
+        C*03:46  ATTCTAGAGA AGCCAATCAG CGTCTCCGCA GTCCCGGTTC TGAAGTCCCC
         C*03:61  .......... .......... .......... .......... ..........
   C*04:01:01:01  GTTCTAGAGA AGCCAATCAG CGTCTCCGCA GTCCCGGTTC TAAAGTCCCC
   C*04:01:01:02  GTTCTAGAGA AGCCAATCAG CGTCTCCGCA GTCCCGGTTC TAAAGTCCCC
@@ -598,7 +598,7 @@
         C*03:13  .......... .......... .......... .........A TGCGGGTCAT
        C*03:20N  AGTCACCCAC CCGGACTCAG ATTCTCCCCA GACGCCGAGA TGCGGGTCAT
         C*03:40  .......... .......... .......... .........A TGCGGGTCAT
-        C*03:46  .......... .......... .......... .......... ..........
+        C*03:46  AGTCACCCAC CCGGACTCAG ATTCTCCCCA GACGCCGAGA TGCGGGTCAT
         C*03:61  .......... .......... .......... .........A TGCGGGTCAT
   C*04:01:01:01  AGTCACCCAC CCGGACTCAG ATTCTCCCCA GACGCCGAGA TGCGGGTCAT
   C*04:01:01:02  AGTCACCCAC CCGGACTCAG ATTCTCCCCA GACGCCGAGA TGCGGGTCAT
@@ -693,7 +693,7 @@
         C*03:13  GGCGCCCCGA ACCCTCATCC TGCTGCTCTC GGGAGCCCTG GCCCTGACCG
        C*03:20N  GGCGCCCTGA ACCCTCATCC TGCTGCTCTC GGGAGCCCTG GCCCTGACCG
         C*03:40  GGCGCCCCGA ACCCTCATCC TGCTGCTCTC GGGAGCCCTG GCCCTGACCG
-        C*03:46  .......... .......... .......... .......... ..........
+        C*03:46  GGCGCCCCGA ACCCTCATCC TGCTGCTCTC GGGAGCCCTG GCCCTGACCG
         C*03:61  GGCGCCCCGA ACCCTCATCC TGCTGCTCTC GGGAGCCCTG GCCCTGACCG
   C*04:01:01:01  GGCGCCCCGA ACCCTCATCC TGCTGCTCTC GGGAGCCCTG GCCCTGACCG
   C*04:01:01:02  GGCGCCCCGA ACCCTCATCC TGCTGCTCTC GGGAGCCCTG GCCCTGACCG
@@ -788,7 +788,7 @@
         C*03:13  AGACCTGGGC CGGTGAGTGC GGGGTTGGGA GGGAATCGGC CTCTGCGGAG
        C*03:20N  AGACCTGGGC CGGTGAGTGC GGGGTTGGGA GGGAATCGGC CTCTGCGGAG
         C*03:40  AGACCTGGGC CGGTGAGTGC GGGGTTGGGA GGGAATCGGC CTCTGCGGAG
-        C*03:46  .......... ..GTGAGTGC GGGGTTGGGA GGGAATCGGC CTCTGCGGAG
+        C*03:46  AGACCTGGGC CGGTGAGTGC GGGGTTGGGA GGGAATCGGC CTCTGCGGAG
         C*03:61  AGACCTGGGC CGGTGAGTGC GGGGTTGGGA GGGAATCGGC CTCTGCGGAG
   C*04:01:01:01  AGACCTGGGC CGGTGAGTGC GGGGTTGGGA GGGAAACGGC CTCTGGGGAG
   C*04:01:01:02  AGACCTGGGC CGGTGAGTGC GGGGTTGGGA GGGAAACGGC CTCTGGGGAG
