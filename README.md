@@ -14,6 +14,14 @@ MSF files are also provided of the sequence alignments. The MSF files are
 suitable for use in the GeneDoc alignment program.
 
 --------------------------------------------------------------------------------
+ Previous Releases of the IPD-IMGT/HLA Database
+--------------------------------------------------------------------------------
+
+Previous releases are archived as a git repository and available at https://github.com/jrob119/IMGTHLA. This rep
+ository contains a branch for each database release and a Latest branch which contains the most recent files as 
+well as all compressed archives.
+
+--------------------------------------------------------------------------------
  CONTACTS
 --------------------------------------------------------------------------------
 
