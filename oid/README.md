@@ -4,9 +4,9 @@ The IMGT/HLA Database allows you to retrieve information upon a specific HLA all
 
 | OID Component            | Description                       |
 | 2.16.840.1.113883.13.252 | HL7 Registered Organisational OID |
-| .1|Gene System ID; . 1 for HLA|
-|.1|Resolution Level; i.e. 1 for allele level, 2 for antigen level [other resolutions are been investigated for example G-group designations, and may be added later]|
-| .1|Allele ID; The IMGT/HLA Database accession number with the HLA and leading zeroes removed. For example HLA-A*01:01:01:01 this would be 1, as the accession number is HLA00001|
+| .1 |Gene System ID; . 1 for HLA |
+| .1 |Resolution Level; i.e. 1 for allele level, 2 for antigen level [other resolutions are been investigated for example G-group designations, and may be added later] |
+| .1 |Allele ID; The IMGT/HLA Database accession number with the HLA and leading zeroes removed. For example HLA-A*01:01:01:01 this would be 1, as the accession number is HLA00001 |
 
 ### Example OIDs are listed below;
 
