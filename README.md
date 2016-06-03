@@ -17,9 +17,11 @@ suitable for use in the GeneDoc alignment program.
  Previous Releases of the IPD-IMGT/HLA Database
 --------------------------------------------------------------------------------
 
-Previous releases are archived as a git repository and available at https://github.com/jrob119/IMGTHLA. This rep
-ository contains a branch for each database release and a Latest branch which contains the most recent files as 
+Previous releases are archived as a git repository and available at https://github.com/ANHIG/IMGTHLA.
+This repository contains a branch for each database release and a Latest branch which contains the most recent files as 
 well as all compressed archives.
+
+This repository replaces the data previously found under https://github.com/jrob119/IMGTHLA, although the previous address will remain valid. 
 
 --------------------------------------------------------------------------------
  CONTACTS
