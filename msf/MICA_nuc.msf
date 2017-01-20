@@ -1,6 +1,6 @@
 !!NA_MULTIPLE_ALIGNMENT
 
-   MSF: 1171  Type: N  Oct 13, 2016  15:42  Check: 0 ..
+   MSF: 1171  Type: N  Jan 17, 2017  12:33  Check: 0 ..
 
  Name: MICA*001         Len:  1171  Check:  558  Weight:  1.00
  Name: MICA*002:01      Len:  1171  Check: 6347  Weight:  1.00
@@ -88,7 +88,7 @@
  Name: MICA*064N        Len:  1171  Check: 3229  Weight:  1.00
  Name: MICA*065         Len:  1171  Check: 3169  Weight:  1.00
  Name: MICA*066         Len:  1171  Check: 3063  Weight:  1.00
- Name: MICA*067         Len:  1171  Check: 7375  Weight:  1.00
+ Name: MICA*067         Len:  1171  Check: 8854  Weight:  1.00
  Name: MICA*068         Len:  1171  Check: 7448  Weight:  1.00
  Name: MICA*069         Len:  1171  Check: 4370  Weight:  1.00
  Name: MICA*070         Len:  1171  Check: 2530  Weight:  1.00
@@ -196,7 +196,7 @@
       MICA*064N  .......... .......... .......... .......... ..........
        MICA*065  .......... .......... .......... .......... ..........
        MICA*066  .......... .......... .......... .......... ..........
-       MICA*067  .......... .......... .......... .......... ..........
+       MICA*067  ATGGGGCTGG GCCCGGTCTT CCTGCTTCTG GCTGGCATCT TCCCTTTTGC
        MICA*068  .......... .......... .......... .......... ..........
        MICA*069  ATGGGGCTGG GCCCGGTCTT CCTGCTTCTG GCTGGCATCT TCCCTTTTGC
        MICA*070  ATGGGGCTGG GCCCGGTCTT TCTGCTTCTG GCTGGCATCT TCCCTTTTGC
@@ -303,7 +303,7 @@
       MICA*064N  .......... .......... AGCCCCACAG TCTTCGTTAT AACCTCACGG
        MICA*065  .......... .......... AGCCCCACAG TCTTCCTTAT AACCTCACGG
        MICA*066  .......... .......... AGCCCCACAG TCTTCCTTAT AACCTCACGG
-       MICA*067  .......... .......... AGCCCCACAG TCTTCGTTAT AACCTCACGG
+       MICA*067  ACCTCCGGGA GCTGCTGCTG AGCCCCACAG TCTTCGTTAT AACCTCACGG
        MICA*068  .......... .......... AGCCCCACAG TCTTCGTTAT AACCTCACGG
        MICA*069  ACCTCCGGGA GCTGCTGCTG AGCCCCACAG TCTTCCTTAT AACCTCACGG
        MICA*070  ACCTCCGGGA GCTGCTGCTG AGCCCCACAG TCTTCGTTAT AACCTCACGG
@@ -2336,7 +2336,7 @@
       MICA*064N  GTCCGTTGTT GTAAGAAGAA AACATCAGCT GCAGAGGGTC CAG.......
        MICA*065  GTCCGTTGTT GTAAGAAGAA AACATCAGCT GCAGAGGGTC CAG.......
        MICA*066  GTCCGTTGTT GTAAGAAGAA AACATCAGCT GCAGAGGGTC CAG.......
-       MICA*067  GTCCGTTGTT GTAAGAAGAA AACATCAGCT GCAGAGGGTC CAG.......
+       MICA*067  GTCCGTTGTT GTAAGAAGAA AACATCAGCT GCAGAGGGTC CAGAGCTCGT
        MICA*068  GTCTGTTGTT GTAAGAAGAA AACATCAGCT GCAGAGGGTC CAGAGCTCGT
        MICA*069  GTCCGTTGTT GTAAGAAGAA AACATCAGCT GCAGAGGGTC CAGAGCTCGT
        MICA*070  GTCCGTTGTT GTAAGAAGAA AACATCAGCT GCAGAGGGTC CAG.......
@@ -2443,7 +2443,7 @@
       MICA*064N  .......... .......... .......... .......... ..........
        MICA*065  .......... .......... .......... .......... ..........
        MICA*066  .......... .......... .......... .......... ..........
-       MICA*067  .......... .......... .......... .......... ..........
+       MICA*067  GAGCCTGCAG GTCCTGGATC AACACCCAGT TGGGACGAGT GACCACAGGG
        MICA*068  GAGCCTGCAG GTCCTGGATC AACACCCAGT TGGGACGAGT GACCACAGGG
        MICA*069  GAGCCTGCAG GTCCTGGATC AACACCCAGT TGGGACGAGT GACCACAGGG
        MICA*070  .......... .......... .......... .......... ..........
@@ -2550,7 +2550,7 @@
       MICA*064N  .......... .......... .......... .......... ..........
        MICA*065  .......... .......... .......... .......... ..........
        MICA*066  .......... .......... .......... .......... ..........
-       MICA*067  .......... .......... .......... .......... ..........
+       MICA*067  ATGCCACACA GCTCGGATTT CAGCCTCTGA TGTCAGCTCT TGGGTCCACT
        MICA*068  ATGCCACACA GCTCGGATTT CAGCCTCTGA TGTCAGATCT TGGGTCCACT
        MICA*069  ATGCCACACA GCTCGGATTT CAGCCTCTGA TGTCAGATCT TGGGTCCACT
        MICA*070  .......... .......... .......... .......... ..........
@@ -2657,7 +2657,7 @@
       MICA*064N  .......... .......... .
        MICA*065  .......... .......... .
        MICA*066  .......... .......... .
-       MICA*067  .......... .......... .
+       MICA*067  GGCTCCACTG AGGGCGCCTA G
        MICA*068  GGCTCCACTG AGGGCGCCTA G
        MICA*069  GGCTCCACTG AGGGCGCCTA G
        MICA*070  .......... .......... .

@@ -1,6 +1,3 @@
-IPD-IMGT/HLA
-============
-
 --------------------------------------------------------------------------------
  IPD-IMGT/HLA Database
 --------------------------------------------------------------------------------
@@ -12,16 +9,6 @@ directory also contains the HLA sequences in a number of formats. Files are
 provided for the nucleotide and protein sequences in either FASTA or PIR format.
 MSF files are also provided of the sequence alignments. The MSF files are
 suitable for use in the GeneDoc alignment program.
-
---------------------------------------------------------------------------------
- Previous Releases of the IPD-IMGT/HLA Database
---------------------------------------------------------------------------------
-
-Previous releases are archived as a git repository and available at https://github.com/ANHIG/IMGTHLA.
-This repository contains a branch for each database release and a Latest branch which contains the most recent files as 
-well as all compressed archives.
-
-This repository replaces the data previously found under https://github.com/jrob119/IMGTHLA, although the previous address will remain valid. 
 
 --------------------------------------------------------------------------------
  CONTACTS
@@ -45,9 +32,9 @@ This means that you are free to copy, distribute, display and make commercial
 use of the databases in all legislations, provided you give us credit by citing
 the following;
 
-Robinson J, Halliwell JA, Hayhurst JD, Flicek P, Parham P, Marsh SGE: 
-The IPD and IMGT/HLA database: allele variant databases.
-Nucleic Acids Research (2015) 43 Suppl 1:D423-31
+Robinson J, Halliwell JA, Hayhurst JH, Flicek P, Parham P, Marsh SGE:
+The IPD and IPD-IMGT/HLA Database: allele variant databases
+Nucleic Acids Research (2015), 43:D423-431
 
 Robinson J, Malik A, Parham P, Bodmer JG, Marsh SGE:
 IMGT/HLA - a sequence database for the human major histocompatibility complex

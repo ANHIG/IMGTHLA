@@ -8,9 +8,9 @@ This means that you are free to copy, distribute, display and make commercial
 use of the databases in all legislations, provided you give us credit by citing
 the following;
 
-Robinson J, Halliwell JA, Hayhurst JD, Flicek P, Parham P, Marsh SGE: 
-The IPD and IMGT/HLA database: allele variant databases.
-Nucleic Acids Research (2015) 43 Suppl 1:D423-31
+Robinson J, Halliwell JA, Hayhurst JH, Flicek P, Parham P, Marsh SGE:
+The IPD and IPD-IPD-IMGT/HLA Database: allele variant databases
+Nucleic Acids Research (2015), 43:D423-431
 
 Robinson J, Malik A, Parham P, Bodmer JG, Marsh SGE:
 IMGT/HLA - a sequence database for the human major histocompatibility complex
