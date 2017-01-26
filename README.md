@@ -40,7 +40,7 @@ Robinson J, Malik A, Parham P, Bodmer JG, Marsh SGE:
 IMGT/HLA - a sequence database for the human major histocompatibility complex
 Tissue Antigens (2000), 55:280-287
 
-We are stongly opposed to the mirroring of the data contained on our sites, both
+We are strongly opposed to the mirroring of the data contained on our sites, both
 hla.alleles.org and the IPD-IMGT/HLA Database, and would ask that rather than mirror
 the information, appropriate links are provided where applicable.
 
