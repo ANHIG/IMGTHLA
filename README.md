@@ -16,7 +16,7 @@ Files designated “X_prot.txt”, where X is a locus or gene, contain protein s
 
 Files designated “X_nuc.txt”, where X is a locus or gene, contain the nucleotide coding sequences (CDS). Please note that alleles that contain non-coding variations may be identical at the CDS level.
 
-Files designated “X_gen.txt”, where X is a locus or gene, contain genomic DNA sequences. Please note for alleles that do not possess genomic sequences, or where there is only a single genomic sequence at the locus, a file will not be produced.  
+Files designated “X_gen.txt”, where X is a locus or gene, contain genomic DNA sequences. Please note that for alleles that do not possess genomic sequences there will be no entry in the file, or where there is only a single genomic sequence at the locus, a file will not be produced.  
 
 For further information on the construction of these text files, please refer to the description available here: http://www.ebi.ac.uk/ipd/imgt/hla/nomenclature/alignments.html
 
