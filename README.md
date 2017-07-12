@@ -16,7 +16,7 @@ Files designated “X_prot.txt”, where X is a locus or gene, contain protein s
 
 Files designated “X_nuc.txt”, where X is a locus or gene, contain the nucleotide coding sequences (CDS). Please note that alleles that contain non-coding variations may be identical at the CDS level.
 
-Files designated “X_gen.txt”, where X is a locus or gene, contain genomic DNA sequences. Please note for alleles that do not possess genomic sequences, there will be no entry in the file.  
+Files designated “X_gen.txt”, where X is a locus or gene, contain genomic DNA sequences. Please note that for alleles that do not possess genomic sequences there will be no entry in the file, or where there is only a single genomic sequence at the locus, a file will not be produced.  
 
 For further information on the construction of these text files, please refer to the description available here: http://www.ebi.ac.uk/ipd/imgt/hla/nomenclature/alignments.html
 
@@ -71,7 +71,7 @@ Please refer to the relevant XSD file for information regarding the XML files, w
 The top-level directory contains the following lists; 
 
 * Alignments_Rel_XXXX.zip - a compressed archive of the alignments folder, where the XXXX in the file denotes a particular release.
-* Allele_status.txt - a csv file detailing for each allele how many times it has been submitted, from how many cells, the unconfirmed/confirmed status of the allele and if the CDS is fully sequenced.
+* Allele_status.txt - a csv file detailing for each allele how many times it has been submitted, from how many cells, the unconfirmed/confirmed status of the allele, if the CDS is fully sequenced and if the allele is cDNa or gDNA sequence.
 * Allelelist.txt and Allelelist.XXXX.txt - a csv file listed all alleles named at the time of the release, the XXXX in the file denotes a particular release. Allelelist.txt is a copy of the latest version.
 * Allele_history.txt - a csv file detailing for each allele the official name used in each release of the database. 
 * Deleted_alleles.txt - a csv file detailing all deleted allele names, with reasons for the deletion. This list also includes details of any suffix changes. 
