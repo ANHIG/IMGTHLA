@@ -71,7 +71,7 @@ Please refer to the relevant XSD file for information regarding the XML files, w
 The top-level directory contains the following lists; 
 
 * Alignments_Rel_XXXX.zip - a compressed archive of the alignments folder, where the XXXX in the file denotes a particular release.
-* Allele_status.txt - a csv file detailing for each allele how many times it has been submitted, from how many cells, the unconfirmed/confirmed status of the allele and if the CDS is fully sequenced.
+* Allele_status.txt - a csv file detailing for each allele how many times it has been submitted, from how many cells, the unconfirmed/confirmed status of the allele, if the CDS is fully sequenced and if the allele is cDNa or gDNA sequence.
 * Allelelist.txt and Allelelist.XXXX.txt - a csv file listed all alleles named at the time of the release, the XXXX in the file denotes a particular release. Allelelist.txt is a copy of the latest version.
 * Allele_history.txt - a csv file detailing for each allele the official name used in each release of the database. 
 * Deleted_alleles.txt - a csv file detailing all deleted allele names, with reasons for the deletion. This list also includes details of any suffix changes. 
