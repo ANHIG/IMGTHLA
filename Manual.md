@@ -1,10 +1,14 @@
+--------------------------------------------------------------------------------
 IPD-IMGT/HLA HLA.dat User Manual
+--------------------------------------------------------------------------------
 
 This document describes the format and conventions used in the IPD-IMGT/HLA flat files. These files are included in the ftp directory on the EBI website. The formatting of the flat files and documentation below is based on guidelines provided by the EMBL Nucleotide User Manual.
 
 The IPD-IMGT/HLA Database is composed of sequence entries. Each entry corresponds to a single contiguous sequence as contributed or reported in the literature. In some cases, entries have been assembled from several papers reporting overlapping sequence regions. Conversely a single paper often provides data for several entries.
 
+--------------------------------------------------------------------------------
 Structure of an Entry
+--------------------------------------------------------------------------------
 
 The entries in the database are structured so as to be usable by human readers as well as by computer programs. The explanations, descriptions, classifications and other comments are in ordinary English, and the symbols and formatting employed for the base sequences themselves have been chosen for readability. Wherever possible, symbols familiar to molecular biologists have been used. At the same time, the structure is systematic enough to allow computer programs easily to read, identify, and manipulate the various types of data included.
 
@@ -231,7 +235,8 @@ SQ   Sequence 3554 BP; 670 A; 1013 C; 1072 G; 756 T; 43 other;
      ggggctgagg tgtctccatc tctgtctcaa cttcatggtg cactgagctg taacttcttc      3540
      cttccctatt aaaa                                                        3554
 //
-The ID Line
+
+### The ID Line
 
 The ID (IDentification) line is always the first line of an entry. The general form of the ID line is:
 
@@ -249,7 +254,8 @@ Sequence length: The last item on the ID line is the length of the sequence (the
 An example of a complete identification line is shown below:
 
 ID   HLA00001    standard; DNA; HUM; 3554 BP.
-The AC Line
+
+### The AC Line
 
 The AC (ACcession number) line lists the accession number associated with the entry. An example of an accession number line is shown below:
 
@@ -258,19 +264,21 @@ Each accession number is terminated by a semicolon. Accession numbers are the pr
 
 An accession number is dropped from the database only when the data to which it was assigned have been completely removed from the database.
 
-The DT Line
+### The DT Line
 
 The DT lines list when the allele was first assigned an official name. This corresponds to a date in the previous HLA DB. The DT lines also record the latest updates to an allele. There are two kinds of update, sequence and annotation. The DT line records when each of these was last updated and is displayed as follows: :
 
 DT   DD-MON-YYYY (Rel. #, Created, Version #)
 DT   DD-MON-YYYY (Rel. #, Sequence Updated, Version #)
 DT   DD-MON-YYYY (Rel. #, Current Release, Version #)
-The DE Line
+
+### The DE Line
 
 The DE (Description) lines contain general descriptive information about the sequence stored. This may include the designations of genes for which the sequence codes, the region of the genome from which it is derived, or other information which helps to identify the sequence. This is derived from the EMBL description line, but a standard format is used for all entries. The format for a DE line is:
 
 DE   description
-The KW Line
+
+### The KW Line
 
 The KW (KeyWord) lines provide information which can be used to generate cross-reference indexes of the sequence entries based on functional, structural, or other categories deemed important. The keywords chosen for each entry serve as a subject reference for the sequence. The IPD-IMGT/HLA keywords include;
 
@@ -282,7 +290,8 @@ Allele
 The format for a kW line is:
 
      KW   keyword[; keyword ...].
-The OS and OC Lines
+
+### The OS and OC Lines
 
 The OS and OC lines are set for all entries. The database currently contains only human sequences and so these lines are preset. The format of the OS and OC line is:
 
