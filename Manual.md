@@ -16,31 +16,32 @@ Each entry in the database is composed of lines. Different types of lines, each 
 
 Note that each line begins with a two-character line code, which indicates the type of information contained in the line. The currently used line types, along with their respective line codes, are listed below:
 
-ID - identification (begins each entry; 1 per entry)
-AC - accession number (1 per entry)
-DT - date (3 per entry)
-DE - description (>=1 per entry)
-KW - keyword (>=1 per entry)
-OS - organism species (1 per entry)
-OC - organism classification (1 per entry)
-RN - reference number (>=1 per entry)
-RC - reference comment (>=0 per entry)
-RP - reference positions (>=1 per entry)
-RX - reference cross-reference (>=0 per entry)
-RA - reference author(s) (>=1 per entry)
-RT - reference title (>=1 per entry)
-RL - reference location (>=1 per entry)
-DR - database cross-reference (>=1 per entry)
-FH - feature table header (>=1 per entry)
-FT - feature table data (>=0 per entry)
-CC - comments or notes (1 per entry)
-XX - spacer line (many per entry)
-SQ - sequence header (1 per entry)
-bb - (blanks) sequence data (>=1 per entry)
-// - termination line (ends each entry; 1 per entry)
+* ID - identification (begins each entry; 1 per entry)
+* AC - accession number (1 per entry)
+* DT - date (3 per entry)
+* DE - description (>=1 per entry)
+* KW - keyword (>=1 per entry)
+* OS - organism species (1 per entry)
+* OC - organism classification (1 per entry)
+* RN - reference number (>=1 per entry)
+* RC - reference comment (>=0 per entry)
+* RP - reference positions (>=1 per entry)
+* RX - reference cross-reference (>=0 per entry)
+* RA - reference author(s) (>=1 per entry)
+* RT - reference title (>=1 per entry)
+* RL - reference location (>=1 per entry)
+* DR - database cross-reference (>=1 per entry)
+* FH - feature table header (>=1 per entry)
+* FT - feature table data (>=0 per entry)
+* CC - comments or notes (1 per entry)
+* XX - spacer line (many per entry)
+* SQ - sequence header (1 per entry)
+* bb - (blanks) sequence data (>=1 per entry)
+* // - termination line (ends each entry; 1 per entry)
+
 A sample entry is shown below:
 
-ID   HLA00001   standard; DNA; HUM; 3554 BP.
+```ID   HLA00001   standard; DNA; HUM; 3554 BP.
 XX
 AC   HLA00001;
 XX
@@ -234,7 +235,7 @@ SQ   Sequence 3554 BP; 670 A; 1013 C; 1072 G; 756 T; 43 other;
      accctcttcc cacgctgacc tgtgctccct ctccaatcat ctttcctgtt ccagagaggt      3480
      ggggctgagg tgtctccatc tctgtctcaa cttcatggtg cactgagctg taacttcttc      3540
      cttccctatt aaaa                                                        3554
-//
+//```
 
 ### The ID Line
 
