@@ -272,7 +272,8 @@ The DT lines list when the allele was first assigned an official name. This corr
 
 ```DT   DD-MON-YYYY (Rel. #, Created, Version #)
 DT   DD-MON-YYYY (Rel. #, Sequence Updated, Version #)
-DT   DD-MON-YYYY (Rel. #, Current Release, Version #)```
+DT   DD-MON-YYYY (Rel. #, Current Release, Version #)
+```
 
 ### The DE Line
 
@@ -291,7 +292,8 @@ Locus
 Allele
 The format for a kW line is:
 
-     KW   keyword[; keyword ...].
+```     KW   keyword[; keyword ...].
+```
 
 ### The OS and OC Lines
 
@@ -299,7 +301,8 @@ The OS and OC lines are set for all entries. The database currently contains onl
 
 ```OS   Homo Sapiens (human)
      OC   Eukaryota; Metazoa; Chordata; Vertebrata; Mammalia; Eutheria; Primates;
-     OC   Catarrhini; Hominidae; Homo.```
+     OC   Catarrhini; Hominidae; Homo.
+```
      
 ### The Reference Lines (RN, RP, RX, RA, RT, RL)
 
@@ -311,7 +314,8 @@ RX   PUBMED; 3375250.
 RA   Parham P, Lomen CE, Lawlor DA, Ways JP, Holmes N, Coppin HL, Salter RD,
 RA   Wan AM, Ennis PD;
 RT   "Nature of polymorphism in HLA-A, -B, and -C molecules";
-RL   PNAS USA 85:4005-4009(1988).```
+RL   PNAS USA 85:4005-4009(1988).
+```
 
 The RN (Reference Number) line gives a unique number to each reference Citation within an entry. The reference number is always enclosed in square brackets.
 
@@ -343,7 +347,8 @@ The feature table contains information about genes and gene products, as well as
 The first two lines of the feature table in the IPD-IMGT/HLA entries are feature header (FH) lines, specific to the EMBL flat file format. The FH (Feature Header) lines are present only to improve readability of an entry when it is printed or displayed on a terminal screen. The lines contain no data and may be ignored by computer programs. The format of these lines is always the same:
 
 ```FH   Key             Location/Qualifiers
-FH```
+FH
+```
 
 The first line provides column headings for the feature table, and the second line serves as a spacer. If an entry contains no feature table (i.e. no FT lines - see below), the FH lines will not appear.
 
