@@ -233,7 +233,8 @@ SQ   Sequence 3554 BP; 670 A; 1013 C; 1072 G; 756 T; 43 other;
      accctcttcc cacgctgacc tgtgctccct ctccaatcat ctttcctgtt ccagagaggt      3480
      ggggctgagg tgtctccatc tctgtctcaa cttcatggtg cactgagctg taacttcttc      3540
      cttccctatt aaaa                                                        3554
-//```
+//
+```
 
 ### The ID Line
 
