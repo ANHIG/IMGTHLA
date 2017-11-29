@@ -292,7 +292,7 @@ Locus
 Allele
 The format for a kW line is:
 
-```     KW   keyword[; keyword ...].
+```KW   keyword[; keyword ...].
 ```
 
 ### The OS and OC Lines
@@ -300,8 +300,8 @@ The format for a kW line is:
 The OS and OC lines are set for all entries. The database currently contains only human sequences and so these lines are preset. The format of the OS and OC line is:
 
 ```OS   Homo Sapiens (human)
-     OC   Eukaryota; Metazoa; Chordata; Vertebrata; Mammalia; Eutheria; Primates;
-     OC   Catarrhini; Hominidae; Homo.
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Mammalia; Eutheria; Primates;
+OC   Catarrhini; Hominidae; Homo.
 ```
      
 ### The Reference Lines (RN, RP, RX, RA, RT, RL)
@@ -346,7 +346,8 @@ The feature table contains information about genes and gene products, as well as
 
 The first two lines of the feature table in the IPD-IMGT/HLA entries are feature header (FH) lines, specific to the EMBL flat file format. The FH (Feature Header) lines are present only to improve readability of an entry when it is printed or displayed on a terminal screen. The lines contain no data and may be ignored by computer programs. The format of these lines is always the same:
 
-```FH   Key             Location/Qualifiers
+```
+FH   Key             Location/Qualifiers
 FH
 ```
 
@@ -368,16 +369,16 @@ The qualifiers can convey many types of information. Text qualifier values are e
 
 The first release of the IPD-IMGT/HLA Database used only those qualifiers found in the EMBL feature qualifier definitions. These qualifiers are still used until additional specific qualifiers for the IPD-IMGT/HLA Database are implemented. The first release of the IPD-IMGT/HLA Database using the following feature qualifiers;
 
-* organism	The scientific name of the organism that provided the sequenced genetic material, in all cases this is listed as Homo sapiens (human)
-* cell_line	Cell line from which the sequence was obtained. The primary name given to the cell in accompanying HLA cell database.
-ethnic	Possible ethnic origin of the cells sequenced for this allele. This qualifier is devised from only the sequenced cells available.
+* organism - The scientific name of the organism that provided the sequenced genetic material, in all cases this is listed as Homo sapiens (human)
+* cell_line - Cell line from which the sequence was obtained. The primary name given to the cell in accompanying HLA cell database.
+* ethnic - Possible ethnic origin of the cells sequenced for this allele. This qualifier is devised from only the sequenced cells available.
 * codon_start	Indicates the offset at which the first complete codon of a coding feature can be found, relative to the first base of that feature
-* product	A general description of the gene product.
-* partial	Differentiates between complete and partial region.
-* pseudo	Used to mark up sequence that maps to an exon but is not expressed in the CDS
-* translation	Translation provides a protein translation of the nucleotide sequence.
-* number	A number to indicate the order of genetic elements (e.g., exons or introns) in the 5' to 3' direction.
-* note	General qualifier for text descriptions, contains any comments or additional information
+* product - A general description of the gene product.
+* partial - Differentiates between complete and partial region.
+* pseudo - Used to mark up sequence that maps to an exon but is not expressed in the CDS
+* translation - Translation provides a protein translation of the nucleotide sequence.
+* number - A number to indicate the order of genetic elements (e.g., exons or introns) in the 5' to 3' direction.
+* note - General qualifier for text descriptions, contains any comments or additional information
 
 ### The SQ Line
 
