@@ -46,24 +46,26 @@ XX
 SV   HLA00001.1
 XX
 DT   01-AUG-1989 (Rel. 1.0.0, Created, Version 1)
-DT   16-DEC-1998 (Rel. 1.0.0, Sequence Updated, Version 1)
-DT   15-JAN-2010 (Rel. 3.00.0, Current Release, Version 1)
+DT   10-NOV-2017 (Rel. 3.30.0, Last Updated, Version 1)
 XX
 DE   HLA-A*01:01:01:01, Human MHC Class I sequence
 XX
-KW   Human MHC; HLA; Class I; HLA-A; Allele; A*01:01:01:01;
+KW   Human MHC; HLA; Class I; HLA-A; Allele; HLA-A*01:01:01:01;
 XX
 OS   Homo Sapiens (human)
 OC   Eukaryota; Metazoa; Chordata; Vertebrata; Mammalia; Eutheria; Primates;
 OC   Catarrhini; Hominidae; Homo.
 XX
 CC   --------------------------------------------------------------------------
-CC   Copyrighted by the IPD-IMGT/HLA Database, see http://hla.alleles.org/terms
-CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   IPD-IMGT/HLA Release Version 3.30.0
+CC   --------------------------------------------------------------------------
+CC   Copyrighted by the IPD-IMGT/HLA Database, Distributed under the Creative
+CC   Commons Attribution-NoDerivs License, see;
+CC   http://www.ebi.ac.uk/ipd/imgt/hla/licence.html for further details.
 CC   --------------------------------------------------------------------------
 XX
 RN   [1]
-RP   1-3554
+RP   1-3503
 RX   PUBMED; 3375250.
 RA   Parham P, Lomen CE, Lawlor DA, Ways JP, Holmes N, Coppin HL, Salter RD,
 RA   Wan AM, Ennis PD;
@@ -71,14 +73,14 @@ RT   "Nature of polymorphism in HLA-A, -B, and -C molecules";
 RL   Proc Natl Acad Sci U S A 85:4005-9(1988).
 XX
 RN   [2]
-RP   1-3554
+RP   1-3503
 RX   PUBMED; 2251137.
 RA   Girdlestone J;
 RT   "Nucleotide sequence of an HLA-A1 gene";
 RL   Nucleic Acids Res 18:6701-6701(1990).
 XX
 RN   [3]
-RP   1-3554
+RP   1-3503
 RX   PUBMED; 9349617.
 RA   Laforet M, Froelich N, Parissiadis A, Pfeiffer B, Schell A, Faller B,
 RA   Woehl-Jaegle ML, Cazenave JP, Tongio MM;
@@ -87,7 +89,7 @@ RT   expression of an HLA-A*01 allele";
 RL   Tissue Antigens 50:347-50(1997).
 XX
 RN   [4]
-RP   1-3554
+RP   1-3503
 RX   PUBMED; 15140828.
 RA   Stewart CA, Horton R, Allcock RJ, Ashurst JL, Atrazhev AM, Coggill P,
 RA   Dunham I, Forbes S, Halls K, Howson JM, Humphray SJ, Hunt S, Mungall AJ,
@@ -97,16 +99,35 @@ RT   "Complete MHC haplotype sequencing for common disease gene mapping";
 RL   Genome Res 14:1176-87(2004).
 XX
 RN   [5]
-RP   1-3554
+RP   1-3503
+RX   PUBMED; 18193213.
+RA   Horton R, Gibson R, Coggill P, Miretti M, Allcok RJ, Almeida J, Forbes S,
+RA   Gilbert JGR, Halls K, Harrow JL, Hart E, Howe K, Jackson DK, Palmer S,
+RA   Roberts AN, Sims S, Stewart CA, Traherne JA, Trevanion S, Wilming L, Rogers
+RA   J, de Jong PJ, Elliott JF, Sawcer S, Todd JA, Trowsdale J, Beck S;
+RT   "Variation analysis and gene annotation of eight MHC haplotypes: The MHC
+RT   Haplotype Project";
+RL   Immunogenetics 60:1-18(2008).
+XX
+RN   [6]
+RP   1-3503
 RX   PUBMED; 19735485.
 RA   Zhu F, He Y, Zhang W, He J, He J, Xu X, Yan L;
 RT   "Analysis of the complete genomic sequence of HLA-A alleles in the Chinese
 RT   Han population.";
-RL   Int. J. Immunogenetics 36:351-360(2009).
+RL   Int J Immunogenet 36:351-360(2009).
+XX
+RN   [7]
+RP   1-3503
+RX   PUBMED; 24673518.
+RA   Lu L, Xu YP;
+RT   "Genomic full-length sequence of two HLA-A alleles, A*01:01:01:01 and
+RT   A*01:03, identified by cloning and sequencing.";
+RL   Tissue Antigens 83:423-424(2014).
 XX
 CC   --------------------------------------------------------------------------
-CC   The sequence below is the official sequence for A*01:01:01:01, as
-CC   approved by the WHO Nomenclature Committee for Factors of the HLA System.
+CC   The sequence below is the official allele sequence as approved by the
+CC   WHO Nomenclature Committee for Factors of the HLA System.
 CC   Any cross references may differ from the sequence shown below.
 CC   --------------------------------------------------------------------------
 XX
@@ -114,127 +135,131 @@ DR   EMBL; AJ278305; AJ278305.1.
 DR   EMBL; AL645935; AL645935.0.
 DR   EMBL; CR759913; CR759913.0.
 DR   EMBL; EU445470; EU445470.0.
+DR   EMBL; GU812295; GU812295.0.
+DR   EMBL; HG794373; HG794373.0.
 DR   EMBL; M24043; M24043.1.
 DR   EMBL; X55710; X55710.1.
 DR   EMBL; Z93949; Z93949.1.
 XX
 FH   Key             Location/Qualifiers
 FH
-FT   source          1..3554
+FT   source          1..3503
 FT                   /organism="Homo sapiens"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:9606"
 FT                   /ethnic="Oriental, Caucasoid"
+FT                   /cell_line="7550800303"
 FT                   /cell_line="APD"
 FT                   /cell_line="B4702"
 FT                   /cell_line="COX"
 FT                   /cell_line="LCL721"
 FT                   /cell_line="MOLT-4"
 FT                   /cell_line="PP"
-FT   CDS             join(352..424,555..824,1066..1341,1921..2196,2299..2415,
-FT                   2858..2890,3033..3080,3250..3254)
+FT   CDS             join(301..373,504..773,1015..1290,1870..2145,2248..2364,
+FT                   2807..2839,2982..3029,3199..3203)
 FT                   /codon_start=1
 FT                   /gene="HLA-A"
 FT                   /allele="HLA-A*01:01:01:01"
 FT                   /product="MHC Class I HLA-A*01:01:01:01 sequence"
-FT                   /translation=MAVMAPRTLLLLLSGALALTQTWAGSHSMRYFFTSVSRPGRGEPRF
-FT                   IAVGYVDDTQFVRFDSDAASQKMEPRAPWIEQEGPEYWDQETRNMKAHSQTDRANLGTL
-FT                   RGYYNQSEDGSHTIQIMYGCDVGPDGRFLRGYRQDAYDGKDYIALNEDLRSWTAADMAA
-FT                   QITKRKWEAVHAAEQRRVYLEGRCVDGLRRYLENGKETLQRTDPPKTHMTHHPISDHEA
-FT                   TLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYT
-FT                   CHVQHEGLPKPLTLRWELSSQPTIPIVGIIAGLVLLGAVITGAVVAAVMWRRKSSDRKG
-FT                   GSYTQAASSDSAQGSDVSLTACKV
-FT   UTR             1..351
-FT   exon            352..424
+FT                   /translation="MAVMAPRTLLLLLSGALALTQTWAGSHSMRYFFTSVSRPGRGEPR
+FT                   FIAVGYVDDTQFVRFDSDAASQKMEPRAPWIEQEGPEYWDQETRNMKAHSQTDRANLGT
+FT                   LRGYYNQSEDGSHTIQIMYGCDVGPDGRFLRGYRQDAYDGKDYIALNEDLRSWTAADMA
+FT                   AQITKRKWEAVHAAEQRRVYLEGRCVDGLRRYLENGKETLQRTDPPKTHMTHHPISDHE
+FT                   ATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRY
+FT                   TCHVQHEGLPKPLTLRWELSSQPTIPIVGIIAGLVLLGAVITGAVVAAVMWRRKSSDRK
+FT                   GGSYTQAASSDSAQGSDVSLTACKV"
+FT   UTR             1..300
+FT   exon            301..373
 FT                   /number="1"
-FT   intron          425..554
+FT   intron          374..503
 FT                   /number="1"
-FT   exon            555..824
+FT   exon            504..773
 FT                   /number="2"
-FT   intron          825..1065
+FT   intron          774..1014
 FT                   /number="2"
-FT   exon            1066..1341
+FT   exon            1015..1290
 FT                   /number="3"
-FT   intron          1342..1920
+FT   intron          1291..1869
 FT                   /number="3"
-FT   exon            1921..2196
+FT   exon            1870..2145
 FT                   /number="4"
-FT   intron          2197..2298
+FT   intron          2146..2247
 FT                   /number="4"
-FT   exon            2299..2415
+FT   exon            2248..2364
 FT                   /number="5"
-FT   intron          2416..2857
+FT   intron          2365..2806
 FT                   /number="5"
-FT   exon            2858..2890
+FT   exon            2807..2839
 FT                   /number="6"
-FT   intron          2891..3032
+FT   intron          2840..2981
 FT                   /number="6"
-FT   exon            3033..3080
+FT   exon            2982..3029
 FT                   /number="7"
-FT   intron          3081..3249
+FT   intron          3030..3198
 FT                   /number="7"
-FT   exon            3250..3254
+FT   exon            3199..3203
 FT                   /number="8"
-FT   UTR             3255..3554
-SQ   Sequence 3554 BP; 670 A; 1013 C; 1072 G; 756 T; 43 other;
-     /alignment _libraries /libs/agen omiclib:a_ 01:01:01:0 1caggagcag        60
-     aggggtcagg gcgaagtccc agggccccag gcgtggctct cagggtctca ggccccgaag       120
-     gcggtgtatg gattggggag tcccagcctt ggggattccc caactccgca gtttcttttc       180
-     tccctctccc aacctacgta gggtccttca tcctggatac tcacgacgcg gacccagttc       240
-     tcactcccat tgggtgtcgg gtttccagag aagccaatca gtgtcgtcgc ggtcgctgtt       300
-     ctaaagtccg cacgcaccca ccgggactca gattctcccc agacgccgag gatggccgtc       360
-     atggcgcccc gaaccctcct cctgctactc tcgggggccc tggccctgac ccagacctgg       420
-     gcgggtgagt gcggggtcgg gagggaaacc gcctctgcgg ggagaagcaa ggggccctcc       480
-     tggcgggggc gcaggaccgg gggagccgcg ccgggaggag ggtcgggcag gtctcagcca       540
-     ctgctcgccc ccaggctccc actccatgag gtatttcttc acatccgtgt cccggcccgg       600
-     ccgcggggag ccccgcttca tcgccgtggg ctacgtggac gacacgcagt tcgtgcggtt       660
-     cgacagcgac gccgcgagcc agaagatgga gccgcgggcg ccgtggatag agcaggaggg       720
-     gccggagtat tgggaccagg agacacggaa tatgaaggcc cactcacaga ctgaccgagc       780
-     gaacctgggg accctgcgcg gctactacaa ccagagcgag gacggtgagt gaccccggcc       840
-     cggggcgcag gtcacgaccc ctcatccccc acggacgggc caggtcgccc acagtctccg       900
-     ggtccgagat ccaccccgaa gccgcgggac tccgagaccc ttgtcccggg agaggcccag       960
-     gcgcctttac ccggtttcat tttcagttta ggccaaaaat ccccccgggt tggtcggggc      1020
-     ggggcggggc tcgggggact gggctgaccg cggggtcggg gccaggttct cacaccatcc      1080
-     agataatgta tggctgcgac gtggggccgg acgggcgctt cctccgcggg taccggcagg      1140
-     acgcctacga cggcaaggat tacatcgccc tgaacgagga cctgcgctct tggaccgcgg      1200
-     cggacatggc agctcagatc accaagcgca agtgggaggc ggtccatgcg gcggagcagc      1260
-     ggagagtcta cctggagggc cggtgcgtgg acgggctccg cagatacctg gagaacggga      1320
-     aggagacgct gcagcgcacg ggtaccaggg gccacggggc gcctccctga tcgcctatag      1380
-     atctcccggg ctggcctccc acaaggaggg gagacaattg ggaccaacac tagaatatca      1440
-     ccctccctct ggtcctgagg gagaggaatc ctcctgggtt tccagatcct gtaccagaga      1500
-     gtgactctga ggttccgccc tgctctctga cacaattaag ggataaaatc tctgaaggag      1560
-     tgacgggaag acgatccctc gaatactgat gagtggttcc ctttgacacc ggcagcagcc      1620
-     ttgggcccgt gacttttcct ctcaggcctt gttctctgct tcacactcaa tgtgtgtggg      1680
-     ggtctgagtc cagcacttct gagtctctca gcctccactc aggtcaggac cagaagtcgc      1740
-     tgttcccttc tcagggaata gaagattatc ccaggtgcct gtgtccaggc tggtgtctgg      1800
-     gttctgtgct ctcttcccca tcccgggtgt cctgtccatt ctcaagatgg ccacatgcgt      1860
-     gctggtggag tgtcccatga cagatgcaaa atgcctgaat tttctgactc ttcccgtcag      1920
-     acccccccaa gacacatatg acccaccacc ccatctctga ccatgaggcc accctgaggt      1980
-     gctgggccct gggcttctac cctgcggaga tcacactgac ctggcagcgg gatggggagg      2040
-     accagaccca ggacacggag ctcgtggaga ccaggcctgc aggggatgga accttccaga      2100
-     agtgggcggc tgtggtggtg ccttctggag aggagcagag atacacctgc catgtgcagc      2160
-     atgagggtct gcccaagccc ctcaccctga gatggggtaa ggagggagat gggggtgtca      2220
-     tgtctcttag ggaaagcagg agcctctctg gagaccttta gcagggtcag ggcccctcac      2280
-     cttcccctct tttcccagag ctgtcttccc agcccaccat ccccatcgtg ggcatcattg      2340
-     ctggcctggt tctccttgga gctgtgatca ctggagctgt ggtcgctgcc gtgatgtgga      2400
-     ggaggaagag ctcaggtgga gaaggggtga agggtggggt ctgagatttc ttgtctcact      2460
-     gagggttcca agccccagct agaaatgtgc cctgtctcat tactgggaag caccttccac      2520
-     aatcatgggc cgacccagcc tgggccctgt gtgccagcac ttactctttt gtaaagcacc      2580
-     tgttaaaatg aaggacagat ttatcacctt gattacggcg gtgatgggac ctgatcccag      2640
-     cagtcacaag tcacagggga aggtccctga ggacagacct caggagggct attggtccag      2700
-     gacccacacc tgctttcttc atgtttcctg atcccgccct gggtctgcag tcacacattt      2760
-     ctggaaactt ctctggggtc caagactagg aggttcctct aggaccttaa ggccctggct      2820
-     cctttctggt atctcacagg acattttctt cccacagata gaaaaggagg gagttacact      2880
-     caggctgcaa gtaagtatga aggaggctga tgcctgaggt ccttgggata ttgtgtttgg      2940
-     gagcccatgg gggagctcac ccaccccaca attcctcctc tagccacatc ttctgtggga      3000
-     tctgaccagg ttctgttttt gttctacccc aggcagtgac agtgcccagg gctctgatgt      3060
-     gtctctcaca gcttgtaaag gtgagagctt ggagggcctg atgtgtgttg ggtgttgggt      3120
-     ggaacagtgg acacagctgt gctatggggt ttctttgcgt tggatgtatt gagcatgcga      3180
-     tgggctgttt aaggtgtgac ccctcactgt gatggatatg aatttgttca tgaatatttt      3240
-     tttctatagt gtgagacagc tgccttgtgt gggactgaga ggcaagagtt gttcctgccc      3300
-     ttccctttgt gacttgaaga accctgactt tgtttctgca aaggcacctg catgtgtctg      3360
-     tgttcgtgta ggcataatgt gaggaggtgg ggagagcacc ccacccccat gtccaccatg      3420
-     accctcttcc cacgctgacc tgtgctccct ctccaatcat ctttcctgtt ccagagaggt      3480
-     ggggctgagg tgtctccatc tctgtctcaa cttcatggtg cactgagctg taacttcttc      3540
-     cttccctatt aaaa                                                        3554
+FT   UTR             3204..3503
+SQ   Sequence 3503 BP; 666 A; 1012 C; 1070 G; 755 T; 0 other;
+     caggagcaga ggggtcaggg cgaagtccca gggccccagg cgtggctctc agggtctcag        60
+     gccccgaagg cggtgtatgg attggggagt cccagccttg gggattcccc aactccgcag       120
+     tttcttttct ccctctccca acctacgtag ggtccttcat cctggatact cacgacgcgg       180
+     acccagttct cactcccatt gggtgtcggg tttccagaga agccaatcag tgtcgtcgcg       240
+     gtcgctgttc taaagtccgc acgcacccac cgggactcag attctcccca gacgccgagg       300
+     atggccgtca tggcgccccg aaccctcctc ctgctactct cgggggccct ggccctgacc       360
+     cagacctggg cgggtgagtg cggggtcggg agggaaaccg cctctgcggg gagaagcaag       420
+     gggccctcct ggcgggggcg caggaccggg ggagccgcgc cgggaggagg gtcgggcagg       480
+     tctcagccac tgctcgcccc caggctccca ctccatgagg tatttcttca catccgtgtc       540
+     ccggcccggc cgcggggagc cccgcttcat cgccgtgggc tacgtggacg acacgcagtt       600
+     cgtgcggttc gacagcgacg ccgcgagcca gaagatggag ccgcgggcgc cgtggataga       660
+     gcaggagggg ccggagtatt gggaccagga gacacggaat atgaaggccc actcacagac       720
+     tgaccgagcg aacctgggga ccctgcgcgg ctactacaac cagagcgagg acggtgagtg       780
+     accccggccc ggggcgcagg tcacgacccc tcatccccca cggacgggcc aggtcgccca       840
+     cagtctccgg gtccgagatc caccccgaag ccgcgggact ccgagaccct tgtcccggga       900
+     gaggcccagg cgcctttacc cggtttcatt ttcagtttag gccaaaaatc cccccgggtt       960
+     ggtcggggcg gggcggggct cgggggactg ggctgaccgc ggggtcgggg ccaggttctc      1020
+     acaccatcca gataatgtat ggctgcgacg tggggccgga cgggcgcttc ctccgcgggt      1080
+     accggcagga cgcctacgac ggcaaggatt acatcgccct gaacgaggac ctgcgctctt      1140
+     ggaccgcggc ggacatggca gctcagatca ccaagcgcaa gtgggaggcg gtccatgcgg      1200
+     cggagcagcg gagagtctac ctggagggcc ggtgcgtgga cgggctccgc agatacctgg      1260
+     agaacgggaa ggagacgctg cagcgcacgg gtaccagggg ccacggggcg cctccctgat      1320
+     cgcctataga tctcccgggc tggcctccca caaggagggg agacaattgg gaccaacact      1380
+     agaatatcac cctccctctg gtcctgaggg agaggaatcc tcctgggttt ccagatcctg      1440
+     taccagagag tgactctgag gttccgccct gctctctgac acaattaagg gataaaatct      1500
+     ctgaaggagt gacgggaaga cgatccctcg aatactgatg agtggttccc tttgacaccg      1560
+     gcagcagcct tgggcccgtg acttttcctc tcaggccttg ttctctgctt cacactcaat      1620
+     gtgtgtgggg gtctgagtcc agcacttctg agtctctcag cctccactca ggtcaggacc      1680
+     agaagtcgct gttcccttct cagggaatag aagattatcc caggtgcctg tgtccaggct      1740
+     ggtgtctggg ttctgtgctc tcttccccat cccgggtgtc ctgtccattc tcaagatggc      1800
+     cacatgcgtg ctggtggagt gtcccatgac agatgcaaaa tgcctgaatt ttctgactct      1860
+     tcccgtcaga cccccccaag acacatatga cccaccaccc catctctgac catgaggcca      1920
+     ccctgaggtg ctgggccctg ggcttctacc ctgcggagat cacactgacc tggcagcggg      1980
+     atggggagga ccagacccag gacacggagc tcgtggagac caggcctgca ggggatggaa      2040
+     ccttccagaa gtgggcggct gtggtggtgc cttctggaga ggagcagaga tacacctgcc      2100
+     atgtgcagca tgagggtctg cccaagcccc tcaccctgag atggggtaag gagggagatg      2160
+     ggggtgtcat gtctcttagg gaaagcagga gcctctctgg agacctttag cagggtcagg      2220
+     gcccctcacc ttcccctctt ttcccagagc tgtcttccca gcccaccatc cccatcgtgg      2280
+     gcatcattgc tggcctggtt ctccttggag ctgtgatcac tggagctgtg gtcgctgccg      2340
+     tgatgtggag gaggaagagc tcaggtggag aaggggtgaa gggtggggtc tgagatttct      2400
+     tgtctcactg agggttccaa gccccagcta gaaatgtgcc ctgtctcatt actgggaagc      2460
+     accttccaca atcatgggcc gacccagcct gggccctgtg tgccagcact tactcttttg      2520
+     taaagcacct gttaaaatga aggacagatt tatcaccttg attacggcgg tgatgggacc      2580
+     tgatcccagc agtcacaagt cacaggggaa ggtccctgag gacagacctc aggagggcta      2640
+     ttggtccagg acccacacct gctttcttca tgtttcctga tcccgccctg ggtctgcagt      2700
+     cacacatttc tggaaacttc tctggggtcc aagactagga ggttcctcta ggaccttaag      2760
+     gccctggctc ctttctggta tctcacagga cattttcttc ccacagatag aaaaggaggg      2820
+     agttacactc aggctgcaag taagtatgaa ggaggctgat gcctgaggtc cttgggatat      2880
+     tgtgtttggg agcccatggg ggagctcacc caccccacaa ttcctcctct agccacatct      2940
+     tctgtgggat ctgaccaggt tctgtttttg ttctacccca ggcagtgaca gtgcccaggg      3000
+     ctctgatgtg tctctcacag cttgtaaagg tgagagcttg gagggcctga tgtgtgttgg      3060
+     gtgttgggtg gaacagtgga cacagctgtg ctatggggtt tctttgcgtt ggatgtattg      3120
+     agcatgcgat gggctgttta aggtgtgacc cctcactgtg atggatatga atttgttcat      3180
+     gaatattttt ttctatagtg tgagacagct gccttgtgtg ggactgagag gcaagagttg      3240
+     ttcctgccct tccctttgtg acttgaagaa ccctgacttt gtttctgcaa aggcacctgc      3300
+     atgtgtctgt gttcgtgtag gcataatgtg aggaggtggg gagagcaccc cacccccatg      3360
+     tccaccatga ccctcttccc acgctgacct gtgctccctc tccaatcatc tttcctgttc      3420
+     cagagaggtg gggctgaggt gtctccatct ctgtctcaac ttcatggtgc actgagctgt      3480
+     aacttcttcc ttccctatta aaa                                              3503
 //
 ```
 
