@@ -1,10 +1,10 @@
 --------------------------------------------------------------------------------
-IPD-IMGT/HLA HLA.dat User Manual
+IPD-IMGT/HLA HLA.dat and IDP-KIR User Manual
 --------------------------------------------------------------------------------
 
-This document describes the format and conventions used in the IPD-IMGT/HLA flat files. These files are included in the ftp directory on the EBI website. The formatting of the flat files and documentation below is based on guidelines provided by the EMBL Nucleotide User Manual.
+This document describes the format and conventions used in the IPD-IMGT/HLA and IPD-KIR flat files. These files are included in the ftp directory on the EBI website. The formatting of the flat files and documentation below is based on guidelines provided by the EMBL Nucleotide User Manual.
 
-The IPD-IMGT/HLA Database is composed of sequence entries. Each entry corresponds to a single contiguous sequence as contributed or reported in the literature. In some cases, entries have been assembled from several papers reporting overlapping sequence regions. Conversely a single paper often provides data for several entries.
+The IPD-IMGT/HLA and IPD-KIR Databases are composed of sequence entries. Each entry corresponds to a single contiguous sequence as contributed or reported in the literature. In some cases, entries have been assembled from several papers reporting overlapping sequence regions. Conversely a single paper often provides data for several entries.
 
 ### Structure of an Entry
 
@@ -15,6 +15,7 @@ Each entry in the database is composed of lines. Different types of lines, each 
 Note that each line begins with a two-character line code, which indicates the type of information contained in the line. The currently used line types, along with their respective line codes, are listed below:
 
 * ID - identification (begins each entry; 1 per entry)
+* SV - sequence version (1 per entry)
 * AC - accession number (1 per entry)
 * DT - date (3 per entry)
 * DE - description (>=1 per entry)
