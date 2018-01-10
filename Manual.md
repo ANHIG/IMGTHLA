@@ -17,7 +17,7 @@ Note that each line begins with a two-character line code, which indicates the t
 * ID - identification (begins each entry; 1 per entry)
 * SV - sequence version (1 per entry)
 * AC - accession number (1 per entry)
-* DT - date (3 per entry)
+* DT - date (2 per entry)
 * DE - description (>=1 per entry)
 * KW - keyword (>=1 per entry)
 * OS - organism species (1 per entry)
