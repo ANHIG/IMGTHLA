@@ -8,16 +8,16 @@ This means that you are free to copy, distribute, display and make commercial
 use of the databases in all legislations, provided you give us credit by citing
 the following;
 
-Robinson J, Mistry K, McWilliam H, Lopez R, Parham P, Marsh SGE: 
-The IMGT/HLA database.
-Nucleic Acids Research (2011) 39 Suppl 1:D1171-6
+Robinson J, Halliwell JA, Hayhurst JH, Flicek P, Parham P, Marsh SGE
+The IPD and IPD-IMGT/HLA Database: allele variant databases
+Nucleic Acids Research (2015) 43:D423-431
 
 Robinson J, Malik A, Parham P, Bodmer JG, Marsh SGE:
 IMGT/HLA - a sequence database for the human major histocompatibility complex
 Tissue Antigens (2000), 55:280-287
 
 We are strongly opposed to the mirroring of the data contained on our sites, both
-hla.alleles.org and the IMGT/HLA Database, and would ask that rather than mirror
+hla.alleles.org and the IPD-IMGT/HLA Database, and would ask that rather than mirror
 the information, appropriate links are provided where applicable.
 
 If you intend to distribute a modified version of our data, you must ask us for
@@ -28,7 +28,7 @@ of how modified data can be reproduced.
  FUNDING
 --------------------------------------------------------------------------------
 
-The development of the IMGT/HLA Database was funded by an EU BIOTECH grant. The
+The development of the IPD-IMGT/HLA Database was funded by an EU BIOTECH grant. The
 work of maintaining and updating the database has been supported in the past by
 the Imperial Cancer Research Fund, the National Institute of Health, the
 National Marrow Donor Program (NMDP) and more recently by the Anthony Nolan
@@ -37,9 +37,10 @@ relies on alternate sources of financial support, which are actively been sought
 for the continued maintenance of the database. The Sequence.org initiative at
 the NMDP has solicited funds from institutions and companies who produce HLA
 typing reagents, typing systems, and instrumentation or that otherwise utilise
-these databases in critical components of their business. To learn more about
-how your business can support the IMGT/HLA Database, please contact: Angie Dahl
-(Tel: +1 612 884 8670, Email: adahl [at] nmdp [dot] org), The Marrow Foundation.
+these databases in critical components of their business. To learn more about how
+your business can support the IPD-IMGT/HLA Database, please contact:
+Todd Peterson, (Email: todd [dot] peterson, [at] nmdp [dot] org), Be The Match
+Foundation.
 
 If you intend to use any of the data found on our sites for commercial use, we
 would ask you to consider funding the database and the work we do. Without

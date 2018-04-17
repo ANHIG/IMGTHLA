@@ -1,5 +1,11 @@
-Deleted Alleles
-
+# file: Deleted_alleles.txt
+# date: 2018-04-16
+# version: IPD-IMGT/HLA 3.32.0
+# origin: https://github.com/ANHIG/IMGTHLA/Deleted_alleles.txt
+# repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/Deleted_alleles.txt
+# author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+# Deleted Alleles
+AlleleID,Allele,Description
 HLA00965,A*0105N,Sequence shown to be identical to A*01:04N (July 2001)
 HLA06674,A*01:34N,Sequence shown to be expressed at low levels and renamed A*01:01:38L (March 2011)
 HLA02999,A*020116,Sequence named in error and renamed A*02:134 (September 2007)
@@ -23,7 +29,6 @@ HLA13249,A*26:03:02,Sequence named in error and renamed A*26:111 (February 2015)
 HLA05425,A*26:44,Sequence named in error and renamed A*26:43:02 (June20 10)
 HLA00093,A*3005,Sequence shown to contain errors and be identical to A*30:04 (August 1995)
 HLA02846,A*3021,Sequence renamed A*30:11:02 (August 2007)
-HLA14873,A*30:02:12,Shown to be identical to A*30:100 (Sept 2016)
 HLA00096,A*31011,Sequence shown to contain errors and be identical to A*31:01:02 (June 1996)
 HLA00105,A*3302,Sequence shown to contain errors and be identical to A*33:03:01 (November 1996)
 HLA06029,A*33:38,Sequence shown to contain errors and be identical to A*33:44 (July 2012)
@@ -126,8 +131,8 @@ HLA09114,MICA*003:01,Name never assigned
 HLA01337,MICA*021,Sequence renamed MICA*012:03 (August 2007)
 HLA07766,MICA*071,Sequence shown to contain errors and be identical to MICA*017 (March 2013)
 HLA02189,MICB*017,Sequence renamed MICB*005:05 (August 2007)
-Alleles With Suffix Changes
-
+# Alleles With Suffix Changes
+AlleleID,Allele,Description
 HLA02908,A*02:01:14,Sequence renamed A*02:01:14Q (March 2011)
 HLA04135,A*1150,Sequence renamed A*11:50Q (March 2010)
 HLA04139,A*1152,Sequence renamed A*11:52Q (March 2010)

@@ -44,7 +44,7 @@ Files designated “X_gen.msf”, where X is a locus or gene, contain genomic DN
 
 ### OID Folder
 
-Further information on the OID files can be found in the dedicated README file in the oid directory. 
+Further information on the OID files can be found in the dedicated README file in the oid directory. As of version 3.32.0, all list files have been converted to csv format, and contain a header. The header is donated by hash tags at the start of the line.  
 https://github.com/ANHIG/IMGTHLA/blob/Latest/oid/README.md
 
 ### PIR 
@@ -68,13 +68,9 @@ Please refer to the relevant XSD file for information regarding the XML files, w
 
 ### Other Files
 
-The top-level directory contains the following lists; 
+The top-level directory contains the following files; 
 
 * Alignments_Rel_XXXX.zip - a compressed archive of the alignments folder, where the XXXX in the file denotes a particular release.
-* Allele_status.txt - a csv file detailing for each allele how many times it has been submitted, from how many cells, the unconfirmed/confirmed status of the allele, if the CDS is fully sequenced and if the allele is cDNa or gDNA sequence.
-* Allelelist.txt and Allelelist.XXXX.txt - a csv file listed all alleles named at the time of the release, the XXXX in the file denotes a particular release. Allelelist.txt is a copy of the latest version.
-* Allele_history.txt - a csv file detailing for each allele the official name used in each release of the database. 
-* Deleted_alleles.txt - a csv file detailing all deleted allele names, with reasons for the deletion. This list also includes details of any suffix changes. 
 * LICENSE.md - a file detailing the licensing of data included in the IPD-IMGT/HLA Database.
 * Nomenclature_2009.txt - a file detailing pre-2010 allele nomenclature
 * README.md - This README file
@@ -83,6 +79,14 @@ The top-level directory contains the following lists;
 * hla_nuc.fasta - a copy of the file in the fasta directory, includes the DNA sequence for the CDS sequence of all alleles. 
 * hla_prot.fasta - a copy of the file in the fasta directory, includes the amino acid sequence for all alleles. 
 * md5checksum.txt - a file detailing md5 checksums for all files in the top-levle directory
+
+The top-level directory contains the following lists, in order to provide consistency in both formatting and to record versioning information, as of version 3.32.0, all list files have been converted to csv format, and contain a header. The header is donated by hash tags at the start of the line.  
+
+* Allele_status.txt - a csv file detailing for each allele how many times it has been submitted, from how many cells, the unconfirmed/confirmed status of the allele, if the CDS is fully sequenced and if the allele is cDNa or gDNA sequence.
+* Allelelist.txt and Allelelist.XXXX.txt - a csv file listed all alleles named at the time of the release, the XXXX in the file denotes a particular release. Allelelist.txt is a copy of the latest version.
+* Allelelist_history.txt - a csv file detailing for each allele the official name used in each release of the database. 
+* Deleted_alleles.txt - a csv file detailing all deleted allele names, with reasons for the deletion. This list also includes details of any suffix changes. 
+
 
 --------------------------------------------------------------------------------
  CONTACTS
