@@ -18,7 +18,7 @@ Files designated “X_nuc.txt”, where X is a locus or gene, contain the nucleo
 
 Files designated “X_gen.txt”, where X is a locus or gene, contain genomic DNA sequences. Please note that for alleles that do not possess genomic sequences there will be no entry in the file, or where there is only a single genomic sequence at the locus, a file will not be produced.  
 
-For further information on the construction of these text files, please refer to the description available here: http://www.ebi.ac.uk/ipd/imgt/hla/nomenclature/alignments.html
+For further information on the construction of these text files, please refer to the description available here: http://www.ebi.ac.uk/ipd/imgt/hla/nomenclature/alignments.html. To provide consistency in both formatting and to record versioning information, as of version 3.32.0, the header is designated by hash tags at the start of the line. 
 
 A zip compressed archive of all the text-format alignment files is available from the top-level directory. 
 
@@ -80,7 +80,7 @@ The top-level directory contains the following files;
 * hla_prot.fasta - a copy of the file in the fasta directory, includes the amino acid sequence for all alleles. 
 * md5checksum.txt - a file detailing md5 checksums for all files in the top-levle directory
 
-The top-level directory contains the following lists, in order to provide consistency in both formatting and to record versioning information, as of version 3.32.0, all list files have been converted to csv format, and contain a header. The header is donated by hash tags at the start of the line.  
+The top-level directory contains the following lists, in order to provide consistency in both formatting and to record versioning information, as of version 3.32.0, all list files have been converted to csv format, and contain a header. The header is designated by hash tags at the start of the line.  
 
 * Allele_status.txt - a csv file detailing for each allele how many times it has been submitted, from how many cells, the unconfirmed/confirmed status of the allele, if the CDS is fully sequenced and if the allele is cDNa or gDNA sequence.
 * Allelelist.txt and Allelelist.XXXX.txt - a csv file listed all alleles named at the time of the release, the XXXX in the file denotes a particular release. Allelelist.txt is a copy of the latest version.
