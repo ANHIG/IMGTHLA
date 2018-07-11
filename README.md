@@ -47,7 +47,7 @@ Files designated “X_gen.msf”, where X is a locus or gene, contain genomic DN
 Further information on the OID files can be found in the dedicated README file in the oid directory. As of version 3.32.0, all list files have been converted to csv format, and contain a header. The header is donated by hash tags at the start of the line.  
 https://github.com/ANHIG/IMGTHLA/blob/Latest/oid/README.md
 
-### PIR 
+### PIR Folder
 
 All files in this folder are provided in the PIR sequence format. 
 
@@ -57,12 +57,20 @@ Files designated “X_nuc.pir”, where X is a locus or gene, contain the nucleo
 
 Files designated “X_gen.pir”, where X is a locus or gene, contain genomic DNA sequences. Please note for alleles that do not possess genomic sequences, there will be no entry in the file.
 
-### WMDA
+### TCE Folder
+
+The files in this folder provide a listing of the T-Cell Epitope Group Assignments for DPB1 proteins. The assignments are taken from the algorithms used for the online tools at https://www.ebi.ac.uk/ipd/imgt/hla/dpb.html. The file formart is as follows;
+
+* DPB1 allele, DPB1 protein, Version 1 Assignment, Version 2 Assignment, Comments
+
+Alleles which have yet to be assigned a TCE group using either version are left blank.  
+
+### WMDA Folder
 
 Further information on the WMDA files can be found in the dedicated README file in the wmda directory. 
 https://github.com/ANHIG/IMGTHLA/blob/Latest/wmda/README.md
 
-### XML
+### XML Folder
 
 Please refer to the relevant XSD file for information regarding the XML files, which can be found here: https://github.com/ANHIG/IMGTHLA/blob/Latest/xml/hla_ambigs.xsd
 
@@ -78,7 +86,7 @@ The top-level directory contains the following files;
 * hla_gen.fasta - a copy of the file in the fasta directory, includes the DNA sequence for all alleles, which have genomic sequences available. 
 * hla_nuc.fasta - a copy of the file in the fasta directory, includes the DNA sequence for the CDS sequence of all alleles. 
 * hla_prot.fasta - a copy of the file in the fasta directory, includes the amino acid sequence for all alleles. 
-* md5checksum.txt - a file detailing md5 checksums for all files in the top-levle directory
+* md5checksum.txt - a file detailing md5 checksums for all files in the top-level directory
 
 The top-level directory contains the following lists, in order to provide consistency in both formatting and to record versioning information, as of version 3.32.0, all list files have been converted to csv format, and contain a header. The header is designated by hash tags at the start of the line.  
 

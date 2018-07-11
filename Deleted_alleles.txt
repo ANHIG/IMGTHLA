@@ -1,12 +1,12 @@
 # file: Deleted_alleles.txt
-# date: 2018-04-16
-# version: IPD-IMGT/HLA 3.32.0
+# date: 2018-07-11
+# version: IPD-IMGT/HLA 3.33.0
 # origin: https://github.com/ANHIG/IMGTHLA/Deleted_alleles.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/Deleted_alleles.txt
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
 # Deleted Alleles
 AlleleID,Allele,Description
-HLA00965,A*0105N,Sequence shown to be identical to A*01:04N (July 2001)
+HLA00965,A*0105N,Sequence shown to be identical to A*01:04:01:01N (July 2001)
 HLA06674,A*01:34N,Sequence shown to be expressed at low levels and renamed A*01:01:38L (March 2011)
 HLA02999,A*020116,Sequence named in error and renamed A*02:134 (September 2007)
 HLA03240,A*020120,Sequence named in error = A*02:01:18 (March 2008)
@@ -33,7 +33,7 @@ HLA00096,A*31011,Sequence shown to contain errors and be identical to A*31:01:02
 HLA00105,A*3302,Sequence shown to contain errors and be identical to A*33:03:01 (November 1996)
 HLA06029,A*33:38,Sequence shown to contain errors and be identical to A*33:44 (July 2012)
 HLA00131,B*0701,Sequence shown to contain errors (March 1995)
-HLA00151,B*08:06,Sequence shown to be in error and identical to B*08:20 (June 2010)
+HLA00151,B*08:06,Sequence shown to be in error and identical to B*08:20:01 (June 2010)
 HLA00156,B*1305,Sequence submitted in error = B*13:04 (July 1997)
 HLA03911,B*1324,Sequence renamed B*13:22:02 (July 2009)
 HLA01978,B*150105,Sequence corrected and renamed B*15:120 (Septmeber 2006)
@@ -53,6 +53,7 @@ HLA01523,B*4041,Sequence named in error = B*40:40 (November 2001)
 HLA00985,B*4203,Name never assigned
 HLA00317,B*4401,Sequence shown to contain errors and be identical to B*44:02:01:01 (March 1994)
 HLA15390,B*44:246N,Name never assigned
+HLA00332,B*47:01:01:01,Sequence shown to contain errors and be identical to B*47:01:01:03 (April 2018)
 HLA05834,B*49:15,Sequence shown to be identical to B*49:01:01 (June 2014)
 HLA00343,B*5003,Sequence named in error = B*50:02 (August 1997)
 HLA01263,B*5125,Sequence shown to be identical to B*51:22 (July 2000)
@@ -62,6 +63,8 @@ HLA00388,B*5803,Name never assigned
 HLA05299,B*58:30,Sequence shown to contain errors and be identical to B*58:01:01 (July 2012)
 HLA00397,B*7901,Sequence renamed B*15:18:01 (March 1994)
 HLA02971,B*9530,Sequence renamed B*15:27:02 (August 2007)
+HLA17559,C*01:63:01,Sequence shown to be identical to C*01:141 (June 2017)
+HLA18539,C*02:16:01,Shown to be identical to C*02:137 (March 2018)
 HLA01125,C*03:12,Sequence shown to contain errors and be identical to C*03:19 (January 2013)
 HLA08905,C*07:295,Name never assigned
 HLA08807,C*08:64,Sequence named in error and renamed C*08:33:03 (September 2012)
