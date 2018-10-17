@@ -1,6 +1,6 @@
 # file: dpb_tce.csv
-# date: 2018-07-11
-# version: IPD-IMGT/HLA 3.33.0
+# date: 2018-10-18
+# version: IPD-IMGT/HLA 3.34.0
 # origin: https://github.com/ANHIG/IMGTHLA/tce/dpb_tce.csv
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/tce/dpb_tce.csb
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
@@ -8,6 +8,10 @@ DPB1*01:01:01:01,DPB1*01:01,3,3,
 DPB1*01:01:01:02,DPB1*01:01,3,3,
 DPB1*01:01:01:03,DPB1*01:01,3,3,
 DPB1*01:01:01:04,DPB1*01:01,3,3,
+DPB1*01:01:01:05,DPB1*01:01,3,3,
+DPB1*01:01:01:06,DPB1*01:01,3,3,
+DPB1*01:01:01:07,DPB1*01:01,3,3,
+DPB1*01:01:01:08,DPB1*01:01,3,3,
 DPB1*01:01:02:01,DPB1*01:01,3,3,
 DPB1*01:01:02:02,DPB1*01:01,3,3,
 DPB1*01:01:03,DPB1*01:01,3,3,
@@ -54,6 +58,8 @@ DPB1*02:01:02:37,DPB1*02:01,3,3,
 DPB1*02:01:02:38,DPB1*02:01,3,3,
 DPB1*02:01:02:39,DPB1*02:01,3,3,
 DPB1*02:01:02:40,DPB1*02:01,3,3,
+DPB1*02:01:02:41,DPB1*02:01,3,3,
+DPB1*02:01:02:42,DPB1*02:01,3,3,
 DPB1*02:01:03,DPB1*02:01,3,3,
 DPB1*02:01:04,DPB1*02:01,3,3,
 DPB1*02:01:05,DPB1*02:01,3,3,
@@ -81,6 +87,9 @@ DPB1*02:01:26,DPB1*02:01,3,3,
 DPB1*02:01:27,DPB1*02:01,3,3,
 DPB1*02:01:28,DPB1*02:01,3,3,
 DPB1*02:01:29,DPB1*02:01,3,3,
+DPB1*02:01:30,DPB1*02:01,3,3,
+DPB1*02:01:31,DPB1*02:01,3,3,
+DPB1*02:01:32,DPB1*02:01,3,3,
 DPB1*02:02:01:01,DPB1*02:02,3,3,
 DPB1*02:02:01:02,DPB1*02:02,3,3,
 DPB1*02:02:01:03,DPB1*02:02,3,3,
@@ -98,6 +107,7 @@ DPB1*03:01:01:07,DPB1*03:01,2,2,
 DPB1*03:01:01:08,DPB1*03:01,2,2,
 DPB1*03:01:01:09,DPB1*03:01,2,2,
 DPB1*03:01:01:10,DPB1*03:01,2,2,
+DPB1*03:01:01:11,DPB1*03:01,2,2,
 DPB1*03:01:02,DPB1*03:01,2,2,
 DPB1*03:01:03,DPB1*03:01,2,2,
 DPB1*03:01:04,DPB1*03:01,2,2,
@@ -105,6 +115,7 @@ DPB1*03:01:05,DPB1*03:01,2,2,
 DPB1*03:01:06,DPB1*03:01,2,2,
 DPB1*03:01:07,DPB1*03:01,2,2,
 DPB1*03:01:08,DPB1*03:01,2,2,
+DPB1*03:01:09,DPB1*03:01,2,2,
 DPB1*04:01:01:01,DPB1*04:01,3,3,
 DPB1*04:01:01:02,DPB1*04:01,3,3,
 DPB1*04:01:01:03,DPB1*04:01,3,3,
@@ -133,6 +144,11 @@ DPB1*04:01:01:25,DPB1*04:01,3,3,
 DPB1*04:01:01:26,DPB1*04:01,3,3,
 DPB1*04:01:01:27,DPB1*04:01,3,3,
 DPB1*04:01:01:28,DPB1*04:01,3,3,
+DPB1*04:01:01:29,DPB1*04:01,3,3,
+DPB1*04:01:01:30,DPB1*04:01,3,3,
+DPB1*04:01:01:31,DPB1*04:01,3,3,
+DPB1*04:01:01:32,DPB1*04:01,3,3,
+DPB1*04:01:01:33,DPB1*04:01,3,3,
 DPB1*04:01:02,DPB1*04:01,3,3,
 DPB1*04:01:03,DPB1*04:01,3,3,
 DPB1*04:01:04:01,DPB1*04:01,3,3,
@@ -181,6 +197,8 @@ DPB1*04:02:01:08,DPB1*04:02,3,3,
 DPB1*04:02:01:09,DPB1*04:02,3,3,
 DPB1*04:02:01:10,DPB1*04:02,3,3,
 DPB1*04:02:01:11,DPB1*04:02,3,3,
+DPB1*04:02:01:12,DPB1*04:02,3,3,
+DPB1*04:02:01:13,DPB1*04:02,3,3,
 DPB1*04:02:02,DPB1*04:02,3,3,
 DPB1*04:02:03,DPB1*04:02,3,3,
 DPB1*04:02:04,DPB1*04:02,3,3,
@@ -236,7 +254,9 @@ DPB1*13:01:01:03,DPB1*13:01,3,3,
 DPB1*13:01:01:04,DPB1*13:01,3,3,
 DPB1*13:01:01:05,DPB1*13:01,3,3,
 DPB1*13:01:01:06,DPB1*13:01,3,3,
+DPB1*13:01:01:07,DPB1*13:01,3,3,
 DPB1*13:01:02,DPB1*13:01,3,3,
+DPB1*13:01:03,DPB1*13:01,3,3,
 DPB1*14:01:01:01,DPB1*14:01,2,2,
 DPB1*14:01:01:02,DPB1*14:01,2,2,
 DPB1*14:01:01:03,DPB1*14:01,2,2,
@@ -244,23 +264,32 @@ DPB1*14:01:02,DPB1*14:01,2,2,
 DPB1*14:01:03,DPB1*14:01,2,2,
 DPB1*14:01:04,DPB1*14:01,2,2,
 DPB1*14:01:05,DPB1*14:01,2,2,
-DPB1*15:01:01,DPB1*15:01,3,3,
+DPB1*14:01:06,DPB1*14:01,2,2,
+DPB1*14:01:07,DPB1*14:01,2,2,
+DPB1*15:01:01:01,DPB1*15:01,3,3,
+DPB1*15:01:01:02,DPB1*15:01,3,3,
 DPB1*15:01:02,DPB1*15:01,3,3,
-DPB1*16:01:01,DPB1*16:01,3,3,
+DPB1*16:01:01:01,DPB1*16:01,3,3,
+DPB1*16:01:01:02,DPB1*16:01,3,3,
 DPB1*16:01:02,DPB1*16:01,3,3,
 DPB1*17:01:01:01,DPB1*17:01,1,1,
 DPB1*17:01:01:02,DPB1*17:01,1,1,
-DPB1*18:01,DPB1*18:01,,3,
+DPB1*18:01:01:01,DPB1*18:01,,3,
+DPB1*18:01:01:02,DPB1*18:01,,3,
+DPB1*18:01:01:03,DPB1*18:01,,3,
 DPB1*19:01:01:01,DPB1*19:01,3,2a,Assignment changed between V1 and V2
 DPB1*19:01:01:02,DPB1*19:01,3,2a,Assignment changed between V1 and V2
+DPB1*19:01:01:03,DPB1*19:01,3,2a,Assignment changed between V1 and V2
 DPB1*20:01:01:01,DPB1*20:01,3,3,
 DPB1*20:01:01:02,DPB1*20:01,3,3,
 DPB1*20:01:02,DPB1*20:01,3,3,
 DPB1*20:01:03,DPB1*20:01,3,3,
 DPB1*20:01:04,DPB1*20:01,3,3,
 DPB1*21:01,DPB1*21:01,,2$,V2 Assignment based on functional distance scores 
-DPB1*22:01,DPB1*22:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
-DPB1*23:01:01,DPB1*23:01,3,3,
+DPB1*22:01:01:01,DPB1*22:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
+DPB1*22:01:01:02,DPB1*22:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
+DPB1*23:01:01:01,DPB1*23:01,3,3,
+DPB1*23:01:01:02,DPB1*23:01,3,3,
 DPB1*23:01:02,DPB1*23:01,3,3,
 DPB1*24:01,DPB1*24:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*25:01,DPB1*25:01,,2$,V2 Assignment based on functional distance scores 
@@ -272,7 +301,8 @@ DPB1*28:01,DPB1*28:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment
 DPB1*29:01,DPB1*29:01,,2$,V2 Assignment based on functional distance scores 
 DPB1*30:01:01:01,DPB1*30:01,,1$,V2 Assignment based on functional distance scores 
 DPB1*30:01:01:02,DPB1*30:01,,1$,V2 Assignment based on functional distance scores 
-DPB1*31:01,DPB1*31:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
+DPB1*31:01:01:01,DPB1*31:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
+DPB1*31:01:01:02,DPB1*31:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*32:01,DPB1*32:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*33:01:01:01,DPB1*33:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*33:01:01:02,DPB1*33:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
@@ -293,6 +323,7 @@ DPB1*39:01:01:04,DPB1*39:01,3$,3$,V1 Assignment based on sequence motifs V2 Assi
 DPB1*39:01:02,DPB1*39:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*40:01:01:01,DPB1*40:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*40:01:01:02,DPB1*40:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
+DPB1*40:01:01:03,DPB1*40:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*41:01:01:01,DPB1*41:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*41:01:01:02,DPB1*41:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*41:01:02,DPB1*41:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
@@ -308,12 +339,14 @@ DPB1*49:01:01:01,DPB1*49:01,3$,3$,V1 Assignment based on sequence motifs V2 Assi
 DPB1*49:01:01:02,DPB1*49:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*49:01:01:03,DPB1*49:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*50:01,DPB1*50:01,,3$,V2 Assignment based on functional distance scores 
-DPB1*51:01,DPB1*51:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
+DPB1*51:01:01:01,DPB1*51:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
+DPB1*51:01:01:02,DPB1*51:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*52:01,DPB1*52:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*53:01,DPB1*53:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*54:01,DPB1*54:01,,1$,V2 Assignment based on functional distance scores 
 DPB1*55:01:01:01,DPB1*55:01,,2$,V2 Assignment based on functional distance scores 
 DPB1*55:01:01:02,DPB1*55:01,,2$,V2 Assignment based on functional distance scores 
+DPB1*55:01:01:03,DPB1*55:01,,2$,V2 Assignment based on functional distance scores 
 DPB1*56:01,DPB1*56:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*57:01,DPB1*57:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*58:01,DPB1*58:01,,2$,V2 Assignment based on functional distance scores 
@@ -346,6 +379,7 @@ DPB1*79:01,DPB1*79:01,,2$,V2 Assignment based on functional distance scores
 DPB1*80:01,DPB1*80:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*81:01:01:01,DPB1*81:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*81:01:01:02,DPB1*81:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
+DPB1*81:01:02,DPB1*81:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*82:01,DPB1*82:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*83:01,DPB1*83:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*84:01,DPB1*84:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
@@ -386,6 +420,7 @@ DPB1*105:01:01:06,DPB1*105:01,3$,3$,V1 Assignment based on sequence motifs V2 As
 DPB1*105:01:01:07,DPB1*105:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*105:01:01:08,DPB1*105:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*105:01:01:09,DPB1*105:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
+DPB1*105:01:01:10,DPB1*105:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
 DPB1*106:01,DPB1*106:01,3$,2a$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores Assignment changed between V1 and V2
 DPB1*107:01,DPB1*107:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*108:01,DPB1*108:01,3$,3$,V1 Assignment based on sequence motifs V2 Assignment based on functional distance scores 
@@ -406,6 +441,7 @@ DPB1*122:01,DPB1*122:01,,3$,V2 Assignment based on functional distance scores
 DPB1*123:01,DPB1*123:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*124:01:01:01,DPB1*124:01,,2$,V2 Assignment based on functional distance scores 
 DPB1*124:01:01:02,DPB1*124:01,,2$,V2 Assignment based on functional distance scores 
+DPB1*124:01:02,DPB1*124:01,,2$,V2 Assignment based on functional distance scores 
 DPB1*125:01,DPB1*125:01,,2$,V2 Assignment based on functional distance scores 
 DPB1*126:01:01:01,DPB1*126:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*126:01:01:02,DPB1*126:01,,3$,V2 Assignment based on functional distance scores 
@@ -513,7 +549,8 @@ DPB1*223:01,DPB1*223:01,,3$,V2 Assignment based on functional distance scores
 DPB1*224:01,DPB1*224:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*225:01,DPB1*225:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*226:01,DPB1*226:01,,3$,V2 Assignment based on functional distance scores 
-DPB1*227:01,DPB1*227:01,,3$,V2 Assignment based on functional distance scores 
+DPB1*227:01:01,DPB1*227:01,,3$,V2 Assignment based on functional distance scores 
+DPB1*227:01:02,DPB1*227:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*228:01,DPB1*228:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*229:01,DPB1*229:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*230:01,DPB1*230:01,,3$,V2 Assignment based on functional distance scores 
@@ -709,7 +746,8 @@ DPB1*414:01:01:02,DPB1*414:01,,3$,V2 Assignment based on functional distance sco
 DPB1*415:01,DPB1*415:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*416:01:01:01,DPB1*416:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*416:01:01:02,DPB1*416:01,,3$,V2 Assignment based on functional distance scores 
-DPB1*417:01,DPB1*417:01,,3$,V2 Assignment based on functional distance scores 
+DPB1*417:01:01,DPB1*417:01,,3$,V2 Assignment based on functional distance scores 
+DPB1*417:01:02,DPB1*417:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*418:01,DPB1*418:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*419:01,DPB1*419:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*420:01,DPB1*420:01,,3$,V2 Assignment based on functional distance scores 
@@ -879,7 +917,9 @@ DPB1*580:01,DPB1*580:01,,3$,V2 Assignment based on functional distance scores
 DPB1*581:01,DPB1*581:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*582:01,DPB1*582:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*583:01,DPB1*583:01,,3$,V2 Assignment based on functional distance scores 
-DPB1*584:01,DPB1*584:01,,3$,V2 Assignment based on functional distance scores 
+DPB1*584:01:01:01,DPB1*584:01,,3$,V2 Assignment based on functional distance scores 
+DPB1*584:01:01:02,DPB1*584:01,,3$,V2 Assignment based on functional distance scores 
+DPB1*584:01:01:03,DPB1*584:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*585:01,DPB1*585:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*586:01,DPB1*586:01,,3$,V2 Assignment based on functional distance scores 
 DPB1*587:01,DPB1*587:01,,3$,V2 Assignment based on functional distance scores 
@@ -1018,3 +1058,46 @@ DPB1*717:01,DPB1*717:01,,,
 DPB1*718:01,DPB1*718:01,,,
 DPB1*719:01,DPB1*719:01,,,
 DPB1*720:01,DPB1*720:01,,,
+DPB1*721:01,DPB1*721:01,,,
+DPB1*722:01,DPB1*722:01,,,
+DPB1*723:01,DPB1*723:01,,,
+DPB1*724:01N,NA,0,0,
+DPB1*725:01,DPB1*725:01,,,
+DPB1*726:01,DPB1*726:01,,,
+DPB1*727:01,DPB1*727:01,,,
+DPB1*728:01,DPB1*728:01,,,
+DPB1*729:01,DPB1*729:01,,,
+DPB1*730:01,DPB1*730:01,,,
+DPB1*731:01,DPB1*731:01,,,
+DPB1*732:01N,NA,0,0,
+DPB1*733:01,DPB1*733:01,,,
+DPB1*734:01,DPB1*734:01,,,
+DPB1*735:01,DPB1*735:01,,,
+DPB1*736:01,DPB1*736:01,,,
+DPB1*737:01,DPB1*737:01,,,
+DPB1*738:01N,NA,0,0,
+DPB1*739:01,DPB1*739:01,,,
+DPB1*740:01,DPB1*740:01,,,
+DPB1*741:01,DPB1*741:01,,,
+DPB1*742:01,DPB1*742:01,,,
+DPB1*743:01N,NA,0,0,
+DPB1*744:01,DPB1*744:01,,,
+DPB1*745:01,DPB1*745:01,,,
+DPB1*746:01,DPB1*746:01,,,
+DPB1*747:01,DPB1*747:01,,,
+DPB1*748:01N,NA,0,0,
+DPB1*749:01,DPB1*749:01,,,
+DPB1*750:01,DPB1*750:01,,,
+DPB1*751:01,DPB1*751:01,,,
+DPB1*752:01,DPB1*752:01,,,
+DPB1*753:01,DPB1*753:01,,,
+DPB1*754:01N,NA,0,0,
+DPB1*755:01,DPB1*755:01,,,
+DPB1*756:01N,NA,0,0,
+DPB1*757:01,DPB1*757:01,,,
+DPB1*758:01,DPB1*758:01,,,
+DPB1*759:01,DPB1*759:01,,,
+DPB1*760:01,DPB1*760:01,,,
+DPB1*761:01,DPB1*761:01,,,
+DPB1*762:01,DPB1*762:01,,,
+DPB1*763:01,DPB1*763:01,,,
