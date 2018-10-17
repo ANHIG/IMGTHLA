@@ -16,7 +16,7 @@ The IMGT/HLA Database allows you to retrieve information upon a specific HLA all
 + The serologically recognised HLA specificity Bw4 is assigned the OID 2.16.840.1.113883.13.252.1.2.89
 + The serologically recognised HLA specificity DR51 is assigned the OID 2.16.840.1.113883.13.252.1.2.148
 
-As of version 3.32.0, all list files have been converted to csv format, and contain a header. The header is donated by hash tags at the start of the line.  
+As of version 3.32.0, all list files have been converted to csv format, and contain a header. The header is denoted by hash tags at the start of the line.  
 
 The ISO OIDs are listed in the allele reference pages of the IMGT/HLA Database and are be searchable using the OID in the URL:
 
