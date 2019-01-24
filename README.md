@@ -8,7 +8,7 @@ This directory contains data for the IPD-IMGT/HLA database. The IPD-IMGT/HLA dat
 Downloading and Cloning This Repository 
 --------------------------------------------------------------------------------
 
-Due to the increasing file sizes for the hla.dat and some of the compressed zip files, the repository now requires the Git LFS tools (https://git-lfs.github.com) which handle files over 100MB. Please use these when cloning to ensure the larger files are downloaded correctly. If Git LFS is not used then large files will contain pointers to the Git LFS location rather than the data required. 
+Due to the increasing file sizes for the hla.dat and some of the compressed zip files, the repository now requires the Git LFS tools (https://git-lfs.github.com) which handles file over 100MB. Please use these when cloning to ensure the larger files are downloaded correctly. If Git LFS is not used then large files will contain pointers to the Git LFS location rather than the data required. 
 
 --------------------------------------------------------------------------------
 File Formats 
