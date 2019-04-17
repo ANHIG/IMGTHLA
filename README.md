@@ -88,7 +88,7 @@ The top-level directory contains the following files;
 * LICENSE.md - a file detailing the licensing of data included in the IPD-IMGT/HLA Database.
 * Nomenclature_2009.txt - a file detailing pre-2010 allele nomenclature
 * README.md - This README file
-* hla.dat - An EMBL-ENA style format file containing data from the IPD-IMGT/HLA Database, see http://www.ebi.ac.uk/ipd/imgt/hla/docs/manual.html for further details. Please note as of version 3.35.0 this file has been uploaded using Git LFS, and when downloading or cloning may not be retrieved properly. We recommend downloading directly from the raw file link provided at Github.
+* hla.dat - An EMBL-ENA style format file containing data from the IPD-IMGT/HLA Database, see http://www.ebi.ac.uk/ipd/imgt/hla/docs/manual.html for further details.
 * hla_gen.fasta - a copy of the file in the fasta directory, includes the DNA sequence for all alleles, which have genomic sequences available. 
 * hla_nuc.fasta - a copy of the file in the fasta directory, includes the DNA sequence for the CDS sequence of all alleles. 
 * hla_prot.fasta - a copy of the file in the fasta directory, includes the amino acid sequence for all alleles. 
