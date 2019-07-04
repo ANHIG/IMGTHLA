@@ -1,9 +1,9 @@
 # file: Deleted_alleles.txt
-# date: 2019-04-17
-# version: IPD-IMGT/HLA 3.36.0
+# date: 2019-07-05
+# version: IPD-IMGT/HLA 3.37.0
 # origin: https://github.com/ANHIG/IMGTHLA/Deleted_alleles.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/Deleted_alleles.txt
-# author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+# author: Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
 # Deleted Alleles
 AlleleID,Allele,Description
 HLA00965,A*0105N,Sequence shown to be identical to A*01:04:01:01N (July 2001)
@@ -28,7 +28,7 @@ HLA02608,A*2465,Sequence renamed A*24:13:02 (August 2007)
 HLA08806,A*24:211,Sequence named in error and renamed A*24:135:02 (September 2012)
 HLA13249,A*26:03:02,Sequence named in error and renamed A*26:111 (February 2015)
 HLA05425,A*26:44,Sequence named in error and renamed A*26:43:02 (June20 10)
-HLA00093,A*3005,Sequence shown to contain errors and be identical to A*30:04 (August 1995)
+HLA00093,A*3005,Sequence shown to contain errors and be identical to A*30:04:01:01 (August 1995)
 HLA02846,A*3021,Sequence renamed A*30:11:02 (August 2007)
 HLA00096,A*31011,Sequence shown to contain errors and be identical to A*31:01:02 (June 1996)
 HLA00105,A*3302,Sequence shown to contain errors and be identical to A*33:03:01 (November 1996)
@@ -66,12 +66,13 @@ HLA05299,B*58:30,Sequence shown to contain errors and be identical to B*58:01:01
 HLA00397,B*7901,Sequence renamed B*15:18:01 (March 1994)
 HLA02971,B*9530,Sequence renamed B*15:27:02 (August 2007)
 HLA17559,C*01:63:01,Sequence shown to be identical to C*01:141 (June 2017)
+HLA22495,C*02:02:05,Renamed C*02:10:06 (February 2019)
 HLA18539,C*02:16:01,Shown to be identical to C*02:137 (March 2018)
 HLA01125,C*03:12,Sequence shown to contain errors and be identical to C*03:19 (January 2013)
 HLA21932,C*03:99:01,Shown to belong to C*01 allele group renamed C*01:169:01 (October 2018)
 HLA21933,C*03:99:02,Shown to belong to C*01 allele group renamed C*01:169:02 (October 2018)
 HLA20733,C*04:01:01:30,Sequence named in error and shown to be identical to C*04:01:01:27 (December 2018)
-HLA22495,C*02:02:05,Renamed C*02:10:06 (February 2019)
+HLA22851,C*07:01:03,Renamed C*07:18:04 (April 2019)
 HLA08905,C*07:295,Name never assigned
 HLA08807,C*08:64,Sequence named in error and renamed C*08:33:03 (September 2012)
 HLA02838,C*15:20,Sequence shown to be identical to C*15:27 (June 2012)
