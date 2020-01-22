@@ -82,9 +82,8 @@ This file contains details of all current HLA antigens and alleles, and is sorte
 * HLA Locus
 * HLA Allele Name
 * Unambiguous Serological Antigen associated with allele
-* Possible Serological Antigen associated with allele
+* Possible Serological Antigen associated with allele, where multiple serologies are reported
 * Assumed Serological Antigen associated with allele
-* Expert assigned exceptions in search determinants of some registries
 
 This file includes five fields of information, each separated by a semi-colon (;).
 
