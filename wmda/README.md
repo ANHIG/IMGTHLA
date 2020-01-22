@@ -8,12 +8,12 @@ Files for each individual release are located within appropriately named branch,
 
 All five files have a short header with six lines of information, indicating:
 
-File Name
-Date file produced (YYYY-MM-DD)
-Version (IPD-IMGT/HLA Version Number)
-Origin of file (URL)
-Repository (URL)
-Author
+* File Name
+* Date file produced (YYYY-MM-DD)
+* Version (IPD-IMGT/HLA Version Number)
+* Origin of file (URL)
+* Repository (URL)
+* Author
 
 --------------------------------------------------------------------------------
 hla_nom.txt
@@ -21,12 +21,12 @@ hla_nom.txt
 
 This file contains details of all current and deleted HLA antigens and alleles, and is sorted by locus and antigen/allele number:
 
-HLA Locus
-HLA Antigen or Allele name
-Date assigned (YYYYMMDD)
-Date deleted, if the name has now been abandoned (YYYYMMDD)
-Antigen or Allele that the deleted allele was shown to be identical to
-Reason for the Antigen or Allele to be deleted
+* HLA Locus
+* HLA Antigen or Allele name
+* Date assigned (YYYYMMDD)
+* Date deleted, if the name has now been abandoned (YYYYMMDD)
+* Antigen or Allele that the deleted allele was shown to be identical to
+* Reason for the Antigen or Allele to be deleted
 
 This file includes six fields of information, each separated by a semi-colon (;). Please note that for HLA Antigen names assigned before November 1987, the dates given are only approximate.
 
@@ -60,10 +60,10 @@ rel_ser_ser.txt
 
 This file lists the relationships between all current serologically defined HLA antigens: broad antigens, split antigens and associated antigens.
 
-HLA Locus
-HLA Antigen name
-Split Antigen
-Associated Antigen
+* HLA Locus
+* HLA Antigen name
+* Split Antigen
+* Associated Antigen
 
 This file includes four fields of information, each separated by a semi-colon (;). The file lists only those antigens for which split or associated antigens exist. Multiple values are separated by a forward slash (/).
 
@@ -79,12 +79,11 @@ In cases where an allele has been shown to be associated with more than one sero
 
 This file contains details of all current HLA antigens and alleles, and is sorted by locus and allele number:
 
-HLA Locus
-HLA Allele Name
-Unambiguous Serological Antigen associated with allele
-Possible Serological Antigen associated with allele
-Assumed Serological Antigen associated with allele
-Expert assigned exceptions in search determinants of some registries
+* HLA Locus
+* HLA Allele Name
+* Unambiguous Serological Antigen associated with allele
+* Possible Serological Antigen associated with allele, where multiple serologies are reported
+* Assumed Serological Antigen associated with allele
 
 This file includes five fields of information, each separated by a semi-colon (;).
 
