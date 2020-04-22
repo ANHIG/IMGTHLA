@@ -5,12 +5,6 @@
 This directory contains data for the IPD-IMGT/HLA database. The IPD-IMGT/HLA database is a specialist sequence database for sequences of the human histocompatibility complex. This directory contains the IPD-IMGT/HLA flat files and documentation. 
 
 --------------------------------------------------------------------------------
-Downloading and Cloning This Repository 
---------------------------------------------------------------------------------
-
-Due to the increasing file size for the hla.dat, the repository now requires the use of the Git LFS tools (https://git-lfs.github.com) which handle files over 100MB. Please use these when cloning to ensure the larger files are downloaded correctly. If Git LFS is not used then large files will contain pointers to the Git LFS location rather than the data required. 
-
---------------------------------------------------------------------------------
 File Formats 
 --------------------------------------------------------------------------------
 
@@ -124,9 +118,9 @@ This means that you are free to copy, distribute, display and make commercial
 use of the databases in all legislations, provided you give us credit by citing
 the following;
 
-Robinson J, Halliwell JA, Hayhurst JH, Flicek P, Parham P, Marsh SGE:
-The IPD and IPD-IMGT/HLA Database: allele variant databases
-Nucleic Acids Research (2015), 43:D423-431
+Robinson J, Barker DJ, Georgiou X, Cooper MA, Flicek P, Marsh SGE:
+IPD-IMGT/HLA Database.
+Nucleic Acids Research (2020), 48:D948-55
 
 Robinson J, Malik A, Parham P, Bodmer JG, Marsh SGE:
 IMGT/HLA - a sequence database for the human major histocompatibility complex
