@@ -1,9 +1,9 @@
 # file: TAP2_nuc.txt
-# date: 2020-04-20
-# version: IPD-IMGT/HLA 3.40.0
+# date: 2020-07-13
+# version: IPD-IMGT/HLA 3.41.0
 # origin: http://hla.alleles.org/wmda/TAP2_nuc.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/alignments/TAP2_nuc.txt
-# author: WHO, Steven G. E. Marsh (steven.marsh.ac.uk)
+# author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
                    
  cDNA              1
  AA codon          1
@@ -440,34 +440,26 @@
  cDNA              2026
  AA codon          676
                    |
- TAP2*01:01:01     CAG GAG GGC AAG CTG CAG AAG CTT GCC CAG CTC TAG *** *** *** *** *** *** *** *** *** *** *** *** *** 
- TAP2*01:01:02     --- --- --- --- --- --- --- --- --- --- --- --- GAG GGA CAG GAC CTC TAT TCC CGC CTG GTG CAG CAG CGG 
- TAP2*01:01:03:01  --- --- --- --- --- --- --- --- --- --- --- --- GAG GGA CAG GAC CTC TAT TCC CGC CTG GTG CAG CAG CGG 
- TAP2*01:01:03:02  --- --- --- --- --- --- --- --- --- --- --- --- GAG GGA CAG GAC CTC TAT TCC CGC CTG GTG CAG CAG CGG 
- TAP2*01:01:03:03  --- --- --- --- --- --- --- --- --- --- --- --- GAG GGA CAG GAC CTC TAT TCC CGC CTG GTG CAG CAG CGG 
- TAP2*01:02        --- --- --- --- --- --- --- --- --- --- --- --- *** *** *** *** *** *** *** *** *** *** *** *** *** 
- TAP2*01:03        --- --- --- --- --- --- --- --- --- --- --- --- *** *** *** *** *** *** *** *** *** *** *** *** *** 
- TAP2*01:04        --- --- --- --- --- --- --- --- --- --- --- --- GAG GGA CAG GAC CTC TAT TCC CGC CTG GTG CAG CAG CGG 
- TAP2*02:01:01     --- --- --- --- --- --- --- --- --- --- --- C-- GAG GGA CAG GAC CTC TAT TCC CGC CTG GTT CAG CAG CGG 
- TAP2*02:01:02:01  --- --- --- --- --- --- --- --- --- --- --- C-- GAG GGA CAG GAC CTC TAT TCC CGC CTG GTT CAG CAG CGG 
- TAP2*02:01:02:02  --- --- --- --- --- --- --- --- --- --- --- C-- GAG GGA CAG GAC CTC TAT TCC CGC CTG GTT CAG CAG CGG 
- TAP2*02:01:02:03  --- --- --- --- --- --- --- --- --- --- --- C-- GAG GGA CAG GAC CTC TAT TCC CGC CTG GTT CAG CAG CGG 
+ TAP2*01:01:01     CAG GAG GGC AAG CTG CAG AAG CTT GCC CAG CTC TAG              
+ TAP2*01:01:02     --- --- --- --- --- --- --- --- --- --- --- ---              
+ TAP2*01:01:03:01  --- --- --- --- --- --- --- --- --- --- --- ---              
+ TAP2*01:01:03:02  --- --- --- --- --- --- --- --- --- --- --- ---              
+ TAP2*01:01:03:03  --- --- --- --- --- --- --- --- --- --- --- ---              
+ TAP2*01:02        --- --- --- --- --- --- --- --- --- --- --- ---              
+ TAP2*01:03        --- --- --- --- --- --- --- --- --- --- --- ---              
+ TAP2*01:04        --- --- --- --- --- --- --- --- --- --- --- ---              
+ TAP2*02:01:01     --- --- --- --- --- --- --- --- --- --- --- C--              
+ TAP2*02:01:02:01  --- --- --- --- --- --- --- --- --- --- --- C--              
+ TAP2*02:01:02:02  --- --- --- --- --- --- --- --- --- --- --- C--              
+ TAP2*02:01:02:03  --- --- --- --- --- --- --- --- --- --- --- C--              
                    
- cDNA              2101
- AA codon          701
+ cDNA              2062
+ AA codon          687
                    |
- TAP2*01:01:01     *** *** *** ***                      
- TAP2*01:01:02     CTG ATG GAC TGA                      
- TAP2*01:01:03:01  CTG ATG GAC TGA                      
- TAP2*01:01:03:02  CTG ATG GAC TGA                      
- TAP2*01:01:03:03  CTG ATG GAC TGA                      
- TAP2*01:02        *** *** *** ***                      
- TAP2*01:03        *** *** *** ***                      
- TAP2*01:04        CTG ATG GAC TGA                      
- TAP2*02:01:01     CTG ATG GAC TGA                      
- TAP2*02:01:02:01  CTG ATG GAC TGA                      
- TAP2*02:01:02:02  CTG ATG GAC TGA                      
- TAP2*02:01:02:03  CTG ATG GAC TGA                      
+ TAP2*02:01:01     GAGGG ACAGG ACCTC TATTC CCGCC TGGTT CAGCA GCGGC TGATG GACTG A
+ TAP2*02:01:02:01  GAGGG ACAGG ACCTC TATTC CCGCC TGGTT CAGCA GCGGC TGATG GACTG A
+ TAP2*02:01:02:02  GAGGG ACAGG ACCTC TATTC CCGCC TGGTT CAGCA GCGGC TGATG GACTG A
+ TAP2*02:01:02:03  GAGGG ACAGG ACCTC TATTC CCGCC TGGTT CAGCA GCGGC TGATG GACTG A
 
 Please see http://hla.alleles.org/terms.html for terms of use.
 
