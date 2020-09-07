@@ -1,6 +1,6 @@
 # file: version_report.txt
-# date: 2020-07-13
-# version: IPD-IMGT/HLA 3.41.0
+# date: 2020-09-07
+# version: IPD-IMGT/HLA 3.41.1
 # origin: https://github.com/ANHIG/IMGTHLA/version.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/version.txt
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
@@ -708,16 +708,16 @@ New,DPB1*1117:01,HLA28036,
 New,DPB1*1118:01,HLA28224,
 New,DPB1*1119:01,HLA28226,
 New,DPB1*1120:01,HLA28227,
-New,MICA*002:01:10,HLA27206,
-New,MICA*004:01:07,HLA27243,
-New,MICA*004:01:08,HLA27233,
-New,MICA*007:01:05,HLA27204,
-New,MICA*007:01:06,HLA27205,
-New,MICA*008:01:08,HLA27245,
-New,MICA*008:01:09,HLA27265,
-New,MICA*008:04:05,HLA27228,
+New,MICA*002:01:10,HLA27206,Genomic Sequence
+New,MICA*004:01:07,HLA27243,Genomic Sequence
+New,MICA*004:01:08,HLA27233,Genomic Sequence
+New,MICA*007:01:05,HLA27204,Genomic Sequence
+New,MICA*007:01:06,HLA27205,Genomic Sequence
+New,MICA*008:01:08,HLA27245,Genomic Sequence
+New,MICA*008:01:09,HLA27265,Genomic Sequence
+New,MICA*008:04:05,HLA27228,Genomic Sequence
 New,MICA*008:13,HLA27319,
-New,MICA*009:01:06,HLA26972,
+New,MICA*009:01:06,HLA26972,Genomic Sequence
 New,MICA*012:01:03,HLA26973,
 New,MICA*018:01:04,HLA26906,Genomic Sequence
 New,MICA*110,HLA27258,
@@ -857,6 +857,7 @@ Modified,DPA1*01:04,HLA00501,Sequence extended from position 101 to 120
 Modified,DPB1*849:01,HLA20608,Sequence extended from position 1 to 100 Genomic Sequence Added
 Modified,DPB1*978:01,HLA23148,Sequence extended from position 647 to 757
 Modified,DPB1*1052:01,HLA26023,Sequence extended from position 647 to 757
+Modified,MICA*009:01:01,HLA01020,Sequence extended from position 1 to 70 Genomic Sequence Added
 Modified,TAP2*01:01:01,HLA00959,Sequence trimmed to reference stop codon
 Modified,TAP2*01:01:02,HLA06625,Sequence trimmed to reference stop codon
 Modified,TAP2*01:01:03:01,HLA06636,Sequence trimmed to reference stop codon
