@@ -74,6 +74,8 @@ https://github.com/ANHIG/IMGTHLA/blob/Latest/wmda/README.md
 
 Please refer to the relevant XSD file for information regarding the XML files, which can be found here: https://github.com/ANHIG/IMGTHLA/blob/Latest/xml/hla_ambigs.xsd
 
+Please note in release 3.43.0, there are three XML files for the release, hla.xml, hla_ciwd.xml and hla_ambigs.xml. The hla_ciwd.xml file is an updated version of the hla.xml file and includes the addition of new information from the Common, intermediate and well‐documented HLA alleles in world populations: CIWD version 3.0.0 (https://doi.org/10.1111/tan.13811). This is as new elements have been required to incorporate this data, and the CWD version 2.0.0 data has been recoded to the same structure. In release 3.44.0 and onwards, hla_ciwd.xml will replace hla.xml, and the older format archived.
+
 ### Other Files
 
 The top-level directory contains the following files; 
