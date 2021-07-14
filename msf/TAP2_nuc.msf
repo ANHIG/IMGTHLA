@@ -1,19 +1,19 @@
 !!NA_MULTIPLE_ALIGNMENT
 
-   MSF: 2061  Type: N  Apr 19, 2021  09:00  Check: 0 ..
+   MSF: 2112  Type: N  Jul 13, 2021  15:39  Check: 0 ..
 
- Name: TAP2*01:01:01    Len:  2061  Check: 2667  Weight:  1.00
- Name: TAP2*01:01:02    Len:  2061  Check: 4146  Weight:  1.00
- Name: TAP2*01:01:03:01 Len:  2061  Check: 3228  Weight:  1.00
- Name: TAP2*01:01:03:02 Len:  2061  Check: 3228  Weight:  1.00
- Name: TAP2*01:01:03:03 Len:  2061  Check: 3228  Weight:  1.00
- Name: TAP2*01:02       Len:  2061  Check: 3222  Weight:  1.00
- Name: TAP2*01:03       Len:  2061  Check:  181  Weight:  1.00
- Name: TAP2*01:04       Len:  2061  Check: 2676  Weight:  1.00
- Name: TAP2*02:01:01    Len:  2061  Check: 4627  Weight:  1.00
- Name: TAP2*02:01:02:01 Len:  2061  Check: 3709  Weight:  1.00
- Name: TAP2*02:01:02:02 Len:  2061  Check: 3709  Weight:  1.00
- Name: TAP2*02:01:02:03 Len:  2061  Check: 3709  Weight:  1.00
+ Name: TAP2*01:01:01    Len:  2112  Check: 6911  Weight:  1.00
+ Name: TAP2*01:01:02    Len:  2112  Check: 8390  Weight:  1.00
+ Name: TAP2*01:01:03:01 Len:  2112  Check: 7472  Weight:  1.00
+ Name: TAP2*01:01:03:02 Len:  2112  Check: 7472  Weight:  1.00
+ Name: TAP2*01:01:03:03 Len:  2112  Check: 7472  Weight:  1.00
+ Name: TAP2*01:02       Len:  2112  Check: 7466  Weight:  1.00
+ Name: TAP2*01:03       Len:  2112  Check: 4425  Weight:  1.00
+ Name: TAP2*01:04       Len:  2112  Check: 6920  Weight:  1.00
+ Name: TAP2*02:01:01    Len:  2112  Check: 9758  Weight:  1.00
+ Name: TAP2*02:01:02:01 Len:  2112  Check: 8840  Weight:  1.00
+ Name: TAP2*02:01:02:02 Len:  2112  Check: 8840  Weight:  1.00
+ Name: TAP2*02:01:02:03 Len:  2112  Check: 8840  Weight:  1.00
 //
 
   TAP2*01:01:01  ATGCGGCTCC CTGACCTGAG ACCCTGGACC TCCCTGCTGC TGGTGGACGC
@@ -549,37 +549,29 @@ TAP2*02:01:02:01  GCGCGCCCAC CAGATCCTGG TGCTCCAGGA GGGCAAGCTG CAGAAGCTTG
 TAP2*02:01:02:02  GCGCGCCCAC CAGATCCTGG TGCTCCAGGA GGGCAAGCTG CAGAAGCTTG
 TAP2*02:01:02:03  GCGCGCCCAC CAGATCCTGG TGCTCCAGGA GGGCAAGCTG CAGAAGCTTG
 
-  TAP2*01:01:01  CCCAGCTCTA G
-  TAP2*01:01:02  CCCAGCTCTA G
-TAP2*01:01:03:01  CCCAGCTCTA G
-TAP2*01:01:03:02  CCCAGCTCTA G
-TAP2*01:01:03:03  CCCAGCTCTA G
-     TAP2*01:02  CCCAGCTCTA G
-     TAP2*01:03  CCCAGCTCTA G
-     TAP2*01:04  CCCAGCTCTA G
-  TAP2*02:01:01  CCCAGCTCCA G
-TAP2*02:01:02:01  CCCAGCTCCA G
-TAP2*02:01:02:02  CCCAGCTCCA G
-TAP2*02:01:02:03  CCCAGCTCCA G
+  TAP2*01:01:01  CCCAGCTCTA G......... .......... .......... ..........
+  TAP2*01:01:02  CCCAGCTCTA G......... .......... .......... ..........
+TAP2*01:01:03:01  CCCAGCTCTA G......... .......... .......... ..........
+TAP2*01:01:03:02  CCCAGCTCTA G......... .......... .......... ..........
+TAP2*01:01:03:03  CCCAGCTCTA G......... .......... .......... ..........
+     TAP2*01:02  CCCAGCTCTA G......... .......... .......... ..........
+     TAP2*01:03  CCCAGCTCTA G......... .......... .......... ..........
+     TAP2*01:04  CCCAGCTCTA G......... .......... .......... ..........
+  TAP2*02:01:01  CCCAGCTCCA GGAGGGACAG GACCTCTATT CCCGCCTGGT TCAGCAGCGG
+TAP2*02:01:02:01  CCCAGCTCCA GGAGGGACAG GACCTCTATT CCCGCCTGGT TCAGCAGCGG
+TAP2*02:01:02:02  CCCAGCTCCA GGAGGGACAG GACCTCTATT CCCGCCTGGT TCAGCAGCGG
+TAP2*02:01:02:03  CCCAGCTCCA GGAGGGACAG GACCTCTATT CCCGCCTGGT TCAGCAGCGG
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  TAP2*01:01:01  .......... ..
+  TAP2*01:01:02  .......... ..
+TAP2*01:01:03:01  .......... ..
+TAP2*01:01:03:02  .......... ..
+TAP2*01:01:03:03  .......... ..
+     TAP2*01:02  .......... ..
+     TAP2*01:03  .......... ..
+     TAP2*01:04  .......... ..
+  TAP2*02:01:01  CTGATGGACT GA
+TAP2*02:01:02:01  CTGATGGACT GA
+TAP2*02:01:02:02  CTGATGGACT GA
+TAP2*02:01:02:03  CTGATGGACT GA
 
