@@ -96,7 +96,18 @@ The top-level directory contains the following lists, in order to provide consis
 * Allelelist.txt and Allelelist.XXXX.txt - a csv file listed all alleles named at the time of the release, the XXXX in the file denotes a particular release. Allelelist.txt is a copy of the latest version.
 * Allelelist_history.txt - a csv file detailing for each allele the official name used in each release of the database. 
 * Deleted_alleles.txt - a csv file detailing all deleted allele names, with reasons for the deletion. This list also includes details of any suffix changes. 
+* release_version.txt - a plain text file which denotes the current release version. 
 
+### Versioning
+
+The database version number, IPD-IMGT/HLA 3.44.0 2021-04-20 b9d9ef7, can be interpreted as;
+
+* Database Name
+* Major release number (nomenclature version, quarterly release, sequence version)
+* Date
+* Latest commit for ANHIG/IMGTHLA/Latest branch
+
+The major release number contains three key fields, the first is the nomenclature version, which is currently 3. The second is the quarterly release number, which is incremented by 1 every January, April, July and October with each subsequent release. The final third number represents the sequence version. A '0' is used for the primary quarterly release, and only incremented if any subsequent interim path or update contains a change to a valid base (not a * or a .) in either the nucleotide (both cDNA and gDNA) or protein sequence. Changes to the positioning of indels, or unsequenced bases are not included if the raw sequence remains unchanged.
 
 --------------------------------------------------------------------------------
  CONTACTS
