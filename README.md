@@ -5,6 +5,12 @@
 This directory contains data for the IPD-IMGT/HLA database. The IPD-IMGT/HLA database is a specialist sequence database for sequences of the human histocompatibility complex. This directory contains the IPD-IMGT/HLA flat files and documentation. 
 
 --------------------------------------------------------------------------------
+Cloning the Repository
+--------------------------------------------------------------------------------
+
+Due to the increasing size of the hla.dat file, the repository now requires the use of the Git LFS tools (https://git-lfs.github.com) to handle files over 100MB in size. Please use this when cloning the repository to ensure the larger files are downloaded correctly. If Git LFS is not used then large files will contain pointers to the Git LFS location rather than the data required.
+
+--------------------------------------------------------------------------------
 File Formats 
 --------------------------------------------------------------------------------
 
@@ -84,7 +90,7 @@ The top-level directory contains the following files;
 * LICENSE.md - a file detailing the licensing of data included in the IPD-IMGT/HLA Database.
 * Nomenclature_2009.txt - a file detailing pre-2010 allele nomenclature
 * README.md - This README file
-* hla.dat - An EMBL-ENA style format file containing data from the IPD-IMGT/HLA Database, see http://www.ebi.ac.uk/ipd/imgt/hla/docs/manual.html for further details.
+* hla.dat - An EMBL-ENA style format file containing data from the IPD-IMGT/HLA Database, see http://www.ebi.ac.uk/ipd/imgt/hla/docs/manual.html for further details. 
 * hla_gen.fasta - a copy of the file in the fasta directory, includes the DNA sequence for all alleles, which have genomic sequences available. 
 * hla_nuc.fasta - a copy of the file in the fasta directory, includes the DNA sequence for the CDS sequence of all alleles. 
 * hla_prot.fasta - a copy of the file in the fasta directory, includes the amino acid sequence for all alleles. 
