@@ -80,6 +80,13 @@ Please refer to the relevant XSD file for information regarding the XML files, w
 
 Please note in release 3.43.0, there are three XML files for the release, hla.xml, hla_ciwd.xml and hla_ambigs.xml. The hla_ciwd.xml file is an updated version of the hla.xml file and includes the addition of new information from the Common, intermediate and well‐documented HLA alleles in world populations: CIWD version 3.0.0 (https://doi.org/10.1111/tan.13811). This is as new elements have been required to incorporate this data, and the CWD version 2.0.0 data has been recoded to the same structure. In release 3.44.0 and onwards, hla_ciwd.xml will replace hla.xml, and the older format archived.
 
+### Allele List Folder
+
+Lists of alleles for different versions of the database are now included in this single folder due to the large number of files.
+
+These filenames take the format Allelelist.XXXX.txt with the XXXX in the file denotes a particular release. These files are a csv format detailing for each allele the official name used in each release of the database.
+
+
 ### Other Files
 
 The top-level directory contains the following files; 
@@ -97,7 +104,7 @@ The top-level directory contains the following files;
 The top-level directory contains the following lists, in order to provide consistency in both formatting and to record versioning information, as of version 3.32.0, all list files have been converted to csv format, and contain a header. The header is designated by hash tags at the start of the line.  
 
 * Allele_status.txt - a csv file detailing for each allele how many times it has been submitted, from how many cells, the unconfirmed/confirmed status of the allele, if the CDS is fully sequenced and if the allele is cDNa or gDNA sequence.
-* Allelelist.txt and Allelelist.XXXX.txt - a csv file listed all alleles named at the time of the release, the XXXX in the file denotes a particular release. Allelelist.txt is a copy of the latest version.
+* Allelelist.txt  - a csv file listing all alleles named at the time of the latest release.
 * Allelelist_history.txt - a csv file detailing for each allele the official name used in each release of the database. 
 * Deleted_alleles.txt - a csv file detailing all deleted allele names, with reasons for the deletion. This list also includes details of any suffix changes. 
 * release_version.txt - a plain text file which denotes the current release version. 
