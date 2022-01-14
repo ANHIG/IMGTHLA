@@ -80,12 +80,11 @@ Please refer to the relevant XSD file for information regarding the XML files, w
 
 Please note in release 3.43.0, there are three XML files for the release, hla.xml, hla_ciwd.xml and hla_ambigs.xml. The hla_ciwd.xml file is an updated version of the hla.xml file and includes the addition of new information from the Common, intermediate and well‐documented HLA alleles in world populations: CIWD version 3.0.0 (https://doi.org/10.1111/tan.13811). This is as new elements have been required to incorporate this data, and the CWD version 2.0.0 data has been recoded to the same structure. In release 3.44.0 and onwards, hla_ciwd.xml will replace hla.xml, and the older format archived.
 
-### Allele List Folder
+### Allele List Folder
 
 Lists of alleles for different versions of the database are now included in this single folder due to the large number of files.
 
 These filenames take the format Allelelist.XXXX.txt with the XXXX in the file denotes a particular release. These files are a csv format detailing for each allele the official name used in each release of the database.
-
 
 ### Other Files
 
@@ -172,8 +171,8 @@ for the continued maintenance of the database. The Sequence.org initiative at
 the NMDP has solicited funds from institutions and companies who produce HLA
 typing reagents, typing systems, and instrumentation or that otherwise utilise
 these databases in critical components of their business. To learn more about
-how your business can support the IPD-IMGT/HLA Database, please contact: Todd Peterson
-(Email: Todd [dot] Peterson [at] nmdp [dot] org).
+how your business can support the IPD-IMGT/HLA Database, please contact:
+Anna Bedard, (Email: abedard [at] nmdp [dot] org), Be The Match Foundation.
 
 If you intend to use any of the data found on our sites for commercial use, we
 would ask you to consider funding the database and the work we do. Without
