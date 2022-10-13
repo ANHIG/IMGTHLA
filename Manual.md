@@ -40,7 +40,8 @@ Note that each line begins with a two-character line code, which indicates the t
 
 A sample entry is shown below:
 
-```ID   HLA00001; SV 1; standard; DNA; HUM; 3503 BP.
+```
+ID   HLA00001; SV 1; standard; DNA; HUM; 3503 BP.
 XX
 AC   HLA00001;
 XX
