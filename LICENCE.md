@@ -65,3 +65,19 @@ substitute for professional medical advice, diagnosis, treatment or care.
 We reserve the right to use information about visitors (IP addresses), date/time
 visited, page visited, referring website, etc. for site usage statistics and to
 improve our services.
+
+--------------------------------------------------------------------------------
+CE Marking, MHRA and MDR compliance
+--------------------------------------------------------------------------------
+
+The matching algorithms available on the IPD websites are classified as decision 
+support software, they provide reference information to enable a healthcare professional
+(HCP) to make a clinical decision, where the HCP ultimately rely on their own knowledge
+and expertise to decide on the treatment option for their patient. The algorithms will
+filter the data for the healthcare professional to review, the raw data will always need
+to be reviewed and any reported results are calculated based on algorithms implemented
+from peer-reviewed published papers. The results could be reproduced manually but the
+tools allow for a faster analysis time, and analysis of multiple patient and donor
+combinations at the same time. For this reason, this software is not considered as a
+medical device under regulation The United Kingdom Medical Devices Regulation 2002
+(UK MDR 2002).

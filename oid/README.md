@@ -22,4 +22,4 @@ The ISO OIDs are listed in the allele reference pages of the IMGT/HLA Database a
 
 http://www.ebi.ac.uk/cgi-bin/ipd/imgt/hla/get_allele.cgi?2.16.840.1.113883.13.252.1.1.1
 
-Please see http://www.ebi.ac.uk/ipd/imgt/hla/isoid.html for further details.
+Please see https://www.ebi.ac.uk/ipd/imgt/hla/about/help/hl7_oid/ for further details.

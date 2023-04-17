@@ -105,7 +105,7 @@
     <xs:complexType>
       <xs:sequence>
         <xs:element ref="x:species"/>
-        <xs:element ref="x:ethnicity"/>
+        <xs:element ref="x:ancestry"/>
         <xs:element minOccurs="0" ref="x:samples"/>
       </xs:sequence>
     </xs:complexType>
@@ -117,14 +117,14 @@
       <xs:attribute name="ncbitaxon" use="required" type="xs:integer"/>
     </xs:complexType>
   </xs:element>
-  <xs:element name="ethnicity">
+  <xs:element name="ancestry">
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="x:sample_ethnicity"/>
+        <xs:element maxOccurs="unbounded" ref="x:sample_ancestry"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="sample_ethnicity" type="xs:string"/>
+  <xs:element name="sample_ancestry" type="xs:string"/>
   <xs:element name="samples">
     <xs:complexType>
       <xs:sequence>

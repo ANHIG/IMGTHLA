@@ -22,7 +22,7 @@ Files designated “X_nuc.txt”, where X is a locus or gene, contain the nucleo
 
 Files designated “X_gen.txt”, where X is a locus or gene, contain genomic DNA sequences. Please note that for alleles that do not possess genomic sequences there will be no entry in the file, or where there is only a single genomic sequence at the locus, a file will not be produced.  
 
-For further information on the construction of these text files, please refer to the description available here: http://www.ebi.ac.uk/ipd/imgt/hla/nomenclature/alignments.html. To provide consistency in both formatting and to record versioning information, as of version 3.32.0, the header is designated by hash tags at the start of the line. 
+For further information on the construction of these text files, please refer to the description available here: https://www.ebi.ac.uk/ipd/imgt/hla/alignment/help/. To provide consistency in both formatting and to record versioning information, as of version 3.32.0, the header is designated by hash tags at the start of the line. 
 
 A zip compressed archive of all the text-format alignment files is available from the top-level directory. 
 
@@ -63,7 +63,7 @@ Files designated “X_gen.pir”, where X is a locus or gene, contain genomic DN
 
 ### TCE Folder
 
-The files in this folder provide a listing of the T-Cell Epitope Group Assignments for DPB1 proteins. The assignments are taken from the algorithms used for the online tools at https://www.ebi.ac.uk/ipd/imgt/hla/dpb.html. The file formart is as follows;
+The files in this folder provide a listing of the T-Cell Epitope Group Assignments for DPB1 proteins. The assignments are taken from the algorithms used for the online tools at https://www.ebi.ac.uk/ipd/imgt/hla/matching/. The file formart is as follows;
 
 * DPB1 allele, DPB1 protein, Version 1 Assignment, Version 2 Assignment, Comments
 
@@ -94,7 +94,7 @@ The top-level directory contains the following files;
 * LICENSE.md - a file detailing the licensing of data included in the IPD-IMGT/HLA Database.
 * Nomenclature_2009.txt - a file detailing pre-2010 allele nomenclature
 * README.md - This README file
-* hla.dat - An EMBL-ENA style format file containing data from the IPD-IMGT/HLA Database, see http://www.ebi.ac.uk/ipd/imgt/hla/docs/manual.html for further details. 
+* hla.dat - An EMBL-ENA style format file containing data from the IPD-IMGT/HLA Database, see (https://github.com/ANHIG/IMGTHLA/blob/Latest/Manual.md) for further details. 
 * hla_gen.fasta - a copy of the file in the fasta directory, includes the DNA sequence for all alleles, which have genomic sequences available. 
 * hla_nuc.fasta - a copy of the file in the fasta directory, includes the DNA sequence for the CDS sequence of all alleles. 
 * hla_prot.fasta - a copy of the file in the fasta directory, includes the amino acid sequence for all alleles. 
@@ -127,7 +127,7 @@ For information on the IPD-IMGT/HLA Database please see the website at:
 http://www.ebi.ac.uk/ipd/imgt/hla
 
 Additional information on sequence file formats is available from:
-http://www.ebi.ac.uk/ipd/imgt/hla/download.html
+http://www.ebi.ac.uk/ipd/imgt/hla/download/
 
 For any other information please contact hla@alleles.org.
 

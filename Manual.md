@@ -63,7 +63,7 @@ CC   IPD-IMGT/HLA Release Version 3.30.0
 CC   --------------------------------------------------------------------------
 CC   Copyrighted by the IPD-IMGT/HLA Database, Distributed under the Creative
 CC   Commons Attribution-NoDerivs License, see;
-CC   http://www.ebi.ac.uk/ipd/imgt/hla/licence.html for further details.
+CC   http://www.ebi.ac.uk/ipd/imgt/hla/licence/ for further details.
 CC   --------------------------------------------------------------------------
 XX
 RN   [1]
