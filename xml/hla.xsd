@@ -38,6 +38,7 @@
       <xs:attribute name="firstreleased" use="required" type="xs:NMTOKEN"/>
       <xs:attribute name="lastupdated" use="required" type="xs:NMTOKEN"/>
       <xs:attribute name="releasestatus" use="required"/>
+      <xs:attribute name="releasecomments" use="required"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="locus">
