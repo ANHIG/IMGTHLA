@@ -1,6 +1,6 @@
 # file: Deleted_alleles.txt
-# date: 2023-04-17
-# version: IPD-IMGT/HLA 3.52.0
+# date: 2023-07-12
+# version: IPD-IMGT/HLA 3.53.0
 # origin: https://github.com/ANHIG/IMGTHLA/Deleted_alleles.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/Deleted_alleles.txt
 # author: Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
@@ -18,6 +18,7 @@ HLA04145,A*11:53,Sequence shown to be identical to corrected sequence of A*11:02
 HLA12676,A*23:69,Sequence shown to contain errors and be identical to A*23:01:01:01 (March 2016)
 HLA36789,A*23:113N,Sequence named in error and renamed A*24:586N (November 2022)
 HLA08806,A*24:211,Sequence named in error and renamed A*24:135:02 (September 2012)
+HLA37670,A*24:459:02,Sequence named in error and renamed A*24:608N (June 2023)
 HLA24677,A*24:471,Sequence shown to contain errors and be identical to A*24:02:01:01 (September 2019)
 HLA13249,A*26:03:02,Sequence named in error and renamed A*26:111 (February 2015)
 HLA05425,A*26:44,Sequence named in error and renamed A*26:43:02 (June 2010)
@@ -51,6 +52,7 @@ HLA26732,B*45:26,Sequence shown to contain errors and be identical to B*45:01:01
 HLA00332,B*47:01:01:01,Sequence shown to contain errors and be identical to B*47:01:01:03 (April 2018)
 HLA05834,B*49:15,Sequence shown to be identical to B*49:01:01:01 (June 2014)
 HLA37168,B*55:134,Sequence named in error and renamed B*56:92 (February 2023)
+HLA37379,B*56:05:02,Extended and renamed B*56:94 (April 2023)
 HLA18098,B*56:55:01:01,Sequence has now been shown to be in error and is identical to B*56:55:01:02 (July 2018)
 HLA05299,B*58:30,Sequence shown to contain errors and be identical to B*58:01:01:01 (July 2012)
 HLA00393,B*78:01:01:01,Sequence shown to contain errors and be identical to B*78:01:01:02 (March 2020)
@@ -63,7 +65,7 @@ HLA01640,B*1559,Sequence renamed B*35:44 (August 2002)
 HLA01517,B*1816,Sequence named in error and shown to be identical to B*18:14 (November 2001)
 HLA01321,B*2722,Sequence shown to be identical to B*27:06:01:01 (April 2002)
 HLA02797,B*3573,Sequence renamed B*35:08:03 (August 2007)
-HLA01186,B*3921,Sequence shown to be identical to B*39:24:01 (December 2000)
+HLA01186,B*3921,Sequence shown to be identical to B*39:24:01:01 (December 2000)
 HLA00308,B*4017,Sequence named in error and shown to be identical to B*40:16:01:01 (April 1998)
 HLA01523,B*4041,Sequence named in error and shown to be identical to B*40:40 (November 2001)
 HLA00985,B*4203,Name never assigned
@@ -264,3 +266,11 @@ HLA35862,C*08:254Q,Sequence renamed C*08:254 (September 2022)
 HLA36173,B*57:164Q,Sequence renamed B*57:164 (September 2022)
 HLA36265,E*01:130,Sequence renamed E*01:130 (September 2022)
 HLA35690,A*24:02:158,Sequence renamed A*24:02:158Q (February 2023)
+HLA36946,A*02:03:12,Sequence renamed A*02:03:12Q (April 2023)
+HLA29683,A*03:01:96,Sequence renamed A*03:01:96Q (April 2023)
+HLA25951,A*11:01:98,Sequence renamed A*11:01:98Q (April 2023)
+HLA27961,A*30:02:25,Sequence renamed A*30:02:25Q (April 2023)
+HLA31318,A*34:01:06,Sequence renamed A*34:01:06Q (April 2023)
+HLA31710,A*68:01:59,Sequence renamed A*68:01:59Q (April 2023)
+HLA27609,DRB1*10:38Q,Sequence renamed DRB1*10:38 (April 2023)
+HLA35696,DRB1*11:01:01:12Q,Sequence renamed DRB1*11:01:01:12N (May 2023)
