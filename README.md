@@ -80,6 +80,8 @@ Please refer to the relevant XSD file for information regarding the XML files, w
 
 Please note in release 3.43.0, there are three XML files for the release, hla.xml, hla_ciwd.xml and hla_ambigs.xml. The hla_ciwd.xml file is an updated version of the hla.xml file and includes the addition of new information from the Common, intermediate and well‐documented HLA alleles in world populations: CIWD version 3.0.0 (https://doi.org/10.1111/tan.13811). This is as new elements have been required to incorporate this data, and the CWD version 2.0.0 data has been recoded to the same structure. In release 3.44.0 and onwards, hla_ciwd.xml will replace hla.xml, and the older format archived.
 
+Please note in release 3.53.0, there was a change made to the hla.xml. The releaseversions tag attribute releasestatus has been changed to a binary flag containing either "Public" or "Deleted" to allow for easier filtering of deleted alleles. In addition a releasecomments attribute has been added containing information about changes to this allele with this verison of the database, this contains the information previously stored in the releasestatus attribute.
+
 ### Allele List Folder
 
 Lists of alleles for different versions of the database are now included in this single folder due to the large number of files.
