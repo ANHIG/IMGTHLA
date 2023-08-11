@@ -143,9 +143,9 @@ This means that you are free to copy, distribute, display and make commercial
 use of the databases in all legislations, provided you give us credit by citing
 the following;
 
-Robinson J, Barker DJ, Georgiou X, Cooper MA, Flicek P, Marsh SGE:
-IPD-IMGT/HLA Database.
-Nucleic Acids Research (2020), 48:D948-55
+Barker DJ, Maccari G, Georgiou X, Cooper MA, Flicek P, Robinson J, Marsh SGE:
+The IPD-IMGT/HLA Database.
+Nucleic Acids Research (2023), 51:D1053-60
 
 Robinson J, Malik A, Parham P, Bodmer JG, Marsh SGE:
 IMGT/HLA - a sequence database for the human major histocompatibility complex
