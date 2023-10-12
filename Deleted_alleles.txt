@@ -1,6 +1,6 @@
 # file: Deleted_alleles.txt
-# date: 2023-07-12
-# version: IPD-IMGT/HLA 3.53.0
+# date: 2023-10-12
+# version: IPD-IMGT/HLA 3.54.0
 # origin: https://github.com/ANHIG/IMGTHLA/Deleted_alleles.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/Deleted_alleles.txt
 # author: Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
@@ -13,7 +13,7 @@ HLA00022,A*02:17:01,Sequence has now been shown to be in error and is identical 
 HLA05155,A*02:100,Name never assigned
 HLA11939,A*03:194,Sequence shown to contain errors and be identical to A*03:213 (July 2015)
 HLA12146,A*03:200Q,Sequence shown to contain errors and be identical to A*03:266N (September 2017)
-HLA15827,A*03:260,Sequence shown to contain errors and be identical to A*03:284N (September 2017)
+HLA15827,A*03:260,Sequence shown to contain errors and be identical to A*03:284N (September 2017). The sequence originally assigned to A*03:260, has been subsequently resubmitted and is now named A*03:395 (July 2020)
 HLA04145,A*11:53,Sequence shown to be identical to corrected sequence of A*11:02:01:01 (November 2011)
 HLA12676,A*23:69,Sequence shown to contain errors and be identical to A*23:01:01:01 (March 2016)
 HLA36789,A*23:113N,Sequence named in error and renamed A*24:586N (November 2022)
@@ -83,7 +83,7 @@ HLA01978,B*150105,Sequence error corrected and renamed B*15:120 (September 2006)
 HLA17559,C*01:63:01,Sequence renamed C*01:141 (June 2017)
 HLA22495,C*02:02:05,Sequence renamed C*02:10:06 (February 2019)
 HLA18539,C*02:16:01,Sequence renamed C*02:137 (March 2018)
-HLA01125,C*03:12,Sequence shown to contain errors and be identical to C*03:19 (January 2013)
+HLA01125,C*03:12,Sequence shown to contain errors and be identical to C*03:19 (January 2013). The sequence originally assigned to C*03:12, has been subsequently resubmitted and is now named C*03:307 (October 2015)
 HLA21932,C*03:99:01,Sequence shown to belong to C*01 allele group renamed C*01:169:01 (October 2018)
 HLA21933,C*03:99:02,Sequence shown to belong to C*01 allele group renamed C*01:169:02 (October 2018)
 HLA20733,C*04:01:01:30,Sequence name assigned in error and shown to be identical to C*04:01:01:27 (December 2018)
@@ -94,7 +94,7 @@ HLA08905,C*07:295,Name never assigned
 HLA34250,C*08:01:08,Sequence extended and renamed C*08:22:02 (March 2022)
 HLA08807,C*08:64,Sequence named in error and renamed C*08:33:03 (September 2012)
 HLA29057,C*12:274:02N,Sequence named in error and renamed C*12:329N (September 2020)
-HLA25418,C*12:299N,Sequence shown to contain errors and be identical to C*12:03:01:01 (April 2020)
+HLA25418,C*12:299N,Sequence shown to contain errors and be identical to C*12:03:01:01 (April 2020). The sequence originally assigned to C*12:299N, has been subsequently resubmitted and is now named C*12:330Q (November 2020)
 HLA26825,C*15:05:08,Sequence renamed C*15:152:03 (January 2020)
 HLA02838,C*15:20,Sequence shown to be identical to C*15:27 (June 2012)
 HLA34812,C*16:15:01,Sequence extended and renamed C*16:201 (June 2022)
@@ -127,7 +127,7 @@ HLA14593,F*01:01:03:01,Sequence corrected and renamed F*01:01:01:09 (December 20
 HLA14594,F*01:01:03:02,Sequence corrected and renamed F*01:01:01:10 (December 2015)
 HLA14595,F*01:01:03:03,Sequence corrected and renamed F*01:01:01:11 (December 2015)
 HLA14596,F*01:01:03:04,Sequence corrected and renamed F*01:01:01:12 (December 2015)
-HLA03113,G*010110,Sequence shown to be identical to G*01:04:04 (April 2007)
+HLA03113,G*010110,Sequence shown to be identical to G*01:04:04:01 (April 2007)
 HLA07779,DRB1*03:11:02,Sequence shown to contain errors and renamed DRB1*03:81 (March 2012)
 HLA06843,DRB1*04:05:12,Sequence shown to contain errors and be identical to DRB1*04:05:14 (July 2012)
 HLA14939,DRB1*04:94:02N,Sequence named in error and renamed DRB1*04:212N (May 2016)
@@ -154,7 +154,7 @@ HLA24174,DQA1*02:06,Sequence has now been shown to be in error and is identical 
 HLA26397,DQA1*03:01:01:02,Name assigned in error and shown to be identical to DQA1*03:01:01:01 (March 2020)
 HLA17310,DQA1*03:02:01:03,Sequence named in error and shown to be identical to DQA1*03:02:01:02 (September 2017)
 HLA00609,DQA1*03012,Sequence shown to contain errors and be identical to DQA1*03:02:01:01 (January 1995)
-HLA00615,DQA1*05013,To take account of coding polymorphism in the leader peptide sequence renamed DQA1*05:05:01:01 (April 1998)
+HLA00615,DQA1*05013,To take account of coding polymorphism in the leader peptide sequence renamed DQA1*05:05:01:01 (April 1998). The sequence originally assigned to DQA1*05013, has been subsequently resubmitted and is now named DQA1*05:01:08:01 (March 2022)
 HLA09735,DQB1*06:92:01,Sequence extended and renamed DQB1*06:385 (November 2020)
 HLA16145,DQB1*06:220,Sequence named in error and shown to be identical to DQB1*06:217 (December 2016)
 HLA31849,DQB1*02:01:10,Allele named deleted as shown to be partial of newly named DQB1*02:02:15 (July 2021)
@@ -185,7 +185,7 @@ HLA01382,MICA*007:02,Sequence extended and renamed MICA*111:01 (March 2020)
 HLA27320,MICA*007:04,Sequence extended and renamed MICA*112:01:01 (February 2020)
 HLA29059,MICA*008:07,Sequence named in error and renamed MICA*008:01:10 (September 2020)
 HLA01337,MICA*021,Sequence renamed MICA*012:03 (August 2007)
-HLA07766,MICA*071,Sequence shown to contain errors and renamed MICA*017:01 (March 2013)
+HLA07766,MICA*071,Sequence shown to contain errors and renamed MICA*017:01 (March 2013). The sequence originally assigned to MICA*071, has been subsequently resubmitted and is now named MICA*257 (September 2022)
 HLA02189,MICB*017,Sequence renamed MICB*005:05 (August 2007)
 # Alleles With Suffix Changes
 AlleleID,Allele,Description
