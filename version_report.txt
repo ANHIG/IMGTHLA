@@ -1,906 +1,634 @@
 # file: version_report.txt
-# date: 2023-10-12
-# version: IPD-IMGT/HLA 3.54.0
+# date: 2024-01-16
+# version: IPD-IMGT/HLA 3.55.0
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/version_report.txt
 # origin: https://github.com/ANHIG/IMGTHLA/version_report.txt
 # author: Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
 Status,Alleles,AlleleID,Comments
-New,A*01:01:01:114,HLA38152,Genomic Sequence
-New,A*01:01:01:115,HLA38461,Genomic Sequence
-New,A*01:01:148,HLA38472,Genomic Sequence
-New,A*01:01:149,HLA38261,Genomic Sequence
-New,A*01:01:150,HLA38600,Genomic Sequence
-New,A*01:01:151,HLA38637,Genomic Sequence
-New,A*01:01:152,HLA38617,Genomic Sequence
-New,A*01:436Q,HLA38061,Genomic Sequence
-New,A*01:437,HLA38004,Genomic Sequence
-New,A*01:438,HLA38336,
-New,A*01:439,HLA38570,Genomic Sequence
-New,A*01:440,HLA38624,Genomic Sequence
-New,A*01:441,HLA38584,Genomic Sequence
-New,A*01:442,HLA38526,Genomic Sequence
-New,A*01:443,HLA38623,Genomic Sequence
-New,A*02:01:01:246,HLA38142,Genomic Sequence
-New,A*02:01:01:247,HLA38214,Genomic Sequence
-New,A*02:01:01:248,HLA38462,Genomic Sequence
-New,A*02:01:213,HLA37977,Genomic Sequence
-New,A*02:01:214,HLA38505,Genomic Sequence
-New,A*02:01:215,HLA38634,Genomic Sequence
-New,A*02:05:01:24,HLA38552,Genomic Sequence
-New,A*02:1116,HLA38701,Genomic Sequence
-New,A*02:1117,HLA37984,Genomic Sequence
-New,A*02:1118,HLA37993,Genomic Sequence
-New,A*02:1119N,HLA38406,Genomic Sequence
-New,A*02:1120,HLA38495,Genomic Sequence
-New,A*02:1121,HLA38300,Genomic Sequence
-New,A*02:1122,HLA38351,Genomic Sequence
-New,A*02:1123,HLA38602,Genomic Sequence
-New,A*02:1124,HLA38564,Genomic Sequence
-New,A*02:1125,HLA38537,Genomic Sequence
-New,A*02:1126,HLA38615,Genomic Sequence
-New,A*02:1127,HLA38725,Genomic Sequence
-New,A*02:1128,HLA38620,
-New,A*03:01:121,HLA38627,Genomic Sequence
-New,A*03:01:122,HLA38666,Genomic Sequence
-New,A*03:01:123,HLA38668,Genomic Sequence
-New,A*03:470,HLA37954,Genomic Sequence
-New,A*03:471,HLA38154,Genomic Sequence
-New,A*03:472,HLA38250,Genomic Sequence
-New,A*03:473,HLA38151,Genomic Sequence
-New,A*11:01:01:88,HLA38435,Genomic Sequence
-New,A*11:01:125,HLA38475,Genomic Sequence
-New,A*11:01:126,HLA38185,Genomic Sequence
-New,A*11:449,HLA38035,Genomic Sequence
-New,A*11:450,HLA37988,Genomic Sequence
-New,A*11:451,HLA38233,
-New,A*11:452N,HLA38384,Genomic Sequence
-New,A*11:453,HLA38674,Genomic Sequence
-New,A*11:454,HLA38636,Genomic Sequence
-New,A*11:455,HLA38671,
-New,A*11:456,HLA38535,
-New,A*23:01:01:31,HLA37959,Genomic Sequence
-New,A*24:02:168,HLA38625,Genomic Sequence
-New,A*24:03:05,HLA38094,Genomic Sequence
-New,A*24:33:02,HLA38055,Genomic Sequence
-New,A*24:590:02,HLA38178,Genomic Sequence
-New,A*24:609,HLA38067,
-New,A*24:610,HLA37950,Genomic Sequence
-New,A*24:611,HLA38013,Genomic Sequence
-New,A*24:612,HLA38508,Genomic Sequence
-New,A*24:613,HLA38364,
-New,A*24:614,HLA38689,Genomic Sequence
-New,A*24:615,HLA38589,Genomic Sequence
-New,A*24:616,HLA38670,Genomic Sequence
-New,A*25:87,HLA38565,Genomic Sequence
-New,A*26:01:01:55,HLA38222,Genomic Sequence
-New,A*26:236,HLA37656,
-New,A*26:239,HLA37994,Genomic Sequence
-New,A*26:240N,HLA38331,Genomic Sequence
-New,A*26:241,HLA38196,Genomic Sequence
-New,A*26:242,HLA38254,Genomic Sequence
-New,A*29:01:01:12,HLA38249,Genomic Sequence
-New,A*29:02:01:39,HLA38310,Genomic Sequence
-New,A*29:180,HLA37942,Genomic Sequence
-New,A*29:181,HLA38179,Genomic Sequence
-New,A*29:182,HLA38593,Genomic Sequence
-New,A*29:183,HLA38686,Genomic Sequence
-New,A*30:01:25,HLA38030,Genomic Sequence
-New,A*30:01:26,HLA38070,
-New,A*30:01:27,HLA38146,Genomic Sequence
-New,A*30:214,HLA37938,Genomic Sequence
-New,A*30:215,HLA38015,Genomic Sequence
-New,A*30:216,HLA38021,Genomic Sequence
-New,A*30:217,HLA38385,Genomic Sequence
-New,A*30:218,HLA38418,Genomic Sequence
-New,A*30:219N,HLA38383,Genomic Sequence
-New,A*30:220Q,HLA38695,
-New,A*30:221,HLA38538,Genomic Sequence
-New,A*30:222,HLA38546,Genomic Sequence
-New,A*31:01:02:56,HLA38168,Genomic Sequence
-New,A*31:223,HLA38051,Genomic Sequence
-New,A*32:01:01:41,HLA38201,Genomic Sequence
-New,A*32:151:02,HLA38655,Genomic Sequence
-New,A*32:176,HLA37981,Genomic Sequence
-New,A*32:177,HLA38200,
-New,A*32:178,HLA38576,Genomic Sequence
-New,A*32:179,HLA38621,Genomic Sequence
-New,A*33:01:19,HLA38174,Genomic Sequence
-New,A*33:03:65,HLA38002,Genomic Sequence
-New,A*33:03:66,HLA38506,Genomic Sequence
-New,A*33:03:67,HLA38662,Genomic Sequence
-New,A*33:250,HLA38080,Genomic Sequence
-New,A*33:251,HLA37974,Genomic Sequence
-New,A*33:252,HLA37960,Genomic Sequence
-New,A*33:253,HLA38090,Genomic Sequence
-New,A*33:254,HLA38496,Genomic Sequence
-New,A*33:255,HLA38685,Genomic Sequence
-New,A*33:256,HLA38605,Genomic Sequence
-New,A*66:01:01:07,HLA38237,Genomic Sequence
-New,A*66:01:01:08,HLA38282,Genomic Sequence
-New,A*68:01:01:15,HLA38163,Genomic Sequence
-New,A*68:01:64,HLA37956,Genomic Sequence
-New,A*68:190:02,HLA38405,Genomic Sequence
-New,A*68:306,HLA38102,Genomic Sequence
-New,A*68:307,HLA38493,Genomic Sequence
-New,A*68:308,HLA38328,Genomic Sequence
-New,A*74:01:09,HLA38122,Genomic Sequence
-New,B*07:02:01:110,HLA38299,Genomic Sequence
-New,B*07:02:01:111,HLA38345,Genomic Sequence
-New,B*07:02:01:112,HLA38347,Genomic Sequence
-New,B*07:02:01:113,HLA38434,Genomic Sequence
-New,B*07:02:01:114,HLA38226,Genomic Sequence
-New,B*07:02:01:115,HLA38297,Genomic Sequence
-New,B*07:02:01:116,HLA38439,Genomic Sequence
-New,B*07:02:01:117,HLA38476,Genomic Sequence
-New,B*07:02:01:118,HLA38160,Genomic Sequence
-New,B*07:02:01:119,HLA38342,Genomic Sequence
-New,B*07:02:01:120,HLA38264,Genomic Sequence
-New,B*07:02:01:121,HLA38451,Genomic Sequence
-New,B*07:02:01:122,HLA38513,Genomic Sequence
-New,B*07:02:01:123,HLA38344,Genomic Sequence
-New,B*07:05:01:07,HLA38324,Genomic Sequence
-New,B*07:484,HLA37983,Genomic Sequence
-New,B*07:485,HLA38079,Genomic Sequence
-New,B*07:486,HLA37961,Genomic Sequence
-New,B*07:487,HLA38277,Genomic Sequence
-New,B*07:488,HLA38642,
-New,B*07:489,HLA38606,Genomic Sequence
-New,B*08:01:01:69,HLA38322,Genomic Sequence
-New,B*08:01:01:70,HLA38195,Genomic Sequence
-New,B*08:01:01:71,HLA38103,Genomic Sequence
-New,B*08:01:01:72,HLA38169,Genomic Sequence
-New,B*08:01:01:73,HLA38148,Genomic Sequence
-New,B*08:01:01:74,HLA38096,Genomic Sequence
-New,B*08:312,HLA38648,
-New,B*13:01:01:11,HLA38458,Genomic Sequence
-New,B*13:02:01:28,HLA38091,Genomic Sequence
-New,B*13:02:01:29,HLA38189,Genomic Sequence
-New,B*13:02:41,HLA38715,Genomic Sequence
-New,B*13:181,HLA38047,Genomic Sequence
-New,B*13:182,HLA38153,Genomic Sequence
-New,B*13:183,HLA38534,Genomic Sequence
-New,B*14:01:15,HLA38132,Genomic Sequence
-New,B*14:02:01:27,HLA38441,Genomic Sequence
-New,B*14:02:01:28,HLA38109,Genomic Sequence
-New,B*14:02:01:29,HLA38348,Genomic Sequence
-New,B*14:21:02,HLA38032,Genomic Sequence
-New,B*14:121,HLA37990,
-New,B*14:122,HLA38241,
-New,B*14:123,HLA38582,Genomic Sequence
-New,B*14:124,HLA38714,Genomic Sequence
-New,B*15:01:83,HLA38696,Genomic Sequence
-New,B*15:02:14,HLA38416,Genomic Sequence
-New,B*15:02:15,HLA38682,
-New,B*15:10:09,HLA38115,
-New,B*15:673,HLA38033,
-New,B*15:674,HLA38058,Genomic Sequence
-New,B*15:675,HLA38525,Genomic Sequence
-New,B*15:676,HLA38713,
-New,B*15:677,HLA38632,Genomic Sequence
-New,B*15:678,HLA38583,Genomic Sequence
-New,B*18:01:01:79,HLA37967,Genomic Sequence
-New,B*18:01:01:80,HLA38375,Genomic Sequence
-New,B*18:01:01:81,HLA38157,Genomic Sequence
-New,B*18:01:01:82,HLA38245,Genomic Sequence
-New,B*18:01:01:83,HLA38295,Genomic Sequence
-New,B*18:01:01:84,HLA38368,Genomic Sequence
-New,B*27:02:01:09,HLA38346,Genomic Sequence
-New,B*27:05:02:35,HLA38481,Genomic Sequence
-New,B*27:05:02:36,HLA38497,Genomic Sequence
-New,B*27:05:02:37,HLA38108,Genomic Sequence
-New,B*27:05:02:38,HLA38392,Genomic Sequence
-New,B*27:05:02:39,HLA38180,Genomic Sequence
-New,B*27:05:02:40,HLA38372,Genomic Sequence
-New,B*27:05:60,HLA38008,Genomic Sequence
-New,B*27:19:02,HLA38540,Genomic Sequence
-New,B*27:268,HLA37982,Genomic Sequence
-New,B*27:269,HLA38359,Genomic Sequence
-New,B*35:01:01:80,HLA38191,Genomic Sequence
-New,B*35:01:01:81,HLA38397,Genomic Sequence
-New,B*35:01:01:82,HLA38287,Genomic Sequence
-New,B*35:01:01:83,HLA38389,Genomic Sequence
-New,B*35:01:01:84,HLA38088,Genomic Sequence
-New,B*35:01:01:85,HLA38143,Genomic Sequence
-New,B*35:01:01:86,HLA38156,Genomic Sequence
-New,B*35:01:75,HLA38119,Genomic Sequence
-New,B*35:02:01:10,HLA38477,Genomic Sequence
-New,B*35:03:01:33,HLA38205,Genomic Sequence
-New,B*35:03:01:34,HLA38314,Genomic Sequence
-New,B*35:03:36,HLA38470,Genomic Sequence
-New,B*35:08:16,HLA38731,Genomic Sequence
-New,B*35:11:04,HLA38031,Genomic Sequence
-New,B*35:13:02,HLA38566,Genomic Sequence
-New,B*35:49:03,HLA37957,Genomic Sequence
-New,B*35:587,HLA38062,Genomic Sequence
-New,B*35:588,HLA38170,Genomic Sequence
-New,B*35:589,HLA38097,Genomic Sequence
-New,B*35:590,HLA38438,Genomic Sequence
-New,B*35:591,HLA38711,Genomic Sequence
-New,B*37:01:01:20,HLA38350,Genomic Sequence
-New,B*37:01:01:21,HLA38334,Genomic Sequence
-New,B*37:01:01:22,HLA38203,Genomic Sequence
-New,B*37:109N,HLA38204,Genomic Sequence
-New,B*37:110,HLA38412,Genomic Sequence
-New,B*38:01:01:18,HLA38360,Genomic Sequence
-New,B*38:01:01:19,HLA38491,Genomic Sequence
-New,B*38:112,HLA37969,Genomic Sequence
-New,B*38:113N,HLA38321,Genomic Sequence
-New,B*38:114,HLA38677,
-New,B*39:01:01:30,HLA38341,Genomic Sequence
-New,B*39:06:02:09,HLA38407,Genomic Sequence
-New,B*39:06:02:10,HLA38165,Genomic Sequence
-New,B*39:06:09,HLA38572,
-New,B*39:10:03,HLA37972,Genomic Sequence
-New,B*39:201,HLA38279,
-New,B*39:202,HLA38633,Genomic Sequence
-New,B*40:01:02:62,HLA38512,Genomic Sequence
-New,B*40:01:02:63,HLA38181,Genomic Sequence
-New,B*40:01:02:64,HLA38425,Genomic Sequence
-New,B*40:01:85,HLA38520,Genomic Sequence
-New,B*40:02:01:42,HLA38123,Genomic Sequence
-New,B*40:02:01:43,HLA38313,Genomic Sequence
-New,B*40:02:39,HLA38681,
-New,B*40:04:03,HLA38054,Genomic Sequence
-New,B*40:06:01:18,HLA38562,Genomic Sequence
-New,B*40:544:01:02,HLA38028,Genomic Sequence
-New,B*40:548,HLA38042,Genomic Sequence
-New,B*40:549,HLA38149,Genomic Sequence
-New,B*40:550,HLA38173,Genomic Sequence
-New,B*40:551,HLA38473,Genomic Sequence
-New,B*40:552,HLA38292,Genomic Sequence
-New,B*41:01:01:08,HLA38106,Genomic Sequence
-New,B*44:02:01:74,HLA38224,Genomic Sequence
-New,B*44:02:01:75,HLA38223,Genomic Sequence
-New,B*44:02:01:76,HLA38194,Genomic Sequence
-New,B*44:02:01:77,HLA38318,Genomic Sequence
-New,B*44:02:01:78,HLA38186,Genomic Sequence
-New,B*44:02:01:79,HLA38420,Genomic Sequence
-New,B*44:02:01:80,HLA38370,Genomic Sequence
-New,B*44:02:01:81,HLA38258,Genomic Sequence
-New,B*44:02:01:82,HLA38312,Genomic Sequence
-New,B*44:02:81,HLA38643,Genomic Sequence
-New,B*44:02:82,HLA38639,Genomic Sequence
-New,B*44:03:01:60,HLA38365,Genomic Sequence
-New,B*44:03:01:61,HLA38509,Genomic Sequence
-New,B*44:03:01:62,HLA38468,Genomic Sequence
-New,B*44:03:01:63,HLA38465,Genomic Sequence
-New,B*44:03:01:64,HLA38354,Genomic Sequence
-New,B*44:03:01:65,HLA38294,Genomic Sequence
-New,B*44:03:01:66,HLA38251,Genomic Sequence
-New,B*44:03:01:67,HLA38182,Genomic Sequence
-New,B*44:03:01:68,HLA38398,Genomic Sequence
-New,B*44:03:01:69,HLA38367,Genomic Sequence
-New,B*44:375,HLA38000,Genomic Sequence
-New,B*44:376,HLA38172,Genomic Sequence
-New,B*44:377,HLA38442,Genomic Sequence
-New,B*44:378,HLA38500,Genomic Sequence
-New,B*44:379,HLA38548,Genomic Sequence
-New,B*44:380,HLA38709,
-New,B*45:01:01:14,HLA38290,Genomic Sequence
-New,B*45:33,HLA38719,Genomic Sequence
-New,B*45:34,HLA38667,Genomic Sequence
-New,B*46:100,HLA38724,Genomic Sequence
-New,B*48:59N,HLA38229,
-New,B*49:01:01:19,HLA38332,Genomic Sequence
-New,B*51:01:01:112,HLA38349,Genomic Sequence
-New,B*51:01:01:113,HLA38511,Genomic Sequence
-New,B*51:01:01:114,HLA38492,Genomic Sequence
-New,B*51:01:01:115,HLA38499,Genomic Sequence
-New,B*51:01:01:116,HLA38209,Genomic Sequence
-New,B*51:01:104,HLA38483,Genomic Sequence
-New,B*51:05:01:03,HLA38388,Genomic Sequence
-New,B*51:89:02,HLA38599,Genomic Sequence
-New,B*51:387N,HLA38014,Genomic Sequence
-New,B*51:388,HLA38041,Genomic Sequence
-New,B*51:389,HLA38467,
-New,B*51:390,HLA38543,Genomic Sequence
-New,B*51:391N,HLA38521,Genomic Sequence
-New,B*51:392,HLA38561,Genomic Sequence
-New,B*51:393Q,HLA38577,
-New,B*52:01:01:26,HLA38415,Genomic Sequence
-New,B*52:01:56,HLA38607,
-New,B*53:01:31,HLA37940,Genomic Sequence
-New,B*54:47,HLA38046,Genomic Sequence
-New,B*55:135,HLA38550,
-New,B*56:96,HLA38494,Genomic Sequence
-New,B*57:01:01:29,HLA38353,Genomic Sequence
-New,B*57:01:47,HLA38587,Genomic Sequence
-New,B*57:02:01:05,HLA38515,Genomic Sequence
-New,B*57:03:01:10,HLA38411,Genomic Sequence
-New,B*57:168,HLA37971,Genomic Sequence
-New,B*57:169,HLA38246,Genomic Sequence
-New,B*58:02:03,HLA38129,Genomic Sequence
-New,B*58:144N,HLA38162,
-New,C*01:02:01:71,HLA38238,Genomic Sequence
-New,C*01:02:01:72,HLA38104,Genomic Sequence
-New,C*01:254,HLA38240,
-New,C*01:255,HLA38675,
-New,C*01:256,HLA38653,
-New,C*01:257N,HLA38588,
-New,C*02:02:02:78,HLA38206,Genomic Sequence
-New,C*02:02:02:79,HLA38135,Genomic Sequence
-New,C*02:02:02:80,HLA38248,Genomic Sequence
-New,C*02:02:02:81,HLA38285,Genomic Sequence
-New,C*02:02:02:82,HLA38308,Genomic Sequence
-New,C*02:02:02:83,HLA38449,Genomic Sequence
-New,C*02:02:70,HLA38069,Genomic Sequence
-New,C*02:02:71,HLA38641,Genomic Sequence
-New,C*02:10:10,HLA38478,
-New,C*02:224,HLA38522,Genomic Sequence
-New,C*03:02:31,HLA38729,Genomic Sequence
-New,C*03:03:01:69,HLA38298,Genomic Sequence
-New,C*03:03:01:70,HLA38227,Genomic Sequence
-New,C*03:04:01:86,HLA38453,Genomic Sequence
-New,C*03:04:01:87,HLA38378,Genomic Sequence
-New,C*03:04:01:88,HLA38113,Genomic Sequence
-New,C*03:07:03,HLA37965,Genomic Sequence
-New,C*03:94:02,HLA38563,
-New,C*03:125:02,HLA38694,Genomic Sequence
-New,C*03:132:02,HLA38700,
-New,C*03:641,HLA38085,
-New,C*03:642,HLA38083,Genomic Sequence
-New,C*03:643N,HLA38380,Genomic Sequence
-New,C*03:644,HLA38452,Genomic Sequence
-New,C*03:645,HLA38628,Genomic Sequence
-New,C*03:646,HLA38692,Genomic Sequence
-New,C*03:647,HLA38660,Genomic Sequence
-New,C*04:01:01:176Q,HLA38402,Genomic Sequence
-New,C*04:01:01:177,HLA38273,Genomic Sequence
-New,C*04:01:01:178,HLA38239,Genomic Sequence
-New,C*04:01:01:179,HLA38247,Genomic Sequence
-New,C*04:01:01:180,HLA38413,Genomic Sequence
-New,C*04:01:01:181,HLA38395,Genomic Sequence
-New,C*04:01:01:182,HLA38533,Genomic Sequence
-New,C*04:01:154,HLA37985,Genomic Sequence
-New,C*04:01:155,HLA37943,Genomic Sequence
-New,C*04:03:01:05,HLA38291,Genomic Sequence
-New,C*04:229:02,HLA38720,Genomic Sequence
-New,C*04:508,HLA38503,Genomic Sequence
-New,C*04:509N,HLA38436,Genomic Sequence
-New,C*04:510,HLA38726,Genomic Sequence
-New,C*05:01:01:82,HLA38124,Genomic Sequence
-New,C*05:01:01:83,HLA38218,Genomic Sequence
-New,C*05:01:01:84,HLA38144,Genomic Sequence
-New,C*05:01:01:85,HLA38517,Genomic Sequence
-New,C*05:286,HLA38006,
-New,C*05:287,HLA37949,Genomic Sequence
-New,C*05:288,HLA38309,Genomic Sequence
-New,C*05:289,HLA38095,Genomic Sequence
-New,C*05:290,HLA38448,Genomic Sequence
-New,C*05:291N,HLA38523,Genomic Sequence
-New,C*06:02:01:95,HLA38114,Genomic Sequence
-New,C*06:02:01:96,HLA38426,Genomic Sequence
-New,C*06:02:01:97,HLA38507,Genomic Sequence
-New,C*06:365,HLA38604,Genomic Sequence
-New,C*06:366,HLA38664,Genomic Sequence
-New,C*06:367,HLA38560,Genomic Sequence
-New,C*06:368,HLA38545,Genomic Sequence
-New,C*07:01:01:130,HLA38357,Genomic Sequence
-New,C*07:01:01:131,HLA38161,Genomic Sequence
-New,C*07:01:01:132,HLA38489,Genomic Sequence
-New,C*07:01:01:133,HLA38340,Genomic Sequence
-New,C*07:01:120,HLA38027,Genomic Sequence
-New,C*07:02:01:189,HLA38232,Genomic Sequence
-New,C*07:02:01:190,HLA38498,Genomic Sequence
-New,C*07:02:01:191,HLA38176,Genomic Sequence
-New,C*07:02:01:192,HLA38414,Genomic Sequence
-New,C*07:02:01:193,HLA38311,Genomic Sequence
-New,C*07:02:01:194,HLA38217,Genomic Sequence
-New,C*07:02:01:195,HLA38387,Genomic Sequence
-New,C*07:02:01:196,HLA38457,Genomic Sequence
-New,C*07:02:01:197,HLA38260,Genomic Sequence
-New,C*07:02:10:02,HLA38427,Genomic Sequence
-New,C*07:04:29,HLA38071,
-New,C*07:940:02,HLA38558,
-New,C*07:1083,HLA38048,Genomic Sequence
-New,C*07:1084,HLA38084,Genomic Sequence
-New,C*07:1085,HLA37941,Genomic Sequence
-New,C*07:1086,HLA38296,Genomic Sequence
-New,C*07:1087,HLA38440,Genomic Sequence
-New,C*07:1088,HLA38683,
-New,C*07:1089,HLA38553,
-New,C*07:1090,HLA38650,Genomic Sequence
-New,C*07:1091,HLA38712,Genomic Sequence
-New,C*07:1092,HLA38567,Genomic Sequence
-New,C*08:01:01:21,HLA38215,Genomic Sequence
-New,C*08:01:37,HLA38303,
-New,C*08:02:01:42,HLA38424,Genomic Sequence
-New,C*12:02:02:25,HLA38502,Genomic Sequence
-New,C*12:02:52,HLA38559,
-New,C*12:03:01:62,HLA38381,Genomic Sequence
-New,C*12:03:01:63,HLA38403,Genomic Sequence
-New,C*12:03:01:64,HLA38112,Genomic Sequence
-New,C*12:390,HLA38131,Genomic Sequence
-New,C*12:391,HLA38549,
-New,C*14:02:01:32,HLA38343,Genomic Sequence
-New,C*14:155,HLA38554,
-New,C*14:156N,HLA38697,Genomic Sequence
-New,C*14:157,HLA38669,Genomic Sequence
-New,C*15:02:01:59,HLA38444,Genomic Sequence
-New,C*15:02:01:60,HLA38337,Genomic Sequence
-New,C*15:05:02:14,HLA38272,Genomic Sequence
-New,C*15:13:03,HLA38706,
-New,C*15:261,HLA38569,
-New,C*15:262,HLA38708,Genomic Sequence
-New,C*16:01:01:40,HLA38421,Genomic Sequence
-New,C*16:01:45,HLA38271,Genomic Sequence
-New,C*16:01:46,HLA38409,Genomic Sequence
-New,C*16:01:47,HLA38687,Genomic Sequence
-New,C*16:98:02,HLA38644,
-New,C*16:212,HLA38009,Genomic Sequence
-New,C*16:213,HLA38293,Genomic Sequence
-New,C*16:214,HLA38732,Genomic Sequence
-New,C*16:215,HLA38702,Genomic Sequence
-New,C*17:01:01:30,HLA38394,Genomic Sequence
-New,C*17:72,HLA38640,Genomic Sequence
-New,E*01:01:01:52,HLA38430,Genomic Sequence
-New,F*01:01:01:24,HLA38199,Genomic Sequence
-New,F*01:01:01:25,HLA38266,Genomic Sequence
-New,F*01:01:01:26,HLA38276,Genomic Sequence
-New,F*01:01:01:27,HLA38330,Genomic Sequence
-New,F*01:01:01:28,HLA38377,Genomic Sequence
-New,F*01:01:01:29,HLA38304,Genomic Sequence
-New,F*01:01:01:30,HLA38305,Genomic Sequence
-New,F*01:01:01:31,HLA38485,Genomic Sequence
-New,F*01:01:01:32,HLA38422,Genomic Sequence
-New,F*01:01:01:33,HLA38469,Genomic Sequence
-New,F*01:01:01:34,HLA38183,Genomic Sequence
-New,F*01:01:01:35,HLA38486,Genomic Sequence
-New,F*01:01:01:36,HLA38443,Genomic Sequence
-New,F*01:01:01:37,HLA38408,Genomic Sequence
-New,F*01:01:01:38,HLA38518,Genomic Sequence
-New,F*01:01:01:39,HLA38428,Genomic Sequence
-New,F*01:01:01:40,HLA38216,Genomic Sequence
-New,F*01:01:01:41,HLA38302,Genomic Sequence
-New,F*01:01:01:42,HLA38419,Genomic Sequence
-New,F*01:01:01:43,HLA38474,Genomic Sequence
-New,F*01:01:02:14,HLA38514,Genomic Sequence
-New,F*01:01:10,HLA38267,Genomic Sequence
-New,F*01:01:11,HLA38147,Genomic Sequence
-New,F*01:03:01:06,HLA38288,Genomic Sequence
-New,F*01:13N,HLA38210,Genomic Sequence
-New,F*01:14N,HLA38138,Genomic Sequence
-New,F*01:15,HLA38107,Genomic Sequence
-New,F*01:16,HLA38339,Genomic Sequence
-New,F*01:17,HLA38197,Genomic Sequence
-New,F*01:18,HLA38130,Genomic Sequence
-New,F*01:19,HLA38437,Genomic Sequence
-New,G*01:01:01:19,HLA38319,Genomic Sequence
-New,G*01:01:01:20,HLA38263,Genomic Sequence
-New,G*01:01:01:21,HLA38221,Genomic Sequence
-New,G*01:01:01:22,HLA38333,Genomic Sequence
-New,G*01:01:01:23,HLA38484,Genomic Sequence
-New,G*01:01:01:24,HLA38100,Genomic Sequence
-New,G*01:01:01:25,HLA38270,Genomic Sequence
-New,G*01:01:01:26,HLA38269,Genomic Sequence
-New,G*01:01:01:27,HLA38326,Genomic Sequence
-New,G*01:01:01:28,HLA38355,Genomic Sequence
-New,G*01:01:01:29,HLA38120,Genomic Sequence
-New,G*01:01:01:30,HLA38286,Genomic Sequence
-New,G*01:01:01:31,HLA38369,Genomic Sequence
-New,G*01:01:01:32,HLA38257,Genomic Sequence
-New,G*01:01:01:33,HLA38373,Genomic Sequence
-New,G*01:01:02:08,HLA38362,Genomic Sequence
-New,G*01:01:02:09,HLA38429,Genomic Sequence
-New,G*01:01:02:10,HLA38396,Genomic Sequence
-New,G*01:01:02:11,HLA38188,Genomic Sequence
-New,G*01:01:02:12,HLA38363,Genomic Sequence
-New,G*01:01:03:05,HLA38366,Genomic Sequence
-New,G*01:01:22:05,HLA38410,Genomic Sequence
-New,G*01:01:22:06,HLA38187,Genomic Sequence
-New,G*01:01:31,HLA38480,Genomic Sequence
-New,G*01:04:01:08,HLA38327,Genomic Sequence
-New,G*01:04:01:09,HLA38301,Genomic Sequence
-New,G*01:04:04:02,HLA38356,Genomic Sequence
-New,G*01:04:08,HLA38134,Genomic Sequence
-New,G*01:06:01:03,HLA38265,Genomic Sequence
-New,G*01:47,HLA38361,Genomic Sequence
-New,G*01:48,HLA38086,Genomic Sequence
-New,G*01:49,HLA38460,Genomic Sequence
-New,G*01:50Q,HLA38338,Genomic Sequence
-New,G*01:51,HLA38393,Genomic Sequence
-New,G*01:52,HLA38208,Genomic Sequence
-New,G*01:53,HLA38171,Genomic Sequence
-New,H*02:28,HLA38547,Genomic Sequence
-New,DRA*01:01:01:21,HLA38323,Genomic Sequence
-New,DRA*01:01:01:22,HLA38253,Genomic Sequence
-New,DRA*01:01:01:23,HLA38252,Genomic Sequence
-New,DRA*01:01:01:24,HLA38433,Genomic Sequence
-New,DRA*01:01:01:25,HLA38244,Genomic Sequence
-New,DRA*01:01:01:26,HLA38657,Genomic Sequence
-New,DRA*01:01:04,HLA38586,Genomic Sequence
-New,DRA*01:01:05,HLA38585,Genomic Sequence
-New,DRA*01:01:06,HLA38654,Genomic Sequence
-New,DRA*01:02:03:02,HLA38207,Genomic Sequence
-New,DRA*01:06,HLA38379,Genomic Sequence
-New,DRA*01:07,HLA38289,Genomic Sequence
-New,DRA*01:08,HLA38691,Genomic Sequence
-New,DRA*01:09,HLA38622,Genomic Sequence
-New,DRA*01:10,HLA38608,Genomic Sequence
-New,DRA*01:11,HLA38618,Genomic Sequence
-New,DRA*01:12,HLA38658,Genomic Sequence
-New,DRA*01:13,HLA38609,Genomic Sequence
-New,DRA*01:14,HLA38619,Genomic Sequence
-New,DRB1*01:04:02,HLA38635,
-New,DRB1*03:01:01:26,HLA38136,Genomic Sequence
-New,DRB1*03:01:01:27,HLA38721,Genomic Sequence
-New,DRB1*03:209,HLA38243,
-New,DRB1*03:210,HLA38595,
-New,DRB1*04:01:01:25,HLA37992,Genomic Sequence
-New,DRB1*04:368,HLA38081,
-New,DRB1*04:369,HLA38574,
-New,DRB1*07:01:01:28,HLA38005,Genomic Sequence
-New,DRB1*07:01:01:29,HLA37999,Genomic Sequence
-New,DRB1*07:01:32,HLA38616,
-New,DRB1*07:154,HLA37968,
-New,DRB1*08:121,HLA37939,
-New,DRB1*08:122,HLA38057,
-New,DRB1*08:123,HLA38556,
-New,DRB1*08:124,HLA38652,
-New,DRB1*08:125,HLA38673,
-New,DRB1*09:01:15,HLA38678,
-New,DRB1*09:54,HLA38068,
-New,DRB1*10:01:19,HLA38225,
-New,DRB1*11:01:01:21,HLA38710,Genomic Sequence
-New,DRB1*11:320,HLA38074,
-New,DRB1*11:321,HLA38274,
-New,DRB1*11:322,HLA38510,
-New,DRB1*11:323,HLA38679,
-New,DRB1*11:324,HLA38629,
-New,DRB1*11:325,HLA38693,
-New,DRB1*12:105,HLA37991,
-New,DRB1*12:106,HLA38053,
-New,DRB1*12:107,HLA38531,
-New,DRB1*13:03:13,HLA38596,
-New,DRB1*13:347,HLA37970,
-New,DRB1*13:348,HLA38598,
-New,DRB1*13:349,HLA38590,
-New,DRB1*14:257,HLA38235,
-New,DRB1*14:258,HLA38688,
-New,DRB1*15:172:02,HLA38611,
-New,DRB1*15:218,HLA38063,
-New,DRB1*15:219,HLA38116,
-New,DRB1*15:220,HLA38127,
-New,DRB1*16:75,HLA38121,
-New,DRB3*01:118,HLA38056,
-New,DRB3*01:119,HLA38105,
-New,DRB3*01:120,HLA38551,
-New,DRB3*02:194,HLA38060,
-New,DRB3*02:195,HLA37986,
-New,DRB3*02:196,HLA38078,
-New,DRB3*02:197,HLA38358,
-New,DRB3*02:198,HLA38177,
-New,DRB3*03:01:16,HLA38036,
-New,DRB3*03:66,HLA38659,
-New,DRB3*03:67,HLA38707,
-New,DRB3*03:68,HLA38730,
-New,DRB4*01:03:01:18,HLA38110,Genomic Sequence
-New,DRB4*01:61:02N,HLA38076,
-New,DRB4*01:173,HLA38034,
-New,DRB4*01:174,HLA38073,
-New,DRB4*01:175,HLA38471,
-New,DRB4*01:176,HLA38466,
-New,DRB4*01:177,HLA38352,
-New,DRB4*01:178,HLA38705,
-New,DRB5*01:01:13,HLA38126,
-New,DRB5*01:02:04,HLA38092,
-New,DRB5*01:135,HLA38003,
-New,DRB5*02:38,HLA38065,
-New,DQA1*01:02:01:29,HLA38137,Genomic Sequence
-New,DQA1*01:02:23,HLA38601,Genomic Sequence
-New,DQA1*01:03:01:14,HLA38175,Genomic Sequence
-New,DQA1*01:03:01:15,HLA38613,Genomic Sequence
-New,DQA1*01:03:10,HLA38099,Genomic Sequence
-New,DQA1*01:132:01,HLA38059,
-New,DQA1*01:132:02,HLA38555,Genomic Sequence
-New,DQA1*01:133Q,HLA38117,Genomic Sequence
-New,DQA1*01:134,HLA38087,
-New,DQA1*01:135,HLA38128,
-New,DQA1*01:136N,HLA38571,
-New,DQA1*01:137,HLA38680,Genomic Sequence
-New,DQA1*01:138,HLA38530,Genomic Sequence
-New,DQA1*01:139,HLA38663,
-New,DQA1*01:140,HLA38690,
-New,DQA1*02:01:20,HLA38594,Genomic Sequence
-New,DQA1*02:01:21,HLA38716,
-New,DQA1*02:38N,HLA38386,
-New,DQA1*02:39,HLA38647,
-New,DQA1*03:01:01:04,HLA38145,Genomic Sequence
-New,DQA1*03:03:01:20,HLA38591,Genomic Sequence
-New,DQA1*03:61,HLA38118,
-New,DQA1*03:62,HLA38150,
-New,DQA1*03:63,HLA38280,
-New,DQA1*03:64,HLA38578,
-New,DQA1*05:01:01:10,HLA38275,Genomic Sequence
-New,DQA1*05:01:14,HLA38645,
-New,DQA1*05:05:01:39,HLA38231,Genomic Sequence
-New,DQA1*05:06:02,HLA38376,
-New,DQA1*05:08:02,HLA38317,
-New,DQA1*05:86,HLA37945,
-New,DQA1*05:87,HLA38101,
-New,DQA1*05:88,HLA38417,
-New,DQA1*05:89,HLA38676,
-New,DQA1*05:90,HLA38597,
-New,DQA1*05:91,HLA38649,Genomic Sequence
-New,DQA1*05:92,HLA38603,
-New,DQA1*05:93,HLA38579,
-New,DQA1*05:94,HLA38672,
-New,DQB1*05:01:01:32,HLA38268,Genomic Sequence
-New,DQB1*05:01:01:33,HLA38722,Genomic Sequence
-New,DQB1*05:01:01:34,HLA38536,Genomic Sequence
-New,DQB1*05:02:28,HLA38542,Genomic Sequence
-New,DQB1*05:03:31,HLA38557,
-New,DQB1*05:324,HLA38077,
-New,DQB1*06:02:01:35,HLA38133,Genomic Sequence
-New,DQB1*06:02:01:36,HLA38184,Genomic Sequence
-New,DQB1*06:02:01:37,HLA38166,Genomic Sequence
-New,DQB1*06:03:49,HLA38501,
-New,DQB1*06:04:01:08,HLA38401,Genomic Sequence
-New,DQB1*06:08:01:02,HLA38141,Genomic Sequence
-New,DQB1*06:476,HLA38532,
-New,DQB1*06:477N,HLA38717,
-New,DQB1*02:01:01:19,HLA38727,Genomic Sequence
-New,DQB1*02:01:01:20,HLA38539,Genomic Sequence
-New,DQB1*02:01:47,HLA38093,
-New,DQB1*02:02:01:18,HLA37996,Genomic Sequence
-New,DQB1*02:02:01:19,HLA38001,Genomic Sequence
-New,DQB1*02:214N,HLA38454,
-New,DQB1*03:02:39,HLA38445,Genomic Sequence
-New,DQB1*03:03:02:12,HLA38167,Genomic Sequence
-New,DQB1*03:03:02:13,HLA38155,Genomic Sequence
-New,DQB1*03:03:02:14,HLA38544,Genomic Sequence
-New,DQB1*03:382:02,HLA38242,
-New,DQB1*03:514,HLA38228,
-New,DQB1*03:515,HLA38479,
-New,DQB1*04:02:01:21,HLA38519,Genomic Sequence
-New,DPA1*01:03:01:76,HLA38316,Genomic Sequence
-New,DPA1*01:03:01:77,HLA38371,Genomic Sequence
-New,DPA1*01:03:01:78,HLA38404,Genomic Sequence
-New,DPA1*01:03:01:79,HLA38614,Genomic Sequence
-New,DPA1*01:03:01:80,HLA38541,Genomic Sequence
-New,DPA1*01:03:51,HLA38064,
-New,DPA1*01:03:52,HLA37995,Genomic Sequence
-New,DPA1*01:03:53,HLA38646,Genomic Sequence
-New,DPA1*01:169,HLA38040,Genomic Sequence
-New,DPA1*01:170,HLA38007,Genomic Sequence
-New,DPA1*01:171Q,HLA37955,
-New,DPA1*01:172,HLA37980,
-New,DPA1*01:173,HLA38329,
-New,DPA1*01:174,HLA38213,
-New,DPA1*01:175,HLA38638,
-New,DPA1*01:176,HLA38573,
-New,DPA1*01:177,HLA38630,
-New,DPA1*01:178,HLA38528,
-New,DPA1*01:179,HLA38699,
-New,DPA1*01:180,HLA38575,Genomic Sequence
-New,DPA1*02:02:02:15,HLA38278,Genomic Sequence
-New,DPA1*02:59:02,HLA38684,
-New,DPA1*02:119,HLA37948,Genomic Sequence
-New,DPA1*02:120,HLA38450,Genomic Sequence
-New,DPA1*02:121,HLA38125,
-New,DPA1*02:122,HLA38626,
-New,DPA1*02:123,HLA38704,
-New,DPB1*02:02:08,HLA37958,
-New,DPB1*03:01:01:27,HLA38698,Genomic Sequence
-New,DPB1*03:01:29,HLA38529,
-New,DPB1*04:01:01:133,HLA38718,Genomic Sequence
-New,DPB1*04:02:01:41,HLA38325,Genomic Sequence
-New,DPB1*17:01:06,HLA37966,
-New,DPB1*105:01:01:18,HLA38728,Genomic Sequence
-New,DPB1*1508:01,HLA37978,
-New,DPB1*1509:01,HLA37976,
-New,DPB1*1510:01,HLA38066,
-New,DPB1*1511:01,HLA37987,
-New,DPB1*1512:01N,HLA37944,
-New,DPB1*1513:01,HLA37973,
-New,DPB1*1514:01,HLA38382,Genomic Sequence
-New,DPB1*1515:01,HLA38198,
-New,DPB1*1516:01,HLA38230,
-New,DPB1*1517:01N,HLA38504,
-New,DPB1*1518:01,HLA38446,
-New,DPB1*1519:01,HLA38098,
-New,DPB1*1520:01,HLA38089,
-New,DPB1*1521:01,HLA38482,
-New,DPB1*1522:01,HLA38447,
-New,DPB1*1523:01,HLA38631,
-New,DPB1*1524:01,HLA38610,
-New,DPB1*1525:01,HLA38612,
-New,DPB1*1526:01N,HLA38665,
-New,DPB1*1527:01,HLA38723,
-New,MICB*014:02,HLA38581,
-New,TAP2*01:01:02:02,HLA38400,Genomic Sequence
-New,TAP2*01:01:03:04,HLA37936,Genomic Sequence
-New,TAP2*01:01:03:05,HLA37935,Genomic Sequence
-New,TAP2*01:01:03:06,HLA38020,Genomic Sequence
-New,TAP2*01:01:03:07,HLA38038,Genomic Sequence
-New,TAP2*01:01:03:08,HLA38018,Genomic Sequence
-New,TAP2*01:01:03:09,HLA37951,Genomic Sequence
-New,TAP2*01:01:03:10,HLA37953,Genomic Sequence
-New,TAP2*01:01:03:11,HLA38050,Genomic Sequence
-New,TAP2*01:01:03:12,HLA38017,Genomic Sequence
-New,TAP2*01:01:03:13,HLA38284,Genomic Sequence
-New,TAP2*01:01:03:14,HLA38236,Genomic Sequence
-New,TAP2*01:01:03:15,HLA38220,Genomic Sequence
-New,TAP2*01:01:03:16,HLA38456,Genomic Sequence
-New,TAP2*01:01:03:17,HLA38488,Genomic Sequence
-New,TAP2*01:01:03:18,HLA38490,Genomic Sequence
-New,TAP2*01:01:03:19,HLA38283,Genomic Sequence
-New,TAP2*01:01:03:20,HLA38374,Genomic Sequence
-New,TAP2*01:01:03:21,HLA38703,Genomic Sequence
-New,TAP2*01:01:04,HLA38072,Genomic Sequence
-New,TAP2*01:01:05:01,HLA37952,Genomic Sequence
-New,TAP2*01:01:05:02,HLA38012,Genomic Sequence
-New,TAP2*01:01:05:03,HLA38016,Genomic Sequence
-New,TAP2*01:01:05:04,HLA37997,Genomic Sequence
-New,TAP2*01:01:05:05,HLA37962,Genomic Sequence
-New,TAP2*01:01:05:06,HLA38262,Genomic Sequence
-New,TAP2*01:01:05:07,HLA38192,Genomic Sequence
-New,TAP2*01:01:05:08,HLA38140,Genomic Sequence
-New,TAP2*01:01:05:09,HLA38487,Genomic Sequence
-New,TAP2*01:01:05:10,HLA38320,Genomic Sequence
-New,TAP2*01:01:05:11,HLA38307,Genomic Sequence
-New,TAP2*01:01:05:12,HLA38432,Genomic Sequence
-New,TAP2*01:01:06,HLA38023,Genomic Sequence
-New,TAP2*01:01:07:01,HLA38011,Genomic Sequence
-New,TAP2*01:01:07:02,HLA38022,Genomic Sequence
-New,TAP2*01:01:07:03,HLA38052,Genomic Sequence
-New,TAP2*01:01:07:04,HLA38037,Genomic Sequence
-New,TAP2*01:01:07:05,HLA38045,Genomic Sequence
-New,TAP2*01:01:07:06,HLA38190,Genomic Sequence
-New,TAP2*01:01:07:07,HLA38259,Genomic Sequence
-New,TAP2*01:01:07:08,HLA38111,Genomic Sequence
-New,TAP2*01:01:07:09,HLA38158,Genomic Sequence
-New,TAP2*01:01:07:10,HLA38256,Genomic Sequence
-New,TAP2*01:01:07:11,HLA38390,Genomic Sequence
-New,TAP2*01:01:07:12,HLA38651,Genomic Sequence
-New,TAP2*01:01:08,HLA38391,Genomic Sequence
-New,TAP2*01:02:02,HLA38255,Genomic Sequence
-New,TAP2*01:03:02:01,HLA37998,Genomic Sequence
-New,TAP2*01:03:02:02,HLA38024,Genomic Sequence
-New,TAP2*01:03:02:03,HLA37947,Genomic Sequence
-New,TAP2*01:03:02:04,HLA37979,Genomic Sequence
-New,TAP2*01:03:02:05,HLA37946,Genomic Sequence
-New,TAP2*01:03:02:06,HLA38592,Genomic Sequence
-New,TAP2*01:03:02:07,HLA38527,Genomic Sequence
-New,TAP2*01:03:02:08,HLA38580,Genomic Sequence
-New,TAP2*01:03:03,HLA38661,Genomic Sequence
-New,TAP2*01:03:04,HLA38568,Genomic Sequence
-New,TAP2*01:04:01:02,HLA38019,Genomic Sequence
-New,TAP2*01:04:01:03,HLA37937,Genomic Sequence
-New,TAP2*01:04:01:04,HLA38281,Genomic Sequence
-New,TAP2*01:05:01:01,HLA37989,Genomic Sequence
-New,TAP2*01:05:01:02,HLA38043,Genomic Sequence
-New,TAP2*01:05:01:03,HLA38039,Genomic Sequence
-New,TAP2*01:05:01:04,HLA38049,Genomic Sequence
-New,TAP2*01:05:01:05,HLA38010,Genomic Sequence
-New,TAP2*01:05:01:06,HLA37963,Genomic Sequence
-New,TAP2*01:05:01:07,HLA38211,Genomic Sequence
-New,TAP2*01:05:01:08,HLA38219,Genomic Sequence
-New,TAP2*01:05:01:09,HLA38202,Genomic Sequence
-New,TAP2*01:05:01:10,HLA38193,Genomic Sequence
-New,TAP2*01:05:01:11,HLA38234,Genomic Sequence
-New,TAP2*01:05:01:12,HLA38212,Genomic Sequence
-New,TAP2*01:05:01:13,HLA38164,Genomic Sequence
-New,TAP2*01:05:01:14,HLA38423,Genomic Sequence
-New,TAP2*01:05:02,HLA38459,Genomic Sequence
-New,TAP2*01:06,HLA38464,Genomic Sequence
-New,TAP2*01:07,HLA38139,Genomic Sequence
-New,TAP2*01:08,HLA38516,Genomic Sequence
-New,TAP2*02:01:02:04,HLA37964,Genomic Sequence
-New,TAP2*02:01:02:05,HLA38335,Genomic Sequence
-New,TAP2*02:01:02:06,HLA38315,Genomic Sequence
-New,TAP2*02:01:02:07,HLA38431,Genomic Sequence
-New,TAP2*02:01:03:01,HLA38026,Genomic Sequence
-New,TAP2*02:01:03:02,HLA37975,Genomic Sequence
-New,TAP2*02:01:03:03,HLA38044,Genomic Sequence
-New,TAP2*02:01:03:04,HLA38082,Genomic Sequence
-New,TAP2*02:01:03:05,HLA38399,Genomic Sequence
-New,TAP2*02:01:03:06,HLA38306,Genomic Sequence
-New,TAP2*02:01:03:07,HLA38455,Genomic Sequence
-New,TAP2*02:01:04,HLA38075,Genomic Sequence
-New,TAP2*02:02,HLA38025,Genomic Sequence
-New,TAP2*02:03,HLA38029,Genomic Sequence
-New,TAP2*02:04,HLA38159,Genomic Sequence
-New,TAP2*02:05,HLA38463,Genomic Sequence
-Confidential,C*08:01:01:22,,
-Confidential,E*01:01:01:51,,
-Confidential,E*01:01:43,,
-Modified,A*02:01:01:132,HLA26240,Genomic Sequence Extended
-Modified,A*02:228,HLA05005,Sequence extended from position 1 to 73 and position 620 to 1098 and Genomic Sequence Added
-Modified,A*03:01:05,HLA02576,Sequence extended from position 1 to 73 and position 620 to 1098 and Genomic Sequence Added
-Modified,A*03:150,HLA08020,Sequence extended from position 1 to 73 and position 620 to 1098 and Genomic Sequence Added
-Modified,A*29:95,HLA16057,Genomic Sequence Extended
-Modified,B*07:02:01:85,HLA31996,Genomic Sequence Extended
-Modified,B*07:02:45,HLA12872,Genomic Sequence Extended
-Modified,B*07:436,HLA02990,Genomic Sequence Extended
-Modified,B*08:120,HLA11233,Genomic Sequence Extended
-Modified,B*13:56:01N,HLA07915,Sequence extended from position 1 to 73 and position 620 to 1089 and Genomic Sequence Added
-Modified,B*13:176,HLA36800,Genomic Sequence Added
-Modified,B*14:32,HLA07725,Sequence extended from position 1 to 73 and position 620 to 1089 and Genomic Sequence Added
-Modified,B*15:07:01:02,HLA16679,Genomic Sequence Extended
-Modified,B*15:146,HLA03287,Genomic Sequence Extended
-Modified,B*18:01:01:73,HLA36845,Genomic Sequence Extended
-Modified,B*18:01:01:76,HLA37490,Genomic Sequence Extended
-Modified,B*35:05:01:01,HLA00241,Genomic Sequence Extended
-Modified,B*35:332,HLA16354,Genomic Sequence Extended
-Modified,B*37:46,HLA10707,Sequence extended from position 1013 to 1089 and Genomic Sequence Added
-Modified,B*40:01:83,HLA37492,Genomic Sequence Extended
-Modified,B*40:02:01:41,HLA37517,Genomic Sequence Extended
-Modified,B*40:96,HLA03602,Sequence extended from position 1 to 73 and position 620 to 1089 and Genomic Sequence Added
-Modified,B*41:43,HLA14217,Genomic Sequence Extended
-Modified,B*44:03:01:57,HLA36908,Genomic Sequence Extended
-Modified,B*44:04,HLA00321,Genomic Sequence Extended
-Modified,B*49:11,HLA05484,Sequence extended from position 1 to 73 and position 620 to 1089 and Genomic Sequence Added
-Modified,B*49:34,HLA12599,Genomic Sequence Added
-Modified,B*51:73,HLA03972,Sequence extended from position 1 to 73 and position 620 to 1089 and Genomic Sequence Added
-Modified,B*51:163,HLA10763,Sequence extended from position 896 to 1012
-Modified,B*53:01:03,HLA02114,Genomic Sequence Extended
-Modified,B*81:01:01:04,HLA30255,Genomic Sequence Extended
-Modified,C*02:02:02:14,HLA18254,Genomic Sequence Extended
-Modified,C*02:02:02:76,HLA33538,Genomic Sequence Extended
-Modified,C*02:06:01,HLA01673,Genomic Sequence Extended
-Modified,C*03:04:01:22,HLA24598,Genomic Sequence Extended
-Modified,C*04:124,HLA08221,Sequence extended from position 1 to 73 and position 620 to 1101 and Genomic Sequence Added
-Modified,C*04:226,HLA14220,Sequence extended from position 1097 to 1101 and Genomic Sequence Added
-Modified,C*06:02:61,HLA19749,Genomic Sequence Extended
-Modified,C*06:150,HLA13031,Sequence extended from position 1 to 73 and position 620 to 1101 and Genomic Sequence Added
-Modified,C*06:262,HLA22353,Sequence extended from position 1049 to 1101 and Genomic Sequence Added
-Modified,C*07:01:43,HLA11460,Sequence extended from position 1 to 73 and position 620 to 1101 and Genomic Sequence Added
-Modified,C*07:01:117,HLA36456,Genomic Sequence Extended
-Modified,C*07:02:01:186,HLA37439,Genomic Sequence Extended
-Modified,C*07:04:06,HLA06824,Sequence extended from position 1097 to 1101
-Modified,C*07:350N,HLA10873,Sequence extended from position 1050 to 1102
-Modified,C*12:23,HLA03988,Sequence extended from position 1 to 73 and position 896 to 1101 and Genomic Sequence Added
-Modified,C*12:243,HLA19685,Sequence extended from position 1097 to 1101 and Genomic Sequence Added
-Modified,C*16:201,HLA04321,Genomic Sequence Extended
-Modified,E*01:01:01:03,HLA02450,Genomic Sequence Extended
-Modified,E*01:01:02,HLA10665,Sequence extended from position 1 to 64 and position 611 to 1077 and Genomic Sequence Added
-Modified,E*01:03:01:02,HLA02226,Genomic Sequence Extended
-Modified,F*01:03:01:05,HLA34439,Genomic Sequence Extended
-Modified,G*01:01:01:14Q,HLA27878,Genomic Sequence Extended
-Modified,G*01:01:14,HLA03159,Genomic Sequence Extended
-Modified,G*01:01:15,HLA03553,Sequence extended from position 1 to 73 and position 896 to 1017 and Genomic Sequence Added
-Modified,G*01:04:01:04Q,HLA27538,Genomic Sequence Extended
-Modified,G*01:04:05,HLA03555,Sequence extended from position 1 to 73 and position 896 to 1017 and Genomic Sequence Added
-Modified,G*01:15,HLA03399,Sequence extended from position 1 to 73 and position 896 to 1017 and Genomic Sequence Added
-Modified,G*01:23,HLA26781,Genomic Sequence Extended
-Modified,DRB1*11:23:02,HLA09687,Sequence extended from position 1 to 100 and position 371 to 801
-Modified,DRB1*14:05:03,HLA02732,Sequence extended from position 1 to 100 and position 371 to 801
-Modified,DRB1*14:54:12,HLA34084,Genomic Sequence Extended
-Modified,DRB1*14:124,HLA07518,Sequence extended from position 1 to 100 and position 371 to 801
-Modified,DRB1*14:173,HLA14691,Sequence extended from position 1 to 100 and position 371 to 801
-Modified,DRB1*15:14,HLA01842,Sequence extended from position 1 to 100 and position 371 to 801 and Genomic Sequence Added
-Modified,DRB3*03:65,HLA37776,Sequence extended from position 1 to 100
-Modified,DQA1*01:70,HLA31377,Sequence extended from position 1 to 82
-Modified,DQA1*05:05:05,HLA26965,Genomic Sequence Added
-Modified,DQA2*01:05:01:01,HLA26099,Genomic Sequence Extended
-Modified,DQB1*05:01:46,HLA34476,Sequence extended from position 773 to 786
-Modified,DQB1*05:02:01:12,HLA33490,Genomic Sequence Extended
-Modified,DQB1*05:32,HLA09829,Sequence extended from position 1 to 109 and position 662 to 772
-Modified,DQB1*06:04:11,HLA17292,Sequence extended from position 1 to 109 and position 773 to 786 and Genomic Sequence Added
-Modified,DQB1*06:468,HLA37046,Sequence extended from position 1 to 109 and Genomic Sequence Added
-Modified,DQB1*06:473,HLA37443,Sequence extended from position 773 to 786
-Modified,DQB1*03:01:01:10,HLA17365,Genomic Sequence Extended
-Modified,DQB1*03:30,HLA05774,Sequence extended from position 1 to 109 and position 662 to 786 and Genomic Sequence Added
-Modified,DQB1*04:22,HLA11365,Sequence extended from position 1 to 109 and position 380 to 786
-Modified,DQB2*01:01:01:15,HLA36527,Genomic Sequence Extended
-Modified,DQB2*01:02:01:02,HLA36383,Genomic Sequence Extended
-Modified,DPA1*01:03:01:71,HLA37021,Genomic Sequence Extended
-Modified,DPA1*01:03:01:74,HLA37887,Genomic Sequence Extended
-Modified,DPA1*01:03:04,HLA03224,Sequence extended from position 1 to 100 and position 714 to 783 and Genomic Sequence Added
-Modified,DPA1*01:03:08,HLA21996,Sequence extended from position 1 to 100 and Genomic Sequence Added
-Modified,DPA1*02:01:01:02,HLA14197,Genomic Sequence Extended
-Modified,DPA1*02:01:10,HLA24224,Sequence extended from position 1 to 100 and Genomic Sequence Added
-Modified,DPA1*02:02:02:01,HLA00509,Genomic Sequence Extended
-Modified,DPA1*02:02:02:02,HLA17378,Genomic Sequence Extended
-Modified,DPA1*02:16,HLA22688,Sequence extended from position 1 to 100 and position 714 to 783 and Genomic Sequence Added
-Modified,DPA1*02:20,HLA23554,Sequence extended from position 1 to 100 and Genomic Sequence Added
-Modified,DPA1*02:110:02,HLA37596,Sequence extended from position 1 to 100 and Genomic Sequence Added
-Modified,DPB1*61:01N,HLA00580,Sequence extended from position 1 to 100 and position 647 to 777
-Modified,DPB1*1499:01,HLA37721,Genomic Sequence Added
-Modified,DMB*01:01:01:29,HLA34511,Genomic Sequence Extended
-Modified,DMB*01:02:01:01,HLA00490,Genomic Sequence Extended
-Modified,DOB*01:01:01:27,HLA34873,Genomic Sequence Extended
-Modified,DOB*01:02:02,HLA01215,Genomic Sequence Extended
-Modified,MICA*010:01:05,HLA26405,Genomic Sequence Extended
-Corrected,DQB1*06:55,HLA09225,Nucleotide Sequence Corrected
+New,A*01:01:01:116,HLA39086,Genomic Sequence
+New,A*01:01:01:117,HLA39048,Genomic Sequence
+New,A*01:01:153,HLA39122,Genomic Sequence
+New,A*01:444,HLA38768,Genomic Sequence
+New,A*01:445,HLA38942,Genomic Sequence
+New,A*01:446,HLA39044,Genomic Sequence
+New,A*01:447,HLA39089,Genomic Sequence
+New,A*02:01:01:249,HLA39164,Genomic Sequence
+New,A*02:01:01:250,HLA39104,Genomic Sequence
+New,A*02:01:216,HLA38802,Genomic Sequence
+New,A*02:53:02N,HLA38900,Genomic Sequence
+New,A*02:1129,HLA38837,Genomic Sequence
+New,A*02:1130,HLA38774,Genomic Sequence
+New,A*02:1131,HLA38799,Genomic Sequence
+New,A*02:1132,HLA38784,Genomic Sequence
+New,A*02:1133,HLA38785,Genomic Sequence
+New,A*02:1134,HLA38852,Genomic Sequence
+New,A*02:1135,HLA38859,Genomic Sequence
+New,A*02:1136,HLA38937,Genomic Sequence
+New,A*02:1137,HLA38969,Genomic Sequence
+New,A*02:1138,HLA39071,
+New,A*02:1139,HLA39072,
+New,A*02:1140,HLA39209,Genomic Sequence
+New,A*02:1141,HLA39137,Genomic Sequence
+New,A*02:1142,HLA39184,Genomic Sequence
+New,A*02:1143N,HLA39040,Genomic Sequence
+New,A*02:1144,HLA39073,Genomic Sequence
+New,A*02:1145,HLA39103,Genomic Sequence
+New,A*03:01:124,HLA39166,Genomic Sequence
+New,A*03:01:125,HLA39036,Genomic Sequence
+New,A*03:01:126,HLA39124,Genomic Sequence
+New,A*03:182:01:02,HLA39026,Genomic Sequence
+New,A*03:474,HLA38821,Genomic Sequence
+New,A*03:475,HLA38767,Genomic Sequence
+New,A*03:476,HLA38817,Genomic Sequence
+New,A*03:477,HLA38809,Genomic Sequence
+New,A*03:478,HLA38927,Genomic Sequence
+New,A*03:479,HLA39037,Genomic Sequence
+New,A*11:457,HLA38848,Genomic Sequence
+New,A*11:458,HLA38829,Genomic Sequence
+New,A*11:459,HLA39185,
+New,A*11:460,HLA39101,Genomic Sequence
+New,A*11:461N,HLA39123,Genomic Sequence
+New,A*11:462,HLA39118,Genomic Sequence
+New,A*23:01:01:32,HLA39111,Genomic Sequence
+New,A*23:01:01:33,HLA39078,Genomic Sequence
+New,A*23:01:38,HLA38757,Genomic Sequence
+New,A*23:01:39,HLA38871,Genomic Sequence
+New,A*23:17:01:05,HLA38797,Genomic Sequence
+New,A*23:17:01:06,HLA39049,Genomic Sequence
+New,A*23:132,HLA38820,Genomic Sequence
+New,A*23:133,HLA38825,Genomic Sequence
+New,A*23:134,HLA38787,Genomic Sequence
+New,A*23:135,HLA39116,Genomic Sequence
+New,A*24:02:01:137,HLA39003,Genomic Sequence
+New,A*24:02:169,HLA38850,
+New,A*24:617,HLA39028,
+New,A*24:618,HLA39154,Genomic Sequence
+New,A*26:01:79,HLA38972,Genomic Sequence
+New,A*26:01:80,HLA38891,
+New,A*26:01:81,HLA39210,
+New,A*26:107:02N,HLA38783,Genomic Sequence
+New,A*29:184,HLA39100,Genomic Sequence
+New,A*30:02:31,HLA39115,Genomic Sequence
+New,A*30:223,HLA38987,Genomic Sequence
+New,A*31:01:02:57,HLA39006,Genomic Sequence
+New,A*31:224,HLA38815,Genomic Sequence
+New,A*31:225,HLA38923,Genomic Sequence
+New,A*31:226,HLA38938,Genomic Sequence
+New,A*31:227,HLA38896,Genomic Sequence
+New,A*32:01:55,HLA39005,Genomic Sequence
+New,A*32:180,HLA38810,Genomic Sequence
+New,A*32:181,HLA38879,
+New,A*33:03:68,HLA39070,Genomic Sequence
+New,A*33:257,HLA38839,Genomic Sequence
+New,A*33:258N,HLA38775,Genomic Sequence
+New,A*33:259,HLA38796,Genomic Sequence
+New,A*33:260,HLA39053,Genomic Sequence
+New,A*68:03:04,HLA39222,Genomic Sequence
+New,A*68:309,HLA38782,Genomic Sequence
+New,A*68:310,HLA38849,Genomic Sequence
+New,A*68:311,HLA39093,Genomic Sequence
+New,A*74:01:10,HLA38968,Genomic Sequence
+New,A*74:47N,HLA38883,Genomic Sequence
+New,A*74:48,HLA39031,Genomic Sequence
+New,A*74:49,HLA39136,Genomic Sequence
+New,B*07:490,HLA38800,Genomic Sequence
+New,B*07:491,HLA38870,Genomic Sequence
+New,B*07:492,HLA39069,Genomic Sequence
+New,B*13:01:23,HLA39157,
+New,B*13:02:01:30,HLA39066,Genomic Sequence
+New,B*13:184,HLA38844,Genomic Sequence
+New,B*13:185,HLA38814,Genomic Sequence
+New,B*13:186,HLA38794,Genomic Sequence
+New,B*13:187,HLA39025,
+New,B*14:01:01:12,HLA39013,Genomic Sequence
+New,B*14:02:31,HLA38882,Genomic Sequence
+New,B*14:125,HLA38760,Genomic Sequence
+New,B*14:126,HLA38858,Genomic Sequence
+New,B*14:127,HLA39057,Genomic Sequence
+New,B*15:01:01:66,HLA39217,Genomic Sequence
+New,B*15:01:84,HLA39094,Genomic Sequence
+New,B*15:02:16,HLA39141,Genomic Sequence
+New,B*15:549:02N,HLA39098,Genomic Sequence
+New,B*15:679,HLA38954,Genomic Sequence
+New,B*15:680,HLA39000,Genomic Sequence
+New,B*18:01:01:85,HLA38881,Genomic Sequence
+New,B*18:01:01:86,HLA39139,Genomic Sequence
+New,B*18:01:01:87,HLA39132,Genomic Sequence
+New,B*18:233,HLA38887,Genomic Sequence
+New,B*18:234,HLA38866,Genomic Sequence
+New,B*27:05:02:41,HLA39204,Genomic Sequence
+New,B*27:270,HLA38818,Genomic Sequence
+New,B*35:01:76,HLA39080,Genomic Sequence
+New,B*35:08:17,HLA39160,Genomic Sequence
+New,B*35:13:03,HLA39008,Genomic Sequence
+New,B*35:82:02,HLA39151,Genomic Sequence
+New,B*35:592,HLA38971,Genomic Sequence
+New,B*35:593,HLA39130,Genomic Sequence
+New,B*35:594,HLA39197,Genomic Sequence
+New,B*35:595,HLA39188,Genomic Sequence
+New,B*35:596,HLA39067,Genomic Sequence
+New,B*38:02:12,HLA38966,Genomic Sequence
+New,B*39:09:06,HLA38910,Genomic Sequence
+New,B*39:58:02,HLA38951,Genomic Sequence
+New,B*39:203Q,HLA38813,Genomic Sequence
+New,B*39:204,HLA38865,Genomic Sequence
+New,B*39:205,HLA39182,Genomic Sequence
+New,B*39:206,HLA39143,Genomic Sequence
+New,B*40:01:86,HLA38933,Genomic Sequence
+New,B*40:125:04,HLA38738,Genomic Sequence
+New,B*40:431:02,HLA39145,Genomic Sequence
+New,B*40:553,HLA38834,Genomic Sequence
+New,B*40:554,HLA38805,Genomic Sequence
+New,B*40:555,HLA39109,
+New,B*42:01:07,HLA38898,Genomic Sequence
+New,B*44:02:83,HLA38956,Genomic Sequence
+New,B*44:03:01:70,HLA39004,Genomic Sequence
+New,B*44:03:01:71,HLA39052,Genomic Sequence
+New,B*44:03:01:72,HLA39085,Genomic Sequence
+New,B*44:381,HLA38739,Genomic Sequence
+New,B*44:382,HLA38840,Genomic Sequence
+New,B*44:383,HLA38811,Genomic Sequence
+New,B*44:384,HLA39201,
+New,B*44:385,HLA39107,Genomic Sequence
+New,B*45:01:13,HLA38932,Genomic Sequence
+New,B*51:230:01:04,HLA38777,Genomic Sequence
+New,B*51:394Q,HLA38880,
+New,B*51:395,HLA38960,Genomic Sequence
+New,B*51:396,HLA38855,Genomic Sequence
+New,B*51:397,HLA39156,
+New,B*51:398,HLA39099,Genomic Sequence
+New,B*52:116,HLA38779,Genomic Sequence
+New,B*53:01:32,HLA38886,Genomic Sequence
+New,B*53:74,HLA38906,Genomic Sequence
+New,B*55:136,HLA39120,Genomic Sequence
+New,B*57:01:48,HLA39035,Genomic Sequence
+New,B*57:170,HLA38735,Genomic Sequence
+New,B*57:171,HLA38846,Genomic Sequence
+New,B*57:172,HLA38754,Genomic Sequence
+New,B*57:173,HLA38806,Genomic Sequence
+New,B*57:174,HLA38801,Genomic Sequence
+New,B*57:175,HLA38920,Genomic Sequence
+New,B*57:176,HLA39079,Genomic Sequence
+New,B*58:01:46,HLA38878,Genomic Sequence
+New,B*58:145,HLA38737,Genomic Sequence
+New,B*58:146,HLA38981,Genomic Sequence
+New,B*58:147,HLA38953,Genomic Sequence
+New,B*73:04,HLA38816,Genomic Sequence
+New,C*01:258,HLA38734,Genomic Sequence
+New,C*01:259,HLA38824,Genomic Sequence
+New,C*01:260,HLA38773,Genomic Sequence
+New,C*01:261,HLA38771,Genomic Sequence
+New,C*01:262,HLA38872,Genomic Sequence
+New,C*01:263,HLA38875,
+New,C*01:264,HLA39218,Genomic Sequence
+New,C*01:265N,HLA39038,Genomic Sequence
+New,C*01:266N,HLA39224,Genomic Sequence
+New,C*02:225,HLA38841,Genomic Sequence
+New,C*02:226,HLA38786,Genomic Sequence
+New,C*02:227N,HLA39200,Genomic Sequence
+New,C*03:02:32,HLA39149,Genomic Sequence
+New,C*03:03:67,HLA39113,Genomic Sequence
+New,C*03:648,HLA38752,Genomic Sequence
+New,C*03:649,HLA38753,
+New,C*03:650,HLA38958,Genomic Sequence
+New,C*03:651,HLA39208,
+New,C*03:652,HLA38995,
+New,C*03:653N,HLA39015,Genomic Sequence
+New,C*03:654,HLA39117,Genomic Sequence
+New,C*04:01:01:183,HLA39215,Genomic Sequence
+New,C*04:01:01:184,HLA39194,Genomic Sequence
+New,C*04:01:156,HLA39001,Genomic Sequence
+New,C*04:01:157,HLA39112,Genomic Sequence
+New,C*04:511,HLA38798,Genomic Sequence
+New,C*04:512,HLA38762,Genomic Sequence
+New,C*04:513,HLA39096,Genomic Sequence
+New,C*04:514,HLA39170,Genomic Sequence
+New,C*05:01:76,HLA39034,Genomic Sequence
+New,C*05:248:01:02,HLA38808,Genomic Sequence
+New,C*05:292N,HLA38860,
+New,C*05:293,HLA39128,Genomic Sequence
+New,C*06:02:112,HLA39082,Genomic Sequence
+New,C*06:369,HLA38835,Genomic Sequence
+New,C*06:370,HLA38772,Genomic Sequence
+New,C*06:371,HLA39065,Genomic Sequence
+New,C*06:372,HLA39002,Genomic Sequence
+New,C*07:01:121,HLA39152,Genomic Sequence
+New,C*07:02:01:198,HLA39162,Genomic Sequence
+New,C*07:04:30,HLA39134,Genomic Sequence
+New,C*07:18:01:12,HLA38833,Genomic Sequence
+New,C*07:639:01:02,HLA38793,Genomic Sequence
+New,C*07:1093,HLA38838,Genomic Sequence
+New,C*07:1094,HLA38747,Genomic Sequence
+New,C*07:1095,HLA38830,Genomic Sequence
+New,C*07:1096,HLA38847,Genomic Sequence
+New,C*07:1097,HLA38832,Genomic Sequence
+New,C*07:1098,HLA38791,Genomic Sequence
+New,C*07:1099,HLA38761,Genomic Sequence
+New,C*07:1100N,HLA38788,Genomic Sequence
+New,C*07:1101,HLA38764,Genomic Sequence
+New,C*07:1102,HLA38765,
+New,C*07:1103,HLA38876,Genomic Sequence
+New,C*07:1104,HLA38907,Genomic Sequence
+New,C*07:1105,HLA39023,Genomic Sequence
+New,C*07:1106N,HLA39213,Genomic Sequence
+New,C*07:1107,HLA39179,Genomic Sequence
+New,C*07:1108,HLA39018,Genomic Sequence
+New,C*08:01:01:22,HLA38524,Genomic Sequence
+New,C*08:214:02N,HLA38984,Genomic Sequence
+New,C*08:271,HLA38885,
+New,C*08:272,HLA38854,
+New,C*08:273,HLA39175,
+New,C*08:274,HLA39102,Genomic Sequence
+New,C*08:275,HLA39155,Genomic Sequence
+New,C*12:392,HLA38789,Genomic Sequence
+New,C*12:393Q,HLA38845,Genomic Sequence
+New,C*12:394,HLA38804,Genomic Sequence
+New,C*12:395,HLA38944,
+New,C*12:396,HLA39076,Genomic Sequence
+New,C*12:397,HLA39075,Genomic Sequence
+New,C*14:158Q,HLA38941,Genomic Sequence
+New,C*14:159,HLA39172,Genomic Sequence
+New,C*15:02:01:61,HLA38807,Genomic Sequence
+New,C*15:02:01:62Q,HLA39167,Genomic Sequence
+New,C*15:02:64,HLA39084,Genomic Sequence
+New,C*15:263,HLA38766,Genomic Sequence
+New,C*15:264,HLA38795,Genomic Sequence
+New,C*15:265,HLA38924,Genomic Sequence
+New,C*15:266,HLA39196,Genomic Sequence
+New,C*15:267,HLA39016,Genomic Sequence
+New,C*15:268,HLA39029,Genomic Sequence
+New,C*15:269N,HLA39064,Genomic Sequence
+New,C*16:216,HLA38812,Genomic Sequence
+New,C*17:01:19,HLA39138,Genomic Sequence
+New,C*17:03:01:08,HLA38776,Genomic Sequence
+New,C*17:03:01:09,HLA38803,Genomic Sequence
+New,C*17:73,HLA39181,Genomic Sequence
+New,C*17:74,HLA39133,Genomic Sequence
+New,E*01:01:01:51,HLA37719,Genomic Sequence
+New,E*01:01:01:53,HLA38736,Genomic Sequence
+New,E*01:01:01:54,HLA38741,Genomic Sequence
+New,E*01:01:43,HLA37924,Genomic Sequence
+New,G*01:04:09,HLA38890,Genomic Sequence
+New,K*01:04,HLA38946,Genomic Sequence
+New,L*01:03,HLA38895,Genomic Sequence
+New,T*03:01:01:02,HLA38950,Genomic Sequence
+New,U*01:05,HLA38928,Genomic Sequence
+New,U*01:06,HLA38929,Genomic Sequence
+New,V*01:01:01:04,HLA38955,Genomic Sequence
+New,W*01:01:01:07,HLA38919,Genomic Sequence
+New,W*05:02,HLA38948,Genomic Sequence
+New,DRA*01:01:01:27,HLA39225,Genomic Sequence
+New,DRA*01:01:01:28,HLA39202,Genomic Sequence
+New,DRA*01:15,HLA38770,Genomic Sequence
+New,DRB1*01:01:01:20,HLA39045,Genomic Sequence
+New,DRB1*01:01:47,HLA38869,Genomic Sequence
+New,DRB1*01:147,HLA38740,
+New,DRB1*01:148,HLA38976,Genomic Sequence
+New,DRB1*01:149,HLA39090,Genomic Sequence
+New,DRB1*03:211,HLA39190,
+New,DRB1*04:04:20,HLA38970,
+New,DRB1*04:07:01:05,HLA38973,Genomic Sequence
+New,DRB1*04:370,HLA38749,
+New,DRB1*04:371,HLA38750,
+New,DRB1*04:372,HLA38769,
+New,DRB1*04:373,HLA39216,
+New,DRB1*04:374,HLA39058,
+New,DRB1*04:375,HLA39068,
+New,DRB1*07:01:33,HLA38763,
+New,DRB1*07:01:34,HLA38867,Genomic Sequence
+New,DRB1*07:155,HLA39161,
+New,DRB1*08:02:06,HLA39173,
+New,DRB1*08:126,HLA38758,
+New,DRB1*08:127,HLA38930,
+New,DRB1*09:55,HLA38831,
+New,DRB1*09:56,HLA38742,
+New,DRB1*09:57,HLA39223,
+New,DRB1*11:87:02,HLA39062,
+New,DRB1*11:285:02,HLA38756,
+New,DRB1*11:326,HLA38780,
+New,DRB1*11:327,HLA39159,
+New,DRB1*11:328,HLA39024,
+New,DRB1*11:329N,HLA39063,
+New,DRB1*12:108,HLA38826,
+New,DRB1*12:109,HLA39014,
+New,DRB1*13:350,HLA39083,
+New,DRB1*14:54:13,HLA38790,
+New,DRB1*14:259,HLA39205,
+New,DRB1*14:260,HLA39007,
+New,DRB1*15:221,HLA38733,
+New,DRB1*15:222,HLA38819,
+New,DRB1*15:223,HLA38974,Genomic Sequence
+New,DRB1*15:224,HLA39148,Genomic Sequence
+New,DRB1*16:76,HLA39017,
+New,DRB3*01:121,HLA38921,
+New,DRB3*01:122,HLA38917,
+New,DRB3*01:123,HLA38868,
+New,DRB3*02:199,HLA38748,
+New,DRB3*02:200,HLA39043,
+New,DRB3*02:201,HLA39050,
+New,DRB4*01:03:35,HLA38781,
+New,DRB4*01:72:02,HLA39019,
+New,DRB5*01:136,HLA39022,
+New,DRB5*01:137,HLA39055,
+New,DRB6*02:01:01:02,HLA38822,
+New,DQA1*01:02:01:30,HLA38827,Genomic Sequence
+New,DQA1*01:03:01:16,HLA38931,Genomic Sequence
+New,DQA1*01:03:01:17,HLA39010,Genomic Sequence
+New,DQA1*01:03:11,HLA38874,
+New,DQA1*01:04:01:06,HLA38980,Genomic Sequence
+New,DQA1*01:141,HLA39163,
+New,DQA1*02:01:01:07,HLA39011,Genomic Sequence
+New,DQA1*02:01:01:08,HLA39059,Genomic Sequence
+New,DQA1*02:01:22,HLA39226,
+New,DQA1*02:40,HLA39219,
+New,DQA1*03:01:15,HLA39056,
+New,DQA1*03:02:01:04,HLA38843,Genomic Sequence
+New,DQA1*03:02:05,HLA38884,
+New,DQA1*03:03:01:21,HLA38743,Genomic Sequence
+New,DQA1*03:03:01:22,HLA39187,Genomic Sequence
+New,DQA1*03:65,HLA39027,
+New,DQA1*03:66,HLA39199,Genomic Sequence
+New,DQA1*03:67,HLA39032,
+New,DQA1*04:01:01:12,HLA38856,Genomic Sequence
+New,DQA1*04:01:01:13,HLA38988,Genomic Sequence
+New,DQA1*04:18,HLA39030,
+New,DQA1*05:01:15,HLA38744,Genomic Sequence
+New,DQA1*05:05:01:40,HLA38842,Genomic Sequence
+New,DQA1*05:05:17:02,HLA38979,Genomic Sequence
+New,DQA1*05:88:02,HLA38990,Genomic Sequence
+New,DQA1*05:95,HLA38746,
+New,DQA1*05:96,HLA38903,Genomic Sequence
+New,DQA1*05:97,HLA39042,
+New,DQA1*05:98,HLA39146,
+New,DQA1*05:99,HLA39077,
+New,DQA1*05:100,HLA39092,
+New,DQA1*06:01:01:05,HLA38853,Genomic Sequence
+New,DQA1*06:06,HLA39060,Genomic Sequence
+New,DQA1*06:07,HLA39051,
+New,DQB1*05:01:49,HLA38893,Genomic Sequence
+New,DQB1*05:325,HLA39081,
+New,DQB1*06:01:01:08,HLA38992,Genomic Sequence
+New,DQB1*06:02:60,HLA38759,
+New,DQB1*06:478,HLA38961,
+New,DQB1*06:479,HLA38963,
+New,DQB1*06:480,HLA39153,
+New,DQB1*02:01:01:21Q,HLA38873,Genomic Sequence
+New,DQB1*02:02:01:20,HLA39171,Genomic Sequence
+New,DQB1*02:215,HLA38911,
+New,DQB1*03:01:01:59,HLA38943,Genomic Sequence
+New,DQB1*03:01:01:60,HLA39142,Genomic Sequence
+New,DQB1*03:01:59,HLA38836,
+New,DQB1*03:02:01:22,HLA38909,Genomic Sequence
+New,DQB1*03:03:02:15,HLA38894,Genomic Sequence
+New,DQB1*03:03:02:16,HLA38925,Genomic Sequence
+New,DQB1*03:516,HLA39193,
+New,DQB1*03:517,HLA39020,
+New,DQB1*03:518,HLA39121,
+New,DPA1*01:03:01:81,HLA38792,Genomic Sequence
+New,DPA1*01:03:01:82,HLA39095,Genomic Sequence
+New,DPA1*01:06:05,HLA38902,Genomic Sequence
+New,DPA1*01:155:01:02,HLA39129,Genomic Sequence
+New,DPA1*01:181,HLA38755,
+New,DPA1*01:182,HLA38889,
+New,DPA1*01:183,HLA38892,Genomic Sequence
+New,DPA1*01:184,HLA38989,
+New,DPA1*01:185,HLA38998,
+New,DPA1*01:186,HLA38997,
+New,DPA1*01:187,HLA39169,
+New,DPA1*01:188,HLA39180,
+New,DPA1*01:189,HLA39126,
+New,DPA1*01:190,HLA39144,
+New,DPA1*02:01:08:06,HLA38999,Genomic Sequence
+New,DPA1*02:23:02,HLA39125,
+New,DPA1*02:124,HLA38745,Genomic Sequence
+New,DPA1*02:125,HLA38985,Genomic Sequence
+New,DPA1*02:126,HLA39178,
+New,DPA1*04:06,HLA39176,Genomic Sequence
+New,DPA2*02:01:01:02,HLA38863,Genomic Sequence
+New,DPB1*01:01:13,HLA38922,
+New,DPB1*02:01:02:89,HLA38952,Genomic Sequence
+New,DPB1*02:01:02:90,HLA39110,Genomic Sequence
+New,DPB1*02:01:02:91,HLA39186,Genomic Sequence
+New,DPB1*03:01:01:28,HLA38949,Genomic Sequence
+New,DPB1*03:01:30,HLA38913,Genomic Sequence
+New,DPB1*04:01:01:134,HLA38916,Genomic Sequence
+New,DPB1*04:01:01:135,HLA38959,Genomic Sequence
+New,DPB1*04:01:01:136,HLA39212,Genomic Sequence
+New,DPB1*04:01:01:137,HLA39191,Genomic Sequence
+New,DPB1*04:01:01:138,HLA39203,Genomic Sequence
+New,DPB1*04:01:01:139,HLA39211,Genomic Sequence
+New,DPB1*04:01:01:140,HLA39158,Genomic Sequence
+New,DPB1*04:01:01:141,HLA39009,Genomic Sequence
+New,DPB1*04:01:59:02,HLA38888,Genomic Sequence
+New,DPB1*04:01:74:01,HLA38862,Genomic Sequence
+New,DPB1*04:01:74:02,HLA38940,Genomic Sequence
+New,DPB1*04:01:74:03,HLA39047,Genomic Sequence
+New,DPB1*04:01:75,HLA39119,Genomic Sequence
+New,DPB1*04:02:01:42,HLA39091,Genomic Sequence
+New,DPB1*04:02:26,HLA38965,Genomic Sequence
+New,DPB1*05:01:01:35,HLA38982,Genomic Sequence
+New,DPB1*05:01:01:36,HLA38934,Genomic Sequence
+New,DPB1*05:01:20,HLA39061,
+New,DPB1*05:01:21,HLA39177,
+New,DPB1*13:01:01:16,HLA38918,Genomic Sequence
+New,DPB1*14:01:01:10,HLA38978,Genomic Sequence
+New,DPB1*14:01:01:11,HLA38939,Genomic Sequence
+New,DPB1*66:01:01:02,HLA38994,Genomic Sequence
+New,DPB1*104:01:01:14,HLA38914,Genomic Sequence
+New,DPB1*104:01:07,HLA38926,Genomic Sequence
+New,DPB1*104:01:08,HLA39097,
+New,DPB1*105:01:01:19,HLA38905,Genomic Sequence
+New,DPB1*112:01:01:02,HLA39214,Genomic Sequence
+New,DPB1*173:01:01:02,HLA39108,Genomic Sequence
+New,DPB1*189:01:01:02,HLA39039,Genomic Sequence
+New,DPB1*214:01:01:02,HLA39127,Genomic Sequence
+New,DPB1*215:01:01:02,HLA39131,Genomic Sequence
+New,DPB1*290:01:02,HLA38983,Genomic Sequence
+New,DPB1*301:01:01:02,HLA39033,Genomic Sequence
+New,DPB1*1344:01:02,HLA38964,Genomic Sequence
+New,DPB1*1528:01,HLA38778,
+New,DPB1*1529:01,HLA38823,
+New,DPB1*1530:01,HLA38751,
+New,DPB1*1531:01,HLA38828,
+New,DPB1*1532:01,HLA38908,
+New,DPB1*1533:01,HLA38991,
+New,DPB1*1534:01,HLA38962,
+New,DPB1*1535:01,HLA38915,Genomic Sequence
+New,DPB1*1536:01,HLA38897,Genomic Sequence
+New,DPB1*1537:01,HLA38904,Genomic Sequence
+New,DPB1*1538:01N,HLA38957,Genomic Sequence
+New,DPB1*1539:01,HLA38947,Genomic Sequence
+New,DPB1*1540:01,HLA38935,Genomic Sequence
+New,DPB1*1541:01,HLA38945,Genomic Sequence
+New,DPB1*1542:01N,HLA38977,Genomic Sequence
+New,DPB1*1543:01:01:01,HLA38851,Genomic Sequence
+New,DPB1*1543:01:01:02,HLA39135,Genomic Sequence
+New,DPB1*1544:01,HLA38861,Genomic Sequence
+New,DPB1*1545:01,HLA38877,Genomic Sequence
+New,DPB1*1546:01,HLA38975,Genomic Sequence
+New,DPB1*1547:01,HLA38993,Genomic Sequence
+New,DPB1*1548:01N,HLA38901,Genomic Sequence
+New,DPB1*1549:01,HLA38936,Genomic Sequence
+New,DPB1*1550:01,HLA38864,
+New,DPB1*1551:01,HLA38986,
+New,DPB1*1552:01,HLA38967,
+New,DPB1*1553:01,HLA39207,
+New,DPB1*1554:01,HLA39054,Genomic Sequence
+New,DPB1*1555:01,HLA39046,Genomic Sequence
+New,DPB1*1556:01,HLA39198,Genomic Sequence
+New,DPB1*1557:01,HLA39183,Genomic Sequence
+New,DPB1*1558:01,HLA39221,Genomic Sequence
+New,DPB1*1559:01,HLA39220,Genomic Sequence
+New,DPB1*1560:01,HLA39105,Genomic Sequence
+New,DPB1*1561:01,HLA39074,Genomic Sequence
+New,DPB1*1562:01,HLA39150,Genomic Sequence
+New,DPB1*1563:01,HLA39012,
+New,DPB1*1564:01,HLA39206,
+New,DPB1*1565:01,HLA38996,
+New,DPB1*1566:01,HLA39041,
+New,DPB1*1567:01,HLA39174,
+New,DPB1*1568:01,HLA39189,
+New,DPB1*1569:01,HLA39195,
+New,DPB1*1570:01,HLA39165,
+New,DPB1*1571:01,HLA39021,
+New,DPB1*1572:01,HLA39168,
+New,DPB1*1573:01,HLA39140,
+New,DPB1*1574:01,HLA39147,
+New,DPB1*1575:01,HLA39087,
+New,DPB1*1576:01,HLA39088,
+New,DPB1*1577:01,HLA39106,
+New,DPB1*1578:01,HLA39114,
+New,DPB2*03:02,HLA38857,Genomic Sequence
+New,DMA*01:01:01:41,HLA38912,Genomic Sequence
+New,DOA*01:01:04:10,HLA38899,Genomic Sequence
+New,MICB*002:06,HLA39192,
+Modified,A*02:425,HLA09516,Sequence extended from position 1 to 73 and position 620 to 1098 and Genomic Sequence Added
+Modified,A*11:102,HLA06527,Sequence extended from position 1 to 73 and position 896 to 1098 and Genomic Sequence Added
+Modified,A*24:02:15,HLA03196,Sequence extended from position 1 to 73 and position 620 to 1098 and Genomic Sequence Added
+Modified,A*24:02:51,HLA06899,Sequence extended from position 1 to 73 and position 620 to 1098 and Genomic Sequence Added
+Modified,A*29:77,HLA12925,Sequence extended from position 1 to 73 and position 620 to 1098 and Genomic Sequence Added
+Modified,B*08:01:01:05,HLA16876,Genomic Sequence Extended
+Modified,B*08:111,HLA09874,Sequence extended from position 1 to 73 and position 620 to 1089 and Genomic Sequence Added
+Modified,B*15:13:01,HLA00176,Genomic Sequence Extended
+Modified,B*39:79,HLA08524,Sequence extended from position 1 to 73 and position 620 to 1089 and Genomic Sequence Added
+Modified,B*39:202,HLA38633,Genomic Sequence Extended
+Modified,B*44:03:39,HLA16021,Sequence extended from position 1 to 73 and position 1013 to 1089 and Genomic Sequence Added
+Modified,B*51:225,HLA17433,Genomic Sequence Added
+Modified,B*52:01:56,HLA38607,Genomic Sequence Added
+Modified,B*57:01:02,HLA01520,Sequence extended from position 1 to 73 and position 620 to 1089 and Genomic Sequence Added
+Modified,C*03:139,HLA07355,Sequence extended from position 1 to 73 and position 620 to 1101 and Genomic Sequence Added
+Modified,C*03:547,HLA30161,Sequence extended from position 1 to 73 and position 620 to 1101 and Genomic Sequence Added
+Modified,C*04:492,HLA36617,Sequence extended from position 1049 to 1101 and Genomic Sequence Added
+Modified,C*06:297,HLA27545,Sequence extended from position 1049 to 1101 and Genomic Sequence Added
+Modified,C*07:247,HLA08150,Sequence extended from position 1 to 73 and position 620 to 1101 and Genomic Sequence Added
+Modified,C*07:961,HLA31582,Genomic Sequence Extended
+Modified,F*01:01:01:13,HLA17164,Genomic Sequence Extended
+Modified,F*01:05,HLA17339,Genomic Sequence Extended
+Modified,U*01:03,HLA18594,Genomic Sequence Extended
+Modified,DRB1*01:01:30,HLA16325,Sequence extended from position 371 to 763
+Modified,DRB1*11:137,HLA08869,Sequence extended from position 371 to 763
+Modified,DRB1*13:03:02,HLA00800,Sequence extended from position 101 to 108
+Modified,DRB1*13:05:02,HLA02318,Sequence extended from position 1 to 100 and position 371 to 801
+Modified,DRB1*14:89,HLA03862,Sequence extended from position 371 to 763
+Modified,DRB1*15:01:20,HLA08229,Sequence extended from position 371 to 763
+Modified,DRB1*15:200:01:02N,HLA34178,Genomic Sequence Extended
+Modified,DQA1*03:03:01:02,HLA14795,Genomic Sequence Extended
+Modified,DQA1*05:08:02,HLA38317,Genomic Sequence Added
+Modified,DQA2*01:01:01:04,HLA26607,Genomic Sequence Extended
+Modified,DQB1*05:193,HLA21636,Sequence extended from position 1 to 109 and position 773 to 786
+Modified,DQB1*06:97,HLA09751,Sequence extended from position 1 to 109 and position 380 to 786 and Genomic Sequence Added
+Modified,DQB1*06:348,HLA24098,Sequence extended from position 1 to 109 and position 773 to 786 and Genomic Sequence Added
+Modified,DQB1*03:03:02:03,HLA06623,Genomic Sequence Extended
+Modified,DQB1*03:14:02,HLA09240,Sequence extended from position 380 to 695
+Modified,DQB1*03:105,HLA10285,Sequence extended from position 773 to 786 and Genomic Sequence Added
+Modified,DQB1*03:229,HLA15001,Genomic Sequence Added
+Modified,DQB2*01:08,HLA35624,Genomic Sequence Extended
+Modified,DPB1*01:01:03,HLA02006,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*02:01:05,HLA01592,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*02:01:07,HLA03491,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*02:01:09,HLA09399,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*02:01:12,HLA10948,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*04:01:06,HLA09393,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*04:01:08,HLA10329,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*04:01:14,HLA10356,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*04:01:16,HLA10945,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*04:01:20,HLA11384,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*08:01,HLA00525,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*09:01:03,HLA11197,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*11:01:02,HLA00529,Sequence extended from position 1 to 100 and position 358 to 777 and Genomic Sequence Added
+Modified,DPB1*11:01:03,HLA10952,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*23:01:02,HLA11293,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*37:01,HLA00556,Sequence extended from position 1 to 108 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*58:01,HLA00577,Sequence extended from position 1 to 102 and position 358 to 777 and Genomic Sequence Added
+Modified,DPB1*61:01N,HLA00580,Genomic Sequence Added
+Modified,DPB1*65:01:01,HLA00584,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*66:01:01:01,HLA00585,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*67:01,HLA00586,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*75:01,HLA00594,Sequence extended from position 1 to 108 and position 358 to 777 and Genomic Sequence Added
+Modified,DPB1*79:01,HLA00598,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*82:01,HLA01002,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*83:01,HLA01084,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*87:01,HLA01308,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*92:01,HLA01597,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*99:01,HLA01830,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*102:01,HLA01947,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*104:01:04,HLA26403,Sequence extended from position 1 to 100 and Genomic Sequence Added
+Modified,DPB1*108:01,HLA02080,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*110:01,HLA02243,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*112:01:01:01,HLA02403,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*116:01,HLA02579,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*144:01,HLA09386,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*150:01,HLA09395,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*151:01,HLA09396,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*153:01,HLA09398,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*154:01N,HLA09400,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*157:01,HLA09403,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*158:01,HLA09404,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*163:01,HLA09767,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*170:01,HLA10324,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*172:01,HLA10326,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*173:01:01:01,HLA10327,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*177:01,HLA10334,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*179:01,HLA10337,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*182:01,HLA10341,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*189:01:01:01,HLA10348,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*201:01,HLA10363,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*206:01,HLA10368,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*214:01:01:01,HLA10943,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*215:01:01:01,HLA10944,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*224:01,HLA11182,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*245:01,HLA11510,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*259:01,HLA11542,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*265:01,HLA11502,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*266:01,HLA11503,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*277:01,HLA11527,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*281:01,HLA11531,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*282:01,HLA11532,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*283:01,HLA11533,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*291:01,HLA11547,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*294:01,HLA11550,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*299:01,HLA11612,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*301:01:01:01,HLA11614,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*309:01,HLA11624,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*314:01,HLA11629,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*319:01,HLA11693,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*324:01,HLA11701,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*355:01,HLA12062,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*377:01,HLA12379,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*413:01,HLA12855,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*445:01,HLA13605,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*458:01:01,HLA13698,Sequence extended from position 1 to 100 and position 365 to 777 and Genomic Sequence Added
+Modified,DPB1*1187:01,HLA30484,Sequence extended from position 1 to 100 and position 647 to 777 and Genomic Sequence Added
+Modified,DPB1*1463:01N,HLA37131,Sequence extended from position 1 to 100 and position 472 to 777 and Genomic Sequence Added
+Modified,DPB1*1493:01,HLA37651,Genomic Sequence Added
+Modified,DMB*01:01:01:09,HLA34620,Genomic Sequence Extended
+Modified,DMB*01:03:01:09,HLA34640,Genomic Sequence Extended
+Modified,DOA*01:01:02:15,HLA35437,Genomic Sequence Extended
+Modified,DOA*01:01:02:20,HLA35453,Genomic Sequence Extended
+Modified,DOA*01:01:02:45,HLA36099,Genomic Sequence Extended
+Modified,DOB*01:01:01:24,HLA34826,Genomic Sequence Extended
+Modified,DOB*01:01:05,HLA34702,Genomic Sequence Extended
+Modified,DOB*01:04:01:02,HLA01216,Genomic Sequence Extended
+Modified,MICB*005:02:21,HLA28948,Genomic Sequence Extended
+Suffix,DRB1*07:147N,HLA37146,Sequence renamed DRB1*07:147N (December 2023)
+Deleted,DRA*01:02:02:18,HLA35730,Sequence has now been shown to be in error and is identical to DRA*01:02:02:01 (January 2024)

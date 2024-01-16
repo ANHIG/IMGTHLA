@@ -20,8 +20,8 @@
           <xs:element ref="x:hla_p_group"/>
         </xs:sequence>
         <xs:element minOccurs="0" ref="x:citations"/>
-        <xs:element minOccurs="0" ref="x:sourcexrefs"/>
         <xs:sequence minOccurs="0">
+          <xs:element ref="x:sourcexrefs"/>
           <xs:element ref="x:sourcematerial"/>
           <xs:element ref="x:sequence"/>
         </xs:sequence>
@@ -37,13 +37,13 @@
       <xs:attribute name="currentrelease" use="required" type="xs:NMTOKEN"/>
       <xs:attribute name="firstreleased" use="required" type="xs:NMTOKEN"/>
       <xs:attribute name="lastupdated" use="required" type="xs:NMTOKEN"/>
-      <xs:attribute name="releasestatus" use="required"/>
       <xs:attribute name="releasecomments" use="required"/>
+      <xs:attribute name="releasestatus" use="required" type="xs:NCName"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="locus">
     <xs:complexType>
-      <xs:attribute name="class" use="required" type="xs:NCName"/>
+      <xs:attribute name="class" use="required"/>
       <xs:attribute name="genesystem" use="required" type="xs:NCName"/>
       <xs:attribute name="hugogenename" use="required" type="xs:NCName"/>
       <xs:attribute name="locusname" use="required" type="xs:NCName"/>
@@ -92,13 +92,13 @@
   <xs:element name="sourcexrefs">
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="x:xref"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="x:xref"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
   <xs:element name="xref">
     <xs:complexType>
-      <xs:attribute name="acc" use="required" type="xs:NMTOKEN"/>
+      <xs:attribute name="acc" use="required" type="xs:NCName"/>
       <xs:attribute name="pid" type="xs:NCName"/>
     </xs:complexType>
   </xs:element>
@@ -107,7 +107,7 @@
       <xs:sequence>
         <xs:element ref="x:species"/>
         <xs:element ref="x:ancestry"/>
-        <xs:element minOccurs="0" ref="x:samples"/>
+        <xs:element ref="x:samples"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
@@ -129,7 +129,7 @@
   <xs:element name="samples">
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="x:sample"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="x:sample"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
@@ -149,7 +149,7 @@
   </xs:element>
   <xs:element name="alignmentreference">
     <xs:complexType>
-      <xs:attribute name="alleleid" use="required"/>
+      <xs:attribute name="alleleid" use="required" type="xs:NCName"/>
       <xs:attribute name="allelename" use="required"/>
     </xs:complexType>
   </xs:element>
@@ -157,12 +157,10 @@
   <xs:element name="feature">
     <xs:complexType>
       <xs:sequence>
+        <xs:element minOccurs="0" ref="x:translation"/>
         <xs:element minOccurs="0" ref="x:SequenceCoordinates"/>
         <xs:element minOccurs="0" ref="x:cDNACoordinates"/>
-        <xs:choice>
-          <xs:element ref="x:translation"/>
-          <xs:element minOccurs="0" maxOccurs="unbounded" ref="x:cDNAindel"/>
-        </xs:choice>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="x:cDNAindel"/>
       </xs:sequence>
       <xs:attribute name="featuretype" use="required" type="xs:NCName"/>
       <xs:attribute name="id" use="required" type="xs:decimal"/>
@@ -171,6 +169,7 @@
       <xs:attribute name="status" type="xs:NCName"/>
     </xs:complexType>
   </xs:element>
+  <xs:element name="translation" type="xs:string"/>
   <xs:element name="SequenceCoordinates">
     <xs:complexType>
       <xs:attribute name="end" use="required" type="xs:integer"/>
@@ -184,7 +183,6 @@
       <xs:attribute name="start" use="required" type="xs:integer"/>
     </xs:complexType>
   </xs:element>
-  <xs:element name="translation" type="xs:string"/>
   <xs:element name="cDNAindel">
     <xs:complexType>
       <xs:attribute name="end" use="required" type="xs:integer"/>
