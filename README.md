@@ -82,6 +82,8 @@ Please note in release 3.43.0, there are three XML files for the release, hla.xm
 
 Please note in release 3.53.0, there was a change made to the hla.xml. The releaseversions tag attribute releasestatus has been changed to a binary flag containing either "Public" or "Deleted" to allow for easier filtering of deleted alleles. In addition a releasecomments attribute has been added containing information about changes to this allele with this verison of the database, this contains the information previously stored in the releasestatus attribute.
 
+Please note in release 3.55.0, there are three XML files for the release, hla.xml, hla_new.xml and hla_ambigs.xml. The hla_new.xml is an updated version of the hla.xml and includes a new release tag containing version and date information for the release. In release 3.56.0 and onwards, hla_new.xml will replace hla.xml, and the older format archived.
+
 ### Allele List Folder
 
 Lists of alleles for different versions of the database are now included in this single folder due to the large number of files.
