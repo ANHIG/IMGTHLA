@@ -6,7 +6,13 @@ This directory contains data for the IPD-IMGT/HLA database. The IPD-IMGT/HLA dat
 
 ### Cloning the Repository
 
-Due to the increasing size of the hla.dat file, the repository now requires the use of the Git LFS tools (https://git-lfs.github.com) to handle files over 100MB in size. Please use this when cloning the repository to ensure the larger files are downloaded correctly. If Git LFS is not used then large files will contain pointers to the Git LFS location rather than the data required.
+#### Up to April 2024
+
+Due to the increasing size of the hla.dat file, the repository has required the use of the Git LFS tools (https://git-lfs.github.com) to handle files over 100MB in size. Please use this when cloning the repository to ensure the larger files are downloaded correctly. If Git LFS is not used then large files will contain pointers to the Git LFS location rather than the data required.
+
+#### From April 2024, Release 3.56.0
+
+As of Release 3.56.0, due April 2024, all large files (>100MB) will be provided as compressed files rather than utilise Git LFS. This includes the hla.dat, xml/hla.xml and xml/hla_ambigs.xml in the next release. This has been done to simplify the cloning process and also due to escalating and unpredictable costs in proving the files using Git LFS from a public repository. All compressed files will use the [ZIP format](https://en.wikipedia.org/wiki/ZIP_(file_format)). This formatting change will be applied to all branches.
 
 --------------------------------------------------------------------------------
 File Formats 
