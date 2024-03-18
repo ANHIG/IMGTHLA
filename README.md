@@ -12,7 +12,7 @@ Due to the increasing size of the hla.dat file, the repository has required the 
 
 #### From April 2024, Release 3.56.0
 
-As of Release 3.56.0, due April 2024, all large files (>100MB) will be provided as compressed files rather than utilise Git LFS. This includes the hla.dat, xml/hla.xml and xml/hla_ambigs.xml in the next release. This has been done to simplify the cloning process and also due to escalating and unpredictable costs in proving the files using Git LFS from a public repository. All compressed files will use the [ZIP format](https://en.wikipedia.org/wiki/ZIP_(file_format)). This formatting change will be applied to all branches.
+As of Release 3.56.0, due April 2024, all large files (>100MB) will be provided as compressed files rather than utilise Git LFS. This includes the hla.dat, xml/hla.xml and xml/hla_ambigs.xml in the next release. This has been done to simplify the cloning process and also due to escalating and unpredictable costs in providing the files using Git LFS from a public repository. All compressed files will use the [ZIP format](https://en.wikipedia.org/wiki/ZIP_(file_format)). This formatting change will be applied to all branches.
 
 --------------------------------------------------------------------------------
 File Formats 
