@@ -41,14 +41,14 @@ Note that each line begins with a two-character line code, which indicates the t
 A sample entry is shown below:
 
 ```
-ID   HLA00001; SV 1; standard; DNA; HUM; 3503 BP.
+ID   HLA00001; SV 3; standard; DNA; HUM; 3503 BP.
 XX
 AC   HLA00001;
 XX
-SV   HLA00001.1
+SV   HLA00001.3
 XX
-DT   01-AUG-1989 (Rel. 1.0.0, Created, Version 1)
-DT   10-NOV-2017 (Rel. 3.30.0, Last Updated, Version 1)
+DT   01-AUG-1989 (Rel. 1.00.0, Created, Version 1)
+DT   01-APR-2006 (Rel. 2.13.0, Last Updated, Version 3)
 XX
 DE   HLA-A*01:01:01:01, Human MHC Class I sequence
 XX
@@ -59,27 +59,31 @@ OC   Eukaryota; Metazoa; Chordata; Vertebrata; Mammalia; Eutheria; Primates;
 OC   Catarrhini; Hominidae; Homo.
 XX
 CC   --------------------------------------------------------------------------
-CC   IPD-IMGT/HLA Release Version 3.30.0
+CC   IPD-IMGT/HLA Release Version 3.55.0
 CC   --------------------------------------------------------------------------
 CC   Copyrighted by the IPD-IMGT/HLA Database, Distributed under the Creative
 CC   Commons Attribution-NoDerivs License, see;
 CC   http://www.ebi.ac.uk/ipd/imgt/hla/licence/ for further details.
 CC   --------------------------------------------------------------------------
+CC   The sequence below is the official allele sequence as approved by the
+CC   WHO Nomenclature Committee for Factors of the HLA System.
+CC   Any cross references may differ from the sequence shown below.
+CC   --------------------------------------------------------------------------
 XX
 RN   [1]
 RP   1-3503
 RX   PUBMED; 3375250.
-RA   Parham P, Lomen CE, Lawlor DA, Ways JP, Holmes N, Coppin HL, Salter RD,
-RA   Wan AM, Ennis PD;
-RT   "Nature of polymorphism in HLA-A, -B, and -C molecules";
-RL   Proc Natl Acad Sci U S A 85:4005-9(1988).
+RA   Parham P, Lomen CE, Lawlor DA, Ways JP, Holmes N, Coppin HL, Salter RD, Wan
+RA   AM, Ennis PD;
+RT   "Nature of polymorphism in HLA-A, -B, and -C molecules.";
+RL   Proceedings of the National Academy of Sciences USA 85:4005-4009(1988).
 XX
 RN   [2]
 RP   1-3503
 RX   PUBMED; 2251137.
 RA   Girdlestone J;
-RT   "Nucleotide sequence of an HLA-A1 gene";
-RL   Nucleic Acids Res 18:6701-6701(1990).
+RT   "Nucleotide sequence of an HLA-A1 gene.";
+RL   Nucleic Acids Research 18:6701(1990).
 XX
 RN   [3]
 RP   1-3503
@@ -87,8 +91,8 @@ RX   PUBMED; 9349617.
 RA   Laforet M, Froelich N, Parissiadis A, Pfeiffer B, Schell A, Faller B,
 RA   Woehl-Jaegle ML, Cazenave JP, Tongio MM;
 RT   "A nucleotide insertion in exon 4 is responsible for the absence of
-RT   expression of an HLA-A*01 allele";
-RL   Tissue Antigens 50:347-50(1997).
+RT   expression of an HLA-A*01 allele.";
+RL   Tissue Antigens 50:347-350(1997).
 XX
 RN   [4]
 RP   1-3503
@@ -97,8 +101,8 @@ RA   Stewart CA, Horton R, Allcock RJ, Ashurst JL, Atrazhev AM, Coggill P,
 RA   Dunham I, Forbes S, Halls K, Howson JM, Humphray SJ, Hunt S, Mungall AJ,
 RA   Osoegawa K, Palmer S, Roberts AN, Rogers J, Sims S, Wang Y, Wilming LG,
 RA   Elliott JF, de Jong PJ, Sawcer S, Todd JA, Trowsdale J, Beck S;
-RT   "Complete MHC haplotype sequencing for common disease gene mapping";
-RL   Genome Res 14:1176-87(2004).
+RT   "Complete MHC haplotype sequencing for common disease gene mapping.";
+RL   Genome Research 14:1176-1187(2004).
 XX
 RN   [5]
 RP   1-3503
@@ -108,7 +112,7 @@ RA   Gilbert JGR, Halls K, Harrow JL, Hart E, Howe K, Jackson DK, Palmer S,
 RA   Roberts AN, Sims S, Stewart CA, Traherne JA, Trevanion S, Wilming L, Rogers
 RA   J, de Jong PJ, Elliott JF, Sawcer S, Todd JA, Trowsdale J, Beck S;
 RT   "Variation analysis and gene annotation of eight MHC haplotypes: The MHC
-RT   Haplotype Project";
+RT   Haplotype Project.";
 RL   Immunogenetics 60:1-18(2008).
 XX
 RN   [6]
@@ -117,7 +121,7 @@ RX   PUBMED; 19735485.
 RA   Zhu F, He Y, Zhang W, He J, He J, Xu X, Yan L;
 RT   "Analysis of the complete genomic sequence of HLA-A alleles in the Chinese
 RT   Han population.";
-RL   Int J Immunogenet 36:351-360(2009).
+RL   International Journal of Immunogenetics 36:351-360(2009).
 XX
 RN   [7]
 RP   1-3503
@@ -127,19 +131,14 @@ RT   "Genomic full-length sequence of two HLA-A alleles, A*01:01:01:01 and
 RT   A*01:03, identified by cloning and sequencing.";
 RL   Tissue Antigens 83:423-424(2014).
 XX
-CC   --------------------------------------------------------------------------
-CC   The sequence below is the official allele sequence as approved by the
-CC   WHO Nomenclature Committee for Factors of the HLA System.
-CC   Any cross references may differ from the sequence shown below.
-CC   --------------------------------------------------------------------------
-XX
-DR   EMBL; AJ278305; AJ278305.1.
-DR   EMBL; AL645935; AL645935.0.
-DR   EMBL; CR759913; CR759913.0.
-DR   EMBL; EU445470; EU445470.0.
-DR   EMBL; GU812295; GU812295.0.
-DR   EMBL; HG794373; HG794373.0.
+DR   EMBL; AJ278305; AJ278305.2.
+DR   EMBL; AL645935; AL645935.7.
+DR   EMBL; CR759913; CR759913.4.
+DR   EMBL; EU445470; EU445470.1.
+DR   EMBL; GU812295; GU812295.1.
+DR   EMBL; HG794373; HG794373.1.
 DR   EMBL; M24043; M24043.1.
+DR   EMBL; OR126295; OR126295.1.
 DR   EMBL; X55710; X55710.1.
 DR   EMBL; Z93949; Z93949.1.
 XX
@@ -149,11 +148,12 @@ FT   source          1..3503
 FT                   /organism="Homo sapiens"
 FT                   /mol_type="genomic DNA"
 FT                   /db_xref="taxon:9606"
-FT                   /ethnic="Oriental, Caucasoid"
+FT                   /ethnic="Asian, European, Undefined"
 FT                   /cell_line="7550800303"
 FT                   /cell_line="APD"
 FT                   /cell_line="B4702"
 FT                   /cell_line="COX"
+FT                   /cell_line="DE-SMS_A-575369"
 FT                   /cell_line="LCL721"
 FT                   /cell_line="MOLT-4"
 FT                   /cell_line="PP"
