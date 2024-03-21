@@ -46,8 +46,7 @@ The top-level directory contains the following files;
 
 * LICENSE.md - a file detailing the licensing of data included in the IPD-IMGT/HLA Database.
 * README.md - This README file
-* hla.dat - An EMBL-ENA style format file containing data from the IPD-IMGT/HLA Database, see (https://github.com/ANHIG/IMGTHLA/blob/Latest/Manual.md) for further details. 
-* md5checksum.txt - a file detailing md5 checksums for all files in the top-level directory
+* hla.dat.zip - An EMBL-ENA style format file containing data from the IPD-IMGT/HLA Database, see (https://github.com/ANHIG/IMGTHLA/blob/Latest/Manual.md) for further details. 
 
 ### Versioning
 
