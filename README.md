@@ -2,15 +2,7 @@
  IPD-IMGT/HLA Database - Testing Branch
 --------------------------------------------------------------------------------
 
-This directory contains test data for the IPD-IMGT/HLA database. The IPD-IMGT/HLA database is a specialist sequence database for sequences of the human histocompatibility complex. 
-
-### Cloning the Repository
-
-Prior to 2024-03-21 large files required Git LFS to download, this branch does not require Git LFS, but other branches may depending on which files and commits are downloaded. 
-
-#### From April 2024, Release 3.56.0
-
-As of 2024-03-21 the Testing Branch and as of Release 3.56.0, due April 2024 for the latest branch, all large files (>100MB) will be provided as compressed files rather than utilise Git LFS. This includes the hla.dat, xml/hla.xml and xml/hla_ambigs.xml in the next release. This has been done to simplify the cloning process and also due to escalating and unpredictable costs in providing the files using Git LFS from a public repository. All compressed files will use the [ZIP format](https://en.wikipedia.org/wiki/ZIP_(file_format)). This formatting change will be applied to all branches.
+The IPD-IMGT/HLA database is a specialist sequence database for sequences of the human histocompatibility complex. This directory contains test file formats or data for the IPD-IMGT/HLA database. 
 
 --------------------------------------------------------------------------------
 Testing Directory Disclaimer
@@ -19,6 +11,14 @@ Testing Directory Disclaimer
 This directory is intended only for distribution of test files and formats. The files in this repository should not be used for clinical or diagnostic work and intended for testing purposes only. The files may contain errors or raise errors in any downstream processes.
 
 The contents of this branch have been minimised to only contain those files under active development.
+
+### Cloning the Repository
+
+Prior to 2024-03-21 large files (>100MB) required Git LFS to download, this branch does not require Git LFS, but other branches may, depending on which files and commits are downloaded. 
+
+#### From April 2024, Release 3.56.0
+
+As of 2024-03-21 for the Testing Branch and the Latest branch (as of Release 3.56.0 due April 2024), all large files (>100MB) will be provided as compressed files rather than utilise Git LFS. This includes the hla.dat, xml/hla.xml and xml/hla_ambigs.xml. This has been done to simplify the cloning process and also due to escalating and unpredictable costs in providing the files using Git LFS from a public repository. All compressed files will use the [ZIP format](https://en.wikipedia.org/wiki/ZIP_(file_format)). This formatting change will be applied to all branches.
 
 --------------------------------------------------------------------------------
 File Formats 
