@@ -309,7 +309,6 @@ The DT lines list when the allele was first assigned an official name. This corr
 
 ```DT   DD-MON-YYYY (Rel. #, Created, Version #)
 DT   DD-MON-YYYY (Rel. #, Sequence Updated, Version #)
-DT   DD-MON-YYYY (Rel. #, Current Release, Version #)
 ```
 
 ### The DE Line
