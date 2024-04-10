@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://hla.alleles.org/xml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:x="http://hla.alleles.org/xml">
   <xs:import namespace="http://www.w3.org/2001/XMLSchema" schemaLocation="xs.xsd"/>
+  <xs:element name="release">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="x:alleles"/>
+      </xs:sequence>
+      <xs:attribute name="date" use="required" type="xs:NMTOKEN"/>
+      <xs:attribute name="version" use="required" type="xs:NMTOKEN"/>
+      <xs:attribute ref="xs:noNamespaceSchemaLocation" use="required"/>
+    </xs:complexType>
+  </xs:element>
   <xs:element name="alleles">
     <xs:complexType>
       <xs:sequence>
         <xs:element maxOccurs="unbounded" ref="x:allele"/>
       </xs:sequence>
-      <xs:attribute ref="xs:noNamespaceSchemaLocation" use="required"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="allele">
@@ -157,10 +166,12 @@
   <xs:element name="feature">
     <xs:complexType>
       <xs:sequence>
-        <xs:element minOccurs="0" ref="x:translation"/>
         <xs:element minOccurs="0" ref="x:SequenceCoordinates"/>
         <xs:element minOccurs="0" ref="x:cDNACoordinates"/>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="x:cDNAindel"/>
+        <xs:choice>
+          <xs:element ref="x:translation"/>
+          <xs:element minOccurs="0" maxOccurs="unbounded" ref="x:cDNAindel"/>
+        </xs:choice>
       </xs:sequence>
       <xs:attribute name="featuretype" use="required" type="xs:NCName"/>
       <xs:attribute name="id" use="required" type="xs:decimal"/>
@@ -169,7 +180,6 @@
       <xs:attribute name="status" type="xs:NCName"/>
     </xs:complexType>
   </xs:element>
-  <xs:element name="translation" type="xs:string"/>
   <xs:element name="SequenceCoordinates">
     <xs:complexType>
       <xs:attribute name="end" use="required" type="xs:integer"/>
@@ -183,6 +193,7 @@
       <xs:attribute name="start" use="required" type="xs:integer"/>
     </xs:complexType>
   </xs:element>
+  <xs:element name="translation" type="xs:string"/>
   <xs:element name="cDNAindel">
     <xs:complexType>
       <xs:attribute name="end" use="required" type="xs:integer"/>
