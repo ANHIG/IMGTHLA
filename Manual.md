@@ -6,6 +6,11 @@ This document describes the format and conventions used in the IPD-IMGT/HLA and 
 
 The IPD-IMGT/HLA and IPD-KIR Databases are composed of sequence entries. Each entry corresponds to a single contiguous sequence as contributed or reported in the literature. In some cases, entries have been assembled from several papers reporting overlapping sequence regions. Conversely a single paper often provides data for several entries.
 
+#### From April 2024, Release 3.56.0
+
+As of Release 3.56.0, due April 2024, the [hla.dat file](https://github.com/ANHIG/IMGTHLA/blob/Latest/Manual.md) has been updated for all releases to provide consistent formatting and update the sequence versioning to reflect updates in both the coding and non-coding sequences.
+
+
 ### Structure of an Entry
 
 The entries in the database are structured so as to be usable by human readers as well as by computer programs. The explanations, descriptions, classifications and other comments are in ordinary English, and the symbols and formatting employed for the base sequences themselves have been chosen for readability. Wherever possible, symbols familiar to molecular biologists have been used. At the same time, the structure is systematic enough to allow computer programs easily to read, identify, and manipulate the various types of data included.
