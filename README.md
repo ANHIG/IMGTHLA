@@ -116,7 +116,8 @@ The top-level directory contains the following lists, in order to provide consis
 * Allelelist.txt  - a csv file listing all alleles named at the time of the latest release.
 * Allelelist_history.txt - a csv file detailing for each allele the official name used in each release of the database. 
 * Deleted_alleles.txt - a csv file detailing all deleted allele names, with reasons for the deletion. This list also includes details of any suffix changes. 
-* release_version.txt - a plain text file which denotes the current release version. 
+* release_version.txt - a plain text file which denotes the current release version.
+* sversion_history.txt - a csv file detailing for each allele the Sequence Version used in each release of the database.
 
 ### Versioning
 
