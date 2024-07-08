@@ -12,8 +12,8 @@
   </xs:element>
   <xs:element name="releaseVersion">
     <xs:complexType>
-      <xs:attribute name="currentRelease" use="required"/>
-      <xs:attribute name="date" use="required"/>
+      <xs:attribute name="currentRelease" use="required" type="xs:integer"/>
+      <xs:attribute name="date" use="required" type="xs:NMTOKEN"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="geneList">

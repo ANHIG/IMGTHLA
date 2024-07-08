@@ -8,7 +8,7 @@ This directory contains data for the IPD-IMGT/HLA database. The IPD-IMGT/HLA dat
 
 #### From April 2024, Release 3.56.0
 
-As of Release 3.56.0, due April 2024, all large files (>100MB) will be provided as compressed files rather than utilise Git LFS, which was previously required. This includes the hla.dat, xml/hla.xml and xml/hla_ambigs.xml in the next release. This has been done to simplify the cloning process and also due to escalating and unpredictable costs in providing the files using Git LFS from a public repository. All compressed files will use the [ZIP format](https://en.wikipedia.org/wiki/ZIP_(file_format)). This formatting change will be applied to all branches.
+As of Release 3.56.0, due April 2024, all large files (>100MB) will be provided as compressed files rather than utilise Git LFS, which was previously required. This currently includes the hla.dat, xml/hla.xml, xml/hla_ambigs.xml and hla_gen.fasta. This has been done to simplify the cloning process and also due to escalating and unpredictable costs in providing the files using Git LFS from a public repository. All compressed files will use the [ZIP format](https://en.wikipedia.org/wiki/ZIP_(file_format)). This formatting change will be applied to all branches.
 
 #### Up to April 2024
 
@@ -34,7 +34,7 @@ A zip compressed archive of all the text-format alignment files is available fro
 
 ### FASTA folder
 
-All files in this folder are provided in the FASTA sequence format. Please note the FASTA format contains no alignment information.
+All files in this folder are provided in the FASTA sequence format. Please note the FASTA format contains no alignment information. Due to large file sizes (>100MB) some fasta files will be provided as compressed files. This currently includes the hla_gen.fasta.
 
 Files designated “X_prot.fasta”, where X is a locus or gene, contain protein sequences. Please note that alleles that contain non-coding variations may be identical at the protein level. 
 
@@ -152,9 +152,13 @@ This means that you are free to copy, distribute, display and make commercial
 use of the databases in all legislations, provided you give us credit by citing
 the following;
 
-Barker DJ, Maccari G, Georgiou X, Cooper MA, Flicek P, Robinson J, Marsh SGE:
-The IPD-IMGT/HLA Database.
-Nucleic Acids Research (2023), 51:D1053-60
+Barker D, Maccari G, Georgiou X, Cooper M, Flicek P, Robinson J, Marsh SGE
+The IPD-IMGT/HLA Database
+Nucleic Acids Research(2023), 51(D1): D948-D955
+
+Robinson J, Barker D, Marsh SGE
+25 years of the IPD-IMGT/HLA Database.
+HLA(2024),103(6): e15549
 
 Robinson J, Malik A, Parham P, Bodmer JG, Marsh SGE:
 IMGT/HLA - a sequence database for the human major histocompatibility complex
