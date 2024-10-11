@@ -60,7 +60,14 @@ Following the modification or deletion of an allele sequence an allele may be re
 rel_ser_ser.txt 
 --------------------------------------------------------------------------------
 
-This file lists the relationships between all current serologically defined HLA antigens: broad antigens, split antigens and associated antigens.
+This file contains details of all current HLA alleles and where known their unambiguous, possible or assumed serologically equivalent antigens. This file is provided as a tool for the validation of HLA typing data at the request of the WMDA, explicitly for the cross checking of data where both a serological HLA antigen and a DNA based HLA allelic typing is also present.
+ 
+Details of the unambiguous serology is defined from submissions to the WHO Nomenclature Committee for Factors of the HLA System (1) at the time an allele is submitted for naming, or from the WMDA HLA Dictionary 2008 (2). For Null alleles a value of zero "0" is given and for alleles with no corresponding antigen a question mark "?" is given.
+ 
+In cases where an allele has been shown to be associated with more than one serologically defined antigen, these are indicated in the 'Possible Serology' field. Multiple values are separated by a forward slash (/). In cases where there is currently no information about the serological equivalent of an allele, the 'Assumed Serology' field contains the antigen equivalent as expected by the first two digits of the allele name. It is entirely possible that the 'Assumed Serology' may contain information that is later shown to be incorrect when the serologically defined antigen is characterised. As indicated above this file is produced solely as a tool for the validation of existing HLA serological and DNA based allelic typing data and is not produced to infer the serological typing of alleles which have not been experimentally characterised.
+ 
+1. SGE Marsh, ED Albert, WF Bodmer, et al. Nomenclature for Factors of the HLA System, 2010. Tissue Antigens (2010) 75 291-455
+2. Holdsworth R, Hurley CK, Marsh SGE et al. The HLA Dictionary 2008: a summary of HLA-A, -B, -C, -DRB1/3/4/5, -DQB1 alleles and their association with serologically defined HLA-A, -B, -C, -DR and -DQ antigens. Tissue Antigens (2009) 73 95-170
 
 * HLA Locus
 * HLA Antigen name
