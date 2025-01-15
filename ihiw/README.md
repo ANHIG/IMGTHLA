@@ -29,7 +29,3 @@ http://schemas.nmdp.org
 Robinson J, Barker DJ, Georgiou X, Cooper MA, Flicek P, Marsh SGE\
 The IPD-IMGT/HLA Database\
 Nucleic Acids Research (2020) 43:D948-D955
-
-## Contact
-Questions about the designated IHIW reference sequences should be directed to Ben Matern\
-B.M.Matern@umcutrecht.nl
