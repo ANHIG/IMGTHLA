@@ -44,7 +44,7 @@ solicited funds from institutions and companies who produce HLA typing reagents,
 typing systems, and instrumentation or that otherwise utilise these databases in
 critical components of their business. To learn more about how your business can
 support the IPD-IMGT/HLA Database, please contact:
-Benjamin Hester, (Email: bhester, [at] nmdp [dot] org), NMDP.
+Benjamin Hester, (Email: bhester [at] nmdp [dot] org), NMDP.
 
 If you intend to use any of the data found on our sites for commercial use, we
 would ask you to consider funding the database and the work we do. Without

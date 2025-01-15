@@ -69,6 +69,8 @@ Files designated “X_gen.pir”, where X is a locus or gene, contain genomic DN
 
 ### TCE Folder
 
+Please note in release 3.59.0, the T-Cell Epitope Group (TCE) Assignments for Version 1 of the algorithm are no longer supported. These have been removed from all associated files from 3.59.0 onwards. An empty column has been left to maintain the consistency of the file format. Additionally through discussion with the original developers of the TCE algorithms we have removed the suffixes and comments that used to be present.
+
 The files in this folder provide a listing of the T-Cell Epitope Group Assignments for DPB1 proteins. The assignments are taken from the algorithms used for the online tools at https://www.ebi.ac.uk/ipd/imgt/hla/matching/. The file formart is as follows;
 
 * DPB1 allele, DPB1 protein, Version 1 Assignment, Version 2 Assignment, Comments
@@ -187,7 +189,7 @@ the NMDP has solicited funds from institutions and companies who produce HLA
 typing reagents, typing systems, and instrumentation or that otherwise utilise
 these databases in critical components of their business. To learn more about
 how your business can support the IPD-IMGT/HLA Database, please contact:
-Anna Bedard, (Email: abedard [at] nmdp [dot] org), Be The Match Foundation.
+Benjamin Hester, (Email: bhester [at] nmdp [dot] org), at NMDP.
 
 If you intend to use any of the data found on our sites for commercial use, we
 would ask you to consider funding the database and the work we do. Without

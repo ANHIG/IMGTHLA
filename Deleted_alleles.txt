@@ -1,9 +1,9 @@
 # file: Deleted_alleles.txt
-# date: 2024-10-09
-# version: IPD-IMGT/HLA 3.58.0
+# date: 2025-01-15
+# version: IPD-IMGT/HLA 3.59.0
 # origin: https://github.com/ANHIG/IMGTHLA/Deleted_alleles.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/Deleted_alleles.txt
-# author: Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+# author: IPD Team (ipdsubs@anthonynolan.org)
 # Deleted Alleles
 AlleleID,Allele,Description
 HLA00965,A*0105N,Sequence shown to be identical to A*01:04:01:01N (July 2001)
@@ -186,7 +186,13 @@ HLA01382,MICA*007:02,Sequence extended and renamed MICA*111:01 (March 2020)
 HLA27320,MICA*007:04,Sequence extended and renamed MICA*112:01:01 (February 2020)
 HLA29059,MICA*008:07,Sequence named in error and renamed MICA*008:01:10 (September 2020)
 HLA01337,MICA*021,Sequence renamed MICA*012:03 (August 2007)
+HLA01396,MICA*023,Sequence shown to contain errors and be identical to MICA*002:01:01 (October 2024)
+HLA01393,MICA*026,Sequence shown to contain errors and be identical to MICA*007:01:01 (October 2024)
+HLA01387,MICA*036,Sequence shown to contain errors and be identical to MICA*002:01:08 (October 2024)
 HLA07766,MICA*071,Sequence shown to contain errors and renamed MICA*017:01 (March 2013). The sequence originally assigned to MICA*071, has been subsequently resubmitted and is now named MICA*257 (September 2022)
+HLA40392,MICB*002:01:34,Sequence shown to contain errors and be identical to MICB*002:01:37 (October 2024)
+HLA02747,MICB*005:02:02,Sequence shown to contain errors and be identical to MICB*005:02:13 (October 2024)
+HLA02068,MICB*005:04,Sequence shown to contain errors and be identical to MICB*005:02:32 (October 2024)
 HLA02189,MICB*017,Sequence renamed MICB*005:05 (August 2007)
 # Alleles With Suffix Changes
 AlleleID,Allele,Description
@@ -244,6 +250,7 @@ HLA08540,C*03:169,Sequence renamed C*03:169Q (July 2013)
 HLA21245,C*03:442,Sequence renamed C*03:442Q (April 2019)
 HLA25809,C*03:502,Sequence renamed C*03:502Q (September 2022)
 HLA32050,C*03:575,Sequence renamed C*03:575Q (September 2022)
+HLA01451,C*04:09N,Sequence renamed C*04:09L (December 2024)
 HLA04843,C*04:61,Sequence renamed C*04:61N (March 2021)
 HLA20860,C*04:338,Sequence renamed C*04:338Q (October 2019)
 HLA23722,C*04:382,Sequence renamed C*04:382Q (October 2019)
@@ -266,6 +273,7 @@ HLA36265,E*01:130,Sequence renamed E*01:130 (September 2022)
 HLA37146,DRB1*07:147Q,Sequence renamed DRB1*07:147N (December 2023)
 HLA27609,DRB1*10:38Q,Sequence renamed DRB1*10:38 (April 2023)
 HLA35696,DRB1*11:01:01:12Q,Sequence renamed DRB1*11:01:01:12N (May 2023)
+HLA01541,DRB1*15:13,Sequence renamed DRB1*15:13Q (December 2024)
 HLA14662,DRB4*01:14,Sequence renamed DRB4*01:14N (September 2019)
 HLA23474,DRB5*02:26,Sequence renamed DRB5*02:26N (September 2019)
 HLA01905,DQA1*01:07,Sequence renamed DQA1*01:07Q (May 2015)
