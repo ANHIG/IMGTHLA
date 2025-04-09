@@ -26,7 +26,7 @@ hla.alleles.org and the IPD-IMGT/HLA Database, and would ask that rather than mi
 the information, appropriate links are provided where applicable.
 
 If you intend to distribute a modified version of our data, you must ask us for
-permission first, please contact hla [at] alleles [dot] org for further details
+permission first, please contact ipdsubs [at] anthonynolan [dot] org for further details
 of how modified data can be reproduced.
 
 --------------------------------------------------------------------------------
@@ -36,15 +36,15 @@ of how modified data can be reproduced.
 The development of the IPD-IMGT/HLA Database was funded by an EU BIOTECH grant. The
 work of maintaining and updating the database has been supported in the past by
 the Imperial Cancer Research Fund, the National Institute of Health, the
-National Marrow Donor Program (NMDP) and more recently by the Anthony Nolan. The
-continual maintenance and any further development of the database relies on
-alternate sources of financial support, which are actively been sought for the
-continued maintenance of the database. The Sequence.org initiative at the NMDP has
-solicited funds from institutions and companies who produce HLA typing reagents,
-typing systems, and instrumentation or that otherwise utilise these databases in
-critical components of their business. To learn more about how your business can
-support the IPD-IMGT/HLA Database, please contact:
-Benjamin Hester, (Email: bhester [at] nmdp [dot] org), NMDP.
+NMDP and more recently by the Anthony Nolan. The continual maintenance and any
+further development of the database relies on alternate sources of financial
+support, which are actively been sought for the continued maintenance of the
+database. The Sequence.org initiative at the NMDP has solicited funds from
+institutions and companies who produce HLA typing reagents, typing systems, and
+instrumentation or that otherwise utilise these databases in critical components of
+their business. To learn more about how your business can support the IPD-IMGT/HLA
+Database, please contact: Benjamin Hester, (Email: bhester [at] nmdp [dot] org),
+NMDP.
 
 If you intend to use any of the data found on our sites for commercial use, we
 would ask you to consider funding the database and the work we do. Without

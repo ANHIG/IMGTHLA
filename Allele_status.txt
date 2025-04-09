@@ -1,6 +1,6 @@
 # file: Allele_status.txt
-# date: 2025-01-15
-# version: IPD-IMGT/HLA 3.59.0
+# date: 2025-04-09
+# version: IPD-IMGT/HLA 3.60.0
 # origin: https://github.com/ANHIG/IMGTHLA/Allele_status.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/Allele_status.txt
 # author: IPD Team (ipdsubs@anthonynolan.org)
@@ -125,6 +125,7 @@ A*01:01:01:117,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:01:01:118,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:01:01:119,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:01:01:120,1,1,Unconfirmed,1,1098,Full,gDNA
+A*01:01:01:121,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:01:02,3,2,Confirmed,1,1098,Full,gDNA
 A*01:01:03,5,4,Confirmed,1,1098,Full,gDNA
 A*01:01:04,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -285,6 +286,7 @@ A*01:01:158,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:01:159,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:01:160,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:01:161,2,1,Confirmed,1,1098,Full,gDNA
+A*01:01:162,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:02:01:01,6,5,Confirmed,1,1098,Full,gDNA
 A*01:02:01:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:02:01:03,2,1,Confirmed,1,1098,Full,gDNA
@@ -518,7 +520,7 @@ A*01:213,1,1,Unconfirmed,74,619,Partial,cDNA
 A*01:214,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:215,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:216,1,1,Unconfirmed,1,1098,Full,gDNA
-A*01:217,1,1,Unconfirmed,1,895,Partial,cDNA
+A*01:217,2,1,Confirmed,1,1098,Full,gDNA
 A*01:218,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:219,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:220,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -760,7 +762,8 @@ A*01:450N,2,1,Confirmed,1,1096,Full,gDNA
 A*01:451N,1,1,Unconfirmed,1,1097,Full,gDNA
 A*01:452N,1,1,Unconfirmed,1,1103,Full,gDNA
 A*01:453,1,1,Unconfirmed,1,1098,Full,gDNA
-A*01:454,1,1,Unconfirmed,1,1098,Full,gDNA
+A*01:454:01,1,1,Unconfirmed,1,1098,Full,gDNA
+A*01:454:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:455,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:456,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:457,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -785,6 +788,8 @@ A*01:475,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:476Q,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:477,1,1,Unconfirmed,1,1098,Full,gDNA
 A*01:478,1,1,Unconfirmed,1,1098,Full,gDNA
+A*01:479,1,1,Unconfirmed,1,1098,Full,gDNA
+A*01:480,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:01:01:01,14,11,Confirmed,1,1098,Full,gDNA
 A*02:01:01:02L,3,3,Confirmed,1,1098,Full,gDNA
 A*02:01:01:03,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -1042,6 +1047,7 @@ A*02:01:01:254,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:01:01:255,2,1,Confirmed,1,1098,Full,gDNA
 A*02:01:01:256,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:01:01:257,1,1,Unconfirmed,1,1098,Full,gDNA
+A*02:01:01:258,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:01:02:01,5,2,Confirmed,1,1098,Full,gDNA
 A*02:01:02:02,4,3,Confirmed,1,1098,Full,gDNA
 A*02:01:03,2,2,Confirmed,21,895,Partial,cDNA
@@ -1234,7 +1240,7 @@ A*02:01:193,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:01:194,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:01:195,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:01:196,2,1,Confirmed,1,1098,Full,gDNA
-A*02:01:197,1,1,Unconfirmed,1,1098,Full,gDNA
+A*02:01:197,2,1,Confirmed,1,1098,Full,gDNA
 A*02:01:198,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:01:199,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:01:200,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -1402,7 +1408,7 @@ A*02:07:04,1,1,Unconfirmed,1,1012,Partial,cDNA
 A*02:07:05,1,1,Unconfirmed,1,1012,Partial,cDNA
 A*02:07:06,1,1,Unconfirmed,74,895,Partial,cDNA
 A*02:07:07,1,1,Unconfirmed,1,895,Partial,cDNA
-A*02:07:08,1,1,Unconfirmed,74,895,Partial,cDNA
+A*02:07:08,2,1,Confirmed,1,1098,Full,gDNA
 A*02:07:09,1,1,Unconfirmed,1,895,Partial,cDNA
 A*02:07:10,1,1,Unconfirmed,74,895,Partial,cDNA
 A*02:07:11,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -1503,7 +1509,8 @@ A*02:52,2,2,Confirmed,1,1098,Full,gDNA
 A*02:53:01N,7,6,Confirmed,1,1098,Full,gDNA
 A*02:53:02N,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:54,3,2,Confirmed,1,1098,Full,gDNA
-A*02:55,2,2,Confirmed,74,619,Partial,cDNA
+A*02:55:01,2,2,Confirmed,74,619,Partial,cDNA
+A*02:55:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:56:01,2,2,Confirmed,1,1098,Full,gDNA
 A*02:56:02,2,2,Confirmed,74,619,Partial,cDNA
 A*02:57,2,2,Confirmed,1,1098,Full,gDNA
@@ -1532,6 +1539,7 @@ A*02:75,1,1,Unconfirmed,74,895,Partial,cDNA
 A*02:76:01,2,2,Confirmed,74,895,Partial,cDNA
 A*02:76:02,1,1,Unconfirmed,74,895,Partial,cDNA
 A*02:76:03,1,1,Unconfirmed,1,1098,Full,gDNA
+A*02:76:04,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:77,3,3,Confirmed,1,1098,Full,gDNA
 A*02:78,1,1,Unconfirmed,1,619,Partial,cDNA
 A*02:79:01,1,1,Unconfirmed,1,1098,Full,cDNA
@@ -1931,7 +1939,7 @@ A*02:442,1,1,Unconfirmed,1,1012,Partial,cDNA
 A*02:443,1,1,Unconfirmed,1,1012,Partial,cDNA
 A*02:444,1,1,Unconfirmed,1,1012,Partial,cDNA
 A*02:445,1,1,Unconfirmed,1,1012,Partial,cDNA
-A*02:446,1,1,Unconfirmed,1,1012,Partial,cDNA
+A*02:446,2,2,Confirmed,1,1098,Full,gDNA
 A*02:447,1,1,Unconfirmed,1,1012,Partial,cDNA
 A*02:448,1,1,Unconfirmed,1,1012,Partial,cDNA
 A*02:449,1,1,Unconfirmed,1,1012,Partial,cDNA
@@ -2329,7 +2337,7 @@ A*02:828,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:829,2,1,Confirmed,1,1098,Full,gDNA
 A*02:830:01,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:830:02,2,1,Confirmed,1,1098,Full,gDNA
-A*02:831N,1,1,Unconfirmed,74,894,Partial,cDNA
+A*02:831N,1,1,Unconfirmed,1,1097,Full,gDNA
 A*02:832N,1,1,Unconfirmed,1,1093,Full,gDNA
 A*02:833N,1,1,Unconfirmed,1,1099,Full,gDNA
 A*02:834,2,1,Confirmed,1,1098,Full,gDNA
@@ -2425,7 +2433,7 @@ A*02:921:01,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:921:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:922,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:923,1,1,Unconfirmed,1,1098,Full,gDNA
-A*02:924,1,1,Unconfirmed,1,1098,Full,gDNA
+A*02:924,2,2,Confirmed,1,1098,Full,gDNA
 A*02:925,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:926,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:927,1,1,Unconfirmed,1,1012,Partial,cDNA
@@ -2452,8 +2460,8 @@ A*02:947:01,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:947:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:948,2,2,Confirmed,1,1098,Full,gDNA
 A*02:949,1,1,Unconfirmed,1,1098,Full,gDNA
-A*02:950,2,2,Confirmed,1,1098,Full,cDNA
-A*02:951,1,1,Unconfirmed,1,1098,Full,cDNA
+A*02:950,3,3,Confirmed,1,1098,Full,gDNA
+A*02:951,3,2,Confirmed,1,1098,Full,gDNA
 A*02:952,1,1,Unconfirmed,1,619,Partial,cDNA
 A*02:953,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:954,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -2712,6 +2720,22 @@ A*02:1203,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:1204,1,1,Unconfirmed,1,1098,Full,gDNA
 A*02:1205,1,1,Unconfirmed,1,1098,Full,cDNA
 A*02:1206,1,1,Unconfirmed,1,1098,Full,gDNA
+A*02:1207,1,1,Unconfirmed,1,1098,Full,gDNA
+A*02:1208N,1,1,Unconfirmed,1,1097,Full,gDNA
+A*02:1209N,1,1,Unconfirmed,1,1097,Full,gDNA
+A*02:1210,1,1,Unconfirmed,74,895,Partial,cDNA
+A*02:1211,1,1,Unconfirmed,1,1098,Full,gDNA
+A*02:1212,2,1,Confirmed,1,1098,Full,gDNA
+A*02:1213,1,1,Unconfirmed,74,895,Partial,cDNA
+A*02:1214N,1,1,Unconfirmed,1,1098,Full,gDNA
+A*02:1215,1,1,Unconfirmed,1,1098,Full,gDNA
+A*02:1216,1,1,Unconfirmed,1,1098,Full,gDNA
+A*02:1217,1,1,Unconfirmed,1,1098,Full,gDNA
+A*02:1218,1,1,Unconfirmed,1,1098,Full,gDNA
+A*02:1219N,1,1,Unconfirmed,1,1098,Full,gDNA
+A*02:1220,1,1,Unconfirmed,1,1098,Full,gDNA
+A*02:1221Q,1,1,Unconfirmed,1,1095,Full,gDNA
+A*02:1222N,1,1,Unconfirmed,1,1099,Full,gDNA
 A*03:01:01:01,14,10,Confirmed,1,1098,Full,gDNA
 A*03:01:01:02N,3,1,Confirmed,1,1163,Full,gDNA
 A*03:01:01:03,4,3,Confirmed,1,1098,Full,gDNA
@@ -2831,10 +2855,12 @@ A*03:01:01:116,1,1,Unconfirmed,1,1098,Full,gDNA
 A*03:01:01:117,1,1,Unconfirmed,1,1098,Full,gDNA
 A*03:01:01:118,1,1,Unconfirmed,1,1098,Full,gDNA
 A*03:01:01:119,1,1,Unconfirmed,1,1098,Full,gDNA
-A*03:01:01:120,1,1,Unconfirmed,1,1098,Full,gDNA
+A*03:01:01:120,2,1,Confirmed,1,1098,Full,gDNA
 A*03:01:01:121,1,1,Unconfirmed,1,1098,Full,gDNA
 A*03:01:01:122,1,1,Unconfirmed,1,1098,Full,gDNA
 A*03:01:01:123,1,1,Unconfirmed,1,1098,Full,gDNA
+A*03:01:01:124,1,1,Unconfirmed,1,1098,Full,gDNA
+A*03:01:01:125,1,1,Unconfirmed,1,1098,Full,gDNA
 A*03:01:02,3,1,Confirmed,1,1098,Full,gDNA
 A*03:01:03:01,6,5,Confirmed,1,1098,Full,gDNA
 A*03:01:03:02,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -2969,6 +2995,7 @@ A*03:01:129,1,1,Unconfirmed,1,1098,Full,gDNA
 A*03:01:130,1,1,Unconfirmed,1,1098,Full,cDNA
 A*03:01:131,1,1,Unconfirmed,1,1098,Full,gDNA
 A*03:01:132,1,1,Unconfirmed,1,1098,Full,gDNA
+A*03:01:133,2,2,Confirmed,1,1098,Full,gDNA
 A*03:02:01:01,6,6,Confirmed,1,1098,Full,gDNA
 A*03:02:01:02,3,1,Confirmed,1,1098,Full,gDNA
 A*03:02:01:03,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -3508,8 +3535,12 @@ A*03:499,1,1,Unconfirmed,1,1098,Full,gDNA
 A*03:500,1,1,Unconfirmed,1,1098,Full,gDNA
 A*03:501Q,1,1,Unconfirmed,1,1086,Full,gDNA
 A*03:502,1,1,Unconfirmed,1,1098,Full,gDNA
-A*03:503,1,1,Unconfirmed,1,1098,Full,gDNA
+A*03:503,2,2,Confirmed,1,1098,Full,gDNA
 A*03:504N,1,1,Unconfirmed,1,1097,Full,gDNA
+A*03:505,1,1,Unconfirmed,1,1098,Full,gDNA
+A*03:506,1,1,Unconfirmed,1,1098,Full,gDNA
+A*03:507,1,1,Unconfirmed,1,1098,Full,gDNA
+A*03:508,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:01:01:01,11,8,Confirmed,1,1098,Full,gDNA
 A*11:01:01:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:01:01:03,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -3603,6 +3634,7 @@ A*11:01:01:90,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:01:01:91,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:01:01:92,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:01:01:93,1,1,Unconfirmed,1,1098,Full,gDNA
+A*11:01:01:94,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:01:02,3,3,Confirmed,1,1098,Full,gDNA
 A*11:01:03,1,1,Unconfirmed,74,619,Partial,cDNA
 A*11:01:04,6,3,Confirmed,1,1098,Full,gDNA
@@ -3736,6 +3768,8 @@ A*11:01:130,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:01:131,1,1,Unconfirmed,1,1098,Full,cDNA
 A*11:01:132,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:01:133,1,1,Unconfirmed,1,1098,Full,gDNA
+A*11:01:134,1,1,Unconfirmed,1,1098,Full,gDNA
+A*11:01:135,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:02:01:01,7,5,Confirmed,1,1098,Full,gDNA
 A*11:02:01:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:02:02,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -3745,6 +3779,7 @@ A*11:02:05,1,1,Unconfirmed,74,895,Partial,cDNA
 A*11:02:06,1,1,Unconfirmed,1,1012,Partial,cDNA
 A*11:02:07,2,1,Confirmed,1,1098,Full,gDNA
 A*11:02:08,1,1,Unconfirmed,1,1098,Full,cDNA
+A*11:02:09,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:03:01:01,5,5,Confirmed,1,1098,Full,gDNA
 A*11:03:01:02,2,1,Confirmed,1,1098,Full,gDNA
 A*11:04,9,8,Confirmed,1,1098,Full,gDNA
@@ -4093,7 +4128,7 @@ A*11:326,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:327,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:328,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:329,1,1,Unconfirmed,1,1098,Full,gDNA
-A*11:330,1,1,Unconfirmed,74,895,Partial,cDNA
+A*11:330,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:331,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:332,1,1,Unconfirmed,74,895,Partial,cDNA
 A*11:333,1,1,Unconfirmed,74,895,Partial,cDNA
@@ -4214,7 +4249,7 @@ A*11:443,1,1,Unconfirmed,1,1098,Full,cDNA
 A*11:444,1,1,Unconfirmed,1,1098,Full,cDNA
 A*11:445,2,1,Confirmed,1,1098,Full,gDNA
 A*11:446,1,1,Unconfirmed,1,1098,Full,gDNA
-A*11:447Q,2,1,Confirmed,1,1098,Full,gDNA
+A*11:447Q,3,1,Confirmed,1,1098,Full,gDNA
 A*11:448,1,1,Unconfirmed,1,1098,Full,cDNA
 A*11:449,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:450,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -4254,6 +4289,10 @@ A*11:483,1,1,Unconfirmed,74,619,Partial,cDNA
 A*11:484,1,1,Unconfirmed,1,1098,Full,gDNA
 A*11:485,1,1,Unconfirmed,74,895,Partial,cDNA
 A*11:486,1,1,Unconfirmed,74,619,Partial,cDNA
+A*11:487,1,1,Unconfirmed,1,1098,Full,gDNA
+A*11:488,1,1,Unconfirmed,1,1098,Full,gDNA
+A*11:489,1,1,Unconfirmed,74,1012,Partial,cDNA
+A*11:490,1,1,Unconfirmed,74,619,Partial,cDNA
 A*23:01:01:01,6,6,Confirmed,1,1098,Full,gDNA
 A*23:01:01:02,2,1,Confirmed,1,1098,Full,gDNA
 A*23:01:01:03,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -4288,6 +4327,7 @@ A*23:01:01:31,1,1,Unconfirmed,1,1098,Full,gDNA
 A*23:01:01:32,1,1,Unconfirmed,1,1098,Full,gDNA
 A*23:01:01:33,1,1,Unconfirmed,1,1098,Full,gDNA
 A*23:01:01:34,1,1,Unconfirmed,1,1098,Full,gDNA
+A*23:01:01:35,1,1,Unconfirmed,1,1098,Full,gDNA
 A*23:01:02,18,1,Confirmed,74,619,Partial,cDNA
 A*23:01:03,3,2,Confirmed,74,895,Partial,cDNA
 A*23:01:04,2,2,Confirmed,74,619,Partial,cDNA
@@ -4328,6 +4368,7 @@ A*23:01:38,1,1,Unconfirmed,1,1098,Full,gDNA
 A*23:01:39,1,1,Unconfirmed,1,1098,Full,gDNA
 A*23:01:40,1,1,Unconfirmed,1,1098,Full,gDNA
 A*23:01:41,1,1,Unconfirmed,1,1098,Full,gDNA
+A*23:01:42,1,1,Unconfirmed,1,1098,Full,gDNA
 A*23:02,2,2,Confirmed,1,1098,Full,gDNA
 A*23:03:01,1,1,Unconfirmed,74,619,Partial,cDNA
 A*23:03:02:01,2,2,Confirmed,1,1098,Full,gDNA
@@ -4480,12 +4521,13 @@ A*23:140,1,1,Unconfirmed,1,1098,Full,gDNA
 A*23:141,1,1,Unconfirmed,1,1098,Full,gDNA
 A*23:142N,1,1,Unconfirmed,1,1098,Full,gDNA
 A*23:143,1,1,Unconfirmed,1,1098,Full,cDNA
-A*23:144,2,2,Confirmed,1,1098,Full,gDNA
+A*23:144,3,3,Confirmed,1,1098,Full,gDNA
 A*23:145,1,1,Unconfirmed,1,1098,Full,gDNA
 A*23:146,1,1,Unconfirmed,1,1098,Full,cDNA
 A*23:147,1,1,Unconfirmed,1,1098,Full,gDNA
 A*23:148,1,1,Unconfirmed,1,1098,Full,gDNA
 A*23:149,1,1,Unconfirmed,1,1098,Full,gDNA
+A*23:150,1,1,Unconfirmed,1,1098,Full,gDNA
 A*24:02:01:01,9,8,Confirmed,1,1098,Full,gDNA
 A*24:02:01:02L,9,6,Confirmed,1,1098,Full,gDNA
 A*24:02:01:03,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -4811,6 +4853,7 @@ A*24:02:175,1,1,Unconfirmed,1,1098,Full,gDNA
 A*24:02:176,1,1,Unconfirmed,1,1098,Full,gDNA
 A*24:02:177,1,1,Unconfirmed,1,1098,Full,gDNA
 A*24:02:178,1,1,Unconfirmed,1,1098,Full,gDNA
+A*24:02:179,1,1,Unconfirmed,1,1098,Full,gDNA
 A*24:03:01:01,7,4,Confirmed,1,1098,Full,gDNA
 A*24:03:01:02,3,3,Confirmed,1,1098,Full,gDNA
 A*24:03:01:03,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -4920,7 +4963,7 @@ A*24:81,9,3,Confirmed,1,1098,Full,gDNA
 A*24:82,1,1,Unconfirmed,74,619,Partial,cDNA
 A*24:83N,1,1,Unconfirmed,74,929,Partial,cDNA
 A*24:84N,1,1,Unconfirmed,74,895,Partial,cDNA
-A*24:85,2,2,Confirmed,74,895,Partial,cDNA
+A*24:85,3,3,Confirmed,1,1098,Full,gDNA
 A*24:86N,1,1,Unconfirmed,1,1115,Full,gDNA
 A*24:87,3,3,Confirmed,1,1098,Full,gDNA
 A*24:88,1,1,Unconfirmed,74,895,Partial,cDNA
@@ -5071,7 +5114,7 @@ A*24:223,1,1,Unconfirmed,74,895,Partial,cDNA
 A*24:224,1,1,Unconfirmed,74,895,Partial,cDNA
 A*24:225:01,3,3,Confirmed,1,1098,Full,gDNA
 A*24:225:02,2,2,Confirmed,1,1012,Partial,cDNA
-A*24:226:01,1,1,Unconfirmed,74,619,Partial,cDNA
+A*24:226:01,2,2,Confirmed,1,1098,Full,gDNA
 A*24:226:02,1,1,Unconfirmed,1,1012,Partial,cDNA
 A*24:227,1,1,Unconfirmed,74,619,Partial,cDNA
 A*24:228,2,1,Confirmed,74,619,Partial,cDNA
@@ -5504,6 +5547,12 @@ A*24:645,1,1,Unconfirmed,1,1098,Full,gDNA
 A*24:646,1,1,Unconfirmed,1,1098,Full,gDNA
 A*24:647,1,1,Unconfirmed,1,1098,Full,gDNA
 A*24:648,1,1,Unconfirmed,74,619,Partial,cDNA
+A*24:649,2,2,Confirmed,1,1098,Full,cDNA
+A*24:650,1,1,Unconfirmed,1,1098,Full,gDNA
+A*24:651N,1,1,Unconfirmed,1,1098,Full,gDNA
+A*24:652,1,1,Unconfirmed,1,1098,Full,gDNA
+A*24:653,1,1,Unconfirmed,1,1098,Full,gDNA
+A*24:654,1,1,Unconfirmed,1,1098,Full,gDNA
 A*25:01:01:01,9,4,Confirmed,1,1098,Full,gDNA
 A*25:01:01:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*25:01:01:03,2,1,Confirmed,1,1098,Full,gDNA
@@ -5537,6 +5586,7 @@ A*25:01:19,1,1,Unconfirmed,1,1098,Full,gDNA
 A*25:01:20,1,1,Unconfirmed,1,1098,Full,gDNA
 A*25:01:21,2,1,Confirmed,1,1098,Full,gDNA
 A*25:01:22,1,1,Unconfirmed,1,1098,Full,gDNA
+A*25:01:23,1,1,Unconfirmed,1,1098,Full,gDNA
 A*25:02,5,5,Confirmed,1,1098,Full,gDNA
 A*25:03,2,1,Confirmed,74,619,Partial,cDNA
 A*25:04,2,2,Confirmed,1,1098,Full,gDNA
@@ -5780,6 +5830,7 @@ A*26:02:02,1,1,Unconfirmed,74,895,Partial,cDNA
 A*26:03:01:01,3,4,Confirmed,1,1098,Full,gDNA
 A*26:03:01:02,2,1,Confirmed,1,1098,Full,gDNA
 A*26:03:03,1,1,Unconfirmed,1,1098,Full,cDNA
+A*26:03:04,1,1,Unconfirmed,1,1098,Full,gDNA
 A*26:04,2,2,Confirmed,1,1098,Full,gDNA
 A*26:05,6,4,Confirmed,1,1098,Full,gDNA
 A*26:06,3,2,Confirmed,1,1098,Full,cDNA
@@ -5962,7 +6013,7 @@ A*26:173,1,1,Unconfirmed,1,1098,Full,gDNA
 A*26:174,1,1,Unconfirmed,74,895,Partial,cDNA
 A*26:175,1,1,Unconfirmed,1,1098,Full,gDNA
 A*26:176,1,1,Unconfirmed,74,895,Partial,cDNA
-A*26:177,1,1,Unconfirmed,74,895,Partial,cDNA
+A*26:177,1,1,Unconfirmed,1,1098,Full,gDNA
 A*26:178,1,1,Unconfirmed,1,1098,Full,gDNA
 A*26:179,1,1,Unconfirmed,1,1098,Full,gDNA
 A*26:180N,1,1,Unconfirmed,74,899,Partial,cDNA
@@ -6042,6 +6093,8 @@ A*26:250:01:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*26:251Q,1,1,Unconfirmed,1,1098,Full,gDNA
 A*26:252N,1,1,Unconfirmed,1,1098,Full,gDNA
 A*26:253,1,1,Unconfirmed,1,1098,Full,gDNA
+A*26:254,1,1,Unconfirmed,1,1098,Full,gDNA
+A*26:255,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:01:01:01,6,6,Confirmed,1,1098,Full,gDNA
 A*29:01:01:02N,1,1,Unconfirmed,1,1160,Full,gDNA
 A*29:01:01:03,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -6107,7 +6160,7 @@ A*29:02:01:36,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:02:01:37,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:02:01:38,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:02:01:39,1,1,Unconfirmed,1,1098,Full,gDNA
-A*29:02:01:40,1,1,Unconfirmed,1,1098,Full,gDNA
+A*29:02:01:40,2,2,Confirmed,1,1098,Full,gDNA
 A*29:02:01:41,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:02:02,4,2,Confirmed,1,1098,Full,gDNA
 A*29:02:03,5,5,Confirmed,1,1098,Full,gDNA
@@ -6148,6 +6201,7 @@ A*29:02:36,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:02:37,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:02:38,1,1,Unconfirmed,1,1098,Full,cDNA
 A*29:02:39,1,1,Unconfirmed,1,1098,Full,gDNA
+A*29:02:40,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:03,2,2,Confirmed,1,1098,Full,gDNA
 A*29:04,3,2,Confirmed,1,1098,Full,gDNA
 A*29:05,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -6324,7 +6378,7 @@ A*29:171,1,1,Unconfirmed,1,1098,Full,cDNA
 A*29:172,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:173,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:174,1,1,Unconfirmed,1,1098,Full,gDNA
-A*29:175Q,1,1,Unconfirmed,1,1083,Full,gDNA
+A*29:175Q,2,2,Confirmed,1,1083,Full,gDNA
 A*29:176,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:177,2,2,Confirmed,1,1098,Full,gDNA
 A*29:178,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -6344,13 +6398,14 @@ A*29:191:01,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:191:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:192,1,1,Unconfirmed,74,619,Partial,cDNA
 A*29:193,1,1,Unconfirmed,1,1098,Full,gDNA
-A*29:194,1,1,Unconfirmed,1,1098,Full,gDNA
+A*29:194,2,2,Confirmed,1,1098,Full,gDNA
 A*29:195,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:196,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:197,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:198,1,1,Unconfirmed,1,1098,Full,gDNA
 A*29:199N,1,1,Unconfirmed,1,1096,Full,gDNA
 A*29:200N,1,1,Unconfirmed,1,1098,Full,cDNA
+A*29:201,1,1,Unconfirmed,1,1098,Full,gDNA
 A*30:01:01:01,7,6,Confirmed,1,1098,Full,gDNA
 A*30:01:01:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*30:01:01:03,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -6468,6 +6523,7 @@ A*30:04:01:03,1,1,Unconfirmed,1,1098,Full,gDNA
 A*30:04:02,10,3,Confirmed,1,1098,Full,gDNA
 A*30:04:03,2,2,Confirmed,1,1098,Full,gDNA
 A*30:04:04,2,1,Confirmed,1,1098,Full,gDNA
+A*30:04:05,1,1,Unconfirmed,1,1098,Full,gDNA
 A*30:06,1,1,Unconfirmed,74,619,Partial,cDNA
 A*30:07,7,3,Confirmed,1,1098,Full,gDNA
 A*30:08:01,4,3,Confirmed,1,1098,Full,gDNA
@@ -6614,7 +6670,7 @@ A*30:143,1,1,Unconfirmed,1,1098,Full,gDNA
 A*30:144,2,1,Confirmed,1,1098,Full,gDNA
 A*30:145N,1,1,Unconfirmed,1,1106,Full,gDNA
 A*30:146,1,1,Unconfirmed,1,1098,Full,gDNA
-A*30:147,1,1,Unconfirmed,1,1098,Full,gDNA
+A*30:147,2,1,Confirmed,1,1098,Full,gDNA
 A*30:148,1,1,Unconfirmed,1,1098,Full,gDNA
 A*30:149,1,1,Unconfirmed,1,1098,Full,gDNA
 A*30:150,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -6705,6 +6761,9 @@ A*30:234,1,1,Unconfirmed,1,1098,Full,cDNA
 A*30:235,1,1,Unconfirmed,1,1098,Full,gDNA
 A*30:236,1,1,Unconfirmed,1,1012,Partial,cDNA
 A*30:237,1,1,Unconfirmed,1,1098,Full,gDNA
+A*30:238,1,1,Unconfirmed,74,895,Partial,cDNA
+A*30:239,1,1,Unconfirmed,1,1098,Full,gDNA
+A*30:240N,1,1,Unconfirmed,1,1098,Full,gDNA
 A*31:01:02:01,14,9,Confirmed,1,1098,Full,gDNA
 A*31:01:02:02,2,2,Confirmed,1,1098,Full,gDNA
 A*31:01:02:03N,3,2,Confirmed,1,1098,Full,gDNA
@@ -6877,7 +6936,7 @@ A*31:50,1,1,Unconfirmed,74,619,Partial,cDNA
 A*31:51,1,1,Unconfirmed,74,619,Partial,cDNA
 A*31:52,1,1,Unconfirmed,74,619,Partial,cDNA
 A*31:53,1,1,Unconfirmed,1,619,Partial,cDNA
-A*31:54,2,2,Confirmed,74,619,Partial,cDNA
+A*31:54,3,3,Confirmed,1,1098,Full,gDNA
 A*31:55,1,1,Unconfirmed,74,895,Partial,cDNA
 A*31:56,2,2,Confirmed,1,1012,Partial,cDNA
 A*31:57,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -6924,7 +6983,7 @@ A*31:97,1,1,Unconfirmed,74,895,Partial,cDNA
 A*31:98,2,1,Confirmed,74,619,Partial,cDNA
 A*31:99,1,1,Unconfirmed,74,619,Partial,cDNA
 A*31:100,1,1,Unconfirmed,74,619,Partial,cDNA
-A*31:101,1,1,Unconfirmed,74,895,Partial,cDNA
+A*31:101,2,2,Confirmed,1,1098,Full,gDNA
 A*31:102,3,1,Confirmed,74,619,Partial,cDNA
 A*31:103,1,1,Unconfirmed,74,619,Partial,cDNA
 A*31:104,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -7059,6 +7118,10 @@ A*31:232N,1,1,Unconfirmed,1,1098,Full,gDNA
 A*31:233,1,1,Unconfirmed,1,1098,Full,cDNA
 A*31:234,5,1,Confirmed,1,1098,Full,gDNA
 A*31:235,1,1,Unconfirmed,1,1098,Full,cDNA
+A*31:236,1,1,Unconfirmed,1,1098,Full,gDNA
+A*31:237,1,1,Unconfirmed,1,1098,Full,gDNA
+A*31:238,1,1,Unconfirmed,1,1098,Full,gDNA
+A*31:239,1,1,Unconfirmed,1,1098,Full,gDNA
 A*32:01:01:01,6,7,Confirmed,1,1098,Full,gDNA
 A*32:01:01:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*32:01:01:03,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -7101,6 +7164,7 @@ A*32:01:01:39,2,1,Confirmed,1,1098,Full,gDNA
 A*32:01:01:40,1,1,Unconfirmed,1,1098,Full,gDNA
 A*32:01:01:41,1,1,Unconfirmed,1,1098,Full,gDNA
 A*32:01:01:42,1,1,Unconfirmed,1,1098,Full,gDNA
+A*32:01:01:43,1,1,Unconfirmed,1,1098,Full,gDNA
 A*32:01:02,2,2,Confirmed,1,1098,Full,gDNA
 A*32:01:03,2,2,Confirmed,74,619,Partial,cDNA
 A*32:01:04,13,1,Confirmed,74,619,Partial,cDNA
@@ -7163,6 +7227,7 @@ A*32:01:60,1,1,Unconfirmed,1,1098,Full,gDNA
 A*32:01:61,1,1,Unconfirmed,1,1098,Full,gDNA
 A*32:01:62,1,1,Unconfirmed,1,1098,Full,cDNA
 A*32:01:63,1,1,Unconfirmed,1,1098,Full,gDNA
+A*32:01:64,1,1,Unconfirmed,1,1098,Full,cDNA
 A*32:02,3,2,Confirmed,1,1098,Full,gDNA
 A*32:03:01:01,4,2,Confirmed,1,1098,Full,gDNA
 A*32:03:01:02,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -7191,7 +7256,7 @@ A*32:25,3,1,Confirmed,74,619,Partial,cDNA
 A*32:26:01,3,3,Confirmed,1,1098,Full,gDNA
 A*32:26:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*32:27N,5,2,Confirmed,1,1098,Full,gDNA
-A*32:28,3,1,Confirmed,74,619,Partial,cDNA
+A*32:28,4,2,Confirmed,1,1098,Full,gDNA
 A*32:29,1,1,Unconfirmed,74,619,Partial,cDNA
 A*32:30:01,1,1,Unconfirmed,74,895,Partial,cDNA
 A*32:30:02,1,1,Unconfirmed,1,619,Partial,cDNA
@@ -7364,6 +7429,9 @@ A*32:188,1,1,Unconfirmed,1,1098,Full,gDNA
 A*32:189,1,1,Unconfirmed,1,1098,Full,gDNA
 A*32:190,1,1,Unconfirmed,1,1098,Full,gDNA
 A*32:191Q,1,1,Unconfirmed,1,1098,Full,gDNA
+A*32:192,1,1,Unconfirmed,1,1098,Full,gDNA
+A*32:193,1,1,Unconfirmed,1,1098,Full,gDNA
+A*32:194,1,1,Unconfirmed,1,1098,Full,gDNA
 A*33:01:01:01,7,7,Confirmed,1,1098,Full,gDNA
 A*33:01:01:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*33:01:01:03,2,1,Confirmed,1,1098,Full,gDNA
@@ -7432,6 +7500,7 @@ A*33:03:01:25,1,1,Unconfirmed,1,1098,Full,gDNA
 A*33:03:01:26,1,1,Unconfirmed,1,1098,Full,gDNA
 A*33:03:01:27,1,1,Unconfirmed,1,1098,Full,gDNA
 A*33:03:01:28,1,1,Unconfirmed,1,1098,Full,gDNA
+A*33:03:01:29,1,1,Unconfirmed,1,1098,Full,gDNA
 A*33:03:02,1,1,Unconfirmed,74,619,Partial,cDNA
 A*33:03:03Q,1,1,Unconfirmed,74,895,Partial,cDNA
 A*33:03:04,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -7778,8 +7847,13 @@ A*33:271,1,1,Unconfirmed,74,619,Partial,cDNA
 A*33:272,1,1,Unconfirmed,1,1098,Full,gDNA
 A*33:273Q,1,1,Unconfirmed,1,1089,Full,gDNA
 A*33:274,1,1,Unconfirmed,1,1098,Full,gDNA
-A*33:275,1,1,Unconfirmed,1,1098,Full,gDNA
+A*33:275,2,1,Confirmed,1,1098,Full,gDNA
 A*33:276,1,1,Unconfirmed,1,1098,Full,gDNA
+A*33:277N,1,1,Unconfirmed,74,619,Partial,cDNA
+A*33:278,1,1,Unconfirmed,74,895,Partial,cDNA
+A*33:279,1,1,Unconfirmed,1,1098,Full,gDNA
+A*33:280,1,1,Unconfirmed,74,895,Partial,cDNA
+A*33:281,1,1,Unconfirmed,1,1098,Full,gDNA
 A*34:01:01:01,4,4,Confirmed,1,1098,Full,gDNA
 A*34:01:01:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*34:01:01:03,3,1,Confirmed,1,1098,Full,gDNA
@@ -7975,6 +8049,7 @@ A*68:01:02:33,5,1,Confirmed,1,1098,Full,gDNA
 A*68:01:02:34,1,1,Unconfirmed,1,1098,Full,gDNA
 A*68:01:02:35,1,1,Unconfirmed,1,1098,Full,gDNA
 A*68:01:02:36,1,1,Unconfirmed,1,1098,Full,gDNA
+A*68:01:02:37,1,1,Unconfirmed,1,1098,Full,gDNA
 A*68:01:03,2,2,Confirmed,1,1098,Full,gDNA
 A*68:01:04,1,1,Unconfirmed,74,619,Partial,cDNA
 A*68:01:05,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -8087,6 +8162,7 @@ A*68:02:23,1,1,Unconfirmed,1,1098,Full,gDNA
 A*68:02:24,1,1,Unconfirmed,1,1098,Full,gDNA
 A*68:02:25,1,1,Unconfirmed,1,1098,Full,gDNA
 A*68:02:26,1,1,Unconfirmed,1,1098,Full,gDNA
+A*68:02:27,1,1,Unconfirmed,1,1098,Full,gDNA
 A*68:03:01:01,8,5,Confirmed,1,1098,Full,gDNA
 A*68:03:01:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*68:03:01:03,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -8124,7 +8200,8 @@ A*68:21:01,1,1,Unconfirmed,74,619,Partial,cDNA
 A*68:21:02,1,1,Unconfirmed,74,619,Partial,cDNA
 A*68:21:03,2,1,Confirmed,1,1098,Full,gDNA
 A*68:22,1,1,Unconfirmed,1,1098,Full,gDNA
-A*68:23,4,3,Confirmed,1,1098,Full,gDNA
+A*68:23:01,4,3,Confirmed,1,1098,Full,gDNA
+A*68:23:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*68:24,6,5,Confirmed,1,1098,Full,gDNA
 A*68:25,4,3,Confirmed,1,1098,Full,gDNA
 A*68:26,2,2,Confirmed,1,1098,Full,gDNA
@@ -8456,6 +8533,11 @@ A*68:323,1,1,Unconfirmed,1,1098,Full,gDNA
 A*68:324,1,1,Unconfirmed,1,1098,Full,gDNA
 A*68:325,1,1,Unconfirmed,1,1098,Full,cDNA
 A*68:326,1,1,Unconfirmed,1,1098,Full,gDNA
+A*68:327,1,1,Unconfirmed,1,1098,Full,gDNA
+A*68:328,1,1,Unconfirmed,1,1098,Full,gDNA
+A*68:329,1,1,Unconfirmed,1,1098,Full,gDNA
+A*68:330,1,1,Unconfirmed,1,1098,Full,gDNA
+A*68:331,1,1,Unconfirmed,1,1098,Full,cDNA
 A*69:01:01:01,7,7,Confirmed,1,1098,Full,gDNA
 A*69:01:01:02,1,1,Unconfirmed,1,1098,Full,gDNA
 A*69:01:01:03,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -8473,7 +8555,7 @@ A*69:07,1,1,Unconfirmed,1,1098,Full,gDNA
 A*69:08,1,1,Unconfirmed,1,1098,Full,gDNA
 A*69:09,1,1,Unconfirmed,1,1098,Full,gDNA
 A*74:01:01:01,9,5,Confirmed,1,1098,Full,gDNA
-A*74:01:01:02,14,1,Confirmed,1,1098,Full,gDNA
+A*74:01:01:02,15,1,Confirmed,1,1098,Full,gDNA
 A*74:01:01:03,1,1,Unconfirmed,1,1098,Full,gDNA
 A*74:01:01:04,1,1,Unconfirmed,1,1098,Full,gDNA
 A*74:01:01:05,4,1,Confirmed,1,1098,Full,gDNA
@@ -8490,6 +8572,7 @@ A*74:01:08,2,2,Confirmed,1,1098,Full,gDNA
 A*74:01:09,1,1,Unconfirmed,1,1098,Full,gDNA
 A*74:01:10,1,1,Unconfirmed,1,1098,Full,gDNA
 A*74:01:11,1,1,Unconfirmed,1,1098,Full,cDNA
+A*74:01:12,1,1,Unconfirmed,1,1098,Full,gDNA
 A*74:02:01:01,3,2,Confirmed,1,1098,Full,gDNA
 A*74:02:01:02,2,2,Confirmed,1,1098,Full,gDNA
 A*74:02:01:03,2,1,Confirmed,1,1098,Full,gDNA
@@ -8548,6 +8631,7 @@ A*74:49,1,1,Unconfirmed,1,1098,Full,gDNA
 A*74:50,1,1,Unconfirmed,1,1098,Full,gDNA
 A*74:51,1,1,Unconfirmed,1,1098,Full,gDNA
 A*74:52,1,1,Unconfirmed,1,1098,Full,gDNA
+A*74:53,1,1,Unconfirmed,1,1098,Full,gDNA
 A*80:01:01:01,8,4,Confirmed,1,1098,Full,gDNA
 A*80:01:01:02,6,4,Confirmed,1,1098,Full,gDNA
 A*80:01:01:03,1,1,Unconfirmed,1,1098,Full,gDNA
@@ -8599,7 +8683,7 @@ B*07:02:01:35,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:02:01:36,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:02:01:37,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:02:01:38,1,1,Unconfirmed,1,1089,Full,gDNA
-B*07:02:01:39,6,2,Confirmed,1,1089,Full,gDNA
+B*07:02:01:39,7,3,Confirmed,1,1089,Full,gDNA
 B*07:02:01:40,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:02:01:41,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:02:01:42,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -8792,7 +8876,7 @@ B*07:02:99,2,2,Confirmed,1,1089,Full,gDNA
 B*07:02:100,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:02:101,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:02:102,1,1,Unconfirmed,1,1089,Full,gDNA
-B*07:02:103,1,1,Unconfirmed,1,1089,Full,gDNA
+B*07:02:103,2,2,Confirmed,1,1089,Full,gDNA
 B*07:02:104,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:02:105,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:02:106,1,1,Unconfirmed,1,1089,Full,cDNA
@@ -8808,6 +8892,7 @@ B*07:05:01:04,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:05:01:05,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:05:01:06,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:05:01:07,5,1,Confirmed,1,1089,Full,gDNA
+B*07:05:01:08,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:05:02,2,2,Confirmed,1,1089,Full,gDNA
 B*07:05:03,1,1,Unconfirmed,74,619,Partial,cDNA
 B*07:05:04,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -8880,7 +8965,7 @@ B*07:41,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:42,5,3,Confirmed,1,1089,Full,gDNA
 B*07:43,2,2,Confirmed,74,619,Partial,cDNA
 B*07:44N,3,3,Confirmed,1,1046,Full,gDNA
-B*07:45,1,1,Unconfirmed,74,619,Partial,cDNA
+B*07:45,1,2,Confirmed,1,1089,Full,gDNA
 B*07:46,1,1,Unconfirmed,1,1012,Partial,cDNA
 B*07:47,6,3,Confirmed,1,1089,Full,gDNA
 B*07:48:01,6,4,Confirmed,1,1089,Full,gDNA
@@ -8888,9 +8973,9 @@ B*07:48:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:49N,1,1,Unconfirmed,74,895,Partial,cDNA
 B*07:50,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:51,3,2,Confirmed,1,1089,Full,gDNA
-B*07:52,1,1,Unconfirmed,74,619,Partial,cDNA
+B*07:52,1,2,Confirmed,1,1089,Full,gDNA
 B*07:53,4,1,Confirmed,1,1089,Full,gDNA
-B*07:54,2,2,Confirmed,74,619,Partial,cDNA
+B*07:54,2,3,Confirmed,1,1089,Full,gDNA
 B*07:55,1,1,Unconfirmed,74,619,Partial,cDNA
 B*07:56:01,1,1,Unconfirmed,74,953,Partial,cDNA
 B*07:56:02,2,2,Confirmed,74,895,Partial,cDNA
@@ -8981,7 +9066,7 @@ B*07:134,1,1,Unconfirmed,74,619,Partial,cDNA
 B*07:135N,1,1,Unconfirmed,74,619,Partial,cDNA
 B*07:136:01,6,1,Confirmed,74,619,Partial,cDNA
 B*07:136:02,1,1,Unconfirmed,74,619,Partial,cDNA
-B*07:137,2,2,Confirmed,1,1089,Full,gDNA
+B*07:137,3,3,Confirmed,1,1089,Full,gDNA
 B*07:138,1,1,Unconfirmed,74,619,Partial,cDNA
 B*07:139:01,1,1,Unconfirmed,74,895,Partial,cDNA
 B*07:139:02,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -9113,7 +9198,7 @@ B*07:260,1,1,Unconfirmed,74,619,Partial,cDNA
 B*07:261,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:262:01,2,1,Confirmed,74,619,Partial,cDNA
 B*07:262:02,1,1,Unconfirmed,1,1089,Full,gDNA
-B*07:263,1,1,Unconfirmed,74,619,Partial,cDNA
+B*07:263,2,2,Confirmed,1,1089,Full,gDNA
 B*07:264,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:265,1,1,Unconfirmed,74,619,Partial,cDNA
 B*07:266,1,1,Unconfirmed,74,895,Partial,cDNA
@@ -9379,6 +9464,12 @@ B*07:522,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:523,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:524,1,1,Unconfirmed,1,1089,Full,gDNA
 B*07:525,1,1,Unconfirmed,1,1089,Full,gDNA
+B*07:526N,1,1,Unconfirmed,1,1089,Full,gDNA
+B*07:527,1,1,Unconfirmed,1,1089,Full,gDNA
+B*07:528,1,1,Unconfirmed,1,1089,Full,gDNA
+B*07:529,1,1,Unconfirmed,1,1089,Full,gDNA
+B*07:530,1,1,Unconfirmed,1,1089,Full,gDNA
+B*07:531,1,1,Unconfirmed,1,1089,Full,gDNA
 B*08:01:01:01,12,11,Confirmed,1,1089,Full,gDNA
 B*08:01:01:02,3,3,Confirmed,1,1089,Full,gDNA
 B*08:01:01:03,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -9455,6 +9546,7 @@ B*08:01:01:73,1,1,Unconfirmed,1,1089,Full,gDNA
 B*08:01:01:74,1,1,Unconfirmed,1,1089,Full,gDNA
 B*08:01:01:75,1,1,Unconfirmed,1,1089,Full,gDNA
 B*08:01:01:76,1,1,Unconfirmed,1,1089,Full,gDNA
+B*08:01:01:77,1,1,Unconfirmed,1,1089,Full,gDNA
 B*08:01:02,12,4,Confirmed,1,1089,Full,gDNA
 B*08:01:03,1,1,Unconfirmed,74,619,Partial,cDNA
 B*08:01:04,8,5,Confirmed,1,1089,Full,gDNA
@@ -9464,7 +9556,7 @@ B*08:01:07,3,2,Confirmed,1,1089,Full,gDNA
 B*08:01:08,17,3,Confirmed,1,1089,Full,gDNA
 B*08:01:09,1,1,Unconfirmed,74,619,Partial,cDNA
 B*08:01:10,2,1,Confirmed,74,619,Partial,cDNA
-B*08:01:11,1,1,Unconfirmed,74,619,Partial,cDNA
+B*08:01:11,1,2,Confirmed,1,1089,Full,gDNA
 B*08:01:12,2,2,Confirmed,1,1089,Full,gDNA
 B*08:01:13,4,1,Confirmed,74,619,Partial,cDNA
 B*08:01:14,2,2,Confirmed,1,1089,Full,gDNA
@@ -9533,6 +9625,9 @@ B*08:01:76,1,1,Unconfirmed,1,1089,Full,gDNA
 B*08:01:77,1,1,Unconfirmed,1,1089,Full,gDNA
 B*08:01:78,1,1,Unconfirmed,1,1089,Full,gDNA
 B*08:01:79,1,1,Unconfirmed,1,1089,Full,gDNA
+B*08:01:80,1,1,Unconfirmed,1,1089,Full,gDNA
+B*08:01:81,1,1,Unconfirmed,1,1089,Full,gDNA
+B*08:01:82,1,1,Unconfirmed,1,1089,Full,gDNA
 B*08:02,3,2,Confirmed,1,1089,Full,gDNA
 B*08:03,2,2,Confirmed,74,619,Partial,cDNA
 B*08:04:01,3,2,Confirmed,74,619,Partial,cDNA
@@ -9560,7 +9655,7 @@ B*08:22,1,1,Unconfirmed,74,619,Partial,cDNA
 B*08:23,7,4,Confirmed,1,1089,Full,gDNA
 B*08:24,3,2,Confirmed,74,619,Partial,cDNA
 B*08:25,3,2,Confirmed,1,619,Partial,cDNA
-B*08:26:01,1,1,Unconfirmed,74,619,Partial,cDNA
+B*08:26:01,1,2,Confirmed,1,1089,Full,gDNA
 B*08:26:02,1,1,Unconfirmed,74,619,Partial,cDNA
 B*08:26:03,2,2,Confirmed,1,1089,Full,gDNA
 B*08:27,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -9882,6 +9977,8 @@ B*08:329Q,1,1,Unconfirmed,1,1068,Full,gDNA
 B*08:330,1,1,Unconfirmed,1,1089,Full,gDNA
 B*08:331,1,1,Unconfirmed,1,1089,Full,gDNA
 B*08:332,1,1,Unconfirmed,1,1089,Full,gDNA
+B*08:333N,1,1,Unconfirmed,1,1089,Full,gDNA
+B*08:334,1,1,Unconfirmed,1,1089,Full,gDNA
 B*13:01:01:01,9,7,Confirmed,1,1089,Full,gDNA
 B*13:01:01:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*13:01:01:03,13,3,Confirmed,1,1089,Full,gDNA
@@ -9947,6 +10044,7 @@ B*13:02:01:28,2,1,Confirmed,1,1089,Full,gDNA
 B*13:02:01:29,1,1,Unconfirmed,1,1089,Full,gDNA
 B*13:02:01:30,1,1,Unconfirmed,1,1089,Full,gDNA
 B*13:02:01:31,1,1,Unconfirmed,1,1089,Full,gDNA
+B*13:02:01:32,1,1,Unconfirmed,1,1089,Full,gDNA
 B*13:02:02,5,1,Confirmed,1,1089,Full,gDNA
 B*13:02:03,2,2,Confirmed,1,1089,Full,gDNA
 B*13:02:04,2,2,Confirmed,74,895,Partial,cDNA
@@ -9990,6 +10088,7 @@ B*13:02:41,1,1,Unconfirmed,1,1089,Full,gDNA
 B*13:02:42,1,1,Unconfirmed,1,1089,Full,gDNA
 B*13:02:43,1,1,Unconfirmed,1,1089,Full,gDNA
 B*13:02:44,1,1,Unconfirmed,1,1089,Full,gDNA
+B*13:02:45,1,1,Unconfirmed,1,1089,Full,gDNA
 B*13:03,5,3,Confirmed,1,1089,Full,gDNA
 B*13:04,4,4,Confirmed,1,1089,Full,gDNA
 B*13:06,2,1,Confirmed,74,619,Partial,cDNA
@@ -10194,6 +10293,10 @@ B*13:200,1,1,Unconfirmed,1,1089,Full,gDNA
 B*13:201,1,1,Unconfirmed,1,1089,Full,gDNA
 B*13:202,1,1,Unconfirmed,1,1089,Full,gDNA
 B*13:203,1,1,Unconfirmed,1,1089,Full,gDNA
+B*13:204,1,1,Unconfirmed,1,1089,Full,gDNA
+B*13:205N,1,1,Unconfirmed,1,890,Partial,cDNA
+B*13:206,1,1,Unconfirmed,74,895,Partial,cDNA
+B*13:207,1,1,Unconfirmed,74,1045,Partial,cDNA
 B*14:01:01:01,10,6,Confirmed,1,1089,Full,gDNA
 B*14:01:01:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*14:01:01:03,3,3,Confirmed,1,1089,Full,gDNA
@@ -10283,6 +10386,7 @@ B*14:02:31:01,1,1,Unconfirmed,1,1089,Full,gDNA
 B*14:02:31:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*14:02:32,1,1,Unconfirmed,1,1089,Full,gDNA
 B*14:02:33,1,1,Unconfirmed,1,1089,Full,gDNA
+B*14:02:34,1,1,Unconfirmed,1,1089,Full,gDNA
 B*14:03,7,5,Confirmed,1,1089,Full,gDNA
 B*14:04,1,1,Unconfirmed,74,619,Partial,cDNA
 B*14:05,6,4,Confirmed,1,1089,Full,gDNA
@@ -10494,6 +10598,7 @@ B*15:01:01:67,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:01:01:68,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:01:01:69,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:01:01:70,1,1,Unconfirmed,1,1089,Full,gDNA
+B*15:01:01:71Q,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:01:02,10,4,Confirmed,1,1089,Full,gDNA
 B*15:01:03,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:01:04,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -10502,7 +10607,7 @@ B*15:01:07,2,2,Confirmed,1,1089,Full,gDNA
 B*15:01:08,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:01:09,2,1,Confirmed,74,619,Partial,cDNA
 B*15:01:10,11,2,Confirmed,1,1089,Full,gDNA
-B*15:01:11,2,2,Confirmed,74,895,Partial,cDNA
+B*15:01:11,2,3,Confirmed,1,1089,Full,gDNA
 B*15:01:12,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:01:13,2,1,Confirmed,74,619,Partial,cDNA
 B*15:01:14,6,1,Confirmed,74,619,Partial,cDNA
@@ -10583,6 +10688,7 @@ B*15:01:88,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:01:89,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:01:90,1,1,Unconfirmed,1,1089,Full,cDNA
 B*15:01:91,1,1,Unconfirmed,1,1089,Full,cDNA
+B*15:01:92,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:02:01:01,13,7,Confirmed,1,1089,Full,gDNA
 B*15:02:01:02,2,2,Confirmed,1,1089,Full,gDNA
 B*15:02:01:03,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -10676,7 +10782,8 @@ B*15:10:06,2,2,Confirmed,1,1089,Full,gDNA
 B*15:10:07,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:10:08,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:10:09,1,1,Unconfirmed,1,1089,Full,cDNA
-B*15:11:01,6,5,Confirmed,1,1089,Full,gDNA
+B*15:11:01:01,6,5,Confirmed,1,1089,Full,gDNA
+B*15:11:01:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:11:02,2,2,Confirmed,74,895,Partial,cDNA
 B*15:11:03,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:11:04,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -10694,6 +10801,7 @@ B*15:14,3,3,Confirmed,1,1089,Full,gDNA
 B*15:15:01:01,7,5,Confirmed,1,1089,Full,gDNA
 B*15:15:01:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:15:02,1,1,Unconfirmed,1,1089,Full,gDNA
+B*15:15:03,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:16:01:01,2,2,Confirmed,1,1089,Full,gDNA
 B*15:16:01:02,8,5,Confirmed,1,1089,Full,gDNA
 B*15:16:01:03,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -10720,7 +10828,7 @@ B*15:17:04,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:17:05,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:17:06,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:17:07,1,1,Unconfirmed,1,1089,Full,gDNA
-B*15:18:01:01,8,6,Confirmed,1,1089,Full,gDNA
+B*15:18:01:01,9,7,Confirmed,1,1089,Full,gDNA
 B*15:18:01:02,3,3,Confirmed,1,1089,Full,gDNA
 B*15:18:01:03,2,1,Confirmed,1,1089,Full,gDNA
 B*15:18:01:04,2,2,Confirmed,1,1089,Full,gDNA
@@ -10746,6 +10854,7 @@ B*15:19,1,2,Confirmed,1,1089,Full,gDNA
 B*15:20,3,2,Confirmed,1,1089,Full,gDNA
 B*15:21:01:01,7,6,Confirmed,1,1089,Full,gDNA
 B*15:21:01:02,1,1,Unconfirmed,1,1089,Full,gDNA
+B*15:21:01:03,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:23,4,3,Confirmed,1,1089,Full,gDNA
 B*15:24:01,7,7,Confirmed,1,1089,Full,gDNA
 B*15:24:02,2,2,Confirmed,1,1089,Full,gDNA
@@ -10840,7 +10949,7 @@ B*15:84,1,1,Unconfirmed,74,895,Partial,cDNA
 B*15:85,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:86,6,4,Confirmed,74,895,Partial,cDNA
 B*15:87,1,1,Unconfirmed,74,619,Partial,cDNA
-B*15:88,1,1,Unconfirmed,74,619,Partial,cDNA
+B*15:88,2,2,Confirmed,1,990,Partial,cDNA
 B*15:89:01,2,2,Confirmed,74,895,Partial,cDNA
 B*15:89:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:90,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -10851,13 +10960,13 @@ B*15:94N,1,1,Unconfirmed,74,895,Partial,cDNA
 B*15:95,1,1,Unconfirmed,74,895,Partial,cDNA
 B*15:96,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:97,1,1,Unconfirmed,74,619,Partial,cDNA
-B*15:98,1,1,Unconfirmed,74,619,Partial,cDNA
+B*15:98,1,2,Confirmed,1,1089,Full,gDNA
 B*15:99,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:101,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:102,3,2,Confirmed,1,1089,Full,gDNA
 B*15:103,2,2,Confirmed,1,1089,Full,gDNA
 B*15:104,1,1,Unconfirmed,74,895,Partial,cDNA
-B*15:105,1,1,Unconfirmed,74,619,Partial,cDNA
+B*15:105,1,2,Confirmed,1,1089,Full,gDNA
 B*15:106,4,4,Confirmed,1,1089,Full,gDNA
 B*15:107,2,2,Confirmed,1,1089,Full,gDNA
 B*15:108,2,2,Confirmed,1,1089,Full,gDNA
@@ -10871,7 +10980,7 @@ B*15:115,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:116,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:117,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:118,1,1,Unconfirmed,74,619,Partial,cDNA
-B*15:119,1,1,Unconfirmed,74,619,Partial,cDNA
+B*15:119,1,2,Confirmed,1,1089,Full,gDNA
 B*15:120,2,1,Confirmed,1,1089,Full,gDNA
 B*15:121,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:122,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -10918,7 +11027,7 @@ B*15:160:01:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:161,2,2,Confirmed,74,895,Partial,cDNA
 B*15:162,7,1,Confirmed,74,619,Partial,cDNA
 B*15:163,1,1,Unconfirmed,74,895,Partial,cDNA
-B*15:164,1,1,Unconfirmed,74,619,Partial,cDNA
+B*15:164,1,2,Confirmed,1,1089,Full,gDNA
 B*15:165,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:166,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:167,2,1,Confirmed,74,619,Partial,cDNA
@@ -10946,7 +11055,7 @@ B*15:187,2,2,Confirmed,1,1089,Full,gDNA
 B*15:188,1,1,Unconfirmed,74,895,Partial,cDNA
 B*15:189:01,2,2,Confirmed,74,619,Partial,cDNA
 B*15:189:02,1,1,Unconfirmed,1,1089,Full,gDNA
-B*15:190N,3,1,Confirmed,74,619,Partial,cDNA
+B*15:190N,4,2,Confirmed,1,1089,Full,gDNA
 B*15:191,1,1,Unconfirmed,74,619,Partial,cDNA
 B*15:192,2,2,Confirmed,74,895,Partial,cDNA
 B*15:193,1,1,Unconfirmed,1,1012,Partial,cDNA
@@ -10985,7 +11094,7 @@ B*15:220:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:220:03,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:220:04,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:221,1,1,Unconfirmed,74,895,Partial,cDNA
-B*15:222,2,2,Confirmed,1,1089,Full,gDNA
+B*15:222,3,3,Confirmed,1,1089,Full,gDNA
 B*15:223,1,1,Unconfirmed,1,1089,Full,cDNA
 B*15:224,2,2,Confirmed,1,1089,Full,gDNA
 B*15:225,3,2,Confirmed,1,1089,Full,gDNA
@@ -11372,7 +11481,7 @@ B*15:592,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:593,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:594,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:595,1,1,Unconfirmed,1,1089,Full,gDNA
-B*15:596N,1,1,Unconfirmed,1,1089,Full,gDNA
+B*15:596N,3,1,Confirmed,1,1089,Full,gDNA
 B*15:597,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:598,1,1,Unconfirmed,1,1012,Partial,cDNA
 B*15:599,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -11503,6 +11612,12 @@ B*15:721,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:722,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:723,1,1,Unconfirmed,1,1089,Full,gDNA
 B*15:724,1,1,Unconfirmed,74,619,Partial,cDNA
+B*15:725,1,1,Unconfirmed,1,1089,Full,cDNA
+B*15:726,1,1,Unconfirmed,1,1089,Full,gDNA
+B*15:727,1,1,Unconfirmed,1,1089,Full,gDNA
+B*15:728,1,1,Unconfirmed,1,1089,Full,gDNA
+B*15:729,2,1,Confirmed,1,1089,Full,gDNA
+B*15:730,1,1,Unconfirmed,74,619,Partial,cDNA
 B*18:01:01:01,7,6,Confirmed,1,1089,Full,gDNA
 B*18:01:01:02,3,3,Confirmed,1,1089,Full,gDNA
 B*18:01:01:03,3,1,Confirmed,1,1089,Full,gDNA
@@ -11665,6 +11780,7 @@ B*18:04:01,5,5,Confirmed,1,1089,Full,gDNA
 B*18:04:02,1,1,Unconfirmed,74,619,Partial,cDNA
 B*18:05:01:01,5,4,Confirmed,1,1089,Full,gDNA
 B*18:05:01:02,4,3,Confirmed,1,1089,Full,gDNA
+B*18:05:01:03,1,1,Unconfirmed,1,1089,Full,gDNA
 B*18:06,4,2,Confirmed,1,1089,Full,gDNA
 B*18:07:01,5,3,Confirmed,1,1089,Full,gDNA
 B*18:07:02,12,1,Confirmed,74,619,Partial,cDNA
@@ -11930,6 +12046,8 @@ B*18:251,1,1,Unconfirmed,1,1089,Full,gDNA
 B*18:252,1,1,Unconfirmed,1,1089,Full,gDNA
 B*18:253,1,1,Unconfirmed,1,1089,Full,gDNA
 B*18:254,1,1,Unconfirmed,1,1089,Full,gDNA
+B*18:255,1,1,Unconfirmed,1,1089,Full,gDNA
+B*18:256,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:01,5,4,Confirmed,1,1089,Full,gDNA
 B*27:02:01:01,6,7,Confirmed,1,1089,Full,gDNA
 B*27:02:01:02,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -11950,7 +12068,7 @@ B*27:02:08,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:03,8,5,Confirmed,1,1089,Full,gDNA
 B*27:04:01,8,6,Confirmed,1,1089,Full,gDNA
 B*27:04:02,1,1,Unconfirmed,74,619,Partial,cDNA
-B*27:04:03,5,2,Confirmed,74,619,Partial,cDNA
+B*27:04:03,5,3,Confirmed,1,1089,Full,gDNA
 B*27:04:04,2,1,Confirmed,1,1012,Partial,cDNA
 B*27:04:05,1,1,Unconfirmed,74,895,Partial,cDNA
 B*27:04:06,1,1,Unconfirmed,1,895,Partial,cDNA
@@ -12061,6 +12179,7 @@ B*27:05:60,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:05:61,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:05:62,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:05:63,1,1,Unconfirmed,1,1089,Full,gDNA
+B*27:05:64,1,1,Unconfirmed,1,1089,Full,cDNA
 B*27:06:01:01,5,6,Confirmed,1,1089,Full,gDNA
 B*27:06:01:02,3,2,Confirmed,1,1089,Full,gDNA
 B*27:06:02,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -12095,7 +12214,7 @@ B*27:23,4,3,Confirmed,1,1089,Full,gDNA
 B*27:24,2,2,Confirmed,1,1089,Full,gDNA
 B*27:25,4,4,Confirmed,1,1089,Full,gDNA
 B*27:26,1,1,Unconfirmed,74,619,Partial,cDNA
-B*27:27,2,2,Confirmed,74,619,Partial,cDNA
+B*27:27,2,3,Confirmed,1,1089,Full,gDNA
 B*27:28,1,1,Unconfirmed,74,619,Partial,cDNA
 B*27:29,1,1,Unconfirmed,74,619,Partial,cDNA
 B*27:30,4,3,Confirmed,1,1089,Full,gDNA
@@ -12105,7 +12224,7 @@ B*27:33,1,1,Unconfirmed,74,619,Partial,cDNA
 B*27:34,1,1,Unconfirmed,74,619,Partial,cDNA
 B*27:35,1,1,Unconfirmed,1,1012,Partial,cDNA
 B*27:36,4,3,Confirmed,74,981,Partial,cDNA
-B*27:37,1,1,Unconfirmed,74,619,Partial,cDNA
+B*27:37,1,2,Confirmed,1,1089,Full,gDNA
 B*27:38,1,1,Unconfirmed,15,943,Partial,cDNA
 B*27:39,1,1,Unconfirmed,74,619,Partial,cDNA
 B*27:40,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -12322,7 +12441,7 @@ B*27:243N,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:244,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:245,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:246N,1,1,Unconfirmed,1,1089,Full,gDNA
-B*27:247,1,1,Unconfirmed,1,1089,Full,gDNA
+B*27:247,3,2,Confirmed,1,1089,Full,gDNA
 B*27:248,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:249,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:250,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -12358,11 +12477,18 @@ B*27:279,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:280,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:281,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:282,1,1,Unconfirmed,1,1089,Full,gDNA
-B*27:283,1,1,Unconfirmed,74,895,Partial,cDNA
+B*27:283,2,2,Confirmed,1,1089,Full,gDNA
 B*27:284,1,1,Unconfirmed,1,1089,Full,cDNA
 B*27:285,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:286,1,1,Unconfirmed,1,1089,Full,gDNA
 B*27:287N,1,1,Unconfirmed,1,1093,Full,gDNA
+B*27:288,1,1,Unconfirmed,1,1089,Full,gDNA
+B*27:289,1,1,Unconfirmed,1,1089,Full,gDNA
+B*27:290,1,1,Unconfirmed,1,1089,Full,gDNA
+B*27:291,1,1,Unconfirmed,1,1089,Full,gDNA
+B*27:292,1,1,Unconfirmed,1,1089,Full,gDNA
+B*27:293,1,1,Unconfirmed,1,1089,Full,gDNA
+B*27:294,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:01:01:01,5,4,Confirmed,1,1089,Full,gDNA
 B*35:01:01:02,8,5,Confirmed,1,1089,Full,gDNA
 B*35:01:01:03,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -12469,7 +12595,7 @@ B*35:01:13,1,1,Unconfirmed,74,619,Partial,cDNA
 B*35:01:14,1,1,Unconfirmed,74,619,Partial,cDNA
 B*35:01:15,3,1,Confirmed,74,619,Partial,cDNA
 B*35:01:16,1,1,Unconfirmed,74,619,Partial,cDNA
-B*35:01:17,1,2,Confirmed,74,619,Partial,cDNA
+B*35:01:17,2,3,Confirmed,1,1089,Full,gDNA
 B*35:01:18,1,1,Unconfirmed,74,619,Partial,cDNA
 B*35:01:19,7,1,Confirmed,74,619,Partial,cDNA
 B*35:01:20,1,1,Unconfirmed,1,895,Partial,cDNA
@@ -12535,6 +12661,7 @@ B*35:01:79,2,2,Confirmed,1,1089,Full,gDNA
 B*35:01:80,1,1,Unconfirmed,1,1089,Full,cDNA
 B*35:01:81,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:01:82,1,1,Unconfirmed,1,1089,Full,gDNA
+B*35:01:83,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:02:01:01,6,6,Confirmed,1,1089,Full,gDNA
 B*35:02:01:02,3,2,Confirmed,1,1089,Full,gDNA
 B*35:02:01:03,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -12649,6 +12776,7 @@ B*35:03:41,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:03:42,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:03:43,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:03:44,1,1,Unconfirmed,1,1089,Full,gDNA
+B*35:03:45,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:04:01:01,5,5,Confirmed,1,1089,Full,gDNA
 B*35:04:01:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:04:02,10,2,Confirmed,1,1089,Full,gDNA
@@ -12680,8 +12808,9 @@ B*35:08:01:10,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:08:01:11,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:08:01:12,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:08:01:13,1,1,Unconfirmed,1,1089,Full,gDNA
+B*35:08:01:14,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:08:02,3,3,Confirmed,1,1089,Full,gDNA
-B*35:08:03,1,1,Unconfirmed,74,619,Partial,cDNA
+B*35:08:03,1,2,Confirmed,1,1089,Full,gDNA
 B*35:08:04,4,1,Confirmed,74,619,Partial,cDNA
 B*35:08:05,1,1,Unconfirmed,74,619,Partial,cDNA
 B*35:08:06,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -12780,7 +12909,7 @@ B*35:49:01,3,2,Confirmed,1,1089,Full,gDNA
 B*35:49:02,2,1,Confirmed,1,1089,Full,gDNA
 B*35:49:03,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:50,1,1,Unconfirmed,74,895,Partial,cDNA
-B*35:51:01,1,1,Unconfirmed,74,895,Partial,cDNA
+B*35:51:01,2,1,Confirmed,1,1089,Full,gDNA
 B*35:51:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:52,2,1,Confirmed,1,1089,Full,cDNA
 B*35:53N,2,1,Confirmed,1,1085,Full,cDNA
@@ -12789,12 +12918,12 @@ B*35:55,5,4,Confirmed,1,1089,Full,gDNA
 B*35:56,1,1,Unconfirmed,74,619,Partial,cDNA
 B*35:57,3,2,Confirmed,1,1089,Full,gDNA
 B*35:58,2,1,Confirmed,74,619,Partial,cDNA
-B*35:59:01,2,2,Confirmed,74,619,Partial,cDNA
+B*35:59:01,2,3,Confirmed,1,1089,Full,gDNA
 B*35:59:02,1,1,Unconfirmed,74,619,Partial,cDNA
 B*35:60,2,1,Confirmed,1,1089,Full,gDNA
 B*35:61:01,2,1,Confirmed,74,619,Partial,cDNA
 B*35:61:02,1,1,Unconfirmed,74,619,Partial,cDNA
-B*35:62,2,2,Confirmed,74,619,Partial,cDNA
+B*35:62,2,3,Confirmed,1,1089,Full,gDNA
 B*35:63,1,1,Unconfirmed,1,1045,Partial,cDNA
 B*35:64:01,3,3,Confirmed,1,1089,Full,cDNA
 B*35:64:02,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -12807,7 +12936,7 @@ B*35:69,1,1,Unconfirmed,74,619,Partial,cDNA
 B*35:70,1,1,Unconfirmed,1,895,Partial,cDNA
 B*35:71,1,1,Unconfirmed,74,619,Partial,cDNA
 B*35:72,2,1,Confirmed,74,619,Partial,cDNA
-B*35:74,3,2,Confirmed,74,619,Partial,cDNA
+B*35:74,3,3,Confirmed,1,1089,Full,gDNA
 B*35:75,1,1,Unconfirmed,74,619,Partial,cDNA
 B*35:76,1,1,Unconfirmed,1,895,Partial,cDNA
 B*35:77,6,3,Confirmed,1,1089,Full,gDNA
@@ -13116,7 +13245,7 @@ B*35:363,1,1,Unconfirmed,74,619,Partial,cDNA
 B*35:364,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:365,9,1,Confirmed,1,1089,Full,gDNA
 B*35:366,1,1,Unconfirmed,1,1089,Full,gDNA
-B*35:367:01,1,1,Unconfirmed,1,1089,Full,gDNA
+B*35:367:01,2,1,Confirmed,1,1089,Full,gDNA
 B*35:367:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:368,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:369,2,1,Confirmed,1,1089,Full,gDNA
@@ -13268,7 +13397,8 @@ B*35:510,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:511,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:512,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:513N,1,1,Unconfirmed,1,1089,Full,gDNA
-B*35:514,1,1,Unconfirmed,1,1089,Full,gDNA
+B*35:514:01,1,1,Unconfirmed,1,1089,Full,gDNA
+B*35:514:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:515,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:516,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:517,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -13335,7 +13465,7 @@ B*35:577,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:578,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:579,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:580,1,1,Unconfirmed,1,1089,Full,gDNA
-B*35:581,1,1,Unconfirmed,1,1089,Full,gDNA
+B*35:581,2,2,Confirmed,1,1089,Full,gDNA
 B*35:582,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:583,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:584,1,1,Unconfirmed,1,1089,Full,cDNA
@@ -13391,6 +13521,11 @@ B*35:633,1,1,Unconfirmed,1,1089,Full,cDNA
 B*35:634,1,1,Unconfirmed,1,1089,Full,gDNA
 B*35:635,1,1,Unconfirmed,1,1089,Full,cDNA
 B*35:636N,2,1,Confirmed,1,1089,Full,gDNA
+B*35:637,1,1,Unconfirmed,1,1089,Full,gDNA
+B*35:638,1,1,Unconfirmed,74,895,Partial,cDNA
+B*35:639,1,1,Unconfirmed,1,1089,Full,gDNA
+B*35:640,1,1,Unconfirmed,1,1089,Full,gDNA
+B*35:641,1,1,Unconfirmed,1,1089,Full,gDNA
 B*37:01:01:01,6,5,Confirmed,1,1089,Full,gDNA
 B*37:01:01:02,2,1,Confirmed,1,1089,Full,gDNA
 B*37:01:01:03,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -13414,7 +13549,7 @@ B*37:01:01:20,3,1,Confirmed,1,1089,Full,gDNA
 B*37:01:01:21,4,1,Confirmed,1,1089,Full,gDNA
 B*37:01:01:22,2,1,Confirmed,1,1089,Full,gDNA
 B*37:01:01:23,1,1,Unconfirmed,1,1089,Full,gDNA
-B*37:01:02,3,2,Confirmed,74,619,Partial,cDNA
+B*37:01:02,3,3,Confirmed,1,1089,Full,gDNA
 B*37:01:03,5,3,Confirmed,1,1089,Full,gDNA
 B*37:01:04,1,1,Unconfirmed,74,895,Partial,cDNA
 B*37:01:05,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -13447,6 +13582,8 @@ B*37:01:31,1,1,Unconfirmed,1,1089,Full,gDNA
 B*37:01:32,1,1,Unconfirmed,1,1089,Full,gDNA
 B*37:01:33,1,1,Unconfirmed,1,1089,Full,gDNA
 B*37:01:34,1,1,Unconfirmed,1,1089,Full,gDNA
+B*37:01:35,1,1,Unconfirmed,1,1089,Full,gDNA
+B*37:01:36,1,1,Unconfirmed,1,1089,Full,gDNA
 B*37:02,2,2,Confirmed,1,1089,Full,gDNA
 B*37:03N,4,4,Confirmed,1,1089,Full,gDNA
 B*37:04:01,4,4,Confirmed,1,1089,Full,gDNA
@@ -13590,7 +13727,7 @@ B*38:01:01:17,1,1,Unconfirmed,1,1089,Full,gDNA
 B*38:01:01:18,1,1,Unconfirmed,1,1089,Full,gDNA
 B*38:01:01:19,1,1,Unconfirmed,1,1089,Full,gDNA
 B*38:01:01:20,1,1,Unconfirmed,1,1089,Full,gDNA
-B*38:01:02,1,1,Unconfirmed,74,619,Partial,cDNA
+B*38:01:02,1,2,Confirmed,1,1089,Full,gDNA
 B*38:01:03,1,1,Unconfirmed,74,619,Partial,cDNA
 B*38:01:04,5,1,Confirmed,74,619,Partial,cDNA
 B*38:01:05,2,1,Confirmed,74,619,Partial,cDNA
@@ -13646,10 +13783,10 @@ B*38:09,4,4,Confirmed,1,1089,Full,gDNA
 B*38:10,1,1,Unconfirmed,74,619,Partial,cDNA
 B*38:11,3,1,Confirmed,1,1089,Full,gDNA
 B*38:12,3,2,Confirmed,74,895,Partial,cDNA
-B*38:13,2,2,Confirmed,74,619,Partial,cDNA
+B*38:13,2,3,Confirmed,1,1089,Full,gDNA
 B*38:14,1,1,Unconfirmed,1,1089,Full,gDNA
 B*38:15,2,2,Confirmed,74,619,Partial,cDNA
-B*38:16,1,1,Unconfirmed,74,619,Partial,cDNA
+B*38:16,1,2,Confirmed,1,1089,Full,gDNA
 B*38:17,2,2,Confirmed,1,1089,Full,gDNA
 B*38:18,1,1,Unconfirmed,1,1089,Full,cDNA
 B*38:19,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -13757,6 +13894,9 @@ B*38:119,1,1,Unconfirmed,1,1089,Full,gDNA
 B*38:120,1,1,Unconfirmed,1,1089,Full,gDNA
 B*38:121,1,1,Unconfirmed,1,1089,Full,cDNA
 B*38:122,1,1,Unconfirmed,1,895,Partial,cDNA
+B*38:123,1,1,Unconfirmed,1,1089,Full,gDNA
+B*38:124,1,1,Unconfirmed,1,1089,Full,cDNA
+B*38:125,1,1,Unconfirmed,1,1089,Full,gDNA
 B*38:160,1,1,Unconfirmed,1,1089,Full,gDNA
 B*38:161,1,1,Unconfirmed,1,1089,Full,gDNA
 B*38:162,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -13801,11 +13941,12 @@ B*39:01:01:27,1,1,Unconfirmed,1,1089,Full,gDNA
 B*39:01:01:28,2,2,Confirmed,1,1089,Full,gDNA
 B*39:01:01:29,1,1,Unconfirmed,1,1089,Full,gDNA
 B*39:01:01:30,1,1,Unconfirmed,1,1089,Full,gDNA
+B*39:01:01:31,1,1,Unconfirmed,1,1089,Full,gDNA
 B*39:01:03:01,3,4,Confirmed,1,1089,Full,gDNA
 B*39:01:03:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*39:01:04,5,3,Confirmed,1,1089,Full,gDNA
 B*39:01:05,5,2,Confirmed,1,1089,Full,gDNA
-B*39:01:06,1,1,Unconfirmed,74,619,Partial,cDNA
+B*39:01:06,2,2,Confirmed,1,1089,Full,cDNA
 B*39:01:07,1,1,Unconfirmed,74,619,Partial,cDNA
 B*39:01:08,3,1,Confirmed,74,619,Partial,cDNA
 B*39:01:09,4,1,Confirmed,74,619,Partial,cDNA
@@ -13882,7 +14023,7 @@ B*39:06:06,1,1,Unconfirmed,1,1089,Full,gDNA
 B*39:06:07,1,1,Unconfirmed,1,1089,Full,gDNA
 B*39:06:08,1,1,Unconfirmed,1,1089,Full,gDNA
 B*39:06:09,2,2,Confirmed,1,1089,Full,gDNA
-B*39:07,3,3,Confirmed,1,1089,Full,cDNA
+B*39:07,3,4,Confirmed,1,1089,Full,gDNA
 B*39:08,5,4,Confirmed,1,1089,Full,gDNA
 B*39:09:01:01,6,6,Confirmed,1,1089,Full,gDNA
 B*39:09:01:02,2,2,Confirmed,1,1089,Full,gDNA
@@ -14047,7 +14188,7 @@ B*39:140,1,1,Unconfirmed,1,1089,Full,gDNA
 B*39:141,1,1,Unconfirmed,1,1089,Full,gDNA
 B*39:142N,1,1,Unconfirmed,1,1088,Full,gDNA
 B*39:143,1,1,Unconfirmed,1,1089,Full,gDNA
-B*39:144,2,1,Confirmed,1,1089,Full,gDNA
+B*39:144,3,1,Confirmed,1,1089,Full,gDNA
 B*39:145,2,2,Confirmed,1,1089,Full,gDNA
 B*39:146N,5,2,Confirmed,1,1090,Full,gDNA
 B*39:147N,1,1,Unconfirmed,1,1090,Full,gDNA
@@ -14132,6 +14273,8 @@ B*39:225,1,1,Unconfirmed,1,1089,Full,gDNA
 B*39:226,1,1,Unconfirmed,1,1089,Full,gDNA
 B*39:227,1,1,Unconfirmed,1,1089,Full,gDNA
 B*39:228,1,1,Unconfirmed,1,1089,Full,gDNA
+B*39:229,1,1,Unconfirmed,1,1089,Full,gDNA
+B*39:230,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:01:01,3,4,Confirmed,1,1089,Full,gDNA
 B*40:01:02:01,7,6,Confirmed,1,1089,Full,gDNA
 B*40:01:02:02,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -14290,6 +14433,8 @@ B*40:01:89,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:01:90,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:01:91,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:01:92,2,1,Confirmed,1,1089,Full,gDNA
+B*40:01:93,1,1,Unconfirmed,1,1089,Full,cDNA
+B*40:01:94,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:02:01:01,9,7,Confirmed,1,1089,Full,gDNA
 B*40:02:01:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:02:01:03,2,2,Confirmed,1,1089,Full,gDNA
@@ -14596,7 +14741,7 @@ B*40:131,1,1,Unconfirmed,74,619,Partial,cDNA
 B*40:132,1,1,Unconfirmed,74,619,Partial,cDNA
 B*40:133Q,1,1,Unconfirmed,74,619,Partial,cDNA
 B*40:134,1,1,Unconfirmed,74,619,Partial,cDNA
-B*40:135,2,1,Confirmed,74,619,Partial,cDNA
+B*40:135,2,2,Confirmed,1,1089,Full,gDNA
 B*40:136,1,1,Unconfirmed,74,619,Partial,cDNA
 B*40:137,1,1,Unconfirmed,74,619,Partial,cDNA
 B*40:138,1,1,Unconfirmed,1,1012,Partial,cDNA
@@ -14622,7 +14767,8 @@ B*40:156,1,1,Unconfirmed,74,619,Partial,cDNA
 B*40:157,2,2,Confirmed,74,619,Partial,cDNA
 B*40:158,1,1,Unconfirmed,74,895,Partial,cDNA
 B*40:159,1,1,Unconfirmed,74,895,Partial,cDNA
-B*40:160:01,2,2,Confirmed,1,1089,Full,gDNA
+B*40:160:01:01,2,2,Confirmed,1,1089,Full,gDNA
+B*40:160:01:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:160:02,2,1,Confirmed,74,619,Partial,cDNA
 B*40:161,1,1,Unconfirmed,74,895,Partial,cDNA
 B*40:162,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -15067,20 +15213,25 @@ B*40:585,1,1,Unconfirmed,74,895,Partial,cDNA
 B*40:586,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:587,1,1,Unconfirmed,1,1089,Full,cDNA
 B*40:588,1,1,Unconfirmed,1,1089,Full,gDNA
-B*40:589,1,1,Unconfirmed,1,1089,Full,gDNA
+B*40:589,2,1,Confirmed,1,1089,Full,gDNA
 B*40:590N,1,1,Unconfirmed,1,1088,Full,gDNA
 B*40:591,1,1,Unconfirmed,1,1089,Full,gDNA
-B*40:592,2,2,Confirmed,1,1089,Full,gDNA
+B*40:592,3,3,Confirmed,1,1089,Full,gDNA
 B*40:593,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:594N,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:595,1,1,Unconfirmed,1,1089,Full,gDNA
-B*40:596,1,1,Unconfirmed,1,895,Partial,cDNA
+B*40:596:01,1,1,Unconfirmed,1,895,Partial,cDNA
+B*40:596:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:597,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:598,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:599,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:600Q,1,1,Unconfirmed,1,1077,Full,cDNA
 B*40:601,1,1,Unconfirmed,1,1089,Full,gDNA
 B*40:602,1,1,Unconfirmed,1,1089,Full,gDNA
+B*40:603,1,1,Unconfirmed,1,1089,Full,gDNA
+B*40:604,1,1,Unconfirmed,1,1089,Full,gDNA
+B*40:605,1,1,Unconfirmed,74,895,Partial,cDNA
+B*40:606N,1,1,Unconfirmed,1,1088,Full,gDNA
 B*41:01:01:01,15,6,Confirmed,1,1089,Full,gDNA
 B*41:01:01:02,2,1,Confirmed,1,1089,Full,gDNA
 B*41:01:01:03,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -15259,7 +15410,7 @@ B*42:34,1,1,Unconfirmed,1,1089,Full,gDNA
 B*42:35,1,1,Unconfirmed,1,1089,Full,gDNA
 B*42:36,1,1,Unconfirmed,1,1089,Full,gDNA
 B*42:37,1,1,Unconfirmed,1,1089,Full,gDNA
-B*42:38,1,1,Unconfirmed,1,1089,Full,gDNA
+B*42:38,2,2,Confirmed,1,1089,Full,gDNA
 B*42:39,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:02:01:01,6,7,Confirmed,1,1089,Full,gDNA
 B*44:02:01:02S,1,1,Unconfirmed,1,972,Full,gDNA
@@ -15348,13 +15499,14 @@ B*44:02:01:84,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:02:01:85,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:02:01:86,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:02:01:87,1,1,Unconfirmed,1,1089,Full,gDNA
+B*44:02:01:88,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:02:02,3,3,Confirmed,1,1089,Full,gDNA
 B*44:02:03,1,1,Unconfirmed,74,619,Partial,cDNA
-B*44:02:04,1,1,Unconfirmed,74,619,Partial,cDNA
+B*44:02:04,1,2,Confirmed,1,1089,Full,gDNA
 B*44:02:05,3,2,Confirmed,74,954,Partial,cDNA
 B*44:02:06,19,2,Confirmed,1,1089,Full,gDNA
 B*44:02:07,2,1,Confirmed,74,619,Partial,cDNA
-B*44:02:08,1,1,Unconfirmed,74,619,Partial,cDNA
+B*44:02:08,1,2,Confirmed,1,1089,Full,gDNA
 B*44:02:09,4,2,Confirmed,74,1012,Partial,cDNA
 B*44:02:10,4,1,Confirmed,74,619,Partial,cDNA
 B*44:02:11,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -15472,7 +15624,7 @@ B*44:03:01:31,46,1,Confirmed,1,1089,Full,gDNA
 B*44:03:01:32,5,1,Confirmed,1,1089,Full,gDNA
 B*44:03:01:33,2,1,Confirmed,1,1089,Full,gDNA
 B*44:03:01:34,2,2,Confirmed,1,1089,Full,gDNA
-B*44:03:01:35,1,1,Unconfirmed,1,1089,Full,gDNA
+B*44:03:01:35,2,2,Confirmed,1,1089,Full,gDNA
 B*44:03:01:36,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:03:01:37,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:03:01:38,5,1,Confirmed,1,1089,Full,gDNA
@@ -15513,10 +15665,12 @@ B*44:03:01:72,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:03:01:73,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:03:01:74,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:03:01:75,2,1,Confirmed,1,1089,Full,gDNA
-B*44:03:02:01,7,7,Confirmed,1,1089,Full,gDNA
+B*44:03:01:76,1,1,Unconfirmed,1,1089,Full,gDNA
+B*44:03:01:77,1,1,Unconfirmed,1,1089,Full,gDNA
+B*44:03:02:01,6,6,Confirmed,1,1089,Full,gDNA
 B*44:03:02:02,3,1,Confirmed,1,1089,Full,gDNA
 B*44:03:02:03,1,1,Unconfirmed,1,1089,Full,gDNA
-B*44:03:02:04,2,1,Confirmed,1,1089,Full,gDNA
+B*44:03:02:04,3,2,Confirmed,1,1089,Full,gDNA
 B*44:03:02:05,2,1,Confirmed,1,1089,Full,gDNA
 B*44:03:02:06,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:03:03,2,2,Confirmed,1,1089,Full,gDNA
@@ -15589,6 +15743,9 @@ B*44:03:69,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:03:70,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:03:71,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:03:72,1,1,Unconfirmed,1,1089,Full,gDNA
+B*44:03:73,1,1,Unconfirmed,1,1089,Full,gDNA
+B*44:03:74,1,1,Unconfirmed,1,1089,Full,gDNA
+B*44:03:75,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:04,7,6,Confirmed,1,1089,Full,gDNA
 B*44:05:01:01,11,8,Confirmed,1,1089,Full,gDNA
 B*44:05:01:02,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -15654,7 +15811,7 @@ B*44:41:02,1,1,Unconfirmed,74,619,Partial,cDNA
 B*44:42,3,2,Confirmed,1,1089,Full,gDNA
 B*44:43:01,2,1,Confirmed,7,619,Partial,cDNA
 B*44:43:02,1,1,Unconfirmed,74,619,Partial,cDNA
-B*44:44,1,1,Unconfirmed,74,619,Partial,cDNA
+B*44:44,1,2,Confirmed,1,1089,Full,gDNA
 B*44:45,1,1,Unconfirmed,74,619,Partial,cDNA
 B*44:46:01,2,2,Confirmed,1,1089,Full,gDNA
 B*44:46:02,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -15999,7 +16156,8 @@ B*44:353,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:354N,1,1,Unconfirmed,1,1090,Full,gDNA
 B*44:355,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:356,1,1,Unconfirmed,1,1089,Full,gDNA
-B*44:357,1,1,Unconfirmed,1,1089,Full,gDNA
+B*44:357:01,1,1,Unconfirmed,1,1089,Full,gDNA
+B*44:357:02,1,1,Unconfirmed,1,1089,Full,cDNA
 B*44:358,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:359,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:360,2,2,Confirmed,1,1089,Full,gDNA
@@ -16067,6 +16225,12 @@ B*44:421,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:422,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:423,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:424,1,1,Unconfirmed,1,1089,Full,gDNA
+B*44:425,1,1,Unconfirmed,1,1089,Full,gDNA
+B*44:426,1,1,Unconfirmed,1,1089,Full,gDNA
+B*44:427Q,1,1,Unconfirmed,1,1077,Full,gDNA
+B*44:428,1,1,Unconfirmed,1,1089,Full,gDNA
+B*44:429N,1,1,Unconfirmed,1,1089,Full,gDNA
+B*44:430,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:437,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:438N,1,1,Unconfirmed,1,1091,Full,gDNA
 B*44:439,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -16074,7 +16238,8 @@ B*44:440,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:441,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:442,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:443,1,1,Unconfirmed,1,1089,Full,gDNA
-B*44:444,2,1,Confirmed,1,1089,Full,gDNA
+B*44:444:01,2,1,Confirmed,1,1089,Full,gDNA
+B*44:444:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:445,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:446,1,1,Unconfirmed,1,1089,Full,gDNA
 B*44:447,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -16300,7 +16465,7 @@ B*46:06,1,1,Unconfirmed,74,1012,Partial,cDNA
 B*46:07N,1,1,Unconfirmed,74,895,Partial,cDNA
 B*46:08,1,1,Unconfirmed,74,895,Partial,cDNA
 B*46:09,1,1,Unconfirmed,74,619,Partial,cDNA
-B*46:10,1,1,Unconfirmed,74,619,Partial,cDNA
+B*46:10,1,2,Confirmed,1,1089,Full,gDNA
 B*46:11,2,2,Confirmed,1,895,Partial,cDNA
 B*46:12,1,1,Unconfirmed,74,895,Partial,cDNA
 B*46:13:01,1,1,Unconfirmed,74,895,Partial,cDNA
@@ -16399,6 +16564,9 @@ B*46:100,1,1,Unconfirmed,1,1089,Full,gDNA
 B*46:101,1,1,Unconfirmed,1,1089,Full,gDNA
 B*46:102,1,1,Unconfirmed,1,1089,Full,gDNA
 B*46:103,1,1,Unconfirmed,1,1089,Full,gDNA
+B*46:104,1,1,Unconfirmed,74,895,Partial,cDNA
+B*46:105,1,1,Unconfirmed,74,1089,Partial,cDNA
+B*46:106,1,1,Unconfirmed,74,895,Partial,cDNA
 B*47:01:01:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*47:01:01:03,5,6,Confirmed,1,1089,Full,gDNA
 B*47:01:01:04,3,1,Confirmed,1,1089,Full,gDNA
@@ -16422,11 +16590,12 @@ B*47:10,2,1,Confirmed,74,619,Partial,cDNA
 B*47:11,1,1,Unconfirmed,1,1089,Full,gDNA
 B*47:12,1,1,Unconfirmed,1,1089,Full,gDNA
 B*47:13,3,1,Confirmed,1,1089,Full,gDNA
+B*47:14,2,1,Confirmed,1,1089,Full,gDNA
 B*48:01:01:01,5,6,Confirmed,1,1089,Full,gDNA
 B*48:01:01:02,2,2,Confirmed,1,1089,Full,gDNA
 B*48:01:01:03,1,1,Unconfirmed,1,1089,Full,gDNA
 B*48:01:01:04,2,1,Confirmed,1,1089,Full,gDNA
-B*48:01:01:05,1,1,Unconfirmed,1,1089,Full,gDNA
+B*48:01:01:05,2,2,Confirmed,1,1089,Full,gDNA
 B*48:01:01:06,1,1,Unconfirmed,1,1089,Full,gDNA
 B*48:01:01:07,2,1,Confirmed,1,1089,Full,gDNA
 B*48:01:01:08,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -16436,6 +16605,7 @@ B*48:01:01:11,1,1,Unconfirmed,1,1089,Full,gDNA
 B*48:01:01:12,1,1,Unconfirmed,1,1089,Full,gDNA
 B*48:01:01:13,1,1,Unconfirmed,1,1089,Full,gDNA
 B*48:01:01:14,2,1,Confirmed,1,1089,Full,gDNA
+B*48:01:01:15,1,1,Unconfirmed,1,1089,Full,gDNA
 B*48:01:02,1,1,Unconfirmed,74,881,Partial,cDNA
 B*48:01:03,1,1,Unconfirmed,1,1012,Partial,cDNA
 B*48:01:04,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -16459,7 +16629,8 @@ B*48:03:02,5,2,Confirmed,1,1089,Full,gDNA
 B*48:04:01:01,4,4,Confirmed,1,1089,Full,gDNA
 B*48:04:01:02,3,1,Confirmed,1,1089,Full,gDNA
 B*48:04:02,1,1,Unconfirmed,74,619,Partial,cDNA
-B*48:05,4,3,Confirmed,1,1089,Full,gDNA
+B*48:05:01,4,3,Confirmed,1,1089,Full,gDNA
+B*48:05:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*48:06,2,1,Confirmed,1,1089,Full,gDNA
 B*48:07,4,3,Confirmed,1,1089,Full,gDNA
 B*48:08,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -16469,7 +16640,7 @@ B*48:11,1,1,Unconfirmed,74,619,Partial,cDNA
 B*48:12,7,4,Confirmed,1,1089,Full,gDNA
 B*48:13,2,2,Confirmed,1,1089,Full,cDNA
 B*48:14,1,1,Unconfirmed,74,619,Partial,cDNA
-B*48:15,1,1,Unconfirmed,74,619,Partial,cDNA
+B*48:15,1,2,Confirmed,1,1089,Full,gDNA
 B*48:16,1,1,Unconfirmed,74,619,Partial,cDNA
 B*48:17,2,1,Confirmed,74,619,Partial,cDNA
 B*48:18,2,1,Confirmed,74,619,Partial,cDNA
@@ -16663,6 +16834,8 @@ B*49:85,1,1,Unconfirmed,1,1089,Full,gDNA
 B*49:86,1,1,Unconfirmed,1,1089,Full,gDNA
 B*49:87,1,1,Unconfirmed,1,1089,Full,gDNA
 B*49:88,1,1,Unconfirmed,1,1089,Full,gDNA
+B*49:89N,1,1,Unconfirmed,1,1089,Full,gDNA
+B*49:90,1,1,Unconfirmed,1,1089,Full,gDNA
 B*50:01:01:01,6,5,Confirmed,1,1089,Full,gDNA
 B*50:01:01:02,3,1,Confirmed,1,1089,Full,gDNA
 B*50:01:01:03,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -16728,6 +16901,7 @@ B*50:25,1,1,Unconfirmed,1,1089,Full,gDNA
 B*50:26,2,2,Confirmed,1,1089,Full,gDNA
 B*50:27N,1,1,Unconfirmed,1,1087,Full,gDNA
 B*50:28,1,1,Unconfirmed,1,1089,Full,cDNA
+B*50:29,1,1,Unconfirmed,1,1089,Full,gDNA
 B*50:31,3,3,Confirmed,1,1089,Full,gDNA
 B*50:32,1,1,Unconfirmed,74,619,Partial,cDNA
 B*50:33,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -16902,12 +17076,13 @@ B*51:01:01:122,1,1,Unconfirmed,1,1089,Full,gDNA
 B*51:01:01:123,1,1,Unconfirmed,1,1089,Full,gDNA
 B*51:01:01:124,1,1,Unconfirmed,1,1089,Full,gDNA
 B*51:01:01:125,1,1,Unconfirmed,1,1089,Full,gDNA
+B*51:01:01:126,1,1,Unconfirmed,1,1089,Full,gDNA
 B*51:01:02:01,5,4,Confirmed,1,1089,Full,gDNA
 B*51:01:02:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*51:01:03,1,1,Unconfirmed,74,619,Partial,cDNA
 B*51:01:04,3,4,Confirmed,1,1089,Full,gDNA
 B*51:01:05,4,3,Confirmed,1,1089,Full,gDNA
-B*51:01:06,1,1,Unconfirmed,74,619,Partial,cDNA
+B*51:01:06,1,2,Confirmed,1,1089,Full,gDNA
 B*51:01:07,2,2,Confirmed,1,1089,Full,gDNA
 B*51:01:08,1,1,Unconfirmed,74,619,Partial,cDNA
 B*51:01:09,8,2,Confirmed,1,1089,Full,gDNA
@@ -17060,7 +17235,8 @@ B*51:13:02,3,3,Confirmed,1,1089,Full,gDNA
 B*51:14,4,3,Confirmed,1,1089,Full,gDNA
 B*51:15,1,1,Unconfirmed,74,619,Partial,cDNA
 B*51:16,3,3,Confirmed,1,1089,Full,gDNA
-B*51:17,2,2,Confirmed,1,1089,Full,gDNA
+B*51:17:01,2,2,Confirmed,1,1089,Full,gDNA
+B*51:17:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*51:18,1,1,Unconfirmed,74,619,Partial,cDNA
 B*51:19,5,2,Confirmed,1,1089,Full,gDNA
 B*51:20,4,3,Confirmed,1,1089,Full,gDNA
@@ -17109,7 +17285,7 @@ B*51:56:03,1,1,Unconfirmed,1,1089,Full,gDNA
 B*51:57,1,1,Unconfirmed,74,895,Partial,cDNA
 B*51:58,1,1,Unconfirmed,74,619,Partial,cDNA
 B*51:59,1,1,Unconfirmed,1,895,Partial,cDNA
-B*51:60,1,1,Unconfirmed,74,619,Partial,cDNA
+B*51:60,1,2,Confirmed,1,1089,Full,gDNA
 B*51:61:01,4,2,Confirmed,74,895,Partial,cDNA
 B*51:61:02,1,1,Unconfirmed,74,895,Partial,cDNA
 B*51:62,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -17622,7 +17798,8 @@ B*52:26,1,1,Unconfirmed,74,619,Partial,cDNA
 B*52:27,1,1,Unconfirmed,74,619,Partial,cDNA
 B*52:28,1,1,Unconfirmed,74,619,Partial,cDNA
 B*52:29,1,1,Unconfirmed,1,1089,Full,cDNA
-B*52:30,2,2,Confirmed,74,619,Partial,cDNA
+B*52:30:01,2,2,Confirmed,74,619,Partial,cDNA
+B*52:30:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*52:31:01,3,2,Confirmed,1,1089,Full,gDNA
 B*52:31:02,1,1,Unconfirmed,74,619,Partial,cDNA
 B*52:32,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -17783,7 +17960,7 @@ B*53:09,2,2,Confirmed,74,619,Partial,cDNA
 B*53:10,3,2,Confirmed,1,1089,Full,gDNA
 B*53:11,1,1,Unconfirmed,1,1089,Full,gDNA
 B*53:12,1,1,Unconfirmed,74,619,Partial,cDNA
-B*53:13,1,1,Unconfirmed,74,619,Partial,cDNA
+B*53:13,1,2,Confirmed,1,1089,Full,gDNA
 B*53:14,1,1,Unconfirmed,74,895,Partial,cDNA
 B*53:15,2,1,Confirmed,74,619,Partial,cDNA
 B*53:16,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -17854,6 +18031,7 @@ B*53:77,1,1,Unconfirmed,1,1089,Full,gDNA
 B*53:78,1,1,Unconfirmed,1,1089,Full,gDNA
 B*53:79,1,1,Unconfirmed,1,1089,Full,gDNA
 B*53:80N,1,1,Unconfirmed,1,1088,Full,gDNA
+B*53:81N,1,1,Unconfirmed,1,1089,Full,gDNA
 B*54:01:01:01,6,5,Confirmed,1,1089,Full,gDNA
 B*54:01:01:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*54:01:01:03,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -17893,7 +18071,7 @@ B*54:17,1,1,Unconfirmed,1,1089,Full,cDNA
 B*54:18,1,1,Unconfirmed,1,1089,Full,gDNA
 B*54:19,1,1,Unconfirmed,74,619,Partial,cDNA
 B*54:20,1,1,Unconfirmed,74,619,Partial,cDNA
-B*54:21,2,2,Confirmed,1,1089,Full,cDNA
+B*54:21,3,3,Confirmed,1,1089,Full,cDNA
 B*54:22,1,1,Unconfirmed,74,895,Partial,cDNA
 B*54:23,1,1,Unconfirmed,74,619,Partial,cDNA
 B*54:24,1,1,Unconfirmed,74,895,Partial,cDNA
@@ -17988,6 +18166,7 @@ B*55:02:01:06,2,1,Confirmed,1,1089,Full,gDNA
 B*55:02:01:07,2,1,Confirmed,1,1089,Full,gDNA
 B*55:02:01:08,1,1,Unconfirmed,1,1089,Full,gDNA
 B*55:02:01:09,1,1,Unconfirmed,1,1089,Full,gDNA
+B*55:02:01:10,1,1,Unconfirmed,1,1089,Full,gDNA
 B*55:02:02,1,1,Unconfirmed,74,619,Partial,cDNA
 B*55:02:03,4,2,Confirmed,74,895,Partial,cDNA
 B*55:02:04,1,1,Unconfirmed,74,895,Partial,cDNA
@@ -18016,7 +18195,7 @@ B*55:13,1,1,Unconfirmed,74,619,Partial,cDNA
 B*55:14,1,1,Unconfirmed,74,619,Partial,cDNA
 B*55:15,1,1,Unconfirmed,74,619,Partial,cDNA
 B*55:16,1,2,Confirmed,1,619,Partial,cDNA
-B*55:17,2,2,Confirmed,74,619,Partial,cDNA
+B*55:17,2,3,Confirmed,1,1089,Full,gDNA
 B*55:18,3,2,Confirmed,1,1089,Full,gDNA
 B*55:19,1,1,Unconfirmed,74,619,Partial,cDNA
 B*55:20,2,1,Confirmed,1,619,Partial,cDNA
@@ -18140,7 +18319,7 @@ B*55:136,1,1,Unconfirmed,1,1089,Full,gDNA
 B*55:137,1,1,Unconfirmed,1,1089,Full,gDNA
 B*55:138,1,1,Unconfirmed,1,1089,Full,gDNA
 B*55:139,1,1,Unconfirmed,1,1089,Full,gDNA
-B*55:140,1,1,Unconfirmed,1,1089,Full,cDNA
+B*55:140,2,2,Confirmed,1,1089,Full,cDNA
 B*55:141,1,1,Unconfirmed,1,1089,Full,cDNA
 B*55:142,1,1,Unconfirmed,1,1089,Full,gDNA
 B*56:01:01:01,5,4,Confirmed,1,1089,Full,gDNA
@@ -18163,6 +18342,7 @@ B*56:01:01:17,1,1,Unconfirmed,1,1089,Full,gDNA
 B*56:01:01:18,1,1,Unconfirmed,1,1089,Full,gDNA
 B*56:01:01:19,1,1,Unconfirmed,1,1089,Full,gDNA
 B*56:01:01:20,1,1,Unconfirmed,1,1089,Full,gDNA
+B*56:01:01:21,1,1,Unconfirmed,1,1089,Full,gDNA
 B*56:01:02,5,1,Confirmed,74,619,Partial,cDNA
 B*56:01:03,2,1,Confirmed,74,619,Partial,cDNA
 B*56:01:04,9,2,Confirmed,1,1089,Full,gDNA
@@ -18324,7 +18504,7 @@ B*57:01:01:29,1,1,Unconfirmed,1,1089,Full,gDNA
 B*57:01:01:30,1,1,Unconfirmed,1,1089,Full,gDNA
 B*57:01:01:31,1,1,Unconfirmed,1,1089,Full,gDNA
 B*57:01:02,2,2,Confirmed,1,1089,Full,gDNA
-B*57:01:03,1,1,Unconfirmed,74,619,Partial,cDNA
+B*57:01:03,1,2,Confirmed,1,1089,Full,gDNA
 B*57:01:04,1,1,Unconfirmed,74,619,Partial,cDNA
 B*57:01:05,3,1,Confirmed,74,619,Partial,cDNA
 B*57:01:06,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -18398,6 +18578,7 @@ B*57:03:06,1,1,Unconfirmed,1,1089,Full,gDNA
 B*57:03:07,1,1,Unconfirmed,1,1089,Full,gDNA
 B*57:03:08,1,1,Unconfirmed,1,1089,Full,gDNA
 B*57:03:09,1,1,Unconfirmed,1,1089,Full,gDNA
+B*57:03:10,1,1,Unconfirmed,1,1089,Full,gDNA
 B*57:04:01,5,5,Confirmed,1,1089,Full,gDNA
 B*57:04:02,1,1,Unconfirmed,74,619,Partial,cDNA
 B*57:04:03,1,1,Unconfirmed,1,1089,Full,gDNA
@@ -18406,7 +18587,7 @@ B*57:06,1,1,Unconfirmed,1,1089,Full,gDNA
 B*57:07,1,1,Unconfirmed,74,619,Partial,cDNA
 B*57:08,2,2,Confirmed,1,1089,Full,gDNA
 B*57:09,3,2,Confirmed,1,1089,Full,gDNA
-B*57:10,1,1,Unconfirmed,74,619,Partial,cDNA
+B*57:10,1,2,Confirmed,1,1089,Full,gDNA
 B*57:11,3,3,Confirmed,1,1089,Full,gDNA
 B*57:12,2,1,Confirmed,1,1089,Full,gDNA
 B*57:13,3,3,Confirmed,74,619,Partial,cDNA
@@ -18421,8 +18602,8 @@ B*57:20,3,1,Confirmed,74,619,Partial,cDNA
 B*57:21,3,1,Confirmed,74,619,Partial,cDNA
 B*57:22,2,1,Confirmed,74,619,Partial,cDNA
 B*57:23,6,1,Confirmed,74,619,Partial,cDNA
-B*57:24,6,2,Confirmed,74,619,Partial,cDNA
-B*57:25,1,1,Unconfirmed,74,619,Partial,cDNA
+B*57:24,6,3,Confirmed,1,1089,Full,gDNA
+B*57:25,1,2,Confirmed,1,1089,Full,gDNA
 B*57:26,4,1,Confirmed,74,619,Partial,cDNA
 B*57:27,1,1,Unconfirmed,74,619,Partial,cDNA
 B*57:28N,1,1,Unconfirmed,74,895,Partial,cDNA
@@ -18591,6 +18772,9 @@ B*57:188,1,1,Unconfirmed,1,1089,Full,gDNA
 B*57:189,1,1,Unconfirmed,1,1089,Full,gDNA
 B*57:190,2,2,Confirmed,1,1089,Full,gDNA
 B*57:191,1,1,Unconfirmed,1,1089,Full,gDNA
+B*57:192,3,1,Confirmed,1,1089,Full,gDNA
+B*57:193,1,1,Unconfirmed,1,1089,Full,gDNA
+B*57:194,1,1,Unconfirmed,74,619,Partial,cDNA
 B*58:01:01:01,11,9,Confirmed,1,1089,Full,gDNA
 B*58:01:01:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*58:01:01:03,6,2,Confirmed,1,1089,Full,gDNA
@@ -18668,7 +18852,7 @@ B*58:02:01:03,1,1,Unconfirmed,1,1089,Full,gDNA
 B*58:02:02,1,1,Unconfirmed,1,1089,Full,gDNA
 B*58:02:03,1,1,Unconfirmed,1,1089,Full,gDNA
 B*58:02:04,1,1,Unconfirmed,1,1089,Full,gDNA
-B*58:04,2,2,Confirmed,1,619,Partial,cDNA
+B*58:04,2,3,Confirmed,1,1089,Full,gDNA
 B*58:05,1,1,Unconfirmed,74,619,Partial,cDNA
 B*58:06,2,1,Confirmed,74,619,Partial,cDNA
 B*58:07,2,2,Confirmed,74,619,Partial,cDNA
@@ -19081,6 +19265,7 @@ C*01:02:92,1,1,Unconfirmed,1,1101,Full,cDNA
 C*01:02:93,1,1,Unconfirmed,1,1101,Full,gDNA
 C*01:02:94,1,1,Unconfirmed,1,1101,Full,gDNA
 C*01:02:95,1,1,Unconfirmed,1,1101,Full,gDNA
+C*01:02:96,1,1,Unconfirmed,1,1101,Full,gDNA
 C*01:03:01,3,3,Confirmed,1,1101,Full,gDNA
 C*01:03:02,1,1,Unconfirmed,1,1101,Full,gDNA
 C*01:03:03,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -19094,7 +19279,7 @@ C*01:09:01,1,1,Unconfirmed,74,619,Partial,cDNA
 C*01:09:02,1,1,Unconfirmed,1,1101,Full,gDNA
 C*01:10,4,2,Confirmed,1,1101,Full,gDNA
 C*01:11,1,1,Unconfirmed,74,895,Partial,cDNA
-C*01:12:01,2,2,Confirmed,74,619,Partial,cDNA
+C*01:12:01,2,3,Confirmed,1,1101,Full,gDNA
 C*01:12:02,2,2,Confirmed,1,1101,Full,gDNA
 C*01:13,4,1,Confirmed,1,1101,Full,gDNA
 C*01:14,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -19110,9 +19295,9 @@ C*01:22,4,4,Confirmed,1,1101,Full,gDNA
 C*01:23,1,1,Unconfirmed,74,619,Partial,cDNA
 C*01:24,1,1,Unconfirmed,1,1096,Partial,cDNA
 C*01:25,1,1,Unconfirmed,74,895,Partial,cDNA
-C*01:26,1,2,Confirmed,74,619,Partial,cDNA
+C*01:26,1,3,Confirmed,1,1101,Full,gDNA
 C*01:27,7,3,Confirmed,1,1101,Full,gDNA
-C*01:28,1,1,Unconfirmed,74,619,Partial,cDNA
+C*01:28,1,2,Confirmed,1,1101,Full,gDNA
 C*01:29,1,1,Unconfirmed,74,619,Partial,cDNA
 C*01:30,2,2,Confirmed,1,1101,Full,gDNA
 C*01:31,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -19382,6 +19567,10 @@ C*01:281,1,1,Unconfirmed,1,1101,Full,gDNA
 C*01:282,1,1,Unconfirmed,1,1101,Full,gDNA
 C*01:283,1,1,Unconfirmed,1,1101,Full,gDNA
 C*01:284,1,1,Unconfirmed,1,1101,Full,cDNA
+C*01:285Q,1,1,Unconfirmed,1,1101,Full,gDNA
+C*01:286N,1,1,Unconfirmed,1,1100,Full,gDNA
+C*01:287,1,1,Unconfirmed,1,1101,Full,gDNA
+C*01:288,1,1,Unconfirmed,1,1101,Full,gDNA
 C*02:02:01,1,1,Unconfirmed,1,1101,Full,cDNA
 C*02:02:02:01,5,6,Confirmed,1,1101,Full,gDNA
 C*02:02:02:02,4,3,Confirmed,1,1101,Full,gDNA
@@ -19611,7 +19800,8 @@ C*02:27:02,12,2,Confirmed,74,619,Partial,cDNA
 C*02:28,1,1,Unconfirmed,74,619,Partial,cDNA
 C*02:29,3,3,Confirmed,1,1101,Full,gDNA
 C*02:30,4,1,Confirmed,74,619,Partial,cDNA
-C*02:31,6,1,Confirmed,74,619,Partial,cDNA
+C*02:31:01,6,1,Confirmed,74,619,Partial,cDNA
+C*02:31:02,1,1,Unconfirmed,1,1101,Full,gDNA
 C*02:32,4,2,Confirmed,1,1101,Full,gDNA
 C*02:33,1,1,Unconfirmed,74,619,Partial,cDNA
 C*02:34,3,1,Confirmed,74,619,Partial,cDNA
@@ -19892,6 +20082,7 @@ C*03:02:32,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:02:33,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:02:34,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:02:35,1,1,Unconfirmed,1,1101,Full,gDNA
+C*03:02:36,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:03:01:01,8,7,Confirmed,1,1101,Full,gDNA
 C*03:03:01:02,2,1,Confirmed,1,1101,Full,gDNA
 C*03:03:01:03,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -19963,6 +20154,7 @@ C*03:03:01:68,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:03:01:69,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:03:01:70,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:03:01:71,1,1,Unconfirmed,1,1101,Full,gDNA
+C*03:03:01:72,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:03:02,4,2,Confirmed,1,1101,Full,gDNA
 C*03:03:03,1,1,Unconfirmed,74,619,Partial,cDNA
 C*03:03:04,6,3,Confirmed,1,1101,Full,gDNA
@@ -20241,6 +20433,8 @@ C*03:04:111,1,1,Unconfirmed,1,1101,Full,cDNA
 C*03:04:112,1,1,Unconfirmed,1,1101,Full,cDNA
 C*03:04:113,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:04:114,1,1,Unconfirmed,1,1101,Full,gDNA
+C*03:04:115,1,1,Unconfirmed,1,1101,Full,gDNA
+C*03:04:116,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:05:01:01,8,7,Confirmed,1,1101,Full,gDNA
 C*03:05:01:02,2,1,Confirmed,1,1101,Full,gDNA
 C*03:05:01:03,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -20327,7 +20521,7 @@ C*03:57:01,1,1,Unconfirmed,74,619,Partial,cDNA
 C*03:57:02,1,1,Unconfirmed,74,619,Partial,cDNA
 C*03:58,2,1,Confirmed,1,1101,Full,gDNA
 C*03:59,2,2,Confirmed,74,619,Partial,cDNA
-C*03:60,1,1,Unconfirmed,74,619,Partial,cDNA
+C*03:60,1,2,Confirmed,1,1101,Full,gDNA
 C*03:61,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:62,2,1,Confirmed,1,1096,Partial,cDNA
 C*03:63,2,1,Confirmed,74,619,Partial,cDNA
@@ -20355,7 +20549,7 @@ C*03:82,3,2,Confirmed,1,1101,Full,gDNA
 C*03:83,1,1,Unconfirmed,74,619,Partial,cDNA
 C*03:84,2,2,Confirmed,1,1101,Full,gDNA
 C*03:85,4,4,Confirmed,1,1101,Full,gDNA
-C*03:86,3,2,Confirmed,1,1101,Full,gDNA
+C*03:86,4,3,Confirmed,1,1101,Full,gDNA
 C*03:87:01,5,2,Confirmed,1,1101,Full,gDNA
 C*03:87:02,3,2,Confirmed,1,1101,Full,gDNA
 C*03:88,17,3,Confirmed,1,1101,Full,gDNA
@@ -20461,7 +20655,8 @@ C*03:176,3,1,Confirmed,74,619,Partial,cDNA
 C*03:177,1,1,Unconfirmed,74,619,Partial,cDNA
 C*03:178,1,1,Unconfirmed,74,619,Partial,cDNA
 C*03:179,2,2,Confirmed,1,1101,Full,gDNA
-C*03:180,2,2,Confirmed,1,1101,Full,gDNA
+C*03:180:01,2,2,Confirmed,1,1101,Full,gDNA
+C*03:180:02,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:181,1,1,Unconfirmed,74,619,Partial,cDNA
 C*03:182,1,1,Unconfirmed,74,619,Partial,cDNA
 C*03:183,1,1,Unconfirmed,1,895,Partial,cDNA
@@ -20470,7 +20665,7 @@ C*03:184:02,2,2,Confirmed,1,1101,Full,gDNA
 C*03:185,1,1,Unconfirmed,74,619,Partial,cDNA
 C*03:186:01,1,1,Unconfirmed,74,619,Partial,cDNA
 C*03:186:02,1,1,Unconfirmed,74,619,Partial,cDNA
-C*03:187,3,3,Confirmed,1,1101,Full,gDNA
+C*03:187,4,3,Confirmed,1,1101,Full,gDNA
 C*03:188,1,1,Unconfirmed,74,619,Partial,cDNA
 C*03:189N,1,1,Unconfirmed,74,619,Partial,cDNA
 C*03:190,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -20749,7 +20944,7 @@ C*03:452,7,1,Confirmed,1,1101,Full,gDNA
 C*03:453,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:454,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:455,1,1,Unconfirmed,1,1101,Full,gDNA
-C*03:456,1,1,Unconfirmed,1,1101,Full,gDNA
+C*03:456,2,2,Confirmed,1,1101,Full,gDNA
 C*03:457,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:458,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:459,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -20941,7 +21136,8 @@ C*03:638,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:639,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:640,2,1,Confirmed,1,1101,Full,gDNA
 C*03:641,1,1,Unconfirmed,1,1101,Full,cDNA
-C*03:642,1,1,Unconfirmed,1,1101,Full,gDNA
+C*03:642:01,1,1,Unconfirmed,1,1101,Full,gDNA
+C*03:642:02,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:643N,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:644,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:645,2,2,Confirmed,1,1101,Full,gDNA
@@ -20992,17 +21188,27 @@ C*03:689,2,2,Confirmed,1,1048,Partial,cDNA
 C*03:690,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:691,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:692,1,1,Unconfirmed,1,1101,Full,gDNA
-C*03:693,1,1,Unconfirmed,1,1101,Full,gDNA
+C*03:693,2,2,Confirmed,1,1101,Full,gDNA
 C*03:694,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:695,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:696,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:697N,1,1,Unconfirmed,1,1101,Full,gDNA
-C*03:698,1,1,Unconfirmed,1,1101,Full,gDNA
+C*03:698,2,1,Confirmed,1,1101,Full,gDNA
 C*03:699,2,1,Confirmed,1,1101,Full,gDNA
 C*03:700,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:701,1,1,Unconfirmed,1,1101,Full,gDNA
 C*03:702,1,1,Unconfirmed,1,1101,Full,cDNA
 C*03:703,1,1,Unconfirmed,1,1101,Full,cDNA
+C*03:704,1,1,Unconfirmed,1,1101,Full,gDNA
+C*03:705,1,1,Unconfirmed,1,1101,Full,gDNA
+C*03:706N,1,1,Unconfirmed,1,1101,Full,gDNA
+C*03:707,1,1,Unconfirmed,74,1048,Partial,cDNA
+C*03:708,1,1,Unconfirmed,1,1101,Full,gDNA
+C*03:709N,1,1,Unconfirmed,1,1099,Full,gDNA
+C*03:710,1,1,Unconfirmed,1,1101,Full,gDNA
+C*03:711,1,1,Unconfirmed,74,895,Partial,cDNA
+C*03:712,1,1,Unconfirmed,74,1048,Partial,cDNA
+C*03:713,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:01:01:01,11,10,Confirmed,1,1101,Full,gDNA
 C*04:01:01:02,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:01:01:03,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -21196,6 +21402,7 @@ C*04:01:01:191,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:01:01:192,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:01:01:193,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:01:01:194Q,1,1,Unconfirmed,1,1101,Full,gDNA
+C*04:01:01:195,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:01:02,1,1,Unconfirmed,74,619,Partial,cDNA
 C*04:01:03,2,2,Confirmed,1,1101,Full,gDNA
 C*04:01:04,3,2,Confirmed,74,619,Partial,cDNA
@@ -21205,7 +21412,7 @@ C*04:01:07,1,1,Unconfirmed,74,619,Partial,cDNA
 C*04:01:08,21,4,Confirmed,1,1101,Full,gDNA
 C*04:01:09,6,1,Confirmed,74,619,Partial,cDNA
 C*04:01:10,27,3,Confirmed,1,1101,Full,gDNA
-C*04:01:11,2,2,Confirmed,74,1096,Partial,cDNA
+C*04:01:11,3,3,Confirmed,1,1101,Full,gDNA
 C*04:01:12,2,1,Confirmed,74,619,Partial,cDNA
 C*04:01:13,15,1,Confirmed,74,619,Partial,cDNA
 C*04:01:14,3,2,Confirmed,74,619,Partial,cDNA
@@ -21386,6 +21593,7 @@ C*04:03:08,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:03:09,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:03:10,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:03:11,1,1,Unconfirmed,1,1101,Full,cDNA
+C*04:03:12,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:04:01:01,8,5,Confirmed,1,1101,Full,gDNA
 C*04:04:01:02,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:04:02,4,2,Confirmed,1,1101,Full,gDNA
@@ -21407,7 +21615,7 @@ C*04:15:01,1,1,Unconfirmed,74,619,Partial,cDNA
 C*04:15:02,6,2,Confirmed,1,1101,Full,gDNA
 C*04:15:03,1,1,Unconfirmed,74,619,Partial,cDNA
 C*04:16,3,1,Confirmed,1,619,Partial,cDNA
-C*04:17,1,1,Unconfirmed,74,619,Partial,cDNA
+C*04:17,1,2,Confirmed,1,1101,Full,gDNA
 C*04:18,1,1,Unconfirmed,74,619,Partial,cDNA
 C*04:19,5,3,Confirmed,1,1101,Full,gDNA
 C*04:20,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -21949,7 +22157,7 @@ C*04:527,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:528,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:529,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:530,1,1,Unconfirmed,1,1101,Full,gDNA
-C*04:531,1,1,Unconfirmed,1,1048,Partial,cDNA
+C*04:531,2,2,Confirmed,1,1101,Full,gDNA
 C*04:532,2,2,Confirmed,1,1101,Full,gDNA
 C*04:533,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:534,1,1,Unconfirmed,1,1101,Full,cDNA
@@ -21958,6 +22166,14 @@ C*04:536,1,1,Unconfirmed,1,1048,Partial,cDNA
 C*04:537,1,1,Unconfirmed,1,1048,Partial,cDNA
 C*04:538,1,1,Unconfirmed,1,1101,Full,gDNA
 C*04:539,1,1,Unconfirmed,74,619,Partial,cDNA
+C*04:540,1,1,Unconfirmed,1,1101,Full,gDNA
+C*04:541,1,1,Unconfirmed,1,1101,Full,gDNA
+C*04:542N,1,1,Unconfirmed,74,1046,Partial,cDNA
+C*04:543,1,1,Unconfirmed,1,1101,Full,gDNA
+C*04:544,1,1,Unconfirmed,1,1101,Full,gDNA
+C*04:545,1,1,Unconfirmed,1,1101,Full,gDNA
+C*04:546,1,1,Unconfirmed,1,1101,Full,gDNA
+C*04:547,1,1,Unconfirmed,1,1101,Full,gDNA
 C*05:01:01:01,4,8,Confirmed,1,1101,Full,gDNA
 C*05:01:01:02,7,5,Confirmed,1,1101,Full,gDNA
 C*05:01:01:03,3,3,Confirmed,1,1101,Full,gDNA
@@ -22026,7 +22242,7 @@ C*05:01:01:65,1,1,Unconfirmed,1,1101,Full,gDNA
 C*05:01:01:66,2,1,Confirmed,1,1101,Full,gDNA
 C*05:01:01:67,1,1,Unconfirmed,1,1101,Full,gDNA
 C*05:01:01:68,6,1,Confirmed,1,1101,Full,gDNA
-C*05:01:01:69,1,1,Unconfirmed,1,1101,Full,gDNA
+C*05:01:01:69,2,1,Confirmed,1,1101,Full,gDNA
 C*05:01:01:70,1,1,Unconfirmed,1,1101,Full,gDNA
 C*05:01:01:71,1,1,Unconfirmed,1,1101,Full,gDNA
 C*05:01:01:72,2,1,Confirmed,1,1101,Full,gDNA
@@ -22051,6 +22267,7 @@ C*05:01:01:90,1,1,Unconfirmed,1,1101,Full,gDNA
 C*05:01:01:91,1,1,Unconfirmed,1,1101,Full,gDNA
 C*05:01:01:92,1,1,Unconfirmed,1,1101,Full,gDNA
 C*05:01:01:93,1,1,Unconfirmed,1,1101,Full,gDNA
+C*05:01:01:94,1,1,Unconfirmed,1,1101,Full,gDNA
 C*05:01:02,3,2,Confirmed,1,1101,Full,gDNA
 C*05:01:03,2,2,Confirmed,1,1101,Full,gDNA
 C*05:01:04,1,1,Unconfirmed,1,1096,Partial,cDNA
@@ -22179,7 +22396,7 @@ C*05:33,2,1,Confirmed,74,619,Partial,cDNA
 C*05:34,11,1,Confirmed,74,619,Partial,cDNA
 C*05:35,6,2,Confirmed,1,1101,Full,gDNA
 C*05:36,10,2,Confirmed,1,1101,Full,gDNA
-C*05:37,4,4,Confirmed,1,1101,Full,gDNA
+C*05:37,5,5,Confirmed,1,1101,Full,gDNA
 C*05:38,1,1,Unconfirmed,74,619,Partial,cDNA
 C*05:39,10,2,Confirmed,1,1101,Full,gDNA
 C*05:40,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -22565,6 +22782,8 @@ C*06:02:01:100,1,1,Unconfirmed,1,1101,Full,gDNA
 C*06:02:01:101Q,1,1,Unconfirmed,1,1101,Full,gDNA
 C*06:02:01:102,2,1,Confirmed,1,1101,Full,gDNA
 C*06:02:01:103,1,1,Unconfirmed,1,1101,Full,gDNA
+C*06:02:01:104Q,1,1,Unconfirmed,1,1101,Full,gDNA
+C*06:02:01:105,1,1,Unconfirmed,1,1101,Full,gDNA
 C*06:02:03,3,2,Confirmed,1,1101,Full,gDNA
 C*06:02:04,3,1,Confirmed,74,619,Partial,cDNA
 C*06:02:05,5,1,Confirmed,74,619,Partial,cDNA
@@ -22685,6 +22904,7 @@ C*06:02:117,1,1,Unconfirmed,1,1101,Full,gDNA
 C*06:02:118,1,1,Unconfirmed,1,1101,Full,gDNA
 C*06:02:119,1,1,Unconfirmed,1,1101,Full,gDNA
 C*06:02:120,1,1,Unconfirmed,1,1101,Full,gDNA
+C*06:02:121,1,1,Unconfirmed,1,1101,Full,gDNA
 C*06:03:01,1,1,Unconfirmed,74,619,Partial,cDNA
 C*06:03:02,6,3,Confirmed,1,1101,Full,gDNA
 C*06:04:01,4,3,Confirmed,1,1101,Full,gDNA
@@ -22720,7 +22940,7 @@ C*06:29,1,1,Unconfirmed,74,895,Partial,cDNA
 C*06:30:01:01,19,3,Confirmed,1,1101,Full,gDNA
 C*06:30:01:02,1,1,Unconfirmed,1,1101,Full,gDNA
 C*06:31,1,1,Unconfirmed,74,619,Partial,cDNA
-C*06:32,4,2,Confirmed,74,619,Partial,cDNA
+C*06:32,4,3,Confirmed,1,1101,Full,gDNA
 C*06:33,3,1,Confirmed,74,619,Partial,cDNA
 C*06:34:01,5,1,Confirmed,74,619,Partial,cDNA
 C*06:34:02,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -23109,7 +23329,9 @@ C*06:395,1,1,Unconfirmed,1,1101,Full,cDNA
 C*06:396Q,1,1,Unconfirmed,1,1092,Full,gDNA
 C*06:397,1,1,Unconfirmed,1,1101,Full,gDNA
 C*06:398,1,1,Unconfirmed,1,1101,Full,gDNA
-C*06:399,1,1,Unconfirmed,1,1101,Full,gDNA
+C*06:399,2,1,Confirmed,1,1101,Full,gDNA
+C*06:400Q,1,1,Unconfirmed,1,1098,Full,gDNA
+C*06:401Q,1,1,Unconfirmed,74,1051,Partial,cDNA
 C*07:01:01:01,10,10,Confirmed,1,1101,Full,gDNA
 C*07:01:01:02,2,2,Confirmed,1,1101,Full,gDNA
 C*07:01:01:03,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -23254,6 +23476,8 @@ C*07:01:01:141,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:01:01:142,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:01:01:143,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:01:01:144,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:01:01:145,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:01:01:146,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:01:02:01,6,4,Confirmed,1,1101,Full,gDNA
 C*07:01:02:02,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:01:02:03,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -23270,6 +23494,7 @@ C*07:01:02:13,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:01:02:14,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:01:02:15,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:01:02:16,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:01:02:17,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:01:04,1,1,Unconfirmed,74,619,Partial,cDNA
 C*07:01:05,6,4,Confirmed,1,1101,Full,gDNA
 C*07:01:06,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -23395,6 +23620,7 @@ C*07:01:125,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:01:126,2,2,Confirmed,1,1101,Full,gDNA
 C*07:01:127,1,1,Unconfirmed,1,1096,Partial,cDNA
 C*07:01:128,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:01:129,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:02:01:01,9,8,Confirmed,1,1101,Full,gDNA
 C*07:02:01:02,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:02:01:03,10,10,Confirmed,1,1101,Full,gDNA
@@ -23765,6 +23991,8 @@ C*07:02:159,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:02:160,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:02:161,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:02:162,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:02:163,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:02:164,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:03,0,1,Unconfirmed,74,1101,Partial,cDNA
 C*07:04:01:01,8,8,Confirmed,1,1101,Full,gDNA
 C*07:04:01:02,2,1,Confirmed,1,1101,Full,gDNA
@@ -23944,7 +24172,7 @@ C*07:69,1,2,Confirmed,74,619,Partial,cDNA
 C*07:70,2,2,Confirmed,1,1101,Full,gDNA
 C*07:71,2,1,Confirmed,1,1101,Full,gDNA
 C*07:72,6,2,Confirmed,1,1101,Full,gDNA
-C*07:73:01,4,3,Confirmed,74,619,Partial,cDNA
+C*07:73:01,4,4,Confirmed,1,1101,Full,gDNA
 C*07:73:02,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:74:01,1,1,Unconfirmed,74,895,Partial,cDNA
 C*07:74:02,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -24027,7 +24255,7 @@ C*07:138,1,1,Unconfirmed,74,619,Partial,cDNA
 C*07:139,1,1,Unconfirmed,74,619,Partial,cDNA
 C*07:140:01,2,1,Confirmed,74,619,Partial,cDNA
 C*07:140:02,2,2,Confirmed,1,1101,Full,gDNA
-C*07:141:01,3,2,Confirmed,74,619,Partial,cDNA
+C*07:141:01,3,3,Confirmed,1,1101,Full,gDNA
 C*07:141:02,3,3,Confirmed,1,1101,Full,gDNA
 C*07:141:03,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:142,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -24562,7 +24790,8 @@ C*07:637,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:638,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:639:01:01,7,4,Confirmed,1,1101,Full,gDNA
 C*07:639:01:02,1,1,Unconfirmed,1,1101,Full,gDNA
-C*07:640,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:640:01,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:640:02,1,1,Unconfirmed,74,619,Partial,cDNA
 C*07:641,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:642,2,1,Confirmed,1,1101,Full,gDNA
 C*07:643,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -24679,7 +24908,8 @@ C*07:744,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:745N,2,1,Confirmed,1,1099,Full,gDNA
 C*07:746N,1,1,Unconfirmed,1,1094,Full,gDNA
 C*07:747N,1,1,Unconfirmed,1,1099,Full,gDNA
-C*07:748,2,1,Confirmed,1,1101,Full,gDNA
+C*07:748:01,2,1,Confirmed,1,1101,Full,gDNA
+C*07:748:02,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:749N,1,1,Unconfirmed,74,618,Partial,cDNA
 C*07:750N,1,1,Unconfirmed,74,620,Partial,cDNA
 C*07:751N,1,1,Unconfirmed,1,1102,Full,gDNA
@@ -24937,7 +25167,7 @@ C*07:993:02,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:994,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:995,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:996,1,1,Unconfirmed,1,1101,Full,gDNA
-C*07:997,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:997,2,2,Confirmed,1,1101,Full,gDNA
 C*07:998,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:999,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:1000,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -25102,7 +25332,7 @@ C*07:1155N,1,1,Unconfirmed,1,1100,Full,gDNA
 C*07:1156,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:1157,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:1158,1,1,Unconfirmed,1,1101,Full,gDNA
-C*07:1159,1,1,Unconfirmed,1,1101,Full,cDNA
+C*07:1159,2,2,Confirmed,1,1101,Full,gDNA
 C*07:1160Q,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:1161,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:1162,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -25117,6 +25347,20 @@ C*07:1170,1,1,Unconfirmed,1,1101,Full,gDNA
 C*07:1171,1,1,Unconfirmed,74,619,Partial,cDNA
 C*07:1172,1,1,Unconfirmed,1,1048,Partial,cDNA
 C*07:1173,1,1,Unconfirmed,1,1101,Full,cDNA
+C*07:1174,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:1175,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:1176,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:1177,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:1178,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:1179,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:1180,1,1,Unconfirmed,1,1096,Partial,cDNA
+C*07:1181,1,1,Unconfirmed,74,1015,Partial,cDNA
+C*07:1182,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:1183,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:1184,1,1,Unconfirmed,1,1101,Full,cDNA
+C*07:1185,1,1,Unconfirmed,1,1096,Partial,cDNA
+C*07:1186,1,1,Unconfirmed,1,1101,Full,gDNA
+C*07:1187,1,1,Unconfirmed,1,1101,Full,cDNA
 C*08:01:01:01,7,7,Confirmed,1,1101,Full,gDNA
 C*08:01:01:02,1,1,Unconfirmed,1,1101,Full,gDNA
 C*08:01:01:03,11,2,Confirmed,1,1101,Full,gDNA
@@ -25304,6 +25548,7 @@ C*08:20,2,2,Confirmed,1,1101,Full,gDNA
 C*08:21,2,2,Confirmed,1,1101,Full,gDNA
 C*08:22:01:01,2,2,Confirmed,1,1101,Full,gDNA
 C*08:22:01:02,1,1,Unconfirmed,1,1101,Full,gDNA
+C*08:22:01:03,1,1,Unconfirmed,1,1101,Full,gDNA
 C*08:22:02,2,2,Confirmed,1,1096,Partial,cDNA
 C*08:22:03,1,1,Unconfirmed,1,1101,Full,cDNA
 C*08:23,2,2,Confirmed,1,1101,Full,gDNA
@@ -25451,7 +25696,7 @@ C*08:156,1,1,Unconfirmed,74,619,Partial,cDNA
 C*08:157,1,1,Unconfirmed,74,619,Partial,cDNA
 C*08:158,1,1,Unconfirmed,74,619,Partial,cDNA
 C*08:159,1,1,Unconfirmed,1,1101,Full,cDNA
-C*08:160,1,1,Unconfirmed,74,895,Partial,cDNA
+C*08:160,2,1,Confirmed,1,1101,Full,gDNA
 C*08:161N,3,2,Confirmed,1,1132,Full,gDNA
 C*08:162,1,1,Unconfirmed,1,1101,Full,gDNA
 C*08:163,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -25583,7 +25828,7 @@ C*08:286,1,1,Unconfirmed,1,1101,Full,gDNA
 C*08:287,1,1,Unconfirmed,1,1048,Partial,cDNA
 C*08:288,1,1,Unconfirmed,1,1101,Full,gDNA
 C*08:289,1,1,Unconfirmed,1,1101,Full,gDNA
-C*08:290,1,1,Unconfirmed,1,1101,Full,gDNA
+C*08:290,2,2,Confirmed,1,1101,Full,gDNA
 C*08:291,1,1,Unconfirmed,1,1101,Full,gDNA
 C*08:292Q,1,1,Unconfirmed,1,1092,Full,gDNA
 C*08:293,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -25594,6 +25839,11 @@ C*08:297,1,1,Unconfirmed,1,1101,Full,gDNA
 C*08:298,1,1,Unconfirmed,1,1101,Full,gDNA
 C*08:299,1,1,Unconfirmed,74,895,Partial,cDNA
 C*08:300,1,1,Unconfirmed,1,1101,Full,gDNA
+C*08:301,1,1,Unconfirmed,1,1015,Partial,cDNA
+C*08:302N,1,1,Unconfirmed,1,1101,Full,gDNA
+C*08:303N,1,1,Unconfirmed,1,1100,Full,gDNA
+C*08:304,1,1,Unconfirmed,1,1101,Full,gDNA
+C*08:305Q,1,1,Unconfirmed,74,1048,Partial,cDNA
 C*12:02:01,1,1,Unconfirmed,1,1101,Full,cDNA
 C*12:02:02:01,9,8,Confirmed,1,1101,Full,gDNA
 C*12:02:02:02,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -25842,6 +26092,9 @@ C*12:03:90,1,1,Unconfirmed,1,1101,Full,gDNA
 C*12:03:91,1,1,Unconfirmed,1,1101,Full,gDNA
 C*12:03:92,1,1,Unconfirmed,1,1101,Full,gDNA
 C*12:03:93,1,1,Unconfirmed,1,1101,Full,gDNA
+C*12:03:94,1,1,Unconfirmed,1,1101,Full,gDNA
+C*12:03:95,1,1,Unconfirmed,1,1101,Full,gDNA
+C*12:03:96,1,1,Unconfirmed,1,1101,Full,gDNA
 C*12:04:01,1,1,Unconfirmed,1,681,Partial,cDNA
 C*12:04:02:01,5,5,Confirmed,1,1101,Full,gDNA
 C*12:04:02:02,3,1,Confirmed,1,1101,Full,gDNA
@@ -26289,6 +26542,9 @@ C*12:427,1,1,Unconfirmed,1,1101,Full,gDNA
 C*12:428N,1,1,Unconfirmed,1,1101,Full,gDNA
 C*12:429,1,1,Unconfirmed,74,619,Partial,cDNA
 C*12:430,1,1,Unconfirmed,1,1101,Full,gDNA
+C*12:431,1,1,Unconfirmed,1,1101,Full,gDNA
+C*12:432N,1,1,Unconfirmed,1,1101,Full,gDNA
+C*12:433,1,1,Unconfirmed,1,1101,Full,gDNA
 C*14:02:01:01,8,10,Confirmed,1,1101,Full,gDNA
 C*14:02:01:02,5,4,Confirmed,1,1101,Full,gDNA
 C*14:02:01:03,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -26542,6 +26798,8 @@ C*14:165,1,1,Unconfirmed,1,1101,Full,cDNA
 C*14:166,1,1,Unconfirmed,1,1101,Full,cDNA
 C*14:167,1,1,Unconfirmed,1,1101,Full,gDNA
 C*14:168,1,1,Unconfirmed,1,1101,Full,cDNA
+C*14:169,1,1,Unconfirmed,74,619,Partial,cDNA
+C*14:170,1,1,Unconfirmed,1,1101,Full,gDNA
 C*15:02:01:01,9,8,Confirmed,1,1101,Full,gDNA
 C*15:02:01:02,4,2,Confirmed,1,1101,Full,gDNA
 C*15:02:01:03,2,2,Confirmed,1,1101,Full,gDNA
@@ -26678,6 +26936,7 @@ C*15:02:63,1,1,Unconfirmed,1,1101,Full,cDNA
 C*15:02:64,1,1,Unconfirmed,1,1101,Full,gDNA
 C*15:02:65,1,1,Unconfirmed,1,1101,Full,gDNA
 C*15:02:66,1,1,Unconfirmed,1,1101,Full,gDNA
+C*15:02:67,1,1,Unconfirmed,1,1101,Full,gDNA
 C*15:03,2,2,Confirmed,1,1101,Full,gDNA
 C*15:04:01:01,6,6,Confirmed,1,1101,Full,gDNA
 C*15:04:01:02,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -27031,6 +27290,8 @@ C*15:288,1,1,Unconfirmed,1,1101,Full,gDNA
 C*15:289,1,1,Unconfirmed,1,1048,Partial,cDNA
 C*15:290,1,1,Unconfirmed,1,1101,Full,gDNA
 C*15:291N,1,1,Unconfirmed,1,1101,Full,gDNA
+C*15:292,1,1,Unconfirmed,1,1015,Partial,cDNA
+C*15:293,1,1,Unconfirmed,1,1101,Full,gDNA
 C*16:01:01:01,6,7,Confirmed,1,1101,Full,gDNA
 C*16:01:01:02,2,2,Confirmed,1,1101,Full,gDNA
 C*16:01:01:03,1,1,Unconfirmed,1,1101,Full,gDNA
@@ -27073,6 +27334,7 @@ C*16:01:01:39,1,1,Unconfirmed,1,1101,Full,gDNA
 C*16:01:01:40,1,1,Unconfirmed,1,1101,Full,gDNA
 C*16:01:01:41,1,1,Unconfirmed,1,1101,Full,gDNA
 C*16:01:01:42Q,1,1,Unconfirmed,1,1101,Full,gDNA
+C*16:01:01:43,1,1,Unconfirmed,1,1101,Full,gDNA
 C*16:01:02,1,1,Unconfirmed,1,619,Partial,cDNA
 C*16:01:03,3,1,Confirmed,74,619,Partial,cDNA
 C*16:01:04,19,2,Confirmed,1,1101,Full,gDNA
@@ -27383,6 +27645,11 @@ C*16:222,1,1,Unconfirmed,1,1101,Full,gDNA
 C*16:223,1,1,Unconfirmed,1,1101,Full,gDNA
 C*16:224,1,1,Unconfirmed,1,1101,Full,gDNA
 C*16:225,1,1,Unconfirmed,1,1101,Full,gDNA
+C*16:226,1,1,Unconfirmed,1,1101,Full,gDNA
+C*16:227,1,1,Unconfirmed,1,1101,Full,gDNA
+C*16:228,1,1,Unconfirmed,1,1101,Full,gDNA
+C*16:229N,1,1,Unconfirmed,1,1087,Full,gDNA
+C*16:230,1,1,Unconfirmed,1,1101,Full,gDNA
 C*17:01:01:02,6,9,Confirmed,1,1119,Full,gDNA
 C*17:01:01:03,1,1,Unconfirmed,1,1119,Full,gDNA
 C*17:01:01:04,2,1,Confirmed,1,1119,Full,gDNA
@@ -27444,10 +27711,13 @@ C*17:03:01:07,1,1,Unconfirmed,1,1119,Full,gDNA
 C*17:03:01:08,1,1,Unconfirmed,1,1119,Full,gDNA
 C*17:03:01:09,1,1,Unconfirmed,1,1119,Full,gDNA
 C*17:03:01:10,1,1,Unconfirmed,1,1119,Full,gDNA
+C*17:03:01:11,1,1,Unconfirmed,1,1119,Full,gDNA
+C*17:03:01:12,1,1,Unconfirmed,1,1119,Full,gDNA
 C*17:03:02,1,1,Unconfirmed,1,1119,Full,gDNA
 C*17:03:03,2,1,Confirmed,1,1119,Full,gDNA
 C*17:03:04,1,1,Unconfirmed,1,1119,Full,gDNA
 C*17:03:05,1,1,Unconfirmed,1,1119,Full,gDNA
+C*17:03:06,1,1,Unconfirmed,1,1119,Full,gDNA
 C*17:04,4,1,Confirmed,1,1119,Full,gDNA
 C*17:05,1,1,Unconfirmed,1,1119,Full,cDNA
 C*17:06,1,1,Unconfirmed,74,619,Partial,cDNA
@@ -27674,6 +27944,7 @@ E*01:01:42,2,1,Confirmed,1,1077,Full,gDNA
 E*01:01:43,1,1,Unconfirmed,1,1077,Full,gDNA
 E*01:01:44,1,1,Unconfirmed,1,1077,Full,cDNA
 E*01:01:45,1,1,Unconfirmed,1,1077,Full,gDNA
+E*01:01:46,1,1,Unconfirmed,1,1077,Full,cDNA
 E*01:03:01:01,12,7,Confirmed,1,1077,Full,gDNA
 E*01:03:01:02,6,3,Confirmed,1,1077,Full,gDNA
 E*01:03:01:03,1,1,Unconfirmed,1,1077,Full,gDNA
@@ -27940,6 +28211,7 @@ E*01:148,1,1,Unconfirmed,1,1077,Full,gDNA
 E*01:149,1,1,Unconfirmed,1,1077,Full,gDNA
 E*01:150,1,1,Unconfirmed,1,1078,Full,gDNA
 E*01:151,1,1,Unconfirmed,1,1077,Full,cDNA
+E*01:152,1,1,Unconfirmed,1,1077,Full,gDNA
 F*01:01:01:01,7,4,Confirmed,1,1041,Full,gDNA
 F*01:01:01:02,1,1,Unconfirmed,1,1041,Full,gDNA
 F*01:01:01:03,5,1,Confirmed,1,1041,Full,gDNA
@@ -28014,6 +28286,7 @@ F*01:01:02:13,8,1,Confirmed,1,1041,Full,gDNA
 F*01:01:02:14,1,1,Unconfirmed,1,1041,Full,gDNA
 F*01:01:02:15,1,1,Unconfirmed,1,1041,Full,gDNA
 F*01:01:02:16,1,1,Unconfirmed,1,1041,Full,gDNA
+F*01:01:02:17,1,1,Unconfirmed,1,1041,Full,gDNA
 F*01:01:04,2,2,Confirmed,1,1041,Full,gDNA
 F*01:01:05,4,3,Confirmed,1,1041,Full,gDNA
 F*01:01:06,6,3,Confirmed,1,1041,Full,gDNA
@@ -28093,6 +28366,7 @@ G*01:01:01:35,1,1,Unconfirmed,1,1017,Full,gDNA
 G*01:01:01:36,1,1,Unconfirmed,1,1017,Full,gDNA
 G*01:01:01:37,1,1,Unconfirmed,1,1017,Full,gDNA
 G*01:01:01:38,1,1,Unconfirmed,1,1017,Full,gDNA
+G*01:01:01:39,1,1,Unconfirmed,1,1017,Full,gDNA
 G*01:01:02:01,19,11,Confirmed,1,1017,Full,gDNA
 G*01:01:02:02,3,1,Confirmed,1,1017,Full,gDNA
 G*01:01:02:03,1,1,Unconfirmed,1,1017,Full,gDNA
@@ -28453,6 +28727,7 @@ DRA*01:01:04,2,1,Confirmed,1,765,Full,gDNA
 DRA*01:01:05,1,1,Unconfirmed,1,765,Full,gDNA
 DRA*01:01:06,1,1,Unconfirmed,1,765,Full,gDNA
 DRA*01:01:07,1,1,Unconfirmed,1,765,Full,gDNA
+DRA*01:01:08,1,1,Unconfirmed,1,765,Full,gDNA
 DRA*01:02:01,1,2,Confirmed,83,765,Partial,cDNA
 DRA*01:02:02:01,3,2,Confirmed,1,765,Full,gDNA
 DRA*01:02:02:02,1,1,Unconfirmed,1,765,Full,gDNA
@@ -28492,6 +28767,7 @@ DRA*01:14,1,1,Unconfirmed,1,765,Full,gDNA
 DRA*01:15,1,1,Unconfirmed,1,765,Full,gDNA
 DRA*01:16,1,1,Unconfirmed,1,765,Full,gDNA
 DRA*01:17,1,1,Unconfirmed,1,765,Full,gDNA
+DRA*01:18,1,1,Unconfirmed,1,765,Full,gDNA
 DRB1*01:01:01:01,13,7,Confirmed,1,801,Full,gDNA
 DRB1*01:01:01:02,3,2,Confirmed,1,801,Full,gDNA
 DRB1*01:01:01:03,1,1,Unconfirmed,1,801,Full,gDNA
@@ -28743,6 +29019,7 @@ DRB1*01:152,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*01:153,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*01:154,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*01:155,1,1,Unconfirmed,1,801,Full,cDNA
+DRB1*01:156,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*03:01:01:01,22,13,Confirmed,1,801,Full,gDNA
 DRB1*03:01:01:02,4,3,Confirmed,1,801,Full,gDNA
 DRB1*03:01:01:03,5,3,Confirmed,1,801,Full,gDNA
@@ -28770,6 +29047,7 @@ DRB1*03:01:01:24,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*03:01:01:25,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*03:01:01:26,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*03:01:01:27,1,1,Unconfirmed,1,801,Full,gDNA
+DRB1*03:01:01:28,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*03:01:02:01,4,4,Confirmed,1,801,Full,gDNA
 DRB1*03:01:02:02,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*03:01:03,1,1,Unconfirmed,101,370,Partial,cDNA
@@ -28846,7 +29124,7 @@ DRB1*03:15:02,2,2,Confirmed,101,787,Partial,cDNA
 DRB1*03:16,2,2,Confirmed,101,637,Partial,cDNA
 DRB1*03:17,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*03:18,2,2,Confirmed,101,801,Partial,cDNA
-DRB1*03:19,2,1,Confirmed,101,370,Partial,cDNA
+DRB1*03:19,3,2,Confirmed,1,801,Full,gDNA
 DRB1*03:20,2,2,Confirmed,101,370,Partial,cDNA
 DRB1*03:21,1,1,Unconfirmed,103,369,Partial,cDNA
 DRB1*03:22,3,2,Confirmed,101,370,Partial,cDNA
@@ -29052,6 +29330,10 @@ DRB1*03:215,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*03:216,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*03:217,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*03:218N,1,1,Unconfirmed,101,657,Partial,cDNA
+DRB1*03:219,1,1,Unconfirmed,101,763,Partial,cDNA
+DRB1*03:220,1,1,Unconfirmed,101,801,Partial,cDNA
+DRB1*03:221,1,1,Unconfirmed,1,801,Full,cDNA
+DRB1*03:222,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*04:01:01:01,10,6,Confirmed,1,801,Full,gDNA
 DRB1*04:01:01:02,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*04:01:01:03,1,1,Unconfirmed,1,801,Full,gDNA
@@ -29326,7 +29608,7 @@ DRB1*04:86,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*04:87,2,1,Confirmed,101,370,Partial,cDNA
 DRB1*04:88,8,1,Confirmed,101,370,Partial,cDNA
 DRB1*04:89,2,1,Confirmed,101,370,Partial,cDNA
-DRB1*04:90,2,2,Confirmed,101,370,Partial,cDNA
+DRB1*04:90,3,3,Confirmed,1,801,Full,gDNA
 DRB1*04:91,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*04:92,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*04:93,1,1,Unconfirmed,101,370,Partial,cDNA
@@ -29412,7 +29694,8 @@ DRB1*04:167,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*04:168,2,1,Confirmed,101,370,Partial,cDNA
 DRB1*04:169,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*04:170,1,1,Unconfirmed,101,370,Partial,cDNA
-DRB1*04:171,1,1,Unconfirmed,101,370,Partial,cDNA
+DRB1*04:171:01,1,1,Unconfirmed,101,370,Partial,cDNA
+DRB1*04:171:02,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*04:172,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*04:173,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*04:174,1,1,Unconfirmed,101,370,Partial,cDNA
@@ -29631,12 +29914,19 @@ DRB1*04:382,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*04:383,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*04:384,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*04:385,1,1,Unconfirmed,101,801,Partial,cDNA
-DRB1*04:386,1,1,Unconfirmed,101,801,Partial,cDNA
+DRB1*04:386,2,1,Confirmed,101,801,Partial,cDNA
 DRB1*04:387,1,1,Unconfirmed,1,801,Full,cDNA
 DRB1*04:388,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*04:389N,1,1,Unconfirmed,101,802,Partial,cDNA
 DRB1*04:390,1,1,Unconfirmed,1,801,Full,cDNA
 DRB1*04:391,1,1,Unconfirmed,101,763,Partial,cDNA
+DRB1*04:392,1,1,Unconfirmed,101,763,Partial,cDNA
+DRB1*04:393,1,1,Unconfirmed,101,801,Partial,cDNA
+DRB1*04:394,1,1,Unconfirmed,101,801,Partial,cDNA
+DRB1*04:395,1,1,Unconfirmed,1,801,Full,cDNA
+DRB1*04:396,1,1,Unconfirmed,101,801,Partial,cDNA
+DRB1*04:397,1,1,Unconfirmed,101,801,Partial,cDNA
+DRB1*04:398,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*07:01:01:01,9,9,Confirmed,1,801,Full,gDNA
 DRB1*07:01:01:02,3,2,Confirmed,1,801,Full,gDNA
 DRB1*07:01:01:04,6,1,Confirmed,1,801,Full,gDNA
@@ -29867,6 +30157,8 @@ DRB1*07:163N,1,1,Unconfirmed,1,801,Full,cDNA
 DRB1*07:164,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*07:165,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*07:166,1,1,Unconfirmed,101,801,Partial,cDNA
+DRB1*07:167,1,1,Unconfirmed,101,801,Partial,cDNA
+DRB1*07:168,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*08:01:01:01,9,8,Confirmed,1,801,Full,gDNA
 DRB1*08:01:01:02,5,1,Confirmed,1,801,Full,gDNA
 DRB1*08:01:01:03,2,1,Confirmed,1,801,Full,gDNA
@@ -29879,7 +30171,7 @@ DRB1*08:02:01:01,6,4,Confirmed,1,801,Full,gDNA
 DRB1*08:02:01:02,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*08:02:01:03,2,1,Confirmed,1,801,Full,gDNA
 DRB1*08:02:02,3,2,Confirmed,101,652,Partial,cDNA
-DRB1*08:02:03,1,1,Unconfirmed,103,360,Partial,cDNA
+DRB1*08:02:03,2,2,Confirmed,1,787,Partial,cDNA
 DRB1*08:02:04,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*08:02:05,1,1,Unconfirmed,101,787,Partial,cDNA
 DRB1*08:02:06,1,1,Unconfirmed,101,801,Partial,cDNA
@@ -29946,7 +30238,7 @@ DRB1*08:30:01,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*08:30:02,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*08:30:03,4,2,Confirmed,101,652,Partial,cDNA
 DRB1*08:31,1,1,Unconfirmed,101,370,Partial,cDNA
-DRB1*08:32,2,2,Confirmed,101,370,Partial,cDNA
+DRB1*08:32,3,3,Confirmed,1,801,Full,cDNA
 DRB1*08:33,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*08:34,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*08:35,3,3,Confirmed,1,801,Full,cDNA
@@ -30052,6 +30344,8 @@ DRB1*08:131,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*08:132,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*08:133,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*08:134,1,1,Unconfirmed,1,801,Full,cDNA
+DRB1*08:135,1,1,Unconfirmed,101,763,Partial,cDNA
+DRB1*08:136,1,1,Unconfirmed,1,801,Full,cDNA
 DRB1*09:01:02:01,8,6,Confirmed,1,801,Full,gDNA
 DRB1*09:01:02:02,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*09:01:02:03,8,3,Confirmed,1,801,Full,gDNA
@@ -30281,6 +30575,8 @@ DRB1*11:01:47,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*11:01:48,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*11:01:49,1,1,Unconfirmed,1,801,Full,cDNA
 DRB1*11:01:50,1,1,Unconfirmed,1,801,Full,cDNA
+DRB1*11:01:51,1,1,Unconfirmed,101,763,Partial,cDNA
+DRB1*11:01:52,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*11:02:01:01,3,5,Confirmed,1,801,Full,gDNA
 DRB1*11:02:01:02,2,1,Confirmed,1,801,Full,gDNA
 DRB1*11:02:01:03,1,1,Unconfirmed,1,801,Full,gDNA
@@ -30292,6 +30588,7 @@ DRB1*11:02:04,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*11:02:05,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*11:02:06,1,1,Unconfirmed,101,652,Partial,cDNA
 DRB1*11:02:07,8,3,Confirmed,1,801,Full,cDNA
+DRB1*11:02:08,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*11:03:01,4,4,Confirmed,1,801,Full,gDNA
 DRB1*11:03:02,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*11:03:03,3,1,Confirmed,101,652,Partial,cDNA
@@ -30721,6 +31018,12 @@ DRB1*11:337,1,1,Unconfirmed,1,801,Full,cDNA
 DRB1*11:338,1,1,Unconfirmed,1,801,Full,cDNA
 DRB1*11:339,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*11:340,1,1,Unconfirmed,1,801,Full,cDNA
+DRB1*11:341,1,1,Unconfirmed,101,787,Partial,cDNA
+DRB1*11:342,1,1,Unconfirmed,101,763,Partial,cDNA
+DRB1*11:343,1,1,Unconfirmed,101,370,Partial,cDNA
+DRB1*11:344,1,1,Unconfirmed,101,652,Partial,cDNA
+DRB1*11:345,1,1,Unconfirmed,101,370,Partial,cDNA
+DRB1*11:346,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*12:01:01:01,6,6,Confirmed,1,801,Full,gDNA
 DRB1*12:01:01:02,2,3,Confirmed,1,801,Full,gDNA
 DRB1*12:01:01:03,3,2,Confirmed,1,801,Full,gDNA
@@ -30892,6 +31195,8 @@ DRB1*12:111,1,1,Unconfirmed,1,801,Full,cDNA
 DRB1*12:112,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*12:113,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*12:114,1,1,Unconfirmed,101,801,Partial,cDNA
+DRB1*12:115,1,1,Unconfirmed,1,801,Full,cDNA
+DRB1*12:116,1,1,Unconfirmed,1,801,Full,cDNA
 DRB1*13:01:01:01,8,5,Confirmed,1,801,Full,gDNA
 DRB1*13:01:01:02,3,3,Confirmed,1,801,Full,gDNA
 DRB1*13:01:01:03,1,1,Unconfirmed,1,801,Full,gDNA
@@ -30932,7 +31237,7 @@ DRB1*13:01:15,1,1,Unconfirmed,101,652,Partial,cDNA
 DRB1*13:01:16,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*13:01:17,1,1,Unconfirmed,101,652,Partial,cDNA
 DRB1*13:01:18,1,1,Unconfirmed,101,763,Partial,cDNA
-DRB1*13:01:19,24,1,Confirmed,101,801,Partial,cDNA
+DRB1*13:01:19,25,2,Confirmed,1,801,Full,cDNA
 DRB1*13:01:20,1,1,Unconfirmed,101,652,Partial,cDNA
 DRB1*13:01:21,14,1,Confirmed,101,652,Partial,cDNA
 DRB1*13:01:22,2,2,Confirmed,101,652,Partial,cDNA
@@ -31142,7 +31447,7 @@ DRB1*13:94:02,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*13:95,4,1,Confirmed,101,370,Partial,cDNA
 DRB1*13:96:01,3,1,Confirmed,101,370,Partial,cDNA
 DRB1*13:96:02,2,1,Confirmed,101,370,Partial,cDNA
-DRB1*13:97:01,3,2,Confirmed,101,370,Partial,cDNA
+DRB1*13:97:01,4,3,Confirmed,1,801,Full,gDNA
 DRB1*13:97:02,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*13:98,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*13:99,1,1,Unconfirmed,101,370,Partial,cDNA
@@ -31418,6 +31723,8 @@ DRB1*13:364,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*13:365,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*13:366,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*13:367N,1,1,Unconfirmed,101,800,Partial,cDNA
+DRB1*13:368,1,1,Unconfirmed,101,763,Partial,cDNA
+DRB1*13:369,1,1,Unconfirmed,1,801,Full,cDNA
 DRB1*14:01:01:01,4,4,Confirmed,1,801,Full,gDNA
 DRB1*14:01:01:02,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*14:01:01:03,1,1,Unconfirmed,1,801,Full,gDNA
@@ -31498,7 +31805,7 @@ DRB1*14:25:02,1,1,Unconfirmed,1,370,Partial,cDNA
 DRB1*14:26,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*14:27:01,7,2,Confirmed,101,763,Partial,cDNA
 DRB1*14:27:02,1,1,Unconfirmed,101,370,Partial,cDNA
-DRB1*14:28,1,1,Unconfirmed,101,357,Partial,cDNA
+DRB1*14:28,2,2,Confirmed,1,801,Full,cDNA
 DRB1*14:29,2,2,Confirmed,101,370,Partial,cDNA
 DRB1*14:30,2,2,Confirmed,101,370,Partial,cDNA
 DRB1*14:31,1,1,Unconfirmed,105,357,Partial,cDNA
@@ -31589,7 +31896,7 @@ DRB1*14:80,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*14:81,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*14:82,3,2,Confirmed,101,652,Partial,cDNA
 DRB1*14:83,1,1,Unconfirmed,101,370,Partial,cDNA
-DRB1*14:84,2,2,Confirmed,101,370,Partial,cDNA
+DRB1*14:84,3,3,Confirmed,1,801,Full,gDNA
 DRB1*14:85,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*14:86,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB1*14:87,5,1,Confirmed,101,370,Partial,cDNA
@@ -31783,6 +32090,8 @@ DRB1*14:270,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*14:271,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*14:272,1,1,Unconfirmed,1,801,Full,cDNA
 DRB1*14:273,1,1,Unconfirmed,101,370,Partial,cDNA
+DRB1*14:274,1,1,Unconfirmed,101,370,Partial,cDNA
+DRB1*14:275,1,1,Unconfirmed,1,801,Full,cDNA
 DRB1*15:01:01:01,6,6,Confirmed,1,801,Full,gDNA
 DRB1*15:01:01:02,2,2,Confirmed,1,801,Full,gDNA
 DRB1*15:01:01:03,3,2,Confirmed,1,801,Full,gDNA
@@ -31815,6 +32124,7 @@ DRB1*15:01:01:29,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*15:01:01:30,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*15:01:01:31,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*15:01:01:32Q,1,1,Unconfirmed,1,801,Full,gDNA
+DRB1*15:01:01:33,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*15:01:02,4,3,Confirmed,1,801,Full,gDNA
 DRB1*15:01:03,2,2,Confirmed,101,652,Partial,cDNA
 DRB1*15:01:04,2,2,Confirmed,101,652,Partial,cDNA
@@ -31904,6 +32214,7 @@ DRB1*15:03:02,6,1,Confirmed,101,370,Partial,cDNA
 DRB1*15:03:03,4,1,Confirmed,101,652,Partial,cDNA
 DRB1*15:03:04,4,1,Confirmed,101,652,Partial,cDNA
 DRB1*15:03:05,1,1,Unconfirmed,101,652,Partial,cDNA
+DRB1*15:03:06,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*15:04,5,4,Confirmed,1,801,Full,gDNA
 DRB1*15:05,2,2,Confirmed,101,652,Partial,cDNA
 DRB1*15:06:01,12,8,Confirmed,1,801,Full,gDNA
@@ -32157,6 +32468,8 @@ DRB1*15:232,1,1,Unconfirmed,101,787,Partial,cDNA
 DRB1*15:233,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB1*15:234,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*15:235,1,1,Unconfirmed,101,370,Partial,cDNA
+DRB1*15:236N,1,1,Unconfirmed,101,802,Partial,cDNA
+DRB1*15:237,1,1,Unconfirmed,1,801,Full,cDNA
 DRB1*16:01:01:01,10,6,Confirmed,1,801,Full,gDNA
 DRB1*16:01:01:02,1,1,Unconfirmed,1,801,Full,gDNA
 DRB1*16:01:01:03,1,1,Unconfirmed,1,801,Full,gDNA
@@ -32278,6 +32591,8 @@ DRB1*16:76,1,1,Unconfirmed,1,801,Full,cDNA
 DRB1*16:77N,1,1,Unconfirmed,101,785,Partial,cDNA
 DRB1*16:78,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB1*16:79,1,1,Unconfirmed,101,763,Partial,cDNA
+DRB1*16:80,1,1,Unconfirmed,101,760,Partial,cDNA
+DRB1*16:81,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB2*01:01,1,2,Confirmed,1,513,Full,cDNA
 DRB3*01:01:02:01,10,9,Confirmed,1,801,Full,gDNA
 DRB3*01:01:02:02,2,1,Confirmed,1,801,Full,cDNA
@@ -32285,6 +32600,8 @@ DRB3*01:01:02:03,2,2,Confirmed,1,801,Full,gDNA
 DRB3*01:01:02:04,2,1,Confirmed,1,801,Full,gDNA
 DRB3*01:01:02:05,2,1,Confirmed,1,801,Full,gDNA
 DRB3*01:01:02:06,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*01:01:02:07,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*01:01:02:08,1,1,Unconfirmed,1,801,Full,gDNA
 DRB3*01:01:03,2,1,Confirmed,88,351,Partial,cDNA
 DRB3*01:01:04,1,1,Unconfirmed,101,346,Partial,cDNA
 DRB3*01:01:05,4,1,Confirmed,101,370,Partial,cDNA
@@ -32433,6 +32750,12 @@ DRB3*01:130,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB3*01:131,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB3*01:132N,1,1,Unconfirmed,1,801,Full,gDNA
 DRB3*01:133N,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*01:134,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*01:135,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*01:136,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*01:137,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*01:138:01:01,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*01:138:01:02,1,1,Unconfirmed,1,801,Full,gDNA
 DRB3*02:01,2,3,Confirmed,1,801,Full,cDNA
 DRB3*02:02:01:01,4,5,Confirmed,1,801,Full,gDNA
 DRB3*02:02:01:02,1,1,Unconfirmed,1,801,Full,gDNA
@@ -32452,6 +32775,13 @@ DRB3*02:02:01:15,1,1,Unconfirmed,1,801,Full,gDNA
 DRB3*02:02:01:16,1,1,Unconfirmed,1,801,Full,gDNA
 DRB3*02:02:01:17,1,1,Unconfirmed,1,801,Full,gDNA
 DRB3*02:02:01:18,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*02:02:01:19,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*02:02:01:20,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*02:02:01:21,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*02:02:01:22,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*02:02:01:23,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*02:02:01:24,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*02:02:01:25,1,1,Unconfirmed,1,801,Full,gDNA
 DRB3*02:02:02,1,1,Unconfirmed,101,346,Partial,cDNA
 DRB3*02:02:03,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB3*02:02:04,1,1,Unconfirmed,101,370,Partial,cDNA
@@ -32620,7 +32950,7 @@ DRB3*02:129,1,1,Unconfirmed,101,652,Partial,cDNA
 DRB3*02:130,1,1,Unconfirmed,101,652,Partial,cDNA
 DRB3*02:131,2,1,Confirmed,101,652,Partial,cDNA
 DRB3*02:132,1,1,Unconfirmed,101,763,Partial,cDNA
-DRB3*02:133,1,1,Unconfirmed,101,652,Partial,cDNA
+DRB3*02:133,2,2,Confirmed,101,801,Partial,cDNA
 DRB3*02:134,1,1,Unconfirmed,101,652,Partial,cDNA
 DRB3*02:135,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB3*02:136,1,1,Unconfirmed,101,370,Partial,cDNA
@@ -32704,6 +33034,7 @@ DRB3*02:212,1,1,Unconfirmed,1,801,Full,cDNA
 DRB3*02:213,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB3*02:214N,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB3*02:215,1,1,Unconfirmed,1,801,Full,cDNA
+DRB3*02:216,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB3*03:01:01:01,7,6,Confirmed,1,801,Full,gDNA
 DRB3*03:01:01:02,1,1,Unconfirmed,1,801,Full,gDNA
 DRB3*03:01:01:03,1,1,Unconfirmed,1,801,Full,gDNA
@@ -32725,6 +33056,9 @@ DRB3*03:01:13,1,1,Unconfirmed,101,763,Partial,cDNA
 DRB3*03:01:14,2,1,Confirmed,101,801,Partial,cDNA
 DRB3*03:01:15,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB3*03:01:16,1,1,Unconfirmed,101,801,Partial,cDNA
+DRB3*03:01:17:01,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*03:01:17:02,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*03:01:18,1,1,Unconfirmed,1,801,Full,gDNA
 DRB3*03:02,1,1,Unconfirmed,101,346,Partial,cDNA
 DRB3*03:03,3,2,Confirmed,101,652,Partial,cDNA
 DRB3*03:04:01,3,1,Confirmed,101,370,Partial,cDNA
@@ -32802,9 +33136,15 @@ DRB3*03:75,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB3*03:76,1,1,Unconfirmed,1,801,Full,cDNA
 DRB3*03:77,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB3*03:78,1,1,Unconfirmed,101,801,Partial,cDNA
+DRB3*03:79:01,1,1,Unconfirmed,1,787,Partial,cDNA
+DRB3*03:79:02,1,1,Unconfirmed,1,787,Partial,cDNA
+DRB3*03:80:01:01,1,1,Unconfirmed,1,801,Full,gDNA
+DRB3*03:80:01:02,1,1,Unconfirmed,1,801,Full,gDNA
 DRB4*01:01:01:01,10,7,Confirmed,1,801,Full,gDNA
 DRB4*01:01:01:03,1,1,Unconfirmed,1,801,Full,gDNA
 DRB4*01:01:01:04,1,1,Unconfirmed,1,801,Full,gDNA
+DRB4*01:01:01:05,1,1,Unconfirmed,1,801,Full,gDNA
+DRB4*01:01:01:06,1,1,Unconfirmed,1,801,Full,gDNA
 DRB4*01:01:02,2,1,Confirmed,101,370,Partial,cDNA
 DRB4*01:01:03,9,1,Confirmed,101,652,Partial,cDNA
 DRB4*01:01:04,18,3,Confirmed,101,801,Partial,cDNA
@@ -32817,7 +33157,9 @@ DRB4*01:01:10,2,1,Confirmed,101,801,Partial,cDNA
 DRB4*01:01:11,2,1,Confirmed,1,801,Full,cDNA
 DRB4*01:01:12,1,1,Unconfirmed,1,801,Full,gDNA
 DRB4*01:01:13,1,1,Unconfirmed,1,801,Full,cDNA
-DRB4*01:02,1,3,Confirmed,1,801,Full,gDNA
+DRB4*01:01:14,1,1,Unconfirmed,1,801,Full,cDNA
+DRB4*01:02:01:01,1,3,Confirmed,1,801,Full,gDNA
+DRB4*01:02:01:02,1,1,Unconfirmed,1,801,Full,gDNA
 DRB4*01:03:01:01,4,3,Confirmed,1,801,Full,gDNA
 DRB4*01:03:01:02N,5,5,Confirmed,1,784,Full,gDNA
 DRB4*01:03:01:03,2,2,Confirmed,1,801,Full,gDNA
@@ -32842,10 +33184,22 @@ DRB4*01:03:01:21,1,1,Unconfirmed,1,801,Full,gDNA
 DRB4*01:03:01:22,1,1,Unconfirmed,1,801,Full,gDNA
 DRB4*01:03:01:23,1,1,Unconfirmed,1,801,Full,gDNA
 DRB4*01:03:01:24,1,1,Unconfirmed,1,801,Full,gDNA
-DRB4*01:03:01:26,1,1,Unconfirmed,1,801,Full,gDNA
+DRB4*01:03:01:25,1,1,Unconfirmed,1,801,Full,gDNA
+DRB4*01:03:01:26N,1,1,Unconfirmed,1,784,Full,gDNA
+DRB4*01:03:01:27,1,1,Unconfirmed,1,801,Full,gDNA
+DRB4*01:03:01:28N,1,1,Unconfirmed,1,784,Full,gDNA
+DRB4*01:03:01:29,1,1,Unconfirmed,1,801,Full,gDNA
+DRB4*01:03:01:30,1,1,Unconfirmed,1,801,Full,gDNA
 DRB4*01:03:02:01,5,5,Confirmed,1,801,Full,gDNA
 DRB4*01:03:02:02,1,1,Unconfirmed,1,801,Full,gDNA
 DRB4*01:03:02:03,1,1,Unconfirmed,1,801,Full,gDNA
+DRB4*01:03:02:04,1,1,Unconfirmed,1,801,Full,gDNA
+DRB4*01:03:02:05,1,1,Unconfirmed,1,801,Full,gDNA
+DRB4*01:03:02:06,2,1,Confirmed,1,801,Full,gDNA
+DRB4*01:03:02:07,1,1,Unconfirmed,1,801,Full,gDNA
+DRB4*01:03:02:08,1,1,Unconfirmed,1,801,Full,gDNA
+DRB4*01:03:02:09,1,1,Unconfirmed,1,801,Full,gDNA
+DRB4*01:03:02:10,1,1,Unconfirmed,1,801,Full,gDNA
 DRB4*01:03:03,4,4,Confirmed,1,801,Full,cDNA
 DRB4*01:03:04,1,1,Unconfirmed,101,609,Partial,cDNA
 DRB4*01:03:05,3,2,Confirmed,101,652,Partial,cDNA
@@ -32880,6 +33234,7 @@ DRB4*01:03:33,2,1,Confirmed,1,801,Full,cDNA
 DRB4*01:03:34,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB4*01:03:35,2,2,Confirmed,1,801,Full,cDNA
 DRB4*01:03:36,1,1,Unconfirmed,1,801,Full,cDNA
+DRB4*01:03:37,1,1,Unconfirmed,1,801,Full,cDNA
 DRB4*01:04,3,2,Confirmed,101,370,Partial,cDNA
 DRB4*01:05,1,1,Unconfirmed,109,350,Partial,cDNA
 DRB4*01:06,2,2,Confirmed,101,801,Partial,cDNA
@@ -33000,7 +33355,7 @@ DRB4*01:115N,1,1,Unconfirmed,101,366,Partial,cDNA
 DRB4*01:116,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB4*01:117,1,1,Unconfirmed,101,652,Partial,cDNA
 DRB4*01:118,3,1,Confirmed,101,652,Partial,cDNA
-DRB4*01:119,4,3,Confirmed,101,801,Partial,cDNA
+DRB4*01:119,5,4,Confirmed,1,801,Full,cDNA
 DRB4*01:120,1,1,Unconfirmed,101,652,Partial,cDNA
 DRB4*01:121N,2,1,Confirmed,101,801,Partial,cDNA
 DRB4*01:122,1,1,Unconfirmed,101,652,Partial,cDNA
@@ -33072,6 +33427,9 @@ DRB4*01:187,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB4*01:188,1,1,Unconfirmed,1,801,Full,gDNA
 DRB4*01:189,1,1,Unconfirmed,101,652,Partial,cDNA
 DRB4*01:190,1,1,Unconfirmed,1,801,Full,gDNA
+DRB4*01:191,1,1,Unconfirmed,1,801,Full,cDNA
+DRB4*01:192N,1,1,Unconfirmed,101,801,Partial,cDNA
+DRB4*01:193,1,1,Unconfirmed,101,652,Partial,cDNA
 DRB4*02:01N,1,2,Confirmed,1,790,Full,gDNA
 DRB4*03:01N,4,2,Confirmed,1,431,Full,gDNA
 DRB5*01:01:01:01,9,7,Confirmed,1,801,Full,gDNA
@@ -33083,7 +33441,10 @@ DRB5*01:01:01:06,1,1,Unconfirmed,1,801,Full,gDNA
 DRB5*01:01:01:07,1,1,Unconfirmed,1,801,Full,gDNA
 DRB5*01:01:01:08,1,1,Unconfirmed,1,801,Full,gDNA
 DRB5*01:01:01:09,1,1,Unconfirmed,1,801,Full,gDNA
+DRB5*01:01:01:10,1,1,Unconfirmed,1,801,Full,gDNA
 DRB5*01:01:01:11,1,1,Unconfirmed,1,801,Full,gDNA
+DRB5*01:01:01:12,1,1,Unconfirmed,1,801,Full,gDNA
+DRB5*01:01:01:13,1,1,Unconfirmed,1,801,Full,gDNA
 DRB5*01:01:02,1,1,Unconfirmed,101,357,Partial,cDNA
 DRB5*01:01:03,1,1,Unconfirmed,101,370,Partial,cDNA
 DRB5*01:01:04,11,2,Confirmed,101,763,Partial,cDNA
@@ -33096,7 +33457,9 @@ DRB5*01:01:10,12,1,Confirmed,101,801,Partial,cDNA
 DRB5*01:01:11,7,1,Confirmed,101,801,Partial,cDNA
 DRB5*01:01:12,1,1,Unconfirmed,1,801,Full,cDNA
 DRB5*01:01:13,1,1,Unconfirmed,1,801,Full,cDNA
-DRB5*01:02:01,5,5,Confirmed,1,801,Full,gDNA
+DRB5*01:02:01:01,5,5,Confirmed,1,801,Full,gDNA
+DRB5*01:02:01:02,1,1,Unconfirmed,1,801,Full,gDNA
+DRB5*01:02:01:03,1,1,Unconfirmed,1,801,Full,gDNA
 DRB5*01:02:02,1,1,Unconfirmed,101,652,Partial,cDNA
 DRB5*01:02:03,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB5*01:02:04,1,1,Unconfirmed,1,801,Full,cDNA
@@ -33245,6 +33608,8 @@ DRB5*01:140,2,1,Confirmed,1,801,Full,cDNA
 DRB5*01:141,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB5*01:142,1,1,Unconfirmed,101,801,Partial,cDNA
 DRB5*01:143,1,1,Unconfirmed,1,801,Full,cDNA
+DRB5*01:144N,1,1,Unconfirmed,1,803,Full,gDNA
+DRB5*01:145N,1,1,Unconfirmed,1,802,Full,gDNA
 DRB5*02:02:01,8,7,Confirmed,1,801,Full,gDNA
 DRB5*02:02:02,3,2,Confirmed,101,652,Partial,cDNA
 DRB5*02:02:03,3,2,Confirmed,101,652,Partial,cDNA
@@ -33329,7 +33694,9 @@ DQA1*01:01:10,1,1,Unconfirmed,1,768,Full,cDNA
 DQA1*01:01:11,5,2,Confirmed,1,768,Full,gDNA
 DQA1*01:01:12,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:01:13,3,3,Confirmed,1,768,Full,gDNA
-DQA1*01:01:14,1,1,Unconfirmed,1,768,Full,gDNA
+DQA1*01:01:14,3,3,Confirmed,1,768,Full,gDNA
+DQA1*01:01:15,1,1,Unconfirmed,1,768,Full,gDNA
+DQA1*01:01:16,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:02:01:01,10,7,Confirmed,1,768,Full,gDNA
 DQA1*01:02:01:02,2,1,Confirmed,1,768,Full,gDNA
 DQA1*01:02:01:03,1,1,Unconfirmed,1,768,Full,gDNA
@@ -33362,12 +33729,15 @@ DQA1*01:02:01:29,3,1,Confirmed,1,768,Full,gDNA
 DQA1*01:02:01:30,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:02:01:31,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:02:01:32,1,1,Unconfirmed,1,768,Full,gDNA
+DQA1*01:02:01:33,1,1,Unconfirmed,1,768,Full,gDNA
+DQA1*01:02:01:34,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:02:02:01,2,2,Confirmed,1,768,Full,gDNA
 DQA1*01:02:02:02,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:02:02:03,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:02:02:04,2,1,Confirmed,1,768,Full,gDNA
 DQA1*01:02:02:05,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:02:02:06,1,1,Unconfirmed,1,768,Full,gDNA
+DQA1*01:02:02:07,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:02:03,1,1,Unconfirmed,1,768,Full,cDNA
 DQA1*01:02:04,2,2,Confirmed,1,768,Full,gDNA
 DQA1*01:02:05,1,1,Unconfirmed,1,768,Full,cDNA
@@ -33413,6 +33783,7 @@ DQA1*01:03:01:14,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:03:01:15,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:03:01:16,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:03:01:17,1,1,Unconfirmed,1,768,Full,gDNA
+DQA1*01:03:01:18,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:03:02,3,1,Confirmed,83,768,Partial,cDNA
 DQA1*01:03:03,3,3,Confirmed,1,768,Full,gDNA
 DQA1*01:03:04,1,1,Unconfirmed,1,768,Full,cDNA
@@ -33551,7 +33922,8 @@ DQA1*01:96,1,1,Unconfirmed,83,768,Partial,cDNA
 DQA1*01:97,1,1,Unconfirmed,83,768,Partial,cDNA
 DQA1*01:98,2,2,Confirmed,83,768,Partial,cDNA
 DQA1*01:99,1,1,Unconfirmed,1,768,Full,gDNA
-DQA1*01:100,2,1,Confirmed,1,768,Full,gDNA
+DQA1*01:100:01,2,1,Confirmed,1,768,Full,gDNA
+DQA1*01:100:02,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:101,1,1,Unconfirmed,83,768,Partial,cDNA
 DQA1*01:102,1,1,Unconfirmed,1,768,Full,cDNA
 DQA1*01:103,1,1,Unconfirmed,83,768,Partial,cDNA
@@ -33632,6 +34004,7 @@ DQA1*01:176,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:177,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*01:178,1,1,Unconfirmed,83,768,Partial,cDNA
 DQA1*01:179,1,1,Unconfirmed,83,768,Partial,cDNA
+DQA1*01:180,1,1,Unconfirmed,83,768,Partial,cDNA
 DQA1*02:01:01:01,9,6,Confirmed,1,765,Full,gDNA
 DQA1*02:01:01:02,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*02:01:01:03,2,1,Confirmed,1,765,Full,gDNA
@@ -33717,6 +34090,7 @@ DQA1*02:46,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*02:47,1,1,Unconfirmed,1,765,Full,cDNA
 DQA1*02:48,1,1,Unconfirmed,83,765,Partial,cDNA
 DQA1*02:49,1,1,Unconfirmed,1,765,Full,gDNA
+DQA1*02:50,1,1,Unconfirmed,83,765,Partial,cDNA
 DQA1*03:01:01:01,10,8,Confirmed,1,768,Full,gDNA
 DQA1*03:01:01:03,1,1,Unconfirmed,1,768,Full,gDNA
 DQA1*03:01:01:04,4,1,Confirmed,1,768,Full,gDNA
@@ -33944,6 +34318,7 @@ DQA1*05:01:17,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:01:18,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:01:19,1,1,Unconfirmed,1,765,Full,cDNA
 DQA1*05:01:20,1,1,Unconfirmed,1,765,Full,gDNA
+DQA1*05:01:21,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:02,3,3,Confirmed,1,765,Full,gDNA
 DQA1*05:03:01:01,4,3,Confirmed,1,765,Full,gDNA
 DQA1*05:03:01:02,6,2,Confirmed,1,765,Full,gDNA
@@ -33995,6 +34370,8 @@ DQA1*05:05:01:40,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:05:01:41,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:05:01:42,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:05:01:43,1,1,Unconfirmed,1,765,Full,gDNA
+DQA1*05:05:01:44,1,1,Unconfirmed,1,765,Full,gDNA
+DQA1*05:05:01:45,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:05:02,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:05:03,2,2,Confirmed,1,765,Full,gDNA
 DQA1*05:05:04,1,1,Unconfirmed,1,765,Full,cDNA
@@ -34024,6 +34401,7 @@ DQA1*05:05:20,1,1,Unconfirmed,1,765,Full,cDNA
 DQA1*05:05:21,3,2,Confirmed,1,765,Full,gDNA
 DQA1*05:05:22,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:05:23,1,1,Unconfirmed,1,765,Full,cDNA
+DQA1*05:05:24,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:06:01:01,2,2,Confirmed,1,765,Full,gDNA
 DQA1*05:06:01:02,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:06:01:03,1,1,Unconfirmed,1,765,Full,gDNA
@@ -34055,7 +34433,7 @@ DQA1*05:24,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:25,3,3,Confirmed,1,765,Full,gDNA
 DQA1*05:26,2,1,Confirmed,83,765,Partial,cDNA
 DQA1*05:27,1,1,Unconfirmed,83,610,Partial,cDNA
-DQA1*05:28,2,2,Confirmed,83,765,Partial,cDNA
+DQA1*05:28,3,2,Confirmed,83,765,Partial,cDNA
 DQA1*05:29Q,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:30,2,1,Confirmed,83,328,Partial,cDNA
 DQA1*05:31,1,1,Unconfirmed,1,765,Full,cDNA
@@ -34151,14 +34529,19 @@ DQA1*05:114,1,1,Unconfirmed,83,765,Partial,cDNA
 DQA1*05:115,2,1,Confirmed,1,765,Full,gDNA
 DQA1*05:116Q,2,2,Confirmed,1,765,Full,gDNA
 DQA1*05:117,1,1,Unconfirmed,1,765,Full,gDNA
-DQA1*05:118,1,1,Unconfirmed,1,765,Full,gDNA
+DQA1*05:118:01:01,1,1,Unconfirmed,1,765,Full,gDNA
+DQA1*05:118:01:02,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:119,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*05:120,1,1,Unconfirmed,1,765,Full,gDNA
+DQA1*05:121,1,1,Unconfirmed,1,765,Full,cDNA
+DQA1*05:122,1,1,Unconfirmed,1,765,Full,gDNA
+DQA1*05:123,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*06:01:01:01,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*06:01:01:02,6,2,Confirmed,1,765,Full,gDNA
 DQA1*06:01:01:03,1,3,Confirmed,1,765,Full,gDNA
 DQA1*06:01:01:04,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*06:01:01:05,1,1,Unconfirmed,1,765,Full,gDNA
+DQA1*06:01:01:06,1,1,Unconfirmed,1,765,Full,gDNA
 DQA1*06:01:02,1,1,Unconfirmed,103,329,Partial,cDNA
 DQA1*06:01:03,1,1,Unconfirmed,83,765,Partial,cDNA
 DQA1*06:01:04,1,1,Unconfirmed,83,610,Partial,cDNA
@@ -34255,6 +34638,7 @@ DQB1*05:01:01:37,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*05:01:01:38,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*05:01:01:39,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*05:01:01:40,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*05:01:01:41,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*05:01:02,1,1,Unconfirmed,110,375,Partial,cDNA
 DQB1*05:01:03,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*05:01:04,3,1,Confirmed,110,379,Partial,cDNA
@@ -34309,6 +34693,7 @@ DQB1*05:01:51,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*05:01:52,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*05:01:53,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*05:01:54,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*05:01:55,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*05:02:01:01,14,8,Confirmed,1,786,Full,gDNA
 DQB1*05:02:01:02,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*05:02:01:03,1,1,Unconfirmed,1,786,Full,gDNA
@@ -34361,7 +34746,7 @@ DQB1*05:02:30,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*05:03:01:01,7,7,Confirmed,1,810,Full,gDNA
 DQB1*05:03:01:02,4,2,Confirmed,1,810,Full,gDNA
 DQB1*05:03:01:03,2,1,Confirmed,1,786,Full,gDNA
-DQB1*05:03:01:04,3,3,Confirmed,1,810,Full,gDNA
+DQB1*05:03:01:04,4,4,Confirmed,1,810,Full,gDNA
 DQB1*05:03:01:05,1,1,Unconfirmed,1,810,Full,gDNA
 DQB1*05:03:01:06,1,1,Unconfirmed,1,810,Full,gDNA
 DQB1*05:03:01:07,1,1,Unconfirmed,1,810,Full,gDNA
@@ -34407,6 +34792,7 @@ DQB1*05:03:35,2,1,Confirmed,1,810,Full,gDNA
 DQB1*05:03:36,1,1,Unconfirmed,1,810,Full,gDNA
 DQB1*05:03:37,2,1,Confirmed,1,810,Full,gDNA
 DQB1*05:03:38,1,1,Unconfirmed,1,810,Full,cDNA
+DQB1*05:03:39,1,1,Unconfirmed,1,796,Partial,cDNA
 DQB1*05:04:01,8,7,Confirmed,1,786,Full,gDNA
 DQB1*05:04:02,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*05:05:01,3,2,Confirmed,1,772,Partial,cDNA
@@ -34441,7 +34827,7 @@ DQB1*05:28,3,1,Confirmed,110,379,Partial,cDNA
 DQB1*05:29,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*05:30,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*05:31,2,2,Confirmed,1,786,Full,gDNA
-DQB1*05:32,2,2,Confirmed,1,772,Partial,cDNA
+DQB1*05:32,3,3,Confirmed,1,772,Partial,cDNA
 DQB1*05:33,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*05:34,2,2,Confirmed,110,661,Partial,cDNA
 DQB1*05:35,1,1,Unconfirmed,110,661,Partial,cDNA
@@ -34772,6 +35158,7 @@ DQB1*05:354,1,1,Unconfirmed,110,772,Partial,cDNA
 DQB1*05:355,1,1,Unconfirmed,110,772,Partial,cDNA
 DQB1*05:356,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*05:357,1,1,Unconfirmed,110,810,Partial,cDNA
+DQB1*05:358,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*06:01:01:01,9,8,Confirmed,1,810,Full,gDNA
 DQB1*06:01:01:02,1,1,Unconfirmed,1,810,Full,gDNA
 DQB1*06:01:01:03,1,1,Unconfirmed,1,810,Full,gDNA
@@ -34781,6 +35168,7 @@ DQB1*06:01:01:06,1,1,Unconfirmed,1,810,Full,gDNA
 DQB1*06:01:01:07,1,1,Unconfirmed,1,810,Full,gDNA
 DQB1*06:01:01:08,1,1,Unconfirmed,1,810,Full,gDNA
 DQB1*06:01:01:09,1,1,Unconfirmed,1,810,Full,gDNA
+DQB1*06:01:01:10,1,1,Unconfirmed,1,810,Full,gDNA
 DQB1*06:01:02,2,1,Confirmed,133,336,Partial,cDNA
 DQB1*06:01:03,4,3,Confirmed,1,810,Full,gDNA
 DQB1*06:01:04,1,1,Unconfirmed,110,379,Partial,cDNA
@@ -34858,6 +35246,7 @@ DQB1*06:02:01:39,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:02:01:40,2,1,Confirmed,1,786,Full,gDNA
 DQB1*06:02:01:41,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:02:01:42,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*06:02:01:43,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:02:02,3,2,Confirmed,1,786,Full,gDNA
 DQB1*06:02:03,1,1,Unconfirmed,110,379,Partial,cDNA
 DQB1*06:02:04,3,2,Confirmed,1,772,Partial,cDNA
@@ -34905,7 +35294,7 @@ DQB1*06:02:45,3,1,Confirmed,110,772,Partial,cDNA
 DQB1*06:02:46,1,1,Unconfirmed,110,772,Partial,cDNA
 DQB1*06:02:47,1,1,Unconfirmed,1,772,Partial,cDNA
 DQB1*06:02:48,1,1,Unconfirmed,110,786,Partial,cDNA
-DQB1*06:02:49,2,2,Confirmed,1,786,Full,gDNA
+DQB1*06:02:49,3,3,Confirmed,1,786,Full,gDNA
 DQB1*06:02:50,5,5,Confirmed,1,786,Full,gDNA
 DQB1*06:02:51,2,1,Confirmed,110,772,Partial,cDNA
 DQB1*06:02:52,1,1,Unconfirmed,1,772,Partial,cDNA
@@ -34922,6 +35311,7 @@ DQB1*06:02:62,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:02:63,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:02:64,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:02:65,1,1,Unconfirmed,1,772,Partial,cDNA
+DQB1*06:02:66,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:03:01:01,5,4,Confirmed,1,786,Full,gDNA
 DQB1*06:03:01:02,5,5,Confirmed,1,786,Full,gDNA
 DQB1*06:03:01:03,2,1,Confirmed,1,786,Full,gDNA
@@ -35000,7 +35390,9 @@ DQB1*06:03:50,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:03:51,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:03:52,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:03:53,1,1,Unconfirmed,1,786,Full,gDNA
-DQB1*06:04:01:01,29,8,Confirmed,1,786,Full,gDNA
+DQB1*06:03:54,2,2,Confirmed,1,786,Full,gDNA
+DQB1*06:03:55,1,1,Unconfirmed,1,772,Partial,cDNA
+DQB1*06:04:01:01,30,9,Confirmed,1,786,Full,gDNA
 DQB1*06:04:01:02,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:04:01:03,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:04:01:04,3,2,Confirmed,1,786,Full,gDNA
@@ -35010,6 +35402,7 @@ DQB1*06:04:01:07,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:04:01:08,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:04:01:09,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:04:01:10,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*06:04:01:11,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:04:02,3,2,Confirmed,1,786,Full,gDNA
 DQB1*06:04:03,3,2,Confirmed,1,786,Full,gDNA
 DQB1*06:04:04,1,1,Unconfirmed,110,661,Partial,cDNA
@@ -35108,14 +35501,14 @@ DQB1*06:43,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*06:44,4,2,Confirmed,1,786,Full,gDNA
 DQB1*06:45,1,1,Unconfirmed,110,376,Partial,cDNA
 DQB1*06:46,5,3,Confirmed,1,786,Full,gDNA
-DQB1*06:47,1,1,Unconfirmed,110,661,Partial,cDNA
+DQB1*06:47,2,2,Confirmed,1,786,Full,gDNA
 DQB1*06:48:01,15,3,Confirmed,1,786,Full,gDNA
 DQB1*06:48:02,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*06:49,21,4,Confirmed,1,786,Full,gDNA
 DQB1*06:50,4,2,Confirmed,110,379,Partial,cDNA
 DQB1*06:51:01,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*06:51:02,1,1,Unconfirmed,110,379,Partial,cDNA
-DQB1*06:52,1,1,Unconfirmed,110,661,Partial,cDNA
+DQB1*06:52,2,2,Confirmed,1,786,Full,gDNA
 DQB1*06:53:01,7,1,Confirmed,110,379,Partial,cDNA
 DQB1*06:53:02,1,1,Unconfirmed,110,379,Partial,cDNA
 DQB1*06:54N,1,1,Unconfirmed,110,379,Partial,cDNA
@@ -35335,7 +35728,7 @@ DQB1*06:251,2,1,Confirmed,110,772,Partial,cDNA
 DQB1*06:252N,1,1,Unconfirmed,110,378,Partial,cDNA
 DQB1*06:253,5,1,Confirmed,110,772,Partial,cDNA
 DQB1*06:254,1,1,Unconfirmed,110,661,Partial,cDNA
-DQB1*06:255,2,1,Confirmed,110,772,Partial,cDNA
+DQB1*06:255,3,2,Confirmed,1,786,Full,cDNA
 DQB1*06:256,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*06:257,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*06:258,1,1,Unconfirmed,110,661,Partial,cDNA
@@ -35354,7 +35747,8 @@ DQB1*06:270:01,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*06:270:02,1,1,Unconfirmed,110,772,Partial,cDNA
 DQB1*06:271,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*06:272,1,1,Unconfirmed,110,661,Partial,cDNA
-DQB1*06:273,4,2,Confirmed,1,786,Full,gDNA
+DQB1*06:273:01,4,2,Confirmed,1,786,Full,gDNA
+DQB1*06:273:02,1,1,Unconfirmed,1,810,Full,cDNA
 DQB1*06:274,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*06:275,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:276,1,1,Unconfirmed,110,772,Partial,cDNA
@@ -35508,7 +35902,7 @@ DQB1*06:419,1,1,Unconfirmed,110,810,Partial,cDNA
 DQB1*06:420,1,1,Unconfirmed,110,786,Partial,cDNA
 DQB1*06:421,2,2,Confirmed,1,810,Full,cDNA
 DQB1*06:422N,1,1,Unconfirmed,1,790,Full,gDNA
-DQB1*06:423N,1,1,Unconfirmed,110,379,Partial,cDNA
+DQB1*06:423N,2,2,Confirmed,1,786,Full,gDNA
 DQB1*06:424,6,3,Confirmed,1,786,Full,gDNA
 DQB1*06:425,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:426,1,1,Unconfirmed,1,786,Full,gDNA
@@ -35575,11 +35969,11 @@ DQB1*06:486,1,1,Unconfirmed,1,772,Partial,cDNA
 DQB1*06:487,1,1,Unconfirmed,1,772,Partial,cDNA
 DQB1*06:488,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:489,1,1,Unconfirmed,1,772,Partial,cDNA
-DQB1*06:490,3,2,Confirmed,1,786,Full,gDNA
+DQB1*06:490,5,2,Confirmed,1,786,Full,gDNA
 DQB1*06:491N,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:492,1,1,Unconfirmed,1,772,Partial,cDNA
 DQB1*06:493,1,1,Unconfirmed,110,786,Partial,cDNA
-DQB1*06:494,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*06:494,2,2,Confirmed,1,786,Full,gDNA
 DQB1*06:495,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:496,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:497,1,1,Unconfirmed,1,786,Full,gDNA
@@ -35598,19 +35992,25 @@ DQB1*06:509,1,1,Unconfirmed,1,810,Full,gDNA
 DQB1*06:510,2,1,Confirmed,1,786,Full,gDNA
 DQB1*06:511,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:512,4,1,Confirmed,1,786,Full,gDNA
-DQB1*06:513,2,1,Confirmed,1,810,Full,gDNA
+DQB1*06:513,3,2,Confirmed,1,810,Full,gDNA
 DQB1*06:514,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:515,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:516,1,1,Unconfirmed,1,810,Full,gDNA
 DQB1*06:517,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:518,1,1,Unconfirmed,1,772,Partial,cDNA
 DQB1*06:519,1,1,Unconfirmed,1,786,Full,gDNA
-DQB1*06:520,1,1,Unconfirmed,1,786,Full,cDNA
+DQB1*06:520,2,2,Confirmed,1,786,Full,gDNA
 DQB1*06:521,1,1,Unconfirmed,110,772,Partial,cDNA
 DQB1*06:522,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*06:523,1,1,Unconfirmed,1,786,Full,gDNA
-DQB1*06:524,1,1,Unconfirmed,110,379,Partial,cDNA
+DQB1*06:524,2,2,Confirmed,110,661,Partial,cDNA
 DQB1*06:525,1,1,Unconfirmed,110,695,Partial,cDNA
+DQB1*06:526,1,1,Unconfirmed,1,772,Partial,cDNA
+DQB1*06:527,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*06:528,1,1,Unconfirmed,110,379,Partial,cDNA
+DQB1*06:529,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*06:530,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*06:531,1,1,Unconfirmed,1,786,Full,cDNA
 DQB1*02:01:01:01,17,8,Confirmed,1,786,Full,gDNA
 DQB1*02:01:01:02,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*02:01:01:03,2,1,Confirmed,1,786,Full,gDNA
@@ -35687,6 +36087,7 @@ DQB1*02:01:47,1,1,Unconfirmed,1,772,Partial,cDNA
 DQB1*02:01:48,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*02:01:49,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*02:01:50,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*02:01:51,1,1,Unconfirmed,1,772,Partial,cDNA
 DQB1*02:02:01:01,3,5,Confirmed,1,786,Full,gDNA
 DQB1*02:02:01:02,2,2,Confirmed,1,786,Full,gDNA
 DQB1*02:02:01:03,2,2,Confirmed,1,786,Full,gDNA
@@ -35742,6 +36143,7 @@ DQB1*02:02:28,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*02:02:29,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*02:02:30,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*02:02:31,1,1,Unconfirmed,1,786,Full,cDNA
+DQB1*02:02:32,1,1,Unconfirmed,1,786,Full,cDNA
 DQB1*02:03:02,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*02:04,4,3,Confirmed,1,786,Full,gDNA
 DQB1*02:05,2,1,Confirmed,110,379,Partial,cDNA
@@ -35992,11 +36394,17 @@ DQB1*02:242,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*02:243,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*02:244,1,1,Unconfirmed,1,772,Partial,cDNA
 DQB1*02:245,1,1,Unconfirmed,110,379,Partial,cDNA
+DQB1*02:246,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*02:247,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*02:248,2,1,Confirmed,1,786,Full,gDNA
+DQB1*02:249,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*02:250,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*02:251N,1,1,Unconfirmed,1,785,Full,cDNA
 DQB1*03:01:01:01,21,9,Confirmed,1,786,Full,gDNA
 DQB1*03:01:01:02,2,2,Confirmed,1,786,Full,gDNA
 DQB1*03:01:01:03,7,2,Confirmed,1,786,Full,gDNA
 DQB1*03:01:01:04,2,2,Confirmed,1,786,Full,gDNA
-DQB1*03:01:01:05,4,2,Confirmed,1,786,Full,gDNA
+DQB1*03:01:01:05,5,3,Confirmed,1,786,Full,gDNA
 DQB1*03:01:01:06,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:01:01:07,2,2,Confirmed,1,786,Full,gDNA
 DQB1*03:01:01:08,5,1,Confirmed,1,786,Full,gDNA
@@ -36055,15 +36463,19 @@ DQB1*03:01:01:61,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:01:01:62,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:01:01:63,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:01:01:64,1,1,Unconfirmed,1,786,Full,gDNA
-DQB1*03:01:01:65,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*03:01:01:65,2,2,Confirmed,1,786,Full,gDNA
 DQB1*03:01:01:66,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:01:01:67,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:01:01:68,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:01:01:69,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:01:01:70,1,1,Unconfirmed,1,786,Full,gDNA
-DQB1*03:01:01:71,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*03:01:01:71,2,2,Confirmed,1,786,Full,gDNA
 DQB1*03:01:01:72,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:01:01:73,1,1,Unconfirmed,1,810,Full,gDNA
+DQB1*03:01:01:74,2,1,Confirmed,1,786,Full,gDNA
+DQB1*03:01:01:75,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*03:01:01:76,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*03:01:01:77,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:01:02,3,2,Confirmed,1,786,Full,gDNA
 DQB1*03:01:03,3,3,Confirmed,1,786,Full,gDNA
 DQB1*03:01:04:01,6,2,Confirmed,1,786,Full,gDNA
@@ -36132,6 +36544,7 @@ DQB1*03:01:65,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:01:66,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:01:67,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:01:68,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*03:01:69,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:02:01:01,18,9,Confirmed,1,786,Full,gDNA
 DQB1*03:02:01:02,3,2,Confirmed,1,786,Full,gDNA
 DQB1*03:02:01:03,1,1,Unconfirmed,1,786,Full,gDNA
@@ -36160,7 +36573,7 @@ DQB1*03:02:01:25,2,1,Confirmed,1,786,Full,gDNA
 DQB1*03:02:01:26,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:02:01:27,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:02:01:28,1,1,Unconfirmed,1,786,Full,gDNA
-DQB1*03:02:01:29,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*03:02:01:29,2,1,Confirmed,1,786,Full,gDNA
 DQB1*03:02:01:30,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:02:02:01,3,2,Confirmed,1,786,Full,gDNA
 DQB1*03:02:02:02,3,1,Confirmed,1,786,Full,gDNA
@@ -36209,6 +36622,7 @@ DQB1*03:02:44,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:02:45,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:02:46,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:02:47,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*03:02:48,1,1,Unconfirmed,1,772,Partial,cDNA
 DQB1*03:03:02:01,7,10,Confirmed,1,786,Full,gDNA
 DQB1*03:03:02:02,4,2,Confirmed,1,786,Full,gDNA
 DQB1*03:03:02:03,2,2,Confirmed,1,786,Full,gDNA
@@ -36292,6 +36706,7 @@ DQB1*03:17:02,2,2,Confirmed,110,379,Partial,cDNA
 DQB1*03:18,1,1,Unconfirmed,110,379,Partial,cDNA
 DQB1*03:19:01:01,11,5,Confirmed,1,786,Full,gDNA
 DQB1*03:19:01:02Q,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*03:19:01:03,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:19:02,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*03:19:03,1,1,Unconfirmed,110,772,Partial,cDNA
 DQB1*03:19:04,1,1,Unconfirmed,110,772,Partial,cDNA
@@ -36391,7 +36806,7 @@ DQB1*03:102,2,1,Confirmed,110,379,Partial,cDNA
 DQB1*03:103,1,1,Unconfirmed,110,379,Partial,cDNA
 DQB1*03:104,1,1,Unconfirmed,110,379,Partial,cDNA
 DQB1*03:105,8,4,Confirmed,1,786,Full,gDNA
-DQB1*03:106,7,2,Confirmed,1,379,Partial,cDNA
+DQB1*03:106,8,2,Confirmed,1,379,Partial,cDNA
 DQB1*03:107,1,1,Unconfirmed,110,379,Partial,cDNA
 DQB1*03:108,1,1,Unconfirmed,110,379,Partial,cDNA
 DQB1*03:109,14,1,Confirmed,110,379,Partial,cDNA
@@ -36681,7 +37096,8 @@ DQB1*03:386,1,1,Unconfirmed,110,772,Partial,cDNA
 DQB1*03:387,1,1,Unconfirmed,110,379,Partial,cDNA
 DQB1*03:388,1,1,Unconfirmed,110,772,Partial,cDNA
 DQB1*03:389,1,1,Unconfirmed,110,772,Partial,cDNA
-DQB1*03:390,1,1,Unconfirmed,110,772,Partial,cDNA
+DQB1*03:390:01,1,1,Unconfirmed,110,772,Partial,cDNA
+DQB1*03:390:02,1,1,Unconfirmed,1,772,Partial,cDNA
 DQB1*03:391,1,1,Unconfirmed,110,772,Partial,cDNA
 DQB1*03:392,1,1,Unconfirmed,110,772,Partial,cDNA
 DQB1*03:393,1,1,Unconfirmed,110,772,Partial,cDNA
@@ -36793,7 +37209,7 @@ DQB1*03:497,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:498,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:499N,1,1,Unconfirmed,1,786,Full,cDNA
 DQB1*03:500:01,1,1,Unconfirmed,1,786,Full,gDNA
-DQB1*03:500:02,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*03:500:02,2,2,Confirmed,1,786,Full,gDNA
 DQB1*03:501,2,1,Confirmed,1,786,Full,gDNA
 DQB1*03:502,4,1,Confirmed,1,786,Full,gDNA
 DQB1*03:503,1,1,Unconfirmed,1,786,Full,gDNA
@@ -36864,9 +37280,16 @@ DQB1*03:566,1,1,Unconfirmed,1,786,Full,cDNA
 DQB1*03:567,1,1,Unconfirmed,1,786,Full,cDNA
 DQB1*03:568,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*03:569,1,1,Unconfirmed,1,786,Full,cDNA
-DQB1*03:570,1,1,Unconfirmed,1,786,Full,cDNA
+DQB1*03:570,2,2,Confirmed,1,786,Full,cDNA
 DQB1*03:571,1,1,Unconfirmed,110,769,Partial,cDNA
 DQB1*03:572,1,1,Unconfirmed,1,661,Partial,cDNA
+DQB1*03:573,1,1,Unconfirmed,1,772,Partial,cDNA
+DQB1*03:574,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*03:575,1,1,Unconfirmed,1,772,Partial,cDNA
+DQB1*03:576Q,1,1,Unconfirmed,1,789,Full,gDNA
+DQB1*03:577,1,1,Unconfirmed,110,786,Partial,cDNA
+DQB1*03:578N,1,1,Unconfirmed,1,784,Full,cDNA
+DQB1*03:579,1,1,Unconfirmed,1,772,Partial,cDNA
 DQB1*04:01:01:01,7,4,Confirmed,1,786,Full,gDNA
 DQB1*04:01:01:02,2,3,Confirmed,1,786,Full,gDNA
 DQB1*04:01:01:03,2,2,Confirmed,1,786,Full,gDNA
@@ -36878,6 +37301,7 @@ DQB1*04:01:05,1,1,Unconfirmed,1,661,Partial,cDNA
 DQB1*04:01:06,1,1,Unconfirmed,110,786,Partial,cDNA
 DQB1*04:01:07,1,1,Unconfirmed,1,786,Full,cDNA
 DQB1*04:01:08,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*04:01:09,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*04:02:01:01,8,4,Confirmed,1,786,Full,gDNA
 DQB1*04:02:01:04,8,7,Confirmed,1,786,Full,gDNA
 DQB1*04:02:01:05,1,1,Unconfirmed,1,786,Full,gDNA
@@ -36897,7 +37321,7 @@ DQB1*04:02:01:18,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*04:02:01:19,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*04:02:01:20,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*04:02:01:21,1,1,Unconfirmed,1,786,Full,gDNA
-DQB1*04:02:01:22,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*04:02:01:22,2,2,Confirmed,1,786,Full,gDNA
 DQB1*04:02:02,1,1,Unconfirmed,110,661,Partial,cDNA
 DQB1*04:02:03,15,3,Confirmed,1,786,Full,gDNA
 DQB1*04:02:04,5,2,Confirmed,1,786,Full,gDNA
@@ -37028,6 +37452,10 @@ DQB1*04:101,1,1,Unconfirmed,110,786,Partial,cDNA
 DQB1*04:102,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*04:103,1,1,Unconfirmed,1,786,Full,gDNA
 DQB1*04:104,1,1,Unconfirmed,1,786,Full,gDNA
+DQB1*04:105,2,1,Confirmed,1,772,Partial,cDNA
+DQB1*04:106,1,1,Unconfirmed,110,661,Partial,cDNA
+DQB1*04:107,1,1,Unconfirmed,1,772,Partial,cDNA
+DQB1*04:108,1,1,Unconfirmed,1,786,Full,gDNA
 DQB2*01:01:01:01,2,2,Confirmed,1,807,Full,gDNA
 DQB2*01:01:01:02,2,2,Confirmed,1,807,Full,gDNA
 DQB2*01:01:01:03,2,2,Confirmed,1,807,Full,gDNA
@@ -37165,6 +37593,9 @@ DPA1*01:03:01:93,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*01:03:01:94,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*01:03:01:95,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*01:03:01:96,1,1,Unconfirmed,1,783,Full,gDNA
+DPA1*01:03:01:97,1,1,Unconfirmed,1,783,Full,gDNA
+DPA1*01:03:01:98,1,1,Unconfirmed,1,783,Full,gDNA
+DPA1*01:03:01:99,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*01:03:02,1,1,Unconfirmed,124,345,Partial,cDNA
 DPA1*01:03:03,1,1,Unconfirmed,101,346,Partial,cDNA
 DPA1*01:03:04,4,2,Confirmed,1,783,Full,gDNA
@@ -37223,16 +37654,16 @@ DPA1*01:03:55,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*01:03:56,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*01:03:57,2,2,Confirmed,1,783,Full,gDNA
 DPA1*01:03:58,1,1,Unconfirmed,1,783,Full,gDNA
-DPA1*01:03:59,1,1,Unconfirmed,1,783,Full,cDNA
+DPA1*01:03:59,2,2,Confirmed,1,783,Full,gDNA
 DPA1*01:03:60,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*01:03:61,1,1,Unconfirmed,1,783,Full,cDNA
 DPA1*01:04:01:01,10,6,Confirmed,1,783,Full,gDNA
-DPA1*01:04:01:02,1,1,Unconfirmed,1,783,Full,gDNA
+DPA1*01:04:01:02,2,1,Confirmed,1,783,Full,gDNA
 DPA1*01:04:01:03,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*01:04:02,1,1,Unconfirmed,101,346,Partial,cDNA
 DPA1*01:04:03,3,1,Confirmed,101,783,Partial,cDNA
 DPA1*01:04:04,1,1,Unconfirmed,1,783,Full,gDNA
-DPA1*01:05,2,2,Confirmed,101,713,Partial,cDNA
+DPA1*01:05,3,3,Confirmed,101,783,Partial,cDNA
 DPA1*01:06:01,2,2,Confirmed,1,783,Full,gDNA
 DPA1*01:06:02,6,2,Confirmed,1,783,Full,gDNA
 DPA1*01:06:03,1,1,Unconfirmed,101,783,Partial,cDNA
@@ -37300,7 +37731,7 @@ DPA1*01:58:01:01,19,8,Confirmed,1,783,Full,gDNA
 DPA1*01:58:01:02,2,1,Confirmed,1,783,Full,gDNA
 DPA1*01:59,1,1,Unconfirmed,1,783,Full,cDNA
 DPA1*01:60,3,2,Confirmed,1,783,Full,cDNA
-DPA1*01:61,2,2,Confirmed,1,783,Full,cDNA
+DPA1*01:61,3,3,Confirmed,1,783,Full,cDNA
 DPA1*01:62,5,2,Confirmed,1,783,Full,gDNA
 DPA1*01:63,1,1,Unconfirmed,101,783,Partial,cDNA
 DPA1*01:64,4,1,Confirmed,101,783,Partial,cDNA
@@ -37444,10 +37875,10 @@ DPA1*01:196,2,2,Confirmed,1,783,Full,gDNA
 DPA1*01:197,1,1,Unconfirmed,101,783,Partial,cDNA
 DPA1*01:198,1,1,Unconfirmed,101,783,Partial,cDNA
 DPA1*01:199,1,1,Unconfirmed,1,783,Full,gDNA
-DPA1*01:200,2,1,Confirmed,101,783,Partial,cDNA
+DPA1*01:200,3,2,Confirmed,1,783,Full,cDNA
 DPA1*01:201,1,1,Unconfirmed,101,783,Partial,cDNA
 DPA1*01:202,1,1,Unconfirmed,1,783,Full,gDNA
-DPA1*01:203,1,1,Unconfirmed,101,783,Partial,cDNA
+DPA1*01:203,2,2,Confirmed,1,783,Full,gDNA
 DPA1*01:204,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*01:205,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*01:206,1,1,Unconfirmed,101,783,Partial,cDNA
@@ -37467,7 +37898,7 @@ DPA1*01:219N,1,1,Unconfirmed,1,782,Full,cDNA
 DPA1*01:220,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*01:221,1,1,Unconfirmed,101,783,Partial,cDNA
 DPA1*01:222,1,1,Unconfirmed,101,783,Partial,cDNA
-DPA1*01:223Q,1,1,Unconfirmed,1,783,Full,cDNA
+DPA1*01:223Q,2,1,Confirmed,1,783,Full,cDNA
 DPA1*01:224,2,1,Confirmed,1,783,Full,cDNA
 DPA1*01:225,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*01:226,1,1,Unconfirmed,1,783,Full,gDNA
@@ -37476,6 +37907,7 @@ DPA1*01:228,1,1,Unconfirmed,101,783,Partial,cDNA
 DPA1*01:229,1,1,Unconfirmed,1,783,Full,cDNA
 DPA1*01:230,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*01:231,1,1,Unconfirmed,1,783,Full,cDNA
+DPA1*01:232,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:01:01:01,5,5,Confirmed,1,783,Full,gDNA
 DPA1*02:01:01:02,6,7,Confirmed,1,783,Full,gDNA
 DPA1*02:01:01:03,4,3,Confirmed,1,783,Full,gDNA
@@ -37487,7 +37919,7 @@ DPA1*02:01:01:09,2,2,Confirmed,1,783,Full,gDNA
 DPA1*02:01:01:10,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:01:01:11,2,1,Confirmed,1,783,Full,gDNA
 DPA1*02:01:01:12,2,2,Confirmed,1,783,Full,gDNA
-DPA1*02:01:01:13,2,2,Confirmed,1,783,Full,gDNA
+DPA1*02:01:01:13,3,3,Confirmed,1,783,Full,gDNA
 DPA1*02:01:01:14,3,3,Confirmed,1,783,Full,gDNA
 DPA1*02:01:01:15,4,3,Confirmed,1,783,Full,gDNA
 DPA1*02:01:01:16,2,2,Confirmed,1,783,Full,gDNA
@@ -37551,12 +37983,15 @@ DPA1*02:01:26,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:01:27,2,2,Confirmed,1,783,Full,gDNA
 DPA1*02:01:28,2,2,Confirmed,1,783,Full,gDNA
 DPA1*02:01:29,2,2,Confirmed,1,783,Full,cDNA
-DPA1*02:01:30,2,2,Confirmed,1,783,Full,cDNA
+DPA1*02:01:30,3,3,Confirmed,1,783,Full,cDNA
 DPA1*02:01:31,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:01:32,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:01:33,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:01:34,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:01:35,1,1,Unconfirmed,1,783,Full,gDNA
+DPA1*02:01:36,1,1,Unconfirmed,1,783,Full,gDNA
+DPA1*02:01:37,1,1,Unconfirmed,1,783,Full,gDNA
+DPA1*02:01:38,1,1,Unconfirmed,1,783,Full,cDNA
 DPA1*02:02:02:01,13,8,Confirmed,1,783,Full,gDNA
 DPA1*02:02:02:02,3,2,Confirmed,1,783,Full,gDNA
 DPA1*02:02:02:03,2,2,Confirmed,1,783,Full,gDNA
@@ -37573,10 +38008,11 @@ DPA1*02:02:02:14,2,1,Confirmed,1,783,Full,gDNA
 DPA1*02:02:02:15,2,1,Confirmed,1,783,Full,gDNA
 DPA1*02:02:02:16,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:02:02:17Q,1,1,Unconfirmed,1,783,Full,gDNA
-DPA1*02:02:02:18,1,1,Unconfirmed,1,783,Full,gDNA
+DPA1*02:02:02:18,2,2,Confirmed,1,783,Full,gDNA
 DPA1*02:02:02:19,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:02:02:20,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:02:02:21,1,1,Unconfirmed,1,783,Full,gDNA
+DPA1*02:02:02:22,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:02:03,1,1,Unconfirmed,107,346,Partial,cDNA
 DPA1*02:02:04,1,1,Unconfirmed,101,346,Partial,cDNA
 DPA1*02:02:05,1,1,Unconfirmed,101,346,Partial,cDNA
@@ -37610,6 +38046,7 @@ DPA1*02:07:01:04,3,1,Confirmed,1,783,Full,gDNA
 DPA1*02:07:02,2,2,Confirmed,1,783,Full,gDNA
 DPA1*02:07:03,2,2,Confirmed,1,783,Full,gDNA
 DPA1*02:07:04,1,1,Unconfirmed,1,783,Full,gDNA
+DPA1*02:07:05,1,1,Unconfirmed,101,783,Partial,cDNA
 DPA1*02:08,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:09:01:01,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:09:01:02,2,1,Confirmed,1,783,Full,gDNA
@@ -37660,7 +38097,7 @@ DPA1*02:39,2,2,Confirmed,101,783,Partial,cDNA
 DPA1*02:40,1,1,Unconfirmed,101,783,Partial,cDNA
 DPA1*02:41N,2,1,Confirmed,60,713,Partial,cDNA
 DPA1*02:42,1,1,Unconfirmed,1,783,Full,gDNA
-DPA1*02:43,25,2,Confirmed,1,783,Full,cDNA
+DPA1*02:43,26,2,Confirmed,1,783,Full,cDNA
 DPA1*02:44,3,2,Confirmed,60,783,Partial,cDNA
 DPA1*02:45:01,5,1,Confirmed,101,783,Partial,cDNA
 DPA1*02:45:02,1,1,Unconfirmed,101,783,Partial,cDNA
@@ -37763,7 +38200,8 @@ DPA1*02:132,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:133N,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:134,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:135,2,1,Confirmed,101,783,Partial,cDNA
-DPA1*02:136,1,1,Unconfirmed,101,783,Partial,cDNA
+DPA1*02:136:01,1,1,Unconfirmed,101,783,Partial,cDNA
+DPA1*02:136:02,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:137,1,1,Unconfirmed,101,783,Partial,cDNA
 DPA1*02:138,1,1,Unconfirmed,101,783,Partial,cDNA
 DPA1*02:139,1,1,Unconfirmed,1,783,Full,gDNA
@@ -37774,8 +38212,12 @@ DPA1*02:143,2,2,Confirmed,1,783,Full,gDNA
 DPA1*02:144,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*02:145,1,1,Unconfirmed,1,783,Full,cDNA
 DPA1*02:146,1,1,Unconfirmed,1,783,Full,gDNA
+DPA1*02:147N,1,1,Unconfirmed,1,784,Full,gDNA
 DPA1*02:148N,1,1,Unconfirmed,101,783,Partial,cDNA
 DPA1*02:149,1,1,Unconfirmed,101,783,Partial,cDNA
+DPA1*02:150,1,1,Unconfirmed,1,783,Full,gDNA
+DPA1*02:151,2,2,Confirmed,1,783,Full,gDNA
+DPA1*02:152,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*03:01:01:01,2,3,Confirmed,1,783,Full,gDNA
 DPA1*03:01:01:02,1,3,Confirmed,1,783,Full,gDNA
 DPA1*03:01:01:03,1,1,Unconfirmed,1,783,Full,gDNA
@@ -37833,6 +38275,7 @@ DPA1*04:04,1,1,Unconfirmed,1,783,Full,gDNA
 DPA1*04:05,1,1,Unconfirmed,101,783,Partial,cDNA
 DPA1*04:06,3,3,Confirmed,1,783,Full,gDNA
 DPA1*04:07,1,1,Unconfirmed,101,783,Partial,cDNA
+DPA1*04:08,1,1,Unconfirmed,1,783,Full,gDNA
 DPA2*01:01:01:01,3,1,Confirmed,1,733,Full,gDNA
 DPA2*01:01:01:02,1,1,Unconfirmed,1,733,Full,gDNA
 DPA2*01:01:01:03,1,1,Unconfirmed,1,733,Full,gDNA
@@ -37883,9 +38326,11 @@ DPB1*01:01:10,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*01:01:11,2,1,Confirmed,1,777,Full,gDNA
 DPB1*01:01:12,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*01:01:13,1,1,Unconfirmed,1,777,Full,cDNA
-DPB1*01:01:14,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*01:01:14,2,1,Confirmed,1,777,Full,gDNA
 DPB1*01:01:15,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*01:01:16,1,1,Unconfirmed,1,777,Full,cDNA
+DPB1*01:01:17,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*01:01:18,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*02:01:02:01,11,8,Confirmed,1,777,Full,gDNA
 DPB1*02:01:02:02,2,1,Confirmed,1,777,Full,gDNA
 DPB1*02:01:02:03,2,1,Confirmed,1,777,Full,gDNA
@@ -37994,6 +38439,10 @@ DPB1*02:01:02:105,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*02:01:02:106,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*02:01:02:107,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*02:01:02:108,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*02:01:02:109,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*02:01:02:110,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*02:01:02:111,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*02:01:02:112,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*02:01:03,2,2,Confirmed,1,777,Full,gDNA
 DPB1*02:01:04,4,3,Confirmed,1,777,Full,gDNA
 DPB1*02:01:05,3,2,Confirmed,1,777,Full,gDNA
@@ -38015,7 +38464,7 @@ DPB1*02:01:19:02,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*02:01:19:03,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*02:01:20,8,3,Confirmed,1,777,Full,gDNA
 DPB1*02:01:21,2,2,Confirmed,101,646,Partial,cDNA
-DPB1*02:01:22,8,2,Confirmed,1,777,Full,gDNA
+DPB1*02:01:22,10,2,Confirmed,1,777,Full,gDNA
 DPB1*02:01:23,24,2,Confirmed,1,777,Full,gDNA
 DPB1*02:01:24,2,1,Confirmed,101,646,Partial,cDNA
 DPB1*02:01:25,19,2,Confirmed,1,777,Full,gDNA
@@ -38149,6 +38598,7 @@ DPB1*03:01:30,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*03:01:31,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*03:01:32,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*03:01:33,1,1,Unconfirmed,101,777,Partial,cDNA
+DPB1*03:01:34,1,1,Unconfirmed,101,777,Partial,cDNA
 DPB1*04:01:01:01,14,9,Confirmed,1,777,Full,gDNA
 DPB1*04:01:01:02,1,2,Confirmed,1,777,Full,gDNA
 DPB1*04:01:01:03,3,2,Confirmed,1,777,Full,gDNA
@@ -38311,6 +38761,8 @@ DPB1*04:01:01:159,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:01:01:160,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:01:01:161,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:01:01:162,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*04:01:01:163,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*04:01:01:164,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:01:02,1,1,Unconfirmed,101,364,Partial,cDNA
 DPB1*04:01:03,4,3,Confirmed,1,777,Full,gDNA
 DPB1*04:01:04:01,9,3,Confirmed,1,777,Full,gDNA
@@ -38399,7 +38851,7 @@ DPB1*04:01:78,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:01:79,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:01:80,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:01:81,1,1,Unconfirmed,1,777,Full,gDNA
-DPB1*04:01:82,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*04:01:82,2,2,Confirmed,1,777,Full,gDNA
 DPB1*04:01:83,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:01:84,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:01:85,1,1,Unconfirmed,1,777,Full,gDNA
@@ -38412,6 +38864,8 @@ DPB1*04:01:91,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:01:92,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:01:93,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*04:01:94,1,1,Unconfirmed,1,777,Full,cDNA
+DPB1*04:01:95,1,1,Unconfirmed,1,777,Full,cDNA
+DPB1*04:01:96,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*04:02:01:01,3,4,Confirmed,1,777,Full,gDNA
 DPB1*04:02:01:02,3,2,Confirmed,1,777,Full,gDNA
 DPB1*04:02:01:03,5,2,Confirmed,1,777,Full,gDNA
@@ -38457,6 +38911,7 @@ DPB1*04:02:01:42,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:02:01:43,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:02:01:44,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:02:01:45,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*04:02:01:46,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:02:02,1,1,Unconfirmed,101,364,Partial,cDNA
 DPB1*04:02:03,4,1,Confirmed,101,646,Partial,cDNA
 DPB1*04:02:04,1,1,Unconfirmed,101,364,Partial,cDNA
@@ -38488,6 +38943,7 @@ DPB1*04:02:29,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:02:30,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*04:02:31,2,1,Confirmed,1,777,Full,gDNA
 DPB1*04:02:32,2,1,Confirmed,1,777,Full,gDNA
+DPB1*04:02:33,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*05:01:01:01,12,7,Confirmed,1,777,Full,gDNA
 DPB1*05:01:01:02,4,2,Confirmed,1,777,Full,gDNA
 DPB1*05:01:01:03,1,1,Unconfirmed,1,777,Full,gDNA
@@ -38498,7 +38954,7 @@ DPB1*05:01:01:07,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*05:01:01:08,2,2,Confirmed,1,777,Full,gDNA
 DPB1*05:01:01:09,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*05:01:01:10,1,1,Unconfirmed,1,777,Full,gDNA
-DPB1*05:01:01:11,3,1,Confirmed,1,777,Full,gDNA
+DPB1*05:01:01:11,4,2,Confirmed,1,777,Full,gDNA
 DPB1*05:01:01:12,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*05:01:01:13,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*05:01:01:14,2,1,Confirmed,1,777,Full,gDNA
@@ -38528,6 +38984,15 @@ DPB1*05:01:01:37,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*05:01:01:38,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*05:01:01:39,3,1,Confirmed,1,777,Full,gDNA
 DPB1*05:01:01:40,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*05:01:01:41,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*05:01:01:42,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*05:01:01:43,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*05:01:01:44,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*05:01:01:45,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*05:01:01:46,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*05:01:01:47,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*05:01:01:48,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*05:01:01:49,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*05:01:02,1,1,Unconfirmed,101,646,Partial,cDNA
 DPB1*05:01:03,2,1,Confirmed,101,364,Partial,cDNA
 DPB1*05:01:04,1,1,Unconfirmed,101,364,Partial,cDNA
@@ -38551,6 +39016,7 @@ DPB1*05:01:21,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*05:01:22,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*05:01:23,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*05:01:24,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*05:01:25,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*06:01:01:01,6,4,Confirmed,1,777,Full,gDNA
 DPB1*06:01:01:02,2,1,Confirmed,1,777,Full,gDNA
 DPB1*06:01:01:03,1,1,Unconfirmed,1,777,Full,gDNA
@@ -38569,6 +39035,7 @@ DPB1*06:01:07,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*08:01,3,3,Confirmed,1,777,Full,gDNA
 DPB1*09:01:01:01,6,5,Confirmed,1,777,Full,gDNA
 DPB1*09:01:01:02,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*09:01:01:03,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*09:01:02,15,3,Confirmed,1,777,Full,gDNA
 DPB1*09:01:03,3,2,Confirmed,1,777,Full,gDNA
 DPB1*09:01:04,3,1,Confirmed,101,364,Partial,cDNA
@@ -38616,6 +39083,7 @@ DPB1*13:01:01:15,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*13:01:01:16,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*13:01:01:17,2,1,Confirmed,1,777,Full,gDNA
 DPB1*13:01:01:18,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*13:01:01:19,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*13:01:02,15,2,Confirmed,1,777,Full,gDNA
 DPB1*13:01:03,8,2,Confirmed,1,777,Full,cDNA
 DPB1*13:01:04,1,1,Unconfirmed,1,777,Full,cDNA
@@ -38637,6 +39105,8 @@ DPB1*14:01:01:10,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*14:01:01:11,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*14:01:01:12,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*14:01:01:13,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*14:01:01:14,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*14:01:01:15,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*14:01:02,2,1,Confirmed,101,646,Partial,cDNA
 DPB1*14:01:03,1,1,Unconfirmed,101,364,Partial,cDNA
 DPB1*14:01:04,1,1,Unconfirmed,101,777,Partial,cDNA
@@ -38679,6 +39149,7 @@ DPB1*17:01:01:07,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*17:01:01:08,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*17:01:01:09,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*17:01:01:10,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*17:01:01:11,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*17:01:02,14,1,Confirmed,101,646,Partial,cDNA
 DPB1*17:01:03,3,1,Confirmed,101,646,Partial,cDNA
 DPB1*17:01:04,3,3,Confirmed,1,777,Full,gDNA
@@ -38732,7 +39203,8 @@ DPB1*26:01:03,2,1,Confirmed,101,646,Partial,cDNA
 DPB1*27:01,7,5,Confirmed,1,777,Full,gDNA
 DPB1*28:01:01:01,6,4,Confirmed,1,777,Full,gDNA
 DPB1*28:01:01:02,1,1,Unconfirmed,1,777,Full,gDNA
-DPB1*29:01,8,4,Confirmed,1,777,Full,gDNA
+DPB1*29:01:01,8,4,Confirmed,1,777,Full,gDNA
+DPB1*29:01:02,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*30:01:01:01,6,4,Confirmed,1,777,Full,gDNA
 DPB1*30:01:01:02,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*31:01:01:01,8,4,Confirmed,1,777,Full,gDNA
@@ -38876,7 +39348,7 @@ DPB1*104:01:04,3,3,Confirmed,1,777,Full,gDNA
 DPB1*104:01:05,2,2,Confirmed,1,777,Full,gDNA
 DPB1*104:01:06,1,1,Unconfirmed,101,777,Partial,cDNA
 DPB1*104:01:07,1,1,Unconfirmed,1,777,Full,gDNA
-DPB1*104:01:08,3,3,Confirmed,1,777,Full,cDNA
+DPB1*104:01:08,4,3,Confirmed,1,777,Full,cDNA
 DPB1*104:01:09,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*105:01:01:01,2,1,Confirmed,1,777,Full,gDNA
 DPB1*105:01:01:02,2,1,Confirmed,1,777,Full,gDNA
@@ -38900,7 +39372,8 @@ DPB1*105:01:01:19,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*105:01:01:20,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*105:01:02,2,2,Confirmed,1,777,Full,cDNA
 DPB1*106:01,2,2,Confirmed,1,777,Full,gDNA
-DPB1*107:01,2,2,Confirmed,1,777,Full,gDNA
+DPB1*107:01:01:01,2,2,Confirmed,1,777,Full,gDNA
+DPB1*107:01:01:02,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*108:01,6,3,Confirmed,1,777,Full,gDNA
 DPB1*109:01,3,2,Confirmed,1,777,Full,gDNA
 DPB1*110:01,3,3,Confirmed,1,777,Full,gDNA
@@ -38944,6 +39417,7 @@ DPB1*133:01:02,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*134:01,1,1,Unconfirmed,101,646,Partial,cDNA
 DPB1*135:01:01:01,3,3,Confirmed,1,777,Full,gDNA
 DPB1*135:01:01:02,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*135:01:01:03,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*136:01,4,3,Confirmed,1,777,Full,gDNA
 DPB1*137:01,1,1,Unconfirmed,101,646,Partial,cDNA
 DPB1*138:01,2,2,Confirmed,1,777,Full,gDNA
@@ -39219,7 +39693,8 @@ DPB1*385:01,2,1,Confirmed,101,364,Partial,cDNA
 DPB1*386:01,1,1,Unconfirmed,101,364,Partial,cDNA
 DPB1*387:01,1,1,Unconfirmed,101,364,Partial,cDNA
 DPB1*388:01,1,1,Unconfirmed,101,364,Partial,cDNA
-DPB1*389:01,1,1,Unconfirmed,101,364,Partial,cDNA
+DPB1*389:01:01,1,1,Unconfirmed,101,364,Partial,cDNA
+DPB1*389:01:02,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*390:01,2,1,Confirmed,101,364,Partial,cDNA
 DPB1*391:01,5,1,Confirmed,101,364,Partial,cDNA
 DPB1*392:01,2,1,Confirmed,101,364,Partial,cDNA
@@ -39476,7 +39951,7 @@ DPB1*622:01,1,1,Unconfirmed,101,364,Partial,cDNA
 DPB1*623:01,2,2,Confirmed,101,646,Partial,cDNA
 DPB1*624:01,1,1,Unconfirmed,101,364,Partial,cDNA
 DPB1*625:01:01,1,1,Unconfirmed,101,364,Partial,cDNA
-DPB1*625:01:02,1,1,Unconfirmed,101,777,Partial,cDNA
+DPB1*625:01:02,2,2,Confirmed,1,777,Full,gDNA
 DPB1*626:01,2,1,Confirmed,101,646,Partial,cDNA
 DPB1*627:01,1,1,Unconfirmed,101,364,Partial,cDNA
 DPB1*628:01,1,1,Unconfirmed,101,364,Partial,cDNA
@@ -39542,7 +40017,7 @@ DPB1*683:01,2,1,Confirmed,101,646,Partial,cDNA
 DPB1*684:01,1,1,Unconfirmed,101,364,Partial,cDNA
 DPB1*685:01,1,1,Unconfirmed,101,364,Partial,cDNA
 DPB1*686:01,1,1,Unconfirmed,101,364,Partial,cDNA
-DPB1*687:01,2,2,Confirmed,101,757,Partial,cDNA
+DPB1*687:01,3,3,Confirmed,1,777,Full,cDNA
 DPB1*688:01,1,1,Unconfirmed,101,364,Partial,cDNA
 DPB1*689:01,1,1,Unconfirmed,101,364,Partial,cDNA
 DPB1*690:01,1,1,Unconfirmed,101,364,Partial,cDNA
@@ -39711,7 +40186,8 @@ DPB1*845:01,1,1,Unconfirmed,101,646,Partial,cDNA
 DPB1*846:01,2,1,Confirmed,101,646,Partial,cDNA
 DPB1*847:01,2,1,Confirmed,101,646,Partial,cDNA
 DPB1*848:01,3,1,Confirmed,101,646,Partial,cDNA
-DPB1*849:01,6,4,Confirmed,1,777,Full,gDNA
+DPB1*849:01:01,6,4,Confirmed,1,777,Full,gDNA
+DPB1*849:01:02,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*850:01,2,1,Confirmed,101,646,Partial,cDNA
 DPB1*851:01,2,1,Confirmed,101,646,Partial,cDNA
 DPB1*852:01,1,1,Unconfirmed,101,646,Partial,cDNA
@@ -39758,7 +40234,7 @@ DPB1*890:01,1,1,Unconfirmed,101,646,Partial,cDNA
 DPB1*891:01,1,1,Unconfirmed,101,364,Partial,cDNA
 DPB1*892:01,1,1,Unconfirmed,101,646,Partial,cDNA
 DPB1*893:01,2,1,Confirmed,101,364,Partial,cDNA
-DPB1*894:01N,1,1,Unconfirmed,101,645,Partial,cDNA
+DPB1*894:01N,2,1,Confirmed,101,776,Partial,cDNA
 DPB1*895:01,1,1,Unconfirmed,101,364,Partial,cDNA
 DPB1*896:01,6,3,Confirmed,101,777,Partial,cDNA
 DPB1*897:01,3,1,Confirmed,101,646,Partial,cDNA
@@ -39988,7 +40464,7 @@ DPB1*1115:01,1,1,Unconfirmed,101,646,Partial,cDNA
 DPB1*1116:01,1,1,Unconfirmed,101,777,Partial,cDNA
 DPB1*1117:01,2,2,Confirmed,1,777,Full,cDNA
 DPB1*1118:01,1,1,Unconfirmed,101,757,Partial,cDNA
-DPB1*1119:01,6,2,Confirmed,101,757,Partial,cDNA
+DPB1*1119:01,7,3,Confirmed,1,777,Full,cDNA
 DPB1*1120:01,1,1,Unconfirmed,101,757,Partial,cDNA
 DPB1*1121:01N,1,1,Unconfirmed,101,646,Partial,cDNA
 DPB1*1122:01,1,1,Unconfirmed,101,777,Partial,cDNA
@@ -40086,7 +40562,7 @@ DPB1*1212:01,1,1,Unconfirmed,101,646,Partial,cDNA
 DPB1*1213:01,1,1,Unconfirmed,101,646,Partial,cDNA
 DPB1*1214:01,1,1,Unconfirmed,101,646,Partial,cDNA
 DPB1*1215:01,1,1,Unconfirmed,101,646,Partial,cDNA
-DPB1*1216:01,1,1,Unconfirmed,101,646,Partial,cDNA
+DPB1*1216:01,2,2,Confirmed,1,777,Full,gDNA
 DPB1*1217:01,1,1,Unconfirmed,101,646,Partial,cDNA
 DPB1*1218:01,3,1,Confirmed,101,777,Partial,cDNA
 DPB1*1219:01,1,1,Unconfirmed,101,364,Partial,cDNA
@@ -40196,7 +40672,7 @@ DPB1*1321:01,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*1322:01,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*1323:01,2,2,Confirmed,1,777,Full,cDNA
 DPB1*1324:01,2,1,Confirmed,101,777,Partial,cDNA
-DPB1*1325:01N,1,1,Unconfirmed,1,654,Partial,cDNA
+DPB1*1325:01N,2,2,Confirmed,1,772,Full,gDNA
 DPB1*1326:01,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*1327:01,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*1328:01,1,1,Unconfirmed,101,777,Partial,cDNA
@@ -40220,7 +40696,7 @@ DPB1*1344:01:02,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*1345:01,4,2,Confirmed,1,777,Full,gDNA
 DPB1*1346:01,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*1347:01,1,1,Unconfirmed,1,777,Full,gDNA
-DPB1*1348:01,1,1,Unconfirmed,101,777,Partial,cDNA
+DPB1*1348:01,2,2,Confirmed,1,777,Full,gDNA
 DPB1*1349:01,1,1,Unconfirmed,101,777,Partial,cDNA
 DPB1*1350:01N,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*1352:01,1,1,Unconfirmed,101,757,Partial,cDNA
@@ -40361,7 +40837,7 @@ DPB1*1483:01,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*1484:01,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*1485:01,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*1486:01Q,1,1,Unconfirmed,101,798,Partial,cDNA
-DPB1*1487:01N,1,1,Unconfirmed,101,776,Partial,cDNA
+DPB1*1487:01N,2,2,Confirmed,1,776,Full,gDNA
 DPB1*1488:01N,1,1,Unconfirmed,101,365,Partial,cDNA
 DPB1*1489:01,1,1,Unconfirmed,101,777,Partial,cDNA
 DPB1*1490:01,1,1,Unconfirmed,101,777,Partial,cDNA
@@ -40394,7 +40870,7 @@ DPB1*1516:01,1,1,Unconfirmed,1,777,Full,cDNA
 DPB1*1517:01N,1,1,Unconfirmed,101,757,Partial,cDNA
 DPB1*1518:01,1,1,Unconfirmed,101,757,Partial,cDNA
 DPB1*1519:01,1,1,Unconfirmed,101,777,Partial,cDNA
-DPB1*1520:01,2,1,Confirmed,101,364,Partial,cDNA
+DPB1*1520:01,3,2,Confirmed,1,777,Full,gDNA
 DPB1*1521:01,1,1,Unconfirmed,101,777,Partial,cDNA
 DPB1*1522:01,1,1,Unconfirmed,101,777,Partial,cDNA
 DPB1*1523:01,1,1,Unconfirmed,101,777,Partial,cDNA
@@ -40519,7 +40995,7 @@ DPB1*1640:01,2,1,Confirmed,101,777,Partial,cDNA
 DPB1*1641:01,2,1,Confirmed,1,757,Partial,cDNA
 DPB1*1642:01,1,1,Unconfirmed,101,777,Partial,cDNA
 DPB1*1643:01,1,1,Unconfirmed,101,777,Partial,cDNA
-DPB1*1644:01,2,1,Confirmed,101,777,Partial,cDNA
+DPB1*1644:01,3,1,Confirmed,101,777,Partial,cDNA
 DPB1*1645:01N,1,1,Unconfirmed,101,776,Partial,cDNA
 DPB1*1646:01,1,1,Unconfirmed,101,777,Partial,cDNA
 DPB1*1647:01,1,1,Unconfirmed,101,777,Partial,cDNA
@@ -40552,7 +41028,8 @@ DPB1*1673:01,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*1674:01,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*1675:01,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*1676:01,1,1,Unconfirmed,1,777,Full,gDNA
-DPB1*1677:01N,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*1677:01:01:01N,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*1677:01:01:02N,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*1678:01,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*1679:01,1,1,Unconfirmed,1,777,Full,gDNA
 DPB1*1680:01,1,1,Unconfirmed,1,777,Full,gDNA
@@ -40634,6 +41111,36 @@ DPB1*1754:01,1,1,Unconfirmed,101,777,Partial,cDNA
 DPB1*1755:01,1,1,Unconfirmed,101,777,Partial,cDNA
 DPB1*1756:01,1,1,Unconfirmed,101,777,Partial,cDNA
 DPB1*1757:01,1,1,Unconfirmed,101,777,Partial,cDNA
+DPB1*1758:01,2,1,Confirmed,1,777,Full,gDNA
+DPB1*1759:01,1,1,Unconfirmed,101,777,Partial,cDNA
+DPB1*1760:01,2,1,Confirmed,101,364,Partial,cDNA
+DPB1*1761:01,1,1,Unconfirmed,101,777,Partial,cDNA
+DPB1*1762:01,1,1,Unconfirmed,1,777,Full,cDNA
+DPB1*1763:01,1,1,Unconfirmed,1,777,Full,cDNA
+DPB1*1764:01,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*1765:01:01:01,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*1765:01:01:02,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*1766:01Q,1,1,Unconfirmed,1,774,Full,gDNA
+DPB1*1767:01,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*1768:01,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*1769:01,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*1770:01,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*1771:01,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*1772:01,1,1,Unconfirmed,101,646,Partial,cDNA
+DPB1*1773:01,1,1,Unconfirmed,101,757,Partial,cDNA
+DPB1*1774:01,1,1,Unconfirmed,101,646,Partial,cDNA
+DPB1*1775:01N,1,1,Unconfirmed,1,777,Full,cDNA
+DPB1*1776:01,1,1,Unconfirmed,1,777,Full,cDNA
+DPB1*1777:01,1,1,Unconfirmed,1,777,Full,cDNA
+DPB1*1778:01,1,1,Unconfirmed,101,777,Partial,cDNA
+DPB1*1779:01,1,1,Unconfirmed,101,777,Partial,cDNA
+DPB1*1780:01,1,1,Unconfirmed,101,777,Partial,cDNA
+DPB1*1781:01,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*1782:01,1,1,Unconfirmed,1,777,Full,gDNA
+DPB1*1783:01,1,1,Unconfirmed,101,777,Partial,cDNA
+DPB1*1784:01,1,1,Unconfirmed,1,777,Full,cDNA
+DPB1*1785:01,1,1,Unconfirmed,101,777,Partial,cDNA
+DPB1*1786:01N,1,1,Unconfirmed,101,776,Partial,cDNA
 DPB2*01:01:01,2,2,Confirmed,1,776,Full,gDNA
 DPB2*01:01:02,2,1,Confirmed,1,776,Full,gDNA
 DPB2*02:01,1,1,Unconfirmed,1,776,Full,cDNA
@@ -40684,6 +41191,17 @@ DMA*01:01:01:40,1,1,Unconfirmed,1,786,Full,gDNA
 DMA*01:01:01:41,1,1,Unconfirmed,1,786,Full,gDNA
 DMA*01:01:01:42,2,1,Confirmed,1,786,Full,gDNA
 DMA*01:01:01:43,1,1,Unconfirmed,1,786,Full,gDNA
+DMA*01:01:01:44,2,1,Confirmed,1,786,Full,gDNA
+DMA*01:01:01:45,1,1,Unconfirmed,1,786,Full,gDNA
+DMA*01:01:01:46,1,1,Unconfirmed,1,786,Full,gDNA
+DMA*01:01:01:47,1,1,Unconfirmed,1,786,Full,gDNA
+DMA*01:01:01:48,1,1,Unconfirmed,1,786,Full,gDNA
+DMA*01:01:01:49,1,1,Unconfirmed,1,786,Full,gDNA
+DMA*01:01:01:50,1,1,Unconfirmed,1,786,Full,gDNA
+DMA*01:01:01:51,1,1,Unconfirmed,1,786,Full,gDNA
+DMA*01:01:01:52,1,1,Unconfirmed,1,786,Full,gDNA
+DMA*01:01:01:53,1,1,Unconfirmed,1,786,Full,gDNA
+DMA*01:01:01:54,1,1,Unconfirmed,1,786,Full,gDNA
 DMA*01:01:02,2,1,Confirmed,1,786,Full,gDNA
 DMA*01:01:03,1,1,Unconfirmed,1,786,Full,gDNA
 DMA*01:02:01:01,2,3,Confirmed,1,786,Full,gDNA
@@ -40695,8 +41213,11 @@ DMA*01:02:01:06,1,1,Unconfirmed,1,786,Full,gDNA
 DMA*01:02:01:07,2,1,Confirmed,1,786,Full,gDNA
 DMA*01:02:01:08,1,1,Unconfirmed,1,786,Full,gDNA
 DMA*01:02:01:09,2,1,Confirmed,1,786,Full,gDNA
+DMA*01:02:01:10,3,1,Confirmed,1,786,Full,gDNA
+DMA*01:02:01:11,1,1,Unconfirmed,1,786,Full,gDNA
 DMA*01:03:01:01,3,2,Confirmed,1,786,Full,gDNA
 DMA*01:03:01:02,2,1,Confirmed,1,786,Full,gDNA
+DMA*01:03:01:03,5,2,Confirmed,1,786,Full,gDNA
 DMA*01:04,3,2,Confirmed,1,786,Full,gDNA
 DMA*01:05,1,1,Unconfirmed,1,786,Full,gDNA
 DMA*01:06,1,1,Unconfirmed,1,786,Full,gDNA
@@ -40763,11 +41284,18 @@ DMB*01:01:01:57,2,1,Confirmed,1,792,Full,gDNA
 DMB*01:01:01:58,1,1,Unconfirmed,1,792,Full,gDNA
 DMB*01:01:01:59,1,1,Unconfirmed,1,792,Full,gDNA
 DMB*01:01:01:60,1,1,Unconfirmed,1,792,Full,gDNA
+DMB*01:01:01:61,3,1,Confirmed,1,792,Full,gDNA
+DMB*01:01:01:62,1,1,Unconfirmed,1,792,Full,gDNA
+DMB*01:01:01:63,1,1,Unconfirmed,1,792,Full,gDNA
+DMB*01:01:01:64,1,1,Unconfirmed,1,792,Full,gDNA
+DMB*01:01:01:65,1,1,Unconfirmed,1,792,Full,gDNA
+DMB*01:01:01:66,1,1,Unconfirmed,1,792,Full,gDNA
 DMB*01:02:01:01,4,3,Confirmed,1,792,Full,gDNA
 DMB*01:02:01:02,2,1,Confirmed,1,792,Full,gDNA
 DMB*01:02:01:03,2,1,Confirmed,1,792,Full,gDNA
 DMB*01:02:01:04,1,1,Unconfirmed,1,792,Full,gDNA
 DMB*01:02:01:05,1,1,Unconfirmed,1,792,Full,gDNA
+DMB*01:02:01:06,2,1,Confirmed,1,792,Full,gDNA
 DMB*01:03:01:01,2,3,Confirmed,1,792,Full,gDNA
 DMB*01:03:01:02,1,1,Unconfirmed,1,792,Full,gDNA
 DMB*01:03:01:03,1,2,Confirmed,1,792,Full,gDNA
@@ -40791,6 +41319,10 @@ DMB*01:03:01:20,1,1,Unconfirmed,1,792,Full,gDNA
 DMB*01:03:01:21,1,1,Unconfirmed,1,792,Full,gDNA
 DMB*01:03:01:22,3,1,Confirmed,1,792,Full,gDNA
 DMB*01:03:01:23,1,1,Unconfirmed,1,792,Full,gDNA
+DMB*01:03:01:24,1,1,Unconfirmed,1,792,Full,gDNA
+DMB*01:03:01:25,2,1,Confirmed,1,792,Full,gDNA
+DMB*01:03:01:26,2,1,Confirmed,1,792,Full,gDNA
+DMB*01:03:01:27,2,1,Confirmed,1,792,Full,gDNA
 DMB*01:03:02,2,1,Confirmed,1,792,Full,gDNA
 DMB*01:04,3,2,Confirmed,1,792,Full,gDNA
 DMB*01:05,2,2,Confirmed,75,601,Partial,cDNA
@@ -40801,6 +41333,8 @@ DMB*01:07:01:03,2,1,Confirmed,1,792,Full,gDNA
 DMB*01:07:01:04,2,1,Confirmed,1,792,Full,gDNA
 DMB*01:07:01:05,1,1,Unconfirmed,1,792,Full,gDNA
 DMB*01:07:01:06,2,1,Confirmed,1,792,Full,gDNA
+DMB*01:07:01:07,2,1,Confirmed,1,792,Full,gDNA
+DMB*01:07:01:08,1,1,Unconfirmed,1,792,Full,gDNA
 DMB*01:08,1,1,Unconfirmed,1,792,Full,gDNA
 DMB*01:09,2,1,Confirmed,1,792,Full,gDNA
 DOA*01:01:01:01,3,4,Confirmed,1,753,Full,gDNA
@@ -40816,6 +41350,7 @@ DOA*01:01:01:10,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:01:01:11,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:01:01:12,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:01:01:13,1,1,Unconfirmed,1,753,Full,gDNA
+DOA*01:01:01:14,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:01:02:01,4,3,Confirmed,1,753,Full,gDNA
 DOA*01:01:02:02,3,4,Confirmed,1,753,Full,gDNA
 DOA*01:01:02:03,2,2,Confirmed,1,753,Full,gDNA
@@ -40876,6 +41411,8 @@ DOA*01:01:02:57,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:01:02:58,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:01:02:59,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:01:02:60,1,1,Unconfirmed,1,753,Full,gDNA
+DOA*01:01:02:61,1,1,Unconfirmed,1,753,Full,gDNA
+DOA*01:01:02:62,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:01:03:01,4,3,Confirmed,1,753,Full,gDNA
 DOA*01:01:03:02,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:01:03:03,1,1,Unconfirmed,1,753,Full,gDNA
@@ -40897,8 +41434,11 @@ DOA*01:01:04:11,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:01:04:12,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:01:04:13,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:01:04:14,1,1,Unconfirmed,1,753,Full,gDNA
-DOA*01:01:05,1,3,Confirmed,1,753,Full,gDNA
-DOA*01:01:06,1,1,Unconfirmed,1,753,Full,cDNA
+DOA*01:01:04:15,1,1,Unconfirmed,1,753,Full,gDNA
+DOA*01:01:04:16,1,1,Unconfirmed,1,753,Full,gDNA
+DOA*01:01:05:01,1,3,Confirmed,1,753,Full,gDNA
+DOA*01:01:05:02,1,1,Unconfirmed,1,753,Full,gDNA
+DOA*01:01:06,2,2,Confirmed,1,753,Full,gDNA
 DOA*01:01:07,2,1,Confirmed,1,753,Full,gDNA
 DOA*01:01:08,2,1,Confirmed,1,753,Full,gDNA
 DOA*01:01:09,1,1,Unconfirmed,1,753,Full,gDNA
@@ -40906,6 +41446,8 @@ DOA*01:01:10:01,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:01:10:02,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:01:11,3,2,Confirmed,1,753,Full,gDNA
 DOA*01:01:12,1,1,Unconfirmed,1,753,Full,gDNA
+DOA*01:01:13,1,1,Unconfirmed,1,753,Full,gDNA
+DOA*01:01:14,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:02:01:01,3,2,Confirmed,1,753,Full,gDNA
 DOA*01:02:01:02,2,1,Confirmed,1,753,Full,gDNA
 DOA*01:02:01:03,3,2,Confirmed,1,753,Full,gDNA
@@ -40916,7 +41458,8 @@ DOA*01:06,2,1,Confirmed,1,753,Full,gDNA
 DOA*01:07,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:08,2,1,Confirmed,1,753,Full,gDNA
 DOA*01:09,2,1,Confirmed,1,753,Full,gDNA
-DOA*01:10,2,1,Confirmed,1,753,Full,gDNA
+DOA*01:10:01:01,2,1,Confirmed,1,753,Full,gDNA
+DOA*01:10:01:02,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:11,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:12,1,1,Unconfirmed,1,753,Full,gDNA
 DOA*01:13,2,1,Confirmed,1,753,Full,gDNA
@@ -40958,6 +41501,17 @@ DOB*01:01:01:31,1,1,Unconfirmed,1,822,Full,gDNA
 DOB*01:01:01:32,1,1,Unconfirmed,1,822,Full,gDNA
 DOB*01:01:01:33,1,1,Unconfirmed,1,822,Full,gDNA
 DOB*01:01:01:34,1,1,Unconfirmed,1,822,Full,gDNA
+DOB*01:01:01:35,2,1,Confirmed,1,822,Full,gDNA
+DOB*01:01:01:36,1,1,Unconfirmed,1,822,Full,gDNA
+DOB*01:01:01:37,1,1,Unconfirmed,1,822,Full,gDNA
+DOB*01:01:01:38,1,1,Unconfirmed,1,822,Full,gDNA
+DOB*01:01:01:39,1,1,Unconfirmed,1,822,Full,gDNA
+DOB*01:01:01:40,1,1,Unconfirmed,1,822,Full,gDNA
+DOB*01:01:01:41,2,1,Confirmed,1,822,Full,gDNA
+DOB*01:01:01:42,1,1,Unconfirmed,1,822,Full,gDNA
+DOB*01:01:01:43,2,1,Confirmed,1,822,Full,gDNA
+DOB*01:01:01:44,1,1,Unconfirmed,1,822,Full,gDNA
+DOB*01:01:01:45,1,1,Unconfirmed,1,822,Full,gDNA
 DOB*01:01:02,1,1,Unconfirmed,1,822,Full,cDNA
 DOB*01:01:03:01,2,2,Confirmed,1,822,Full,gDNA
 DOB*01:01:03:02,3,3,Confirmed,1,822,Full,gDNA
@@ -40970,10 +41524,13 @@ DOB*01:01:03:08,2,2,Confirmed,1,822,Full,gDNA
 DOB*01:01:03:09,16,2,Confirmed,1,822,Full,gDNA
 DOB*01:01:03:10,2,1,Confirmed,1,822,Full,gDNA
 DOB*01:01:03:11,1,1,Unconfirmed,1,822,Full,gDNA
+DOB*01:01:03:12,1,1,Unconfirmed,1,822,Full,gDNA
+DOB*01:01:03:13,3,1,Confirmed,1,822,Full,gDNA
 DOB*01:01:04,1,1,Unconfirmed,1,822,Full,gDNA
 DOB*01:01:05:01,2,2,Confirmed,1,822,Full,gDNA
 DOB*01:01:05:02,2,1,Confirmed,1,822,Full,gDNA
 DOB*01:01:06,1,1,Unconfirmed,1,822,Full,gDNA
+DOB*01:01:07,1,1,Unconfirmed,1,822,Full,gDNA
 DOB*01:02:01:01,4,3,Confirmed,1,822,Full,gDNA
 DOB*01:02:01:02,2,1,Confirmed,1,822,Full,gDNA
 DOB*01:02:01:03,3,2,Confirmed,1,822,Full,gDNA
@@ -40982,6 +41539,7 @@ DOB*01:02:02,4,3,Confirmed,1,822,Full,gDNA
 DOB*01:03:01:01,3,2,Confirmed,1,822,Full,gDNA
 DOB*01:03:01:02,3,2,Confirmed,1,822,Full,gDNA
 DOB*01:03:01:03,1,1,Unconfirmed,1,822,Full,gDNA
+DOB*01:03:02,1,1,Unconfirmed,1,822,Full,gDNA
 DOB*01:04:01:01,1,1,Unconfirmed,1,822,Full,gDNA
 DOB*01:04:01:02,4,3,Confirmed,1,822,Full,gDNA
 DOB*01:04:01:03,1,1,Unconfirmed,1,822,Full,gDNA
@@ -40989,7 +41547,8 @@ DOB*01:04:02:01,2,1,Confirmed,1,822,Full,gDNA
 DOB*01:04:02:02,6,1,Confirmed,1,822,Full,gDNA
 DOB*01:04:03:01,4,2,Confirmed,1,822,Full,gDNA
 DOB*01:04:03:02,5,1,Confirmed,1,822,Full,gDNA
-DOB*01:05,1,2,Confirmed,1,822,Full,gDNA
+DOB*01:05:01:01,1,2,Confirmed,1,822,Full,gDNA
+DOB*01:05:01:02,1,1,Unconfirmed,1,822,Full,gDNA
 DOB*01:06,1,1,Unconfirmed,1,822,Full,gDNA
 DOB*01:07,3,2,Confirmed,1,822,Full,gDNA
 DOB*01:08,2,1,Confirmed,1,822,Full,gDNA
@@ -41004,6 +41563,8 @@ DOB*01:15,1,1,Unconfirmed,1,822,Full,gDNA
 DOB*01:16,1,1,Unconfirmed,1,822,Full,gDNA
 DOB*01:17,1,1,Unconfirmed,1,822,Full,gDNA
 DOB*01:18N,1,1,Unconfirmed,1,821,Full,gDNA
+DOB*01:19,2,1,Confirmed,1,822,Full,gDNA
+DOB*01:20,1,1,Unconfirmed,1,822,Full,gDNA
 HFE*001:01:01,3,3,Confirmed,1,1047,Full,gDNA
 HFE*001:01:02,1,1,Unconfirmed,1,1047,Full,gDNA
 HFE*001:01:03,1,1,Unconfirmed,1,1047,Full,gDNA
@@ -41042,6 +41603,7 @@ MICA*002:01:26,1,1,Unconfirmed,1,1167,Full,gDNA
 MICA*002:01:27,1,1,Unconfirmed,1,1167,Full,gDNA
 MICA*002:01:28,1,1,Unconfirmed,1,1167,Full,gDNA
 MICA*002:01:29,1,1,Unconfirmed,1,1167,Full,gDNA
+MICA*002:01:30,1,1,Unconfirmed,1,1167,Full,gDNA
 MICA*002:02,1,1,Unconfirmed,71,892,Partial,cDNA
 MICA*002:03,3,2,Confirmed,1,1167,Full,gDNA
 MICA*002:04,1,1,Unconfirmed,71,1039,Partial,cDNA
