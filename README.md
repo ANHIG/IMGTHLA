@@ -26,15 +26,9 @@ File Formats
 
 Within the following folders, the various format types are explained briefly here:
 
-### XML Folder
+### TCE Folder
 
-Please refer to the relevant XSD file for information regarding the XML files, which can be found here: https://github.com/ANHIG/IMGTHLA/blob/Latest/xml/hla_ambigs.xsd
-
-Please note in release 3.43.0, there are three XML files for the release, hla.xml, hla_ciwd.xml and hla_ambigs.xml. The hla_ciwd.xml file is an updated version of the hla.xml file and includes the addition of new information from the Common, intermediate and well‐documented HLA alleles in world populations: CIWD version 3.0.0 (https://doi.org/10.1111/tan.13811). This is as new elements have been required to incorporate this data, and the CWD version 2.0.0 data has been recoded to the same structure. In release 3.44.0 and onwards, hla_ciwd.xml will replace hla.xml, and the older format archived.
-
-Please note in release 3.53.0, there was a change made to the hla.xml. The releaseversions tag attribute releasestatus has been changed to a binary flag containing either "Public" or "Deleted" to allow for easier filtering of deleted alleles. In addition a releasecomments attribute has been added containing information about changes to this allele with this verison of the database, this contains the information previously stored in the releasestatus attribute.
-
-Please note in release 3.55.0, there are three XML files for the release, hla.xml, hla_new.xml and hla_ambigs.xml. The hla_new.xml is an updated version of the hla.xml and includes a new release tag containing version and date information for the release. In release 3.56.0 and onwards, hla_new.xml will replace hla.xml, and the older format archived.
+The latest release also sees changes to the HLA-DPB1 TCE tools with the introduction of the TCE V3 tools which now include the core/non-core assignments. The V1 TCE calculator has now been retired and is no longer available. To support the wider use of the new assignments the DPB_TCE.csv file will also be updated. The newest version is in the GitHib Testing branch and will be moved to the main release branch in early May to allow users to review and test the new data. 
 
 ### Other Files
 
@@ -42,7 +36,6 @@ The top-level directory contains the following files;
 
 * LICENSE.md - a file detailing the licensing of data included in the IPD-IMGT/HLA Database.
 * README.md - This README file
-* hla.dat.zip - An EMBL-ENA style format file containing data from the IPD-IMGT/HLA Database, see (Manual.md) for further details. 
 
 ### Versioning
 
