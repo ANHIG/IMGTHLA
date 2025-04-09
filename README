@@ -1,9 +1,19 @@
-<<<<<<< HEAD:README
-=======
-IPD-IMGT/HLA
-============
+--------------------------------------------------------------------------------
+ Important Notice
+--------------------------------------------------------------------------------
 
->>>>>>> Latest:README.md
+Due to corruption of a number of files on this branch the following files have been removed:
+
+ * fasta
+ * pir
+ * msf
+ * Allele_status.txt
+ * Allelelist_history.txt
+ * hla.xml
+ * hla.dat
+
+The remaining files are restored to their state at time of the 3.2.0 release
+
 --------------------------------------------------------------------------------
  IPD-IMGT/HLA Database
 --------------------------------------------------------------------------------
@@ -48,17 +58,11 @@ This means that you are free to copy, distribute, display and make commercial
 use of the databases in all legislations, provided you give us credit by citing
 the following;
 
-<<<<<<< HEAD:README
 Robinson J, Waller MJ, Parham P, de Groot N, Bontrop R, Kennedy LJ, Stoehr P,
 Marsh SGE
 IMGT/HLA and IMGT/MHC: sequence databases for the study of the major
 histocompatibility complex
 Nucleic Acids Research (2003), 31:311-314
-=======
-Robinson J, Halliwell JA, Hayhurst JD, Flicek P, Parham P, Marsh SGE: 
-The IPD and IMGT/HLA database: allele variant databases.
-Nucleic Acids Research (2015) 43 Suppl 1:D423-31
->>>>>>> Latest:README.md
 
 Robinson J, Malik A, Parham P, Bodmer JG, Marsh SGE:
 IMGT/HLA - a sequence database for the human major histocompatibility complex
