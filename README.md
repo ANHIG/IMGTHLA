@@ -8,7 +8,7 @@ This directory contains data for the IPD-IMGT/HLA database. The IPD-IMGT/HLA dat
 
 #### From April 2024, Release 3.56.0
 
-As of Release 3.56.0, due April 2024, all large files (>100MB) will be provided as compressed files rather than utilise Git LFS, which was previously required. This currently includes the hla.dat, xml/hla.xml, xml/hla_ambigs.xml and hla_gen.fasta. This has been done to simplify the cloning process and also due to escalating and unpredictable costs in providing the files using Git LFS from a public repository. All compressed files will use the [ZIP format](https://en.wikipedia.org/wiki/ZIP_(file_format)). This formatting change will be applied to all branches.
+As of Release 3.56.0, due April 2024, all large files (>100MB) will be provided as compressed files rather than utilise Git LFS, which was previously required. This includes the hla.dat, xml/hla.xml and xml/hla_ambigs.xml in the next release. This has been done to simplify the cloning process and also due to escalating and unpredictable costs in providing the files using Git LFS from a public repository. All compressed files will use the [ZIP format](https://en.wikipedia.org/wiki/ZIP_(file_format)). This formatting change will be applied to all branches.
 
 #### Up to April 2024
 
@@ -34,7 +34,7 @@ A zip compressed archive of all the text-format alignment files is available fro
 
 ### FASTA folder
 
-All files in this folder are provided in the FASTA sequence format. Please note the FASTA format contains no alignment information. Due to large file sizes (>100MB) some fasta files will be provided as compressed files. This currently includes the hla_gen.fasta.
+All files in this folder are provided in the FASTA sequence format. Please note the FASTA format contains no alignment information.
 
 Files designated “X_prot.fasta”, where X is a locus or gene, contain protein sequences. Please note that alleles that contain non-coding variations may be identical at the protein level. 
 
@@ -69,11 +69,9 @@ Files designated “X_gen.pir”, where X is a locus or gene, contain genomic DN
 
 ### TCE Folder
 
-Please note in release 3.59.0, the T-Cell Epitope Group (TCE) Assignments for Version 1 of the algorithm are no longer supported. These have been removed from all associated files from 3.59.0 onwards. An empty column has been left to maintain the consistency of the file format. Additionally through discussion with the original developers of the TCE algorithms we have removed the suffixes and comments that used to be present.
-
 The files in this folder provide a listing of the T-Cell Epitope Group Assignments for DPB1 proteins. The assignments are taken from the algorithms used for the online tools at https://www.ebi.ac.uk/ipd/imgt/hla/matching/. The file formart is as follows;
 
-* DPB1 allele, DPB1 protein, Version 1 Assignment, Version 2 Assignment, Comments
+* DPB1 allele, DPB1 protein, Version 1 Assignment, Version 2 Assignment, Version 3 Assignment, Comments
 
 Alleles which have yet to be assigned a TCE group using either version are left blank.  
 
@@ -142,7 +140,7 @@ http://www.ebi.ac.uk/ipd/imgt/hla
 Additional information on sequence file formats is available from:
 http://www.ebi.ac.uk/ipd/imgt/hla/download/
 
-For any other information please contact hla@alleles.org.
+For any other information please contact ipdsubs@anthonynolan.org.
 
 --------------------------------------------------------------------------------
  COPYRIGHT NOTICE
@@ -171,7 +169,7 @@ hla.alleles.org and the IPD-IMGT/HLA Database, and would ask that rather than mi
 the information, appropriate links are provided where applicable.
 
 If you intend to distribute a modified version of our data, you must ask us for
-permission first, please contact hla [at] alleles [dot] org for further details
+permission first, please contact ipdsubs [at] anthonynolan [dot] org for further details
 of how modified data can be reproduced.
 
 --------------------------------------------------------------------------------
@@ -180,16 +178,15 @@ of how modified data can be reproduced.
 
 The development of the IPD-IMGT/HLA Database was funded by an EU BIOTECH grant. The
 work of maintaining and updating the database has been supported in the past by
-the Imperial Cancer Research Fund, the National Institute of Health, the
-National Marrow Donor Program (NMDP) and more recently by the Anthony Nolan
-Trust. The continual maintenace and any further development of the database
-relies on alternate sources of financial support, which are actively been sought
-for the continued maintenance of the database. The Sequence.org initiative at
+the Imperial Cancer Research Fund, the National Institute of Health, the NMDP and 
+more recently by Anthony Nolan. The continual maintenace and any further development 
+of the database relies on alternate sources of financial support, which are actively 
+been sought for the continued maintenance of the database. The Sequence.org initiative at
 the NMDP has solicited funds from institutions and companies who produce HLA
 typing reagents, typing systems, and instrumentation or that otherwise utilise
 these databases in critical components of their business. To learn more about
 how your business can support the IPD-IMGT/HLA Database, please contact:
-Benjamin Hester, (Email: bhester [at] nmdp [dot] org), at NMDP.
+Benjamin Hester, (Email: bhester [at] nmdp [dot] org), NMDP.
 
 If you intend to use any of the data found on our sites for commercial use, we
 would ask you to consider funding the database and the work we do. Without
