@@ -69,9 +69,11 @@ Files designated “X_gen.pir”, where X is a locus or gene, contain genomic DN
 
 ### TCE Folder
 
+Please note in release 3.60.0, the TCE tools introduced version 3 which now includes core/non-core assignments. An updated dpb_tce.csv file containing Version 3 Assignment is provided on the [testing](https://github.com/ANHIG/IMGTHLA/tree/testing) branch of this repository. This update will be moved to this branch in early June.
+
 The files in this folder provide a listing of the T-Cell Epitope Group Assignments for DPB1 proteins. The assignments are taken from the algorithms used for the online tools at https://www.ebi.ac.uk/ipd/imgt/hla/matching/. The file formart is as follows;
 
-* DPB1 allele, DPB1 protein, Version 1 Assignment, Version 2 Assignment, Version 3 Assignment, Comments
+* DPB1 allele, DPB1 protein, Version 1 Assignment, Version 2 Assignment, Comments
 
 Alleles which have yet to be assigned a TCE group using either version are left blank.  
 
