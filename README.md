@@ -28,7 +28,7 @@ Within the following folders, the various format types are explained briefly her
 
 ### TCE Folder
 
-The latest release also sees changes to the HLA-DPB1 TCE tools with the introduction of the TCE V3 tools which now include the core/non-core assignments. The V1 TCE calculator has now been retired and is no longer available. To support the wider use of the new assignments the DPB_TCE.csv file will also be updated. The newest version is in the GitHib Testing branch and will be moved to the main release branch in early May to allow users to review and test the new data. 
+The latest release also sees changes to the HLA-DPB1 TCE tools with the introduction of the TCE V3 tools which now include the core/non-core assignments. The V1 TCE calculator has now been retired and is no longer available. To support the wider use of the new assignments the DPB_TCE.csv file will also be updated. The newest version is in the GitHib Testing branch and will be moved to the main release branch in early June to allow users to review and test the new data. 
 
 ### Other Files
 
