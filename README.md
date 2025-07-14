@@ -15,6 +15,15 @@ As of Release 3.56.0, due April 2024, all large files (>100MB) will be provided 
 Previously the repository has required the use of the Git LFS tools (https://git-lfs.github.com) to handle files over 100MB in size. Whilst all hla.dat files are now provided as a zipped file, any pulls from previous commits for Release 3.55.0 and earlier will still require Git LFS. Please use this when cloning the repository to ensure the larger files are downloaded correctly. If Git LFS is not used then large files will contain pointers to the Git LFS location rather than the data required.
 
 --------------------------------------------------------------------------------
+ Testing Branch
+--------------------------------------------------------------------------------
+There is a testing branch associated with this repository. The files in this branch should not be used for clinical or diagnostic work and intended for testing purposes only. The files may contain errors or raise errors in any downstream processes. This branch is designed to allow users to download new formats and test ahead of inclusion in the main release. Please note that the Testing branch does not contain any unreleased information, no sequences or allele names are published in this branch ahead of time. The Testing branch may contain files with changes in format or syntax, and any changes between the Latest and [Testing branch](https://github.com/ANHIG/IMGTHLA/tree/testing) will be highlighted in the [TESTING_README.md](https://github.com/ANHIG/IMGTHLA/TESTING_README.md) file.
+
+Where possible, any changes to existing file formats will be shared via the Testing branch at least 4 weeks before inclusion in the Latest branch.
+
+The testing directory within this branch contains any file changes. Please refer to the testing branch disclaimer in the testing branch README.md file.
+
+--------------------------------------------------------------------------------
 File Formats 
 --------------------------------------------------------------------------------
 
