@@ -1,6 +1,6 @@
 # file: Deleted_alleles.txt
-# date: 2025-04-09
-# version: IPD-IMGT/HLA 3.60.0
+# date: 2025-07-14
+# version: IPD-IMGT/HLA 3.61.0
 # origin: https://github.com/ANHIG/IMGTHLA/Deleted_alleles.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/Deleted_alleles.txt
 # author: IPD Team (ipdsubs@anthonynolan.org)
@@ -8,7 +8,7 @@
 AlleleID,Allele,Description
 HLA00965,A*0105N,Sequence shown to be identical to A*01:04:01:01N (July 2001)
 HLA06674,A*01:34N,Sequence shown to be expressed at low levels and renamed A*01:01:38L (March 2011)
-HLA33848,A*02:01:08,Sequence extended and renamed A*02:1040 (January 2022)
+HLA33848,A*02:01:08,Sequence extended and renamed A*02:1040:01 (January 2022)
 HLA02999,A*020116,Sequence named in error and renamed A*02:134 (September 2007)
 HLA03240,A*020120,Sequence named in error and is identical to A*02:01:18 (March 2008)
 HLA08586,A*02:01:82,Sequence shown to contain errors and be identical to A*02:01:84 (September 2012)
@@ -47,6 +47,7 @@ HLA01639,B*1522,Sequence renamed B*35:43:01 (August 2002)
 HLA00204,B*1541,Sequence named in error and shown to be identical to B*15:39:01:01 (August 1998)
 HLA01640,B*1559,Sequence renamed B*35:44 (August 2002)
 HLA05156,B*15:100,Name never assigned
+HLA43554,B*15:732,Sequence named in error and renamed B*35:651 (June 2025)
 HLA01517,B*1816,Sequence named in error and shown to be identical to B*18:14 (November 2001)
 HLA00224,B*27051,Sequence shown to contain errors and be identical to B*27:05:02:01 (March 1995)
 HLA01321,B*2722,Sequence shown to be identical to B*27:06:01:01 (April 2002)
@@ -149,8 +150,9 @@ HLA00886,DRB3*010101,Sequence shown to be identical to DRB3*01:01:02:01 (August 
 HLA32623,DRB3*03:22:01,Sequence shown to belong to DRB3*02 allele group renamed DRB3*02:173:01 (September 2021)
 HLA32624,DRB3*03:22:02,Sequence shown to belong to DRB3*02 allele group renamed DRB3*02:173:02 (September 2021)
 HLA00906,DRB4*0101102N,Sequence shown to be identical to DRB4*01:03:01:02N (December 1996)
-HLA00925,DRB5*0201,Sequence shown to contain errors and be identical to DRB5*02:02:01 (March 1997)
+HLA00925,DRB5*0201,Sequence shown to contain errors and be identical to DRB5*02:02:01:01 (March 1997)
 HLA17304,DQA1*01:01:01:04,Sequence shown to be identical to corrected DQA1*01:01:01:01 (September 2017)
+HLA43552,DQA1*01:167,Sequence corrected and renamed DQA1*01:02:30
 HLA24174,DQA1*02:06,Sequence has now been shown to be in error and is identical to DQA1*02:01:01:01 (September 2020)
 HLA26397,DQA1*03:01:01:02,Name assigned in error and shown to be identical to DQA1*03:01:01:01 (March 2020)
 HLA00609,DQA1*03012,Sequence shown to contain errors and be identical to DQA1*03:02:01:01 (January 1995)
@@ -170,6 +172,7 @@ HLA16186,DQB1*04:02:01:03,Sequence shown to contain errors and be identical to D
 HLA36323,DQB2*01:02:03,Sequence extended to become a new protein and renamed DQB2*01:08 (September 2022)
 HLA00497,DPA1*0101,Sequence shown to contain errors and be identical to DPA1*01:03:01:01 (February 1995)
 HLA00498,DPA1*0102,Sequence shown to contain errors and be identical to DPA1*01:03:01:01 (February 1995)
+HLA43553,DPA1*01:235,Sequence named in error and renamed DPA1*02:160 (June 2025)
 HLA17774,DPA1*02:01:01:05,Sequence has now been shown to be in error and is identical to DPA1*02:01:01:09 (September 2021)
 HLA00508,DPA1*02:02:01,Sequence has now been shown to be in error and is identical to DPA1*02:07:01:01 (March 2017)
 HLA25318,DPA1*02:02:02:06Q,Sequence has now been shown to be in error and is identical to DPA1*02:02:02:01 (August 2020)
