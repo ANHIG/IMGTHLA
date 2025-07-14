@@ -6,6 +6,11 @@ This document describes the format and conventions used in the IPD-IMGT/HLA and 
 
 The IPD-IMGT/HLA and IPD-KIR Databases are composed of sequence entries. Each entry corresponds to a single contiguous sequence as contributed or reported in the literature. In some cases, entries have been assembled from several papers reporting overlapping sequence regions. Conversely a single paper often provides data for several entries.
 
+#### From April 2024, Release 3.56.0
+
+As of Release 3.56.0, due April 2024, the [hla.dat file](https://github.com/ANHIG/IMGTHLA/blob/Latest/Manual.md) has been updated for all releases to provide consistent formatting and update the sequence versioning to reflect updates in both the coding and non-coding sequences.
+
+
 ### Structure of an Entry
 
 The entries in the database are structured so as to be usable by human readers as well as by computer programs. The explanations, descriptions, classifications and other comments are in ordinary English, and the symbols and formatting employed for the base sequences themselves have been chosen for readability. Wherever possible, symbols familiar to molecular biologists have been used. At the same time, the structure is systematic enough to allow computer programs easily to read, identify, and manipulate the various types of data included.
@@ -41,14 +46,14 @@ Note that each line begins with a two-character line code, which indicates the t
 A sample entry is shown below:
 
 ```
-ID   HLA00001; SV 3; standard; DNA; HUM; 3503 BP.
+ID   HLA00001; SV 4; standard; DNA; HUM; 3503 BP.
 XX
 AC   HLA00001;
 XX
-SV   HLA00001.3
+SV   HLA00001.4
 XX
 DT   01-AUG-1989 (Rel. 1.00.0, Created, Version 1)
-DT   01-APR-2006 (Rel. 2.13.0, Last Updated, Version 3)
+DT   17-APR-2013 (Rel. 3.12.0, Last Updated, Version 4)
 XX
 DE   HLA-A*01:01:01:01, Human MHC Class I sequence
 XX
@@ -59,7 +64,7 @@ OC   Eukaryota; Metazoa; Chordata; Vertebrata; Mammalia; Eutheria; Primates;
 OC   Catarrhini; Hominidae; Homo.
 XX
 CC   --------------------------------------------------------------------------
-CC   IPD-IMGT/HLA Release Version 3.55.0
+CC   IPD-IMGT/HLA Release Version 3.56.0
 CC   --------------------------------------------------------------------------
 CC   Copyrighted by the IPD-IMGT/HLA Database, Distributed under the Creative
 CC   Commons Attribution-NoDerivs License, see;
@@ -73,8 +78,8 @@ XX
 RN   [1]
 RP   1-3503
 RX   PUBMED; 3375250.
-RA   Parham P, Lomen CE, Lawlor DA, Ways JP, Holmes N, Coppin HL, Salter RD, Wan
-RA   AM, Ennis PD;
+RA   Parham P, Lomen CE, Lawlor DA, Ways JP, Holmes N, Coppin HL, Salter RD,
+RA   Wan AM, Ennis PD;
 RT   "Nature of polymorphism in HLA-A, -B, and -C molecules.";
 RL   Proceedings of the National Academy of Sciences USA 85:4005-4009(1988).
 XX
@@ -109,8 +114,8 @@ RP   1-3503
 RX   PUBMED; 18193213.
 RA   Horton R, Gibson R, Coggill P, Miretti M, Allcok RJ, Almeida J, Forbes S,
 RA   Gilbert JGR, Halls K, Harrow JL, Hart E, Howe K, Jackson DK, Palmer S,
-RA   Roberts AN, Sims S, Stewart CA, Traherne JA, Trevanion S, Wilming L, Rogers
-RA   J, de Jong PJ, Elliott JF, Sawcer S, Todd JA, Trowsdale J, Beck S;
+RA   Roberts AN, Sims S, Stewart CA, Traherne JA, Trevanion S, Wilming L,
+RA   Rogers J, de Jong PJ, Elliott JF, Sawcer S, Todd JA, Trowsdale J, Beck S;
 RT   "Variation analysis and gene annotation of eight MHC haplotypes: The MHC
 RT   Haplotype Project.";
 RL   Immunogenetics 60:1-18(2008).
@@ -299,17 +304,25 @@ An accession number is dropped from the database only when the data to which it 
 
 ### The SV Line
 
+
 The SV (Sequence Version number) line lists the version of the nucleotide sequence associated with the entry. An example of an SV line is shown below:
 
-`SV   HLA00001.1;`
+`SV   HLA00001.4;`
+
+#### From April 2024, release 3.56.0
+
+As of release 3.56.0, due April 2024, the Sequence Version number in the hla.dat file for all releases of the database has been updated to reflect changes in both the coding and non-coding sequences. A lookup of all sequence versions for an allele has also been provided in the [Sequence Version History file](sversion_history.txt).
+
 
 ### The DT Line
 
 The DT lines list when the allele was first assigned an official name. This corresponds to a date in the previous HLA DB. The DT lines also record the latest updates to an allele. There are two kinds of update, sequence and annotation. The DT line records when each of these was last updated and is displayed as follows: :
 
-```DT   DD-MON-YYYY (Rel. #, Created, Version #)
-DT   DD-MON-YYYY (Rel. #, Sequence Updated, Version #)
 ```
+DT   DD-MON-YYYY (Rel. #, Created, Version #)
+DT   DD-MON-YYYY (Rel. #, Last Updated, Version #)
+```
+
 
 ### The DE Line
 
