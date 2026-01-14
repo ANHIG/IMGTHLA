@@ -168,12 +168,10 @@
   <xs:element name="feature">
     <xs:complexType>
       <xs:sequence>
+        <xs:element minOccurs="0" ref="x:translation"/>
         <xs:element minOccurs="0" ref="x:SequenceCoordinates"/>
         <xs:element minOccurs="0" ref="x:cDNACoordinates"/>
-        <xs:choice>
-          <xs:element ref="x:translation"/>
-          <xs:element minOccurs="0" maxOccurs="unbounded" ref="x:cDNAindel"/>
-        </xs:choice>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="x:cDNAindel"/>
       </xs:sequence>
       <xs:attribute name="featuretype" use="required" type="xs:NCName"/>
       <xs:attribute name="id" use="required" type="xs:decimal"/>
@@ -182,6 +180,7 @@
       <xs:attribute name="status" type="xs:NCName"/>
     </xs:complexType>
   </xs:element>
+  <xs:element name="translation" type="xs:string"/>
   <xs:element name="SequenceCoordinates">
     <xs:complexType>
       <xs:attribute name="end" use="required" type="xs:integer"/>
@@ -195,7 +194,6 @@
       <xs:attribute name="start" use="required" type="xs:integer"/>
     </xs:complexType>
   </xs:element>
-  <xs:element name="translation" type="xs:string"/>
   <xs:element name="cDNAindel">
     <xs:complexType>
       <xs:attribute name="end" use="required" type="xs:integer"/>
