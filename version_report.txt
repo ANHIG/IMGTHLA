@@ -1,6 +1,6 @@
 # file: version_report.txt
-# date: 2026-01-14
-# version: IPD-IMGT/HLA 3.63.0
+# date: 2026-02-11
+# version: IPD-IMGT/HLA 3.63.1
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/version_report.txt
 # origin: https://github.com/ANHIG/IMGTHLA/version_report.txt
 # author: IPD Team (ipdsubs@anthonynolan.org)
@@ -853,7 +853,6 @@ New,MICB*065,HLA44910,
 New,MICB*066,HLA44913,
 Confidential,B*37:122,,
 Confidential,C*12:03:01:80,,
-Modified,A*01:474,HLA42125,Genomic Sequence Extended
 Modified,A*02:01:01:97,HLA25402,Genomic Sequence Extended
 Modified,A*02:263,HLA05399,Sequence extended from position 1 to 73 and position 620 to 1098 and Genomic Sequence Added
 Modified,A*02:332,HLA07292,Sequence extended from position 1 to 73 and position 620 to 1098 and Genomic Sequence Added
@@ -960,3 +959,4 @@ Modified,MICA*214,HLA35875,Genomic Sequence Extended
 Suffix,C*03:04:01:91,HLA43635,Suffix added to allele, becoming C*03:04:01:91Q (November 2025)
 Suffix,C*03:04:01:92,HLA44159,Suffix added to allele, becoming C*03:04:01:92Q (November 2025)
 Suffix,C*12:03:01:77,HLA44108,Suffix added to allele, becoming C*12:03:01:77Q (November 2025)
+Corrected,A*01:474,HLA42125,Genomic Sequence incorrectly extended in release 3.63.0, reverted to correct Genomic Sequence in 3.63.1
