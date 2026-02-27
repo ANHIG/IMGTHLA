@@ -4,18 +4,6 @@
 
 This directory contains data for the IPD-IMGT/HLA database. The IPD-IMGT/HLA database is a specialist sequence database for sequences of the human histocompatibility complex. This directory contains the IPD-IMGT/HLA flat files and documentation. 
 
-### HLA Nomenclature Report 2026
-
-The latest HLA Nomenclature Report has now been published
-
-https://onlinelibrary.wiley.com/doi/10.1111/tan.70595
-
-The IPD-IMGT/HLA Database is actively working with the WHO HLA Nomenclature Committee for Factors of the HLA System and the developers of the HATS algorithm to update and provide this data to our users.
-
-The recent nomenclature introduces some new serological definitions and associated antigens. At the current time we expect the contents of the rel_ser_ser.txt file to be impacted and both the content and format of the rel_dna_ser.txt to be impacted. 
-
-We are hoping to share provisional copies of these, and other files that may be subject to updates, in this Testing branch shortly to allow users to assess potential impact. 
-
 ### Cloning the Repository
 
 #### From April 2024, Release 3.56.0
