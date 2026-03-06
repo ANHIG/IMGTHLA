@@ -28,7 +28,7 @@ will now be listed as
 A;2;;0201/0202/0203/0208/0210/0211/0216/0218/0219/0220/0244/0246/0256/0265/0285
 * Additional lines will be added where a broad specificity now has associated antigens e.g. the A;3;;0301/0305/0323, will be added between the lines starting A;2 and A;9 lines. This represents forty-nine new lines added to the file.
 
-Potential changes to the rel_dna_ser.txt file are liekly to include;
+Potential changes to the rel_dna_ser.txt file are likely to include;
 
 * The addition of an additional column to provide information assigned by the HATS algorithm (https://github.com/kosoegawa/HATS). This column will include either an associated antigen, split, broad or be left blank as determined by the algorithm.
 * Any existing three digit associated antigen designations will be extended to four digits by adding a leading zero e.g. 203 to 0203
