@@ -12,13 +12,7 @@ The latest HLA Nomenclature Report has now been published
 
 https://onlinelibrary.wiley.com/doi/10.1111/tan.70595
 
-The IPD-IMGT/HLA Database is actively working with the WHO HLA Nomenclature Committee for Factors of the HLA System and the developers of the HATS algorithm to update and provide this data to our users.
-
-The recent nomenclature introduces some new serological definitions and associated antigens. At the current time we expect the contents of the rel_ser_ser.txt file to be impacted and both the content and format of the rel_dna_ser.txt to be impacted.
-
-The impact on files is expected to be limited to the rel_ser_ser.txt and rel_dna_ser.txt files which are often imported for the validation of serological values and for confirming potential serological values for new alleles. 
-
-The impact of these changes is likely to cause issues with data validation and exchange, for example the A203 associated antigen is now A0203, and whilst this is only a single character change, this could cause issues with data parsing and validation. In addition, newly assigned values like the A0201 associated antigen would fail as not previously recognised. There may also be an impact on search algorithm when a serological value is included in any HLA typing profile. 
+The IPD-IMGT/HLA Database is actively working with the WHO HLA Nomenclature Committee for Factors of the HLA System and the developers of the HATS algorithm to update and provide this data to our users. The recent nomenclature introduces some new serological definitions and associated antigens. The impact on files is expected to be limited to the rel_ser_ser.txt and rel_dna_ser.txt files which are often imported for the validation of serological values and for confirming potential serological values for new alleles. The impact of these changes is likely to cause issues with data validation and exchange, for example the A203 associated antigen is now A0203, and whilst this is only a single character change, this could cause issues with data parsing and validation. In addition, newly assigned values like the A0201 associated antigen would fail as not previously recognised. There may also be an impact on search algorithm when a serological value is included in any HLA typing profile. Examples of potential files are included in this repository to aid in evaluating the impact. 
 
 Changes to the rel_ser_ser.txt file include;
 
@@ -27,22 +21,23 @@ Changes to the rel_ser_ser.txt file include;
 will now be listed as A;2;;0201/0202/0203/0208/0210/0211/0216/0218/0219/0220/0244/0246/0256/0265/0285
 * Additional lines will be added where a broad specificity now has associated antigens e.g. the A;3;;0301/0305/0323, will be added between the lines starting A;2 and A;9 lines. This represents forty-nine new lines added to the file.
 
+In addition the following files are now available in this repository;
+
+* rel_ser_ser.txt is the current version of the file
+* rel_ser_ser.prev uses the pre-2026 HLA Nomenclature
+* rel_ser_ser.new uses new 2026 HLA Nomenclature
+
 Changes to the rel_dna_ser.txt file include;
 
 * The addition of an additional column to provide information assigned by the HATS algorithm (https://github.com/kosoegawa/HATS). This column will include either an associated antigen, split, broad or be left blank as determined by the algorithm.
 * Any existing three digit associated antigen designations will be extended to four digits by adding a leading zero e.g. 203 to 0203
 * The values in the third to sixth fields representing Unambiguous, Possible, Assumed or Expert assigned antigens associated with the allele may be updated to reflect any new assignment. Any values used would be consistent with the latest nomenclature report.
 
-For the rel_ser_ser.txt and rel_dna_ser.txt formats we have added two new files. 
-
-* rel_ser_ser.txt is the current version of the file
-* rel_ser_ser.prev uses the pre-2026 HLA Nomenclature
-* rel_ser_ser.new uses new 2026 HLA Nomenclature
+In addition the following files are now available in this repository;
 
 * rel_dna_ser.txt is the current version of the file
 * rel_dna_ser.prev uses the pre-2026 HLA Nomenclature
 * rel_dna_ser.new uses new 2026 HLA Nomenclature
-
 
 --------------------------------------------------------------------------------
 
