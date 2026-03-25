@@ -12,9 +12,19 @@ The latest HLA Nomenclature Report has now been published
 
 https://onlinelibrary.wiley.com/doi/10.1111/tan.70595
 
-The IPD-IMGT/HLA Database is actively working with the WHO HLA Nomenclature Committee for Factors of the HLA System and the developers of the HATS algorithm to update and provide this data to our users. The recent nomenclature introduces some new serological definitions and associated antigens. The impact on files is expected to be limited to the rel_ser_ser.txt and rel_dna_ser.txt files which are often imported for the validation of serological values and for confirming potential serological values for new alleles. The impact of these changes is likely to cause issues with data validation and exchange, for example the A203 associated antigen is now A0203, and whilst this is only a single character change, this could cause issues with data parsing and validation. In addition, newly assigned values like the A0201 associated antigen would fail as not previously recognised. There may also be an impact on search algorithm when a serological value is included in any HLA typing profile. Examples of potential files are included in this repository to aid in evaluating the impact. 
+The IPD-IMGT/HLA Database is actively working with the WHO HLA Nomenclature Committee for Factors of the HLA System and the developers of the HATS algorithm to update and provide this data to our users. The recent nomenclature introduces some new serological definitions and associated antigens. The impact on files is expected to be limited to the hla_nom.txt, rel_ser_ser.txt and rel_dna_ser.txt files which are often imported for the validation of serological values and for confirming potential serological values for new alleles. The impact of these changes is likely to cause issues with data validation and exchange, for example the A203 associated antigen is now A0203, and whilst this is only a single character change, this could cause issues with data parsing and validation. In addition, newly assigned values like the A0201 associated antigen would fail as not previously recognised. There may also be an impact on search algorithm when a serological value is included in any HLA typing profile. Examples of potential files are included in this repository to aid in evaluating the impact. 
 
-Changes to the rel_ser_ser.txt file include;
+Changes to the hla_nom.txt file included in the hla_nom.new include;
+
+* Additional lines have been added for the new antigen specificities and new associated antigens.
+
+In addition the following files are now available in this repository;
+
+* hla_nom.txt is the current version of the file
+* hla_nom.prev uses the pre-2026 HLA Nomenclature
+* hla_nom.new uses new 2026 HLA Nomenclature
+
+Changes to the rel_ser_ser.txt file included in the rel_ser_ser.new include;
 
 * Existing three digit associated antigen designations will be extended to four digits by adding a leading zero e.g. 203 to 0203 on the line starting A;2
 * The lists of associated antigens for each broad or split specificity will be extended where new associated antigens have been assigned e.g. the line A;2;;203/210  
@@ -27,7 +37,7 @@ In addition the following files are now available in this repository;
 * rel_ser_ser.prev uses the pre-2026 HLA Nomenclature
 * rel_ser_ser.new uses new 2026 HLA Nomenclature
 
-Changes to the rel_dna_ser.txt file include;
+Changes to the rel_dna_ser.txt file included in the rel_dna_ser.new include;
 
 * The addition of an additional column to provide information assigned by the HATS algorithm (https://github.com/kosoegawa/HATS). This column will include either an associated antigen, split, broad or be left blank as determined by the algorithm.
 * Any existing three digit associated antigen designations will be extended to four digits by adding a leading zero e.g. 203 to 0203
