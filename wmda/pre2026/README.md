@@ -4,9 +4,8 @@ IPD-IMGT/HLA WMDA Read ME
 
 At the request of the IT Working Group of the World Marrow Donor Association (WMDA), we are making a number of computer readable files available. These files will document: the official WHO HLA Nomenclature, the relationships between serologically defined antigens and the relationships between HLA allele sequences and their serologically defined antigens. Updated versions of these files will be released every three months at the time new versions of the IPD-IMGT/HLA Database become available.
 
---------------------------------------------------------------------------------
-This directory contains copies of the hla_nom.txt, rel_ser_ser.txt and rel_dna_ser.txt using any definitions prior to the 2026 HLA Nomenclature Report. These files are provided purely for testing purposes and comparison against the new files. These are intended to aid in any work migrating system to use the new definitions and are not intended for long term or clinical usage. Previously our Testing branch would have used the .prev file extensions for these files, i.e rel_ser_ser.prev. 
---------------------------------------------------------------------------------
+
+**This directory contains copies of the hla_nom.txt, rel_ser_ser.txt and rel_dna_ser.txt using any definitions prior to the 2026 HLA Nomenclature Report. These files are provided purely for testing purposes and comparison against the new files. These are intended to aid in any work migrating system to use the new definitions and are not intended for long term or clinical usage. Previously our Testing branch would have used the .prev file extensions for these files, i.e rel_ser_ser.prev.**
 
 * pre2026/hla_nom.txt 
 * pre2026/rel_dna_ser.txt
