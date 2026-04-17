@@ -3,6 +3,42 @@ IPD-IMGT/HLA WMDA Read ME
 --------------------------------------------------------------------------------
 
 At the request of the IT Working Group of the World Marrow Donor Association (WMDA), we are making a number of computer readable files available. These files will document: the official WHO HLA Nomenclature, the relationships between serologically defined antigens and the relationships between HLA allele sequences and their serologically defined antigens. Updated versions of these files will be released every three months at the time new versions of the IPD-IMGT/HLA Database become available.
+
+--------------------------------------------------------------------------------
+HLA Nomenclature Report 2026
+--------------------------------------------------------------------------------
+
+The latest HLA Nomenclature Report has now been published
+
+https://onlinelibrary.wiley.com/doi/10.1111/tan.70595
+
+The IPD-IMGT/HLA Database has and continues to actively work with the WHO HLA Nomenclature Committee for Factors of the HLA System and the developers of the HATS algorithm to update and provide this data to our users. The recent nomenclature introduces some new serological definitions and associated antigens. The impact on files is expected to be limited to the hla_nom.txt, rel_ser_ser.txt and rel_dna_ser.txt files which are often imported for the validation of serological values and for confirming potential serological values for new alleles. 
+
+Changes to the hla_nom.txt file include;
+
+* Additional lines have been added for the new antigen specificities and new associated antigens.
+
+Changes to the rel_ser_ser.txt file include;
+
+* Existing three digit associated antigen designations will be extended to four digits by adding a leading zero e.g. 203 to 0203 on the line starting A;2
+* The lists of associated antigens for each broad or split specificity will be extended where new associated antigens have been assigned e.g. the line A;2;;203/210  
+will now be listed as A;2;;0201/0202/0203/0208/0210/0211/0216/0218/0219/0220/0244/0246/0256/0265/0285
+* Additional lines will be added where a broad specificity now has associated antigens e.g. the A;3;;0301/0305/0323, will be added between the lines starting A;2 and A;9 lines. This represents forty-nine new lines added to the file.
+
+Changes to the rel_dna_ser.txt file include;
+
+* The addition of an additional column to provide information assigned by the HATS algorithm (https://github.com/kosoegawa/HATS). This column will include either an associated antigen, split, broad or be left blank as determined by the algorithm.
+* Any existing three digit associated antigen designations will be extended to four digits by adding a leading zero e.g. 203 to 0203
+* The values in the third to sixth fields representing Unambiguous, Possible, Assumed or Expert assigned antigens associated with the allele may be updated to reflect any new assignment. Any values used would be consistent with the latest nomenclature report.
+
+In addition the following files are now available in the pre2026 sub-folder of this repository. This directory contains copies of the hla_nom.txt, rel_ser_ser.txt and rel_dna_ser.txt using any definitions prior to the 2026 HLA Nomenclature Report. These files are provided purely for testing purposes and comparison against the new files. These are intended to aid in any work migrating system to use the new definitions and are not intended for long term or clinical usage. Previously our Testing branch would have used the .prev file extensions for these files, i.e rel_ser_ser.prev. 
+
+* pre2026/hla_nom.txt 
+* pre2026/rel_dna_ser.txt
+* pre2026/rel_ser_ser.txt 
+
+--------------------------------------------------------------------------------
+
 If you are regular user of these files and would like to be kept updated of any changes to the files, please email hla [at] alleles [dot] org and ask to be added to our WMDA mailing list.
 Files for each individual release are located within appropriately named branch, for example files for Release 3.17.0 are located in the 3170 branch.
 
@@ -14,6 +50,10 @@ All five files have a short header with six lines of information, indicating:
 * Origin of file (URL)
 * Repository (URL)
 * Author
+
+Those files undergoing development will have the following line(s) added:
+
+* Disclaimer
 
 --------------------------------------------------------------------------------
 hla_nom.txt
@@ -90,6 +130,7 @@ This file contains details of all current HLA antigens and alleles, and is sorte
 * Possible Serological Antigen associated with allele, where multiple serologies are reported
 * Assumed Serological Antigen associated with allele
 * Expert assigned exceptions in search determinants of some registries
+* Assigned specificity as calculated by HATS (https://github.com/kosoegawa/HATS) for those alleles with a Full or Serotype sequence classification.
 
 This file includes five fields of information, each separated by a semi-colon (;).
 
@@ -98,6 +139,12 @@ md5checksum.txt
 --------------------------------------------------------------------------------
 
 This file contains an md5 fingerprint for each file allowing verification of the downloads.
+
+--------------------------------------------------------------------------------
+prev2026 
+--------------------------------------------------------------------------------
+
+This directory contains copies of the hla_nom.txt, rel_ser_ser.txt and rel_dna_ser.txt using any definitions prior to the 2026 HLA Nomenclature Report. These files are provided purely for testing purposes and comparison against the new files. These are intended to aid in any work migrating system to use the new definitions and are not intended for long term or clinical usage. Previously our Testing branch would have used the .prev file extensions for these files, i.e rel_ser_ser.prev. 
 
 --------------------------------------------------------------------------------
 Release Archive
