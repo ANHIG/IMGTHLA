@@ -163,9 +163,9 @@ This means that you are free to copy, distribute, display and make commercial
 use of the databases in all legislations, provided you give us credit by citing
 the following;
 
-Barker D, Maccari G, Georgiou X, Cooper M, Flicek P, Robinson J, Marsh SGE
-The IPD-IMGT/HLA Database
-Nucleic Acids Research(2023), 51(D1): D948-D955
+Barker DJ, Natarajan RHL, Cooper MA, Hopper SJF, Yates AD, Parham P, Marsh SGE, Robinson J
+The IPD-IMGT/HLA Database: recent developments in sequence submission
+Nucleic Acids Research (2026), 54(D1): D1152-D1158
 
 Robinson J, Barker D, Marsh SGE
 25 years of the IPD-IMGT/HLA Database.

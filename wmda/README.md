@@ -82,7 +82,7 @@ The algorithm used to generate the G groups does include alleles that contain un
 
 From IPD-IMGT/HLA Release 3.30, the generation of G groups and ambiguous combinations of DRB alleles was extended to include the complete sequences of exon 2. Previous versions contained only the sequence from nucleotides 101 to 356 due to a polymorphism at position 357 that could not be accurately predicted. Phylogenetic analysis of the increased number of DRB exon 2 sequences has been used to allow us to predict this position in alleles that are unsequenced for position 357. The extension of the sequence analysed has meant that a number of G groups previously assigned are no longer present in the output due to polymorphisms found between nucleotides 357 to 370. The following groups are no longer listed in the DRB tables as they now contain only a single allele. The identification of new alleles may cause these groups to be included in the tables again at a later date. 
 
-DRB1\*03:05:01G, DRB1\*04:17:01G,  DRB1\*08:04:02G, DRB1\*11:01:03G, DRB1\*11:08:01G, DRB1\*11:10:01G, DRB1\*11:65:01G, DRB1\*13:12:01G, DRB1\*13:14:01G, DRB1\*13:23:01G, DRB1\*13:33:02G, DRB1\*13:66:01G, DRB1\*14:07:01G, DRB1\*14:12:01G
+DRB1\*03:05:01G, DRB1\*04:17:01G,  DRB1\*08:04:02G, DRB1\*11:01:03G, DRB1\*11:08:01G, DRB1\*11:10:01G, DRB1\*11:65:01G, DRB1\*13:14:01G, DRB1\*13:23:01G, DRB1\*13:33:02G, DRB1\*13:66:01G, DRB1\*14:12:01G
 
 From IPD-IMGT/HLA Release 3.28.0 the G group DPA1\*02:02:01G was removed as the allele DPA1\*02:02:01G was shown to be deleted. The G group DPA1\*02:07:01G was added which contained DPA1\*02:07:01:01 and DPA1\*02:07:01:02, note the DPA1\*02:07 allele was previously included in the DPA1\*02:02:01G listing. 
 
@@ -118,8 +118,9 @@ This file contains details of all current HLA alleles and where known their unam
 Details of the unambiguous serology is defined from submissions to the WHO Nomenclature Committee for Factors of the HLA System (1) at the time an allele is submitted for naming, or from the WMDA HLA Dictionary 2008 (2). For Null alleles a value of zero "0" is given and for alleles with no corresponding antigen a question mark "?" is given.
  
 In cases where an allele has been shown to be associated with more than one serologically defined antigen, these are indicated in the 'Possible Serology' field. Multiple values are separated by a forward slash (/). In cases where there is currently no information about the serological equivalent of an allele, the 'Assumed Serology' field contains the antigen equivalent as expected by the first two digits of the allele name. It is entirely possible that the 'Assumed Serology' may contain information that is later shown to be incorrect when the serologically defined antigen is characterised. As indicated above this file is produced solely as a tool for the validation of existing HLA serological and DNA based allelic typing data and is not produced to infer the serological typing of alleles which have not been experimentally characterised.
- 
-1. SGE Marsh, ED Albert, WF Bodmer, et al. Nomenclature for Factors of the HLA System, 2010. Tissue Antigens (2010) 75 291-455
+
+
+1. Marsh SGE, Osoegawa K, Bodmer WF, Bontrop RE, Carrington MN, et al. Nomenclature for Factors of the HLA System, 2026. HLA (2026) 107:e70595
 2. Holdsworth R, Hurley CK, Marsh SGE et al. The HLA Dictionary 2008: a summary of HLA-A, -B, -C, -DRB1/3/4/5, -DQB1 alleles and their association with serologically defined HLA-A, -B, -C, -DR and -DQ antigens. Tissue Antigens (2009) 73 95-170
 
 This file contains details of all current HLA antigens and alleles, and is sorted by locus and allele number:
