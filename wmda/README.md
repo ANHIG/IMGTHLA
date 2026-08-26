@@ -2,7 +2,9 @@
 IPD-IMGT/HLA WMDA Read ME
 --------------------------------------------------------------------------------
 
-At the request of the IT Working Group of the World Marrow Donor Association (WMDA), we are making a number of computer readable files available. These files will document: the official WHO HLA Nomenclature, the relationships between serologically defined antigens and the relationships between HLA allele sequences and their serologically defined antigens. Updated versions of these files will be released every three months at the time new versions of the IPD-IMGT/HLA Database become available.
+At the request of the IT Working Group (now Bioinformatics and Innovation Committee) of the World Marrow Donor Association (WMDA), we are making a number of computer readable files available. These files will document: the official WHO HLA Nomenclature, the relationships between serologically defined antigens and the relationships between HLA allele sequences and their serologically defined antigens. Updated versions of these files will be released every three months at the time new versions of the IPD-IMGT/HLA Database become available.
+
+These files are based on formats originally defined by the WMDA IT Working Group and built in collaboration with the WHO Nomenclature Committee for Factors of the HLA System.
 
 --------------------------------------------------------------------------------
 HLA Nomenclature Report 2026
@@ -92,7 +94,7 @@ Following the modification or deletion of an allele sequence an allele may be re
 hla_nom_p.txt
 --------------------------------------------------------------------------------
 
-This file contains details of all HLA Sequences having the same antigen binding domains. This analysis is performed on the polypeptide sequence, and for HLA Class I alleles, identity in the 'antigen binding domains' is based on identical protein sequences as encoded by exons 2 and 3. For HLA Class II alleles this is based on identical protein sequences as encoded by exon 2. HLA alleles having nucleotide sequences that encode the same protein sequence for the peptide binding domains (exon 2 and 3 for HLA class I and exon 2 only for HLA class II alleles) will be designated by an upper case ‘P’ which follows the 2 field allele designation of the lowest numbered allele in the group. The full list of these groups is available at the P Groups page. A computer readable version is also available, this file replaces the file previously called abdm.txt and includes three fields of information, each separated by a semi-colon (;). Several DRB alleles are not sequenced for the dimorphic nucleotide at position 357. It would therefore be inaccurate to assign a base to these sequences at this position. For this reason the sequences have been truncated to include only the translated sequence of nucleotides 101 to 356, in the DRB analysis.
+This file contains details of all HLA Sequences having the same antigen binding domains. This analysis is performed on the polypeptide sequence, and for HLA Class I alleles, identity in the 'antigen binding domains' is based on identical protein sequences as encoded by exons 2 and 3. For HLA Class II alleles this is based on identical protein sequences as encoded by exon 2. HLA alleles having nucleotide sequences that encode the same protein sequence for the peptide binding domains (exon 2 and 3 for HLA class I and exon 2 only for HLA class II alleles) will be designated by an upper case ‘P’ which follows the 2 field allele designation of the lowest numbered allele in the group. The full list of these groups is available at the P Groups page. A computer readable version is also available, this file replaces the file previously called abdm.txt and includes three fields of information, each separated by a semi-colon (;).
 
 Following the modification or deletion of an allele sequence an allele may be removed from a P group, please see the section above for further details. 
 
@@ -115,13 +117,16 @@ rel_dna_ser.txt
 
 This file contains details of all current HLA alleles and where known their unambiguous, possible or assumed serologically equivalent antigens. This file is provided as a tool for the validation of HLA typing data at the request of the WMDA, explicitly for the cross checking of data where both a serological HLA antigen and a DNA based HLA allelic typing is also present.
  
-Details of the unambiguous serology is defined from submissions to the WHO Nomenclature Committee for Factors of the HLA System (1) at the time an allele is submitted for naming, or from the WMDA HLA Dictionary 2008 (2). For Null alleles a value of zero "0" is given and for alleles with no corresponding antigen a question mark "?" is given.
+Details of the unambiguous serology is defined from submissions to the WHO Nomenclature Committee for Factors of the HLA System (1) at the time an allele is submitted for naming, or from the WMDA HLA Dictionary 2008 (2), or for some alleles from the HATS algorithm assignments (1,3). For Null alleles a value of zero "0" is given and for alleles with no corresponding antigen a question mark "?" is given.
  
-In cases where an allele has been shown to be associated with more than one serologically defined antigen, these are indicated in the 'Possible Serology' field. Multiple values are separated by a forward slash (/). In cases where there is currently no information about the serological equivalent of an allele, the 'Assumed Serology' field contains the antigen equivalent as expected by the first two digits of the allele name. It is entirely possible that the 'Assumed Serology' may contain information that is later shown to be incorrect when the serologically defined antigen is characterised. As indicated above this file is produced solely as a tool for the validation of existing HLA serological and DNA based allelic typing data and is not produced to infer the serological typing of alleles which have not been experimentally characterised.
+In cases where an allele has been shown to be associated with more than one serologically defined antigen, these are indicated in the 'Possible Serology' field. Multiple values are separated by a forward slash (/). In cases where there is currently no information about the serological equivalent of an allele, the 'Assumed Serology' field contains the antigen equivalent as expected by the first two digits of the allele name. It is entirely possible that the 'Assumed Serology' may contain information that is later shown to be incorrect when the serologically defined antigen is characterised.
+
+As indicated above this file is produced solely as a tool for the validation of existing HLA serological and DNA based allelic typing data and is not produced to infer the serological typing of alleles which have not been experimentally characterised.
 
 
 1. Marsh SGE, Osoegawa K, Bodmer WF, Bontrop RE, Carrington MN, et al. Nomenclature for Factors of the HLA System, 2026. HLA (2026) 107:e70595
 2. Holdsworth R, Hurley CK, Marsh SGE et al. The HLA Dictionary 2008: a summary of HLA-A, -B, -C, -DRB1/3/4/5, -DQB1 alleles and their association with serologically defined HLA-A, -B, -C, -DR and -DQ antigens. Tissue Antigens (2009) 73 95-170
+3. https://github.com/kosoegawa/HATS
 
 This file contains details of all current HLA antigens and alleles, and is sorted by locus and allele number:
 
@@ -133,7 +138,7 @@ This file contains details of all current HLA antigens and alleles, and is sorte
 * Expert assigned exceptions in search determinants of some registries
 * Assigned specificity as calculated by HATS (https://github.com/kosoegawa/HATS) for those alleles with a Full or Serotype sequence classification.
 
-This file includes five fields of information, each separated by a semi-colon (;).
+This file includes seven fields of information, each separated by a semi-colon (;).
 
 --------------------------------------------------------------------------------
 md5checksum.txt 
