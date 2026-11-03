@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://hla.alleles.org/hla-alignment-xml" xmlns:h="http://hla.alleles.org/hla-alignment-xml" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://www.w3.org/2001/XMLSchema" schemaLocation="xs.xsd"/>
+  <xs:element name="release">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="h:references"/>
+        <xs:element ref="h:alignments"/>
+      </xs:sequence>
+      <xs:attribute name="date" use="required" type="xs:NMTOKEN"/>
+      <xs:attribute name="version" use="required" type="xs:NMTOKEN"/>
+      <xs:attribute ref="xs:noNamespaceSchemaLocation" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="references">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="h:gene_references"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gene_references">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="h:reference_entry"/>
+      </xs:sequence>
+      <xs:attribute name="gene" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="reference_entry">
+    <xs:complexType mixed="true">
+      <xs:attribute name="id" use="required" type="xs:NCName"/>
+      <xs:attribute name="level" use="required" type="xs:NCName"/>
+      <xs:attribute name="name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="alignments">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="h:gene_alignment"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gene_alignment">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="h:alignment_entry"/>
+      </xs:sequence>
+      <xs:attribute name="gene" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="alignment_entry">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="h:cigar_entry"/>
+      </xs:sequence>
+      <xs:attribute name="id" use="required" type="xs:NCName"/>
+      <xs:attribute name="name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cigar_entry">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:NMTOKEN">
+          <xs:attribute name="level" use="required" type="xs:NCName"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
