@@ -87,7 +87,7 @@ B (feature boundary): Marks a boundary between features, such as between an exon
 
 Please find below in figure 1 an example workflow on using the unaligned query sequence and unpacking the CIGAR into a sequence aligned against the reference. This is not a real sequence nor CIGAR and is only for example purposes.
 
-![Diagram of Unpacking a CIGAR](Unpacking_CIGAR.drawio.svg)
+![Diagram of Unpacking a CIGAR](Unpacking_CIGAR.svg)
 *Figure 1. An example workflow of using a Query Sequence and Query CIGAR to build a sequence aligned against its reference.*
 
 
