@@ -59,7 +59,7 @@ As the IPD-IMGT/HLA text alignments that are published in the GitHub are not int
 
 ### *Proposal:*
 Rather than having bioinformaticians or software engineers parse several files to build the alignments we are intending on providing a single XML file containing alignment information for all alleles in the database encoded as a custom CIGAR format.
-This custom implementation of the CIGARS format is informed by the SAMTools documentation[^4], [^5], however there are some differences we have chosen to implement. We think that these custom operation character differences will provide significant benefits to our users and are more applicable to encoding our alignment format.
+This custom implementation of the CIGARS format is informed by the SAMTools documentation[^4][^5], however there are some differences we have chosen to implement. We think that these custom operation character differences will provide significant benefits to our users and are more applicable to encoding our alignment format.
 Alongside the CIGAR encodings for each allele, the new alignment XML file will include a set of full and aligned reference sequences for each gene at each level (PROT, CDS and GEN). These aligned reference sequences will include padding in line with the SAMTools ‘Padded Alignments’.
 
 ### *CIGAR format proposal:*
@@ -87,18 +87,21 @@ B (feature boundary): Marks a boundary between features, such as between an exon
 
 Please find below in figure 1 an example workflow on using the unaligned query sequence and unpacking the CIGAR into a sequence aligned against the reference. This is not a real sequence nor CIGAR and is only for example purposes.
 
+
+
 ![Diagram of Unpacking a CIGAR](Unpacking_CIGAR.svg)
+
 *Figure 1. An example workflow of using a Query Sequence and Query CIGAR to build a sequence aligned against its reference.*
 
 
 References:
 
-[^1]	Hurley CK, Kempenich J, Wadsworth K, et al. Common, intermediate and well-documented HLA alleles in world populations: CIWD version 3.0.0. HLA. Jun 2020;95(6):516–531. doi:10.1111/tan.13811
+[^1]:	Hurley CK, Kempenich J, Wadsworth K, et al. Common, intermediate and well-documented HLA alleles in world populations: CIWD version 3.0.0. HLA. Jun 2020;95(6):516–531. doi:10.1111/tan.13811
 
-[^2]	Marsh SGE, Osoegawa K, Bodmer WF, et al. Nomenclature for Factors of the HLA System, 2026. HLA. Mar 2026;107(3):e70595. doi:10.1111/tan.70595
+[^2]:	Marsh SGE, Osoegawa K, Bodmer WF, et al. Nomenclature for Factors of the HLA System, 2026. HLA. Mar 2026;107(3):e70595. doi:10.1111/tan.70595
 
-[^3]	Osoegawa K, Yim K, Jeracki M, et al. A new strategy for systematically classifying HLA alleles into serological specificities: Update and refinement. HLA. Oct 2024;104(4):e15702. doi:10.1111/tan.15702
+[^3]:	Osoegawa K, Yim K, Jeracki M, et al. A new strategy for systematically classifying HLA alleles into serological specificities: Update and refinement. HLA. Oct 2024;104(4):e15702. doi:10.1111/tan.15702
 
-[^4]	Danecek P, Bonfield JK, Liddle J, et al. Twelve years of SAMtools and BCFtools. Gigascience. Feb 16 2021;10(2)doi:10.1093/gigascience/giab008
+[^4]:	Danecek P, Bonfield JK, Liddle J, et al. Twelve years of SAMtools and BCFtools. Gigascience. Feb 16 2021;10(2)doi:10.1093/gigascience/giab008
 
-[^5]	SAM/BAM Format Specification Working Group. Sequence Alignment/Map format specification V1.6. GitHub. Updated August 12, 2025. https://samtools.github.io/hts-specs/SAMv1.pdf
+[^5]:	SAM/BAM Format Specification Working Group. Sequence Alignment/Map format specification V1.6. GitHub. Updated August 12, 2025. https://samtools.github.io/hts-specs/SAMv1.pdf
